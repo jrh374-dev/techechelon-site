@@ -1,0 +1,138 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Inter+Tight:wght@500;600;700;800;900&family=Source+Serif+4:opsz,wght@8..60,400;500;600;700&family=JetBrains+Mono:wght@400;500;600;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+  body {
+    background: #F5F0E2;
+    color: #0A0A0A;
+    font-family: "Inter", system-ui, sans-serif;
+    line-height: 1.5;
+  }
+  ::selection {
+    background: #15264D;
+    color: #FFFFFF;
+  }
+}
+
+@layer components {
+  .mono-stamp {
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    font-size: 10.5px;
+    letter-spacing: 0.06em;
+    font-weight: 500;
+    color: #6B6353;
+    text-transform: uppercase;
+  }
+  .mono-num {
+    font-family: "JetBrains Mono", ui-monospace, monospace;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+  .eyebrow-sage {
+    font-family: "Inter", sans-serif;
+    font-size: 10.5px;
+    letter-spacing: 0.18em;
+    font-weight: 700;
+    color: #4A6B4E;
+    text-transform: uppercase;
+  }
+  .eyebrow-coral {
+    font-family: "Inter", sans-serif;
+    font-size: 10.5px;
+    letter-spacing: 0.18em;
+    font-weight: 700;
+    color: #E85A2C;
+    text-transform: uppercase;
+  }
+
+  .article-prose {
+    color: #1A1A1A;
+  }
+  .article-prose p {
+    font-family: "Source Serif 4", Georgia, serif;
+    font-size: 18px;
+    line-height: 1.72;
+    margin-bottom: 22px;
+    letter-spacing: -0.002em;
+  }
+  .article-prose p:last-child {
+    margin-bottom: 0;
+  }
+  .article-prose p b,
+  .article-prose p strong {
+    font-weight: 600;
+    color: #0A0A0A;
+  }
+  .article-prose p em {
+    font-style: italic;
+  }
+  .article-prose > p:first-of-type::first-letter {
+    font-family: "Inter Tight", sans-serif;
+    font-weight: 900;
+    font-size: 92px;
+    float: left;
+    line-height: 0.84;
+    margin-right: 12px;
+    margin-top: 8px;
+    margin-bottom: -6px;
+    color: #15264D;
+    letter-spacing: -0.05em;
+  }
+  .article-prose h2 {
+    font-family: "Inter Tight", sans-serif;
+    font-weight: 800;
+    font-size: 24px;
+    letter-spacing: -0.025em;
+    color: #0A0A0A;
+    margin-top: 38px;
+    margin-bottom: 14px;
+    line-height: 1.18;
+  }
+  .article-prose h3 {
+    font-family: "Inter Tight", sans-serif;
+    font-weight: 700;
+    font-size: 19px;
+    letter-spacing: -0.02em;
+    color: #0A0A0A;
+    margin-top: 28px;
+    margin-bottom: 10px;
+    line-height: 1.22;
+  }
+  .article-prose blockquote {
+    margin: 30px 0;
+    padding: 18px 0 18px 22px;
+    border-left: 3px solid #E85A2C;
+  }
+  .article-prose blockquote p {
+    font-family: "Inter Tight", sans-serif;
+    font-style: normal;
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: -0.022em;
+    line-height: 1.28;
+    color: #15264D;
+    margin: 0;
+  }
+  .article-prose a {
+    color: #15264D;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+  }
+  .article-prose code {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 14.5px;
+    background: rgba(74, 107, 78, 0.1);
+    padding: 1px 6px;
+    border-radius: 2px;
+    color: #15264D;
+  }
+}

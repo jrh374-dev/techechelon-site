@@ -1,0 +1,99 @@
+import fs from "node:fs";
+import path from "node:path";
+import matter from "gray-matter";
+
+export type Category = "business" | "politics" | "ai" | "security" | "opinion";
+
+export interface PostFrontmatter {
+  title: string;
+  slug: string;
+  excerpt: string;
+  category: Category;
+  subcategory?: string;
+  author: string;
+  authorInitials?: string;
+  publishedAt: string;
+  coverImage?: string;
+  coverCredit?: string;
+  coverCaption?: string;
+  tags?: string[];
+  primaryEntity?: string;
+  readTime?: number;
+  pullQuote?: { text: string; source: string };
+}
+
+export interface Post extends PostFrontmatter {
+  content: string;
+}
+
+const POSTS_DIR = path.join(process.cwd(), "content", "posts");
+
+function listPostFiles(): string[] {
+  if (!fs.existsSync(POSTS_DIR)) return [];
+  return fs.readdirSync(POSTS_DIR).filter((f) => f.endsWith(".md"));
+}
+
+function normalizeDate(v: unknown): string {
+  if (v instanceof Date) return v.toISOString();
+  return String(v ?? "");
+}
+
+export function getAllPosts(): Post[] {
+  return listPostFiles()
+    .map((file) => {
+      const raw = fs.readFileSync(path.join(POSTS_DIR, file), "utf8");
+      const { data, content } = matter(raw);
+      const fm = data as PostFrontmatter;
+      return { ...fm, publishedAt: normalizeDate(fm.publishedAt), content };
+    })
+    .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
+}
+
+export function getPostBySlug(slug: string): Post | null {
+  const all = getAllPosts();
+  return all.find((p) => p.slug === slug) ?? null;
+}
+
+export function getPostsByCategory(category: Category): Post[] {
+  return getAllPosts().filter((p) => p.category === category);
+}
+
+export function formatPostDate(iso: string): string {
+  const d = new Date(iso);
+  const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  return `${months[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()}`;
+}
+
+export function formatPostTime(iso: string): string {
+  const d = new Date(iso);
+  let h = d.getHours();
+  const ampm = h >= 12 ? "PM" : "AM";
+  h = h % 12 || 12;
+  const m = d.getMinutes().toString().padStart(2, "0");
+  return `${h}:${m} ${ampm} ET`;
+}
+
+export function relativeTime(iso: string): string {
+  const diff = Date.now() - new Date(iso).getTime();
+  const hours = Math.round(diff / 3600000);
+  if (hours < 1) return `${Math.max(1, Math.round(diff / 60000))} min ago`;
+  if (hours < 24) return `${hours} hr ago`;
+  const days = Math.round(hours / 24);
+  if (days === 1) return "Yesterday";
+  return `${days} days ago`;
+}
+
+export function categoryLabel(c: Category): string {
+  switch (c) {
+    case "ai":
+      return "Artificial Intelligence";
+    case "business":
+      return "Business & Finance";
+    case "politics":
+      return "Politics";
+    case "security":
+      return "Cybersecurity";
+    case "opinion":
+      return "Opinion";
+  }
+}
