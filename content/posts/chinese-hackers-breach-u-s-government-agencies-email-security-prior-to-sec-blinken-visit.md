@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Chinese hackers with alleged state support successfully breached Microsoft's cloud-based security systems last month, hacking into the email accounts of officials from several U.S. agencies dealing with China. This breach came prior to Secretary of State Antony Blinken's visit to Beijing, authorities confirmed on Wednesday.
-
 The hack was a focused and strategic espionage effort that allowed access to a handful of email accounts across an unspecified number of U.S. agencies. The discovery was made in mid-June by the U.S. State Department, officials reported, adding that no classified systems were compromised and the stolen data was not classified.
 
 Commerce Secretary Gina Raimondo was among the hacked officials, according to The Washington Post. Her agency's export controls have impacted multiple Chinese companies.

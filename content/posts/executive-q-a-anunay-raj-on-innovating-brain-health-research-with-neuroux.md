@@ -11,8 +11,6 @@ readTime: 17
 migratedFromWix: true
 ---
 
-Anunay Raj is a forward-thinking leader in the digital health space, utilizing his engineering expertise to push the boundaries of brain health research and technology.
-
 As the co-founder of NeuroUX, Anunay has been instrumental in developing a cutting-edge platform that empowers researchers to conduct meaningful studies across diverse clinical conditions. His path to NeuroUX is rooted in a passion for bridging the gap between controlled research environments and real-world applications, with the goal of advancing brain health and mental wellness.
 
 Anunay’s journey began with a deep commitment to product design and development, which led him to collaborate with leading researchers to address the unique challenges of remote cognitive studies. Under his leadership, NeuroUX has evolved into a customizable, data-driven platform designed to enhance the accuracy and engagement of brain health research, particularly through mobile technologies and AI-driven tools.
@@ -23,7 +21,7 @@ In this exclusive Q&A, Anunay Raj discusses the inspiration behind NeuroUX, the 
 
 I have a background in engineering with a strong focus on design and product development. I'm passionate about creating digital health products that have a real-world impact, bridging the gap between controlled research settings and practical applications.
 
-![](https://static.wixstatic.com/media/e37254_23bb081bd7bd444d8082bddb804b5c76~mv2.jpeg)
+![Photo](https://static.wixstatic.com/media/e37254_23bb081bd7bd444d8082bddb804b5c76~mv2.jpeg)
 
 This passion led me to co-found NeuroUX, where I spearheaded the implementation of our innovative brain health research platform. My focus was on building a scientifically robust, highly engaging, and customizable platform capable of supporting a wide range of studies and suitable for diverse participants across the lifespan and multiple clinical conditions.
 

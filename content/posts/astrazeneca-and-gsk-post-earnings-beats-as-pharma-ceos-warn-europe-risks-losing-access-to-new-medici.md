@@ -39,4 +39,4 @@ London-listed AstraZeneca shares slipped 1.4%. Coming into Wednesday's session, 
 
 With GSK set to lose exclusivity on its top-selling HIV drug dolutegravir in 2028, Miels said the company will continue to pursue dealmaking as a source of future revenue. How both firms navigate the twin pressures of looming patent cliffs and evolving U.S. pricing policy will likely define their trajectories well beyond the current reporting cycle.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

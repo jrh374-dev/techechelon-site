@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-Alphabet has entered rare territory in global credit markets, issuing a 100-year sterling bond as part of a broader $20 billion, multi-currency debt raise — a move that some strategists say reflects growing exuberance around the AI infrastructure boom.
-
 The century bond, Alphabet’s debut issuance in British pounds, drew nearly 10 times demand for the £1 billion ($1.37 billion) offering, according to Bloomberg. The coupon priced at 120 basis points above 10-year gilts, signaling strong appetite from pension funds and insurers seeking long-duration assets to match liabilities.
 
 While the deal was widely viewed as well executed, its structure — a corporate borrower locking in capital for a full century — has reignited debate over how far the AI investment cycle has pushed credit markets.
@@ -53,4 +51,4 @@ The issuance ultimately underscores the scale of the AI infrastructure race. Hyp
 
 Whether Alphabet’s century bond proves to be a savvy locking-in of cheap long-term funding — or a high-water mark in AI-driven credit exuberance — will depend less on today’s order book and more on whether the returns on AI infrastructure justify the borrowing decades into the future.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

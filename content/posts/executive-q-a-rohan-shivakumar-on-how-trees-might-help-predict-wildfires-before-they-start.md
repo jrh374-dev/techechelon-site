@@ -11,11 +11,10 @@ readTime: 7
 migratedFromWix: true
 ---
 
-When it comes to battling wildfires, every second counts. But what if we could know days in advance where a blaze might spread—because the trees themselves told us?
-
 That’s the groundbreaking idea behind the research of Rohan Shivakumar, a student and environmental science researcher whose latest study is in the process of being published. His work explores how plants release water under stress—essentially “sweating” as fire approaches—and how satellite technology can detect these signals to forecast wildfire behavior.
 
-![Rohan Shivakumar.](https://static.wixstatic.com/media/e37254_07b99e1af25d46c29222526dbe8698dc~mv2.png)
+![Photo](https://static.wixstatic.com/media/e37254_07b99e1af25d46c29222526dbe8698dc~mv2.png)
+*Rohan Shivakumar.*
 
 In this conversation, Rohan shares the spark that inspired his research, what trees have taught him about resilience, and why the discovery could reshape how we fight fires—and how we listen to nature.
 

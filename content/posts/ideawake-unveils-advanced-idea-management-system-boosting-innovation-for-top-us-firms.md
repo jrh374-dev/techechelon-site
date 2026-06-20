@@ -11,13 +11,12 @@ readTime: 3
 migratedFromWix: true
 ---
 
-Ideawake, a leading provider of software solutions, is revolutionizing the way companies handle their idea management by driving significant results for corporate giants like HP and SiriusXM. The company's state-of-the-art software is designed to generate, evaluate, and implement the cream of the crop, the top 5% of ideas that deliver 95% of new business results.
-
 The software's robust features allow companies to invite employees, customers, or suppliers to collaborate and address their most challenging problems. It provides a platform to collect targeted ideas through submission forms that can be embedded directly into a company's intranet or website. Using time-based challenges, it encourages the generation of solutions tailored to specific organizational goals.
 
 In a move to incentivize participation, the software incorporates gamification, where users earn points for participating, and decision-makers can reward top-performing participants with prizes.
 
-![Ideawake CEO Coby Skonord. Source: Ideawake.](https://static.wixstatic.com/media/e37254_5e03d33e65434d2bb5cc031b289738f0~mv2.png)
+![Photo](https://static.wixstatic.com/media/e37254_5e03d33e65434d2bb5cc031b289738f0~mv2.png)
+*Ideawake CEO Coby Skonord. Source: Ideawake.*
 
 “I firmly believe that the power of innovation lies within the collective intelligence of a workforce,” said Ideawake’s CEO Coby Skonord in a recent interview with TechEchelon. “At Ideawake, we aim to harness this potential by providing a platform that encourages collaboration, facilitates growth, and recognizes innovative contributions. We're not just providing a software solution, we're building the launchpad for the next big business idea.”
 

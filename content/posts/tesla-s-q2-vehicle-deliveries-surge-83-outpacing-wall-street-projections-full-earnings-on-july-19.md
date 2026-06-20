@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Tesla unveiled its production and delivery figures for the second quarter on Sunday, reporting an 83 percent increase in deliveries compared to the same period last year.
-
 From April to June, the company delivered a total of 466,140 vehicles, marking a 10 percent rise from the first quarter. Among these, 19,225 were Model S/X vehicles and 446,915 were Model 3/Y vehicles. The company's production tally for the same period stood at 479,700 vehicles, including 19,489 Model S/X cars and 460,211 Model 3/Y cars.
 
 In the corresponding quarter of 2022, Tesla had delivered 254,695 vehicles and produced 258,580.

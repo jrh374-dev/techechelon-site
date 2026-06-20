@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-12-23T17:41:52.018Z"
 coverImage: "https://static.wixstatic.com/media/e37254_033bef03a8294e9aa884c1efa0bcc3d9~mv2.jpg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-The U.S. economy expanded at a far faster pace than anticipated in the third quarter, driven primarily by resilient consumer spending, according to a delayed government report released Tuesday.
 
 Gross domestic product rose at an annualized rate of 4.3% from July through September, well above the 3.2% increase economists had forecast, the Commerce Department said in its initial estimate of third-quarter growth.
 

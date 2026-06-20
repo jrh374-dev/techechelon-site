@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-Inflation in the U.S. cooled more than expected in February, providing some relief to consumers and businesses amid ongoing concerns over trade policies and economic growth.
-
 The consumer price index (CPI)—a key measure of inflation tracking the cost of goods and services—rose 0.2% for the month, bringing the annual inflation rate to 2.8%, according to data released by the Bureau of Labor Statistics (BLS) on Wednesday. The increase came in slightly below Wall Street expectations of 2.9% and marked a slowdown from January’s 0.5% monthly rise.
 
 Excluding the more volatile food and energy prices, the core CPI also rose 0.2% in February, translating to a 3.1% annual increase—again, 0.1 percentage point below projections.
@@ -49,4 +47,4 @@ The Atlanta Fed’s GDPNow tracker projects a 2.4% contraction in first-quarter
 
 With inflation cooling but economic uncertainty rising, the Fed’s next moves will be closely watched by markets and policymakers alike.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

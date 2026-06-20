@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-The Federal Reserve announced on Wednesday that it would maintain the current interest rates, but suggested there might be one more increase before 2023 wraps up. The central bank’s projections suggest that this potential increase could conclude the current cycle, capping off 12 hikes since the inception of policy adjustments in March 2022.
-
 The ongoing meeting left the fed funds rate within the 5.25%-5.5% bracket, marking a 22-year peak. This rate not only influences interbank overnight lending but also impacts a plethora of consumer debts.
 
 Though the market anticipated this stabilization in rates, the future strategies of the Federal Open Market Committee remained a topic of debate. However, the recent documentation suggests a preference towards a stringent policy with prolonged elevated rates.

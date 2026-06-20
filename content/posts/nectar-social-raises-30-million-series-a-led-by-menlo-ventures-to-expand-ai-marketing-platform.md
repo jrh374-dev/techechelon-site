@@ -33,4 +33,4 @@ Das described the mood in San Francisco as "pretty frenetic right now," with "th
 
 For Nectar Social, the $30 million infusion positions the company to push further into a crowded but rapidly evolving market for AI-native marketing tools, where the central competitive question is whether autonomous agents can reliably replace the coordination work that brand teams currently handle manually.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

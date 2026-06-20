@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-On Tuesday, the Federal Reserve's chief banking overseer, Michael S. Barr, expressed concern about the possible impact of artificial intelligence (AI) on the efforts to guarantee fair housing access for underprivileged communities.
-
 Barr, who serves as the Vice Chair for Supervision at the Fed, acknowledged that AI has the capacity to enable individuals, who might otherwise struggle to secure credit, to gain access to it.
 
 However, he also pointed out that this technology could be exploited for harmful purposes, specifically, to discriminate against certain communities and deny them housing opportunities, a practice historically known as "redlining."

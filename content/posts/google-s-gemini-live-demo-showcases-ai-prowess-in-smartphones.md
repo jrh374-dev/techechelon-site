@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-In a recent showcase, Google demonstrated its advancements in artificial intelligence with the launch of Gemini, its new AI assistant for smartphones. Despite some technical glitches during the live presentation, Google emphasized that its AI capabilities are not only promising but are now actively being rolled out for testing.
-
 During the event held at Google's Bay View campus in Mountain View, California, a product director named David Citron experienced a momentary hiccup when a live demo temporarily froze. However, the demonstration resumed smoothly with a successful display of Gemini's abilities to integrate seamlessly with daily tasks such as scheduling and searching.
 
 Google's event underscored a significant leap over its competitors, notably Apple, by moving from concept to actual product delivery. Apple, meanwhile, has been showcasing enhancements under its new AI initiative named Apple Intelligence, which remains in developer testing without full public availability.

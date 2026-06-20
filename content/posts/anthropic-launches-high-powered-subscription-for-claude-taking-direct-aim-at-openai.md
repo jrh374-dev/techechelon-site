@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-04-10T00:50:17.602Z"
 coverImage: "https://static.wixstatic.com/media/e37254_351d29100f9649419bf936b78e2d21f6~mv2.webp"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Anthropic is turning up the heat in the AI race. On Wednesday, the Amazon-backed startup unveiled Claude’s Max plan, a premium subscription tier designed for serious users of its popular chatbot, Claude.
 
 The Max plan offers two pricing options:
 

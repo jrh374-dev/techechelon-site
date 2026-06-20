@@ -37,4 +37,4 @@ Baker said the national-security effects of AI extend well beyond the military, 
 
 His appointment signals that Anthropic is deepening its engagement with long-range strategic and geopolitical questions even as its formal relationship with the federal government remains constrained.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

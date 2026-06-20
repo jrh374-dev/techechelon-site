@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-In a recent statement, Anne Neuberger, the Deputy National Security Adviser for the White House, highlighted the urgency for enhanced cybersecurity in light of recent cyber assaults by Iranian hackers on American water utilities and separate ransomware attacks on the healthcare sector.
-
 These incidents, though relatively unsophisticated and with limited operational impact, signal ongoing threats from hostile nations and criminal entities.
 
 Neuberger, an advisor to President Biden on cyber and emerging technology, emphasized the necessity of basic security practices and the importance of "locking our digital doors" to protect against these threats, which are significantly affecting the economy.

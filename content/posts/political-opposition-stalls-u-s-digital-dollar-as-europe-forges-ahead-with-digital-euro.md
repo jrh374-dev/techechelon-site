@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-Europe's advancement toward a central bank digital currency (CBDC) is moving forward, while increasing political opposition hinders the establishment of a similar digital dollar in the U.S.
-
 While a potential U.S. CBDC remains a subject of governmental discussion, there is a widespread convergence of mainstream Republicans, Silicon Valley libertarians, and anti-establishment leftists opposing this idea, fueled by worries over privacy and increased government control.
 
 These political hurdles at home create an opportunity for other financial authorities to shape the future of digital currency systems. The European Central Bank (ECB), for instance, is poised to propose a digital euro design by October, further cementing its place as a pioneering force in the development of digital sovereign currencies.

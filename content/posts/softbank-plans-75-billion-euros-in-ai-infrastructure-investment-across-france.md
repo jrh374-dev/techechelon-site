@@ -29,4 +29,4 @@ SoftBank shares have climbed more than 70% in 2026 so far, reflecting investor c
 
 France's selection as the site for SoftBank's European buildout underscores the competitive dynamic taking shape across the continent, as individual nations court large-scale technology investment with promises of industrial capacity and skilled labor. Whether Europe's energy cost challenges will constrain the pace of deployment — even for projects already announced — remains a central question for the region's AI ambitions.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

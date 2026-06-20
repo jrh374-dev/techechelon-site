@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Gary Gensler, the Chairman of the Securities and Exchange Commission (SEC), is slated to appear before the House Financial Services Committee, following a similar appearance before the Senate Banking Committee two weeks prior. His prior testimony provided a platform for Republicans to critique Gensler’s allegedly aggressive and expansive approach to rulemaking proposals.
-
 Gensler has proposed more than 40 rules, which has heightened tension among Republicans and led to increasing confrontation with financial services sectors including hedge funds, mutual funds, and trading firms. The industry has been progressively resistant to negotiation, opting instead for legal action, claiming a lack of opportunity for industry input and objecting to the number of proposed rules.
 
 Industry complaints underscore a growing bitterness, stating that the extensive draft regulation leaves insufficient time for meaningful response or study. Last month, legal contention emerged when Grayscale Bitcoin Trust successfully sued the SEC, leading to a rise in litigation from the industry against newly adopted rules, such as the Private Funds Adviser Rule, which mandates annual financial statement audits for registered private fund advisers.

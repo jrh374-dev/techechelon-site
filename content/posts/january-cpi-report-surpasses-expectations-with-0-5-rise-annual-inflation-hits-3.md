@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Consumer prices increased by 0.5% in January, surpassing expectations, as the yearly inflation rate climbed to 3%, according to data released by the Bureau of Labor Statistics on Wednesday. This rise exceeded the Dow Jones projections, which had anticipated a 0.3% increase for the month and a 2.9% annual rate. The core CPI, which excludes volatile food and energy prices, also rose by 0.4% monthly, reaching an annual rate of 3.3%, slightly above expectations.
-
 Housing costs were a significant factor driving the increase, with a monthly rise of 0.4%. This category accounted for nearly 30% of the total inflation increase. Notably, homeowners' equivalent rent, a measure reflecting potential rental income from homeownership, increased by 0.3% monthly and 4.6% annually.
 
 Food prices also rose by 0.4% during the month, heavily influenced by a dramatic 15.2% surge in egg prices due to avian flu outbreaks necessitating massive culls of chickens. This marked the largest increase in egg prices since June 2015, contributing significantly to the overall rise in food costs. Egg prices have now increased by 53% over the past year.
@@ -23,5 +21,4 @@ This inflation report has significant implications for Federal Reserve policies.
 
 The report's release comes after Fed Chair Jerome Powell indicated to the Senate Banking Committee that the central bank is not in a rush to adjust rates, considering ongoing evaluations of inflation progress and forthcoming tariff policies. President Donald Trump has advocated for lower rates to complement his tariff strategy, adding complexity to the Fed's decisions on monetary policy. This inflation surge has effectively negated recent gains in average hourly earnings, highlighting the direct impact on American workers' paychecks.
 
-
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

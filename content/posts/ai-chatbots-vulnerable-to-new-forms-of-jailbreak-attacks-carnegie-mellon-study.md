@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-New findings from Carnegie Mellon University highlight an unforeseen challenge in prohibiting artificial intelligence (AI) chatbots from generating detrimental content, indicating innovative strategies to circumvent safety measures.
-
 Famous AI services such as ChatGPT and Bard, which generate useful responses based on user input, span various fields from script creation and brainstorming to writing full pieces of text. These services implement safety measures to deter the creation of harmful content such as discriminatory language or potentially defamatory or unlawful communication.
 
 Curious users have figured out "jailbreaks," techniques that deceive the AI to bypass its safety measures. However, developers can usually rectify these easily.

@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-The FBI has issued a public caution concerning the malicious use of “deepfakes” to produce counterfeit explicit content for harassment or extortion purposes.
-
 The statement released by the agency on Monday underlined how technological advances in artificial intelligence (AI) have amplified the quality, versatility, and accessibility of AI-generated content. Reports indicate that victims have found their images or videos manipulated into explicit content.
 
 According to the FBI, malefactors usually source content from a target's social media account, the internet, or the victims themselves to generate explicit content closely resembling the victims. This content is then disseminated on social media platforms, internet forums, or adult websites.

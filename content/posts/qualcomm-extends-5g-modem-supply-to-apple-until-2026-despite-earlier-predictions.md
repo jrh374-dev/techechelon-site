@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-On Monday, Qualcomm announced it will provide Apple with 5G modems for their smartphones until 2026. This comes despite earlier predictions by Wall Street experts and Qualcomm representatives who anticipated Apple transitioning to its own 5G modems by 2024.
-
 Qualcomm's continued collaboration with Apple is set to enhance its handset business, which recorded sales of $5.26 billion in the quarter ending in June. Given that roughly 21% of Qualcomm’s $44.2 billion revenue in 2022 was attributed to Apple, as per UBS analysis, this prolonged partnership can alleviate the risk of Qualcomm losing a significant client.
 
 Even though Apple is a regular customer for Qualcomm’s 5G modems for iPhones, Apple had made strides to develop its modems by acquiring Intel’s smartphone modem sector in 2019. But, transitioning away from Qualcomm’s intricate chips might be a tall order for Apple, as industry observers have noted.

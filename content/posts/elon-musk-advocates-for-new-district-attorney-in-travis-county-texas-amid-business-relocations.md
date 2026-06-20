@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Elon Musk, the CEO of Tesla, is urging Travis County, Texas residents to vote in the upcoming Democratic primary to remove the current District Attorney from office.
-
 Musk shared a message from Jeremy Sylestine, a defense attorney running against the incumbent DA Jose Garza, on X (previously Twitter), emphasizing the importance of electing a new DA for the greater Austin area, where Tesla's headquarters is based.
 
 This appeal comes after a challenging period for Musk, following a Delaware judge's decision to invalidate his Tesla compensation package, valued at up to $55.8 billion, due to unfair negotiation processes.

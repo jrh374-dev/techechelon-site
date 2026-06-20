@@ -35,4 +35,4 @@ Xi, for his part, signaled openness to expanded commerce. The Chinese president 
 
 Whether that signal translates into concrete policy movement — on chips, minerals, or AI cooperation — will likely become clearer in negotiations expected to continue into the summer, with a potential return visit by Xi to the United States in September being watched as the next major diplomatic waypoint.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

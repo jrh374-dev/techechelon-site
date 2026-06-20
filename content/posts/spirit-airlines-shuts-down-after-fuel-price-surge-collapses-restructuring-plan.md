@@ -33,4 +33,4 @@ Spirit said refunds for tickets purchased by credit or debit card directly throu
 
 The airline's failure underscores the fragility of ultra-low-cost carriers, which operate on thin margins with limited cash reserves — leaving them acutely exposed when external shocks such as fuel price spikes outpace the assumptions built into financial restructuring agreements. With Spirit gone, other budget carriers will inherit both its former customers and, in many markets, reduced competition on the routes it once served.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -37,4 +37,4 @@ Non-U.S. family offices present a starkly different picture. Chinese family offi
 
 Family offices plan to add to emerging market equities, infrastructure, and gold, while slightly reducing cash and real estate holdings, according to the survey. The divergence between U.S. and non-U.S. wealth managers signals a split in how the world's wealthiest families are reading the global risk environment — a split that could have lasting consequences for capital flows and dollar-denominated markets in the years ahead.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

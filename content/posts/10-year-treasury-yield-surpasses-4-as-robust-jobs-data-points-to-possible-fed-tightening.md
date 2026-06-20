@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-07-06T13:02:01.220Z"
 coverImage: "https://static.wixstatic.com/media/e37254_a33d6ca78b2d49ebbc68a3132c9824b6~mv2.jpeg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-On Thursday, the yield of the 10-year Treasury note climbed beyond 4% as investors responded to robust jobs data, suggesting the potential for further monetary tightening by the Federal Reserve.
 
 The 10-year Treasury note saw its yield jump 8 basis points to trade at 4.025%, while the yield on the 2-year Treasury note escalated more than 12 basis points, reaching 5.08%. It should be noted that yields and prices share an inverse relationship, with a basis point being equal to 0.01%.
 

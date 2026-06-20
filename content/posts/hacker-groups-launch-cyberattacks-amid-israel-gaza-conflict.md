@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Several hacker groups, some linked to nations like Iran and Russia, have targeted Israel with cyberattacks in the past week, possibly coinciding with the recent Oct. 7 Hamas attack.
-
 On the messaging platform Telegram, these groups claimed to have infiltrated various Israeli systems, including websites, the national electric grid, a rocket alert application, and even the Iron Dome missile defense mechanism. One of Israel's prominent newspapers, The Jerusalem Post, confirmed a brief downtime due to such attacks.
 
 The extent and true impact of these cyber offensives remain ambiguous. Yet, the attacks signify an intention to amplify physical attacks with digital tactics, reminiscent of the cyber methods used during the early stages of Russia's conflict with Ukraine.

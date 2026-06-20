@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-David Sacks has concluded his 130-day run as Donald Trump's AI and crypto czar, officially stepping back from one of the most unconventional government appointments in recent memory. The longtime entrepreneur, investor, and "All In" podcast host confirmed that he is transitioning to co-chair the President's Council of Advisors on Science and Technology, known as PCAST, alongside senior White House technology adviser Michael Kratsios.
-
 The move represents a meaningful shift in Sacks' proximity to power. As AI czar, he operated as a special government employee with a direct line to the president and a hand in shaping federal policy on artificial intelligence and digital assets. PCAST, by contrast, is a federal advisory body — it produces reports and recommendations but does not make policy. The council has been a fixture of American government in various forms since Franklin Roosevelt, with its influence varying significantly from one administration to the next.
 
 What makes this PCAST iteration stand out is its roster. The 15-member council includes Nvidia's Jensen Huang, Meta's Mark Zuckerberg, Google co-founder Sergey Brin, Oracle's Larry Ellison, Marc Andreessen, AMD's Lisa Su, and Michael Dell — an unprecedented concentration of tech industry wealth and influence assembled into a single advisory body. Sacks told Bloomberg that near-term priorities will include pushing forward Trump's national AI framework, released last week, which is aimed at replacing what he described as a fragmented patchwork of conflicting state-level regulations.

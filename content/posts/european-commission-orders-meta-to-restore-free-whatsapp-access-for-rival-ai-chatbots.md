@@ -29,4 +29,4 @@ The broader antitrust investigation remains open, with no date set for a final l
 
 The case reinforces a pattern of EU regulators using competition law to police how dominant platforms govern access to their infrastructure, particularly as those platforms become entry points for emerging AI services. WhatsApp, with its scale across European consumers, has drawn particular scrutiny as AI assistant adoption accelerates. The outcome of the pending investigation could set a precedent for how messaging platforms are required to treat competing AI providers across the region.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

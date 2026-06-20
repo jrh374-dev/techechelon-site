@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-A cybersecurity concern prompted the temporary shutdown of several computer systems in MGM Resorts International casinos and hotels across the U.S., as informed by a company representative on Monday.
-
 The disturbance commenced on Sunday. The impact on booking systems and gaming areas in various states, such as New York, Ohio, Maryland, Michigan, Mississippi, Massachusetts, New Jersey, and notably in Las Vegas, remains uncertain, according to company representative Brian Ahern.
 
 The FBI acknowledged their awareness of the situation in a press statement but refrained from divulging specifics, indicating that the situation is "still ongoing."

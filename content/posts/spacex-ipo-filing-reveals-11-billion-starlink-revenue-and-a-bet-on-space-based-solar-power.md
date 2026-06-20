@@ -35,4 +35,4 @@ Analysts note that the economics of orbital data centers remain formidable. Powe
 
 With a Nasdaq listing potentially weeks away, the scale of SpaceX's ambitions — and the unresolved questions around sector classification, energy strategy, and orbital feasibility — are likely to remain central to how investors price the offering.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

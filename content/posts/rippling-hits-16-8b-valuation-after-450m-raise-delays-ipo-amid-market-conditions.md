@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-05-09T18:44:15.297Z"
 coverImage: "https://static.wixstatic.com/media/e37254_568c9c9d7f894426b49247bd1f5c0280~mv2.jpg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-HR software startup Rippling has reached a $16.8 billion valuation following a $450 million funding round, a jump from its $13.5 billion valuation just one year ago. The company also plans to repurchase $200 million worth of shares from current and former employees, further signaling confidence in its long-term trajectory.
 
 The round had no designated lead investor, though it included participation from Baillie Gifford, Elad Gil, and Goldman Sachs Growth, among others.
 
@@ -27,4 +25,4 @@ The company’s all-in-one platform spans payroll, IT device management, and cor
 
 While Rippling isn’t focused on near-term profitability, the new funding and share buyback program underscore its momentum—and its preference to remain private until market conditions shift.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

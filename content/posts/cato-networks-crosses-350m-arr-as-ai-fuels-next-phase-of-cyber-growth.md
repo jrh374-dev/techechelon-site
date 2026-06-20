@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Cato Networks has surpassed $350 million in annual recurring revenue (ARR), marking a key milestone as artificial intelligence reshapes demand across the cybersecurity landscape.
-
 The cloud-based network security provider said the figure represents 43% year-over-year growth, building on momentum from just months ago when the company crossed the $300 million ARR mark. 
 
 The acceleration underscores how enterprises are increasingly re-architecting their security stacks to accommodate AI-driven workflows and threats.
@@ -49,4 +47,4 @@ While Cato did not commit to a public listing timeline, Kramer said the company 
 
 For now, the message is clear: while markets debate whether AI disrupts cybersecurity, companies like Cato are betting that AI will expand the category, not shrink it — and that the winners will be those who integrate it fastest into a unified platform.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

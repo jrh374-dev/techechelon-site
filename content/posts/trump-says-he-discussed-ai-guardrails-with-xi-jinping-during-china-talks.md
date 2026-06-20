@@ -29,4 +29,4 @@ Whether Friday's conversation between Trump and Xi translates into a concrete po
 
 The exchange nonetheless marks one of the most direct public acknowledgments by the current administration that AI governance could be a subject of U.S.-China diplomacy, underscoring how deeply the technology has embedded itself in the highest levels of geopolitical dialogue.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

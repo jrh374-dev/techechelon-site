@@ -23,4 +23,4 @@ Jim Taylor, CEO of Onclave Networks, shared his enthusiasm about becoming a key 
 
 The need for robust cybersecurity solutions like Zero Trust has been propelled into the spotlight by President Biden’s 2021 mandate requiring all federal agencies to adopt this rigorous security model. ENIGMA aims to meet these demands with a portfolio of purpose-built Zero Trust capabilities that have already been tested extensively in demanding global contexts, with plans for significant rollouts in sectors such as U.S. hospitals and the worldwide automotive industry.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -37,4 +37,4 @@ SpaceX's recently filed IPO documents show that revenue from its government conn
 
 The friction reinforces a dynamic that has shadowed SpaceX's military relationships since Russia's invasion of Ukraine in 2022: the company occupies a near-monopoly position in low Earth orbit satellite services, leaving the Pentagon with limited leverage and few comparable alternatives as it seeks to renegotiate terms.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

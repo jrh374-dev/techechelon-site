@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-OpenAI has partnered with global news publisher Axel Springer, enabling ChatGPT to summarize articles from sources like Politico and Business Insider.
-
 This announcement arrives amidst a growing trend of legal considerations by creators and technologists regarding the use of their work as training material for AI tools, such as chatbots and image generators.
 
 Notably, authors like John Grisham and George R.R. Martin have filed lawsuits against OpenAI for alleged copyright violations.

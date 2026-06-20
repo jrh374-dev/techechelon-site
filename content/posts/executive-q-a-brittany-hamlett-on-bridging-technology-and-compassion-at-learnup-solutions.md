@@ -11,9 +11,7 @@ readTime: 10
 migratedFromWix: true
 ---
 
-Brittany Hamlett is an innovator in the field of educational technology, seamlessly merging her extensive background as a language specialist and educator with the cutting-edge demands of EdTech. 
-
-![](https://static.wixstatic.com/media/e37254_20aced17d72544978d9abf80e2782936~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_20aced17d72544978d9abf80e2782936~mv2.jpg)
 
 As the CEO of LearnUp Solutions, Brittany has transformed her firsthand classroom experiences into a passion for designing empathetic and inclusive learning solutions. Her transition from a dedicated educator to a tech entrepreneur has equipped her with unique insights into the educational challenges faced by diverse learning communities. With a keen focus on user-centered design, Brittany's leadership at LearnUp Solutions has been pivotal in creating products that are not only effective but also deeply resonant with both educators and students, particularly those from marginalized communities. 
 

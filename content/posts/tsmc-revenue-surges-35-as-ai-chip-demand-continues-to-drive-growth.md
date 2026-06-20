@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2026-04-10T13:46:12.187Z"
 coverImage: "https://static.wixstatic.com/media/e37254_46f85053dd424597b62624e162ee482a~mv2.jpg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Taiwan Semiconductor Manufacturing Company (TSMC) reported another record-breaking quarter, underscoring the sustained strength of the AI-driven semiconductor boom.
 
 The world’s largest contract chipmaker posted first-quarter revenue of 1.13 trillion New Taiwan dollars ($35.6 billion), marking a 35% year-over-year increase and slightly exceeding analyst expectations.
 
@@ -31,4 +29,4 @@ Investors are now turning their attention to upcoming earnings from ASML, the Du
 
 Despite ongoing geopolitical concerns—including potential supply chain disruptions tied to Middle East tensions—the latest data suggests that AI demand continues to outweigh near-term risks. For now, TSMC remains one of the clearest beneficiaries of the global race to build out next-generation computing infrastructure.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

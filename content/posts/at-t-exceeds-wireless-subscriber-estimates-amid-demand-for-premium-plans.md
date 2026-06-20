@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-10-23T14:12:42.571Z"
 coverImage: "https://static.wixstatic.com/media/e37254_cfc8ef3c7a014338bbe3bae31d36a7fe~mv2.jpg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-AT&T outperformed expectations for wireless subscriber growth in the third quarter, fueled by strong demand for its premium unlimited plans, which offer added benefits like increased hotspot data. This positive momentum boosted the company's shares by 3.1% in premarket trading.
 
 The U.S. telecom giant reported an addition of 403,000 net monthly bill-paying wireless subscribers during the July-September period, surpassing analyst estimates from Visible Alpha, which forecast 393,430 additions.
 
@@ -27,4 +25,4 @@ AT&T’s fiber business added 226,000 new subscribers, falling short of the anti
 
 Operating expenses surged by 14% to $28.1 billion, exceeding the $22.31 billion estimate compiled by LSEG. A significant portion of the increased costs was driven by a $4.4 billion non-cash goodwill impairment charge related to AT&T’s business wireline unit, where customers have been moving away from legacy services faster than expected.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

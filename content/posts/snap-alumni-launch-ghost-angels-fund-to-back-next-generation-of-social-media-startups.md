@@ -33,4 +33,4 @@ Rivera also pointed to evolving monetization models as a defining characteristic
 
 The launch comes as venture interest in consumer AI and next-generation social platforms has intensified, with a broader push by investors to identify which emerging formats and communities will define the post-algorithmic internet. Ghost Angels positions itself as a specialized vehicle — drawing on operational experience inside one of the industry's defining platforms — to evaluate that landscape from the inside out.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

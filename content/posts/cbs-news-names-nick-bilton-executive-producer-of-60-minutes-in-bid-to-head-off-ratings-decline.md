@@ -29,4 +29,4 @@ Bilton declined to detail the specific changes he plans to introduce, saying onl
 
 The new executive producer's lack of traditional TV news credentials is likely to draw continued scrutiny from within the newsroom. How Bilton navigates that skepticism — while managing a high-profile program operating under the shadow of a pending merger and regulatory politics — will be among the more closely watched editorial transitions in broadcast news this year.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

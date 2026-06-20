@@ -35,4 +35,4 @@ Dictato, priced at €9.99 (approximately $12) for lifetime access plus two year
 
 As the category expands, the competitive lines are sharpening around three axes: privacy and data handling, offline versus cloud processing, and pricing model — with lifetime licenses increasingly used as a differentiator against subscription fatigue. Whether any of these challengers can build sustainable scale against better-known productivity platforms remains a central question for the segment.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

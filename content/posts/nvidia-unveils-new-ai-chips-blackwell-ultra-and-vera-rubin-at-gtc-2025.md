@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-Nvidia announced its latest generation of chips designed for artificial intelligence at its annual GPU Technology Conference (GTC) on Tuesday in San Jose, California.
-
 CEO Jensen Huang introduced "Blackwell Ultra," a new family of AI-focused chips set to ship later this year, and previewed "Vera Rubin," the next generation of GPUs expected to debut in 2026. These launches mark a strategic shift for Nvidia, moving toward an annual release cycle from its previous biennial schedule.
 
 The introduction of these new chips underscores Nvidia's dominant position in the AI market, a sector that has propelled the company's sales more than sixfold since the AI boom sparked by OpenAI's ChatGPT in late 2022. Nvidia’s GPUs are critical in AI model training, and the new hardware aims to sustain the company's leadership by providing enhanced performance and efficiency.

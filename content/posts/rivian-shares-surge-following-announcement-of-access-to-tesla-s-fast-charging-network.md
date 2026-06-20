@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Rivian Automotive Inc.'s stock price experienced an upward swing of over 2% on Tuesday, making it one of the few automaker shares to register a positive trend. The surge came on the back of an announcement that Rivian's electric vehicle (EV) owners will soon be granted access to Tesla Inc.’s speedy charging network.
-
 Rivian disclosed plans for the release of an adapter to facilitate charging of its EVs on Tesla’s fast-charging network, anticipated by spring 2024. Furthermore, the company plans to integrate Tesla’s North American Charging Standard (NACS) charge ports into its cars by 2025.
 
 This comes as the acceptance of Tesla's EV charging standard continues to grow, which could also positively impact Tesla's stock.

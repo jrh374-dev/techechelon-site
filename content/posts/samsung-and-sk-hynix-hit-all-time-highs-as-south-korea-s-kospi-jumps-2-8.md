@@ -33,4 +33,4 @@ The geopolitical development weighed on energy markets. West Texas Intermediate 
 
 With semiconductor stocks driving outsized gains on both sides of the Pacific, traders will be watching whether momentum in chip names can sustain the Kospi above the historic 9,000 threshold — and whether the Fed's hawkish posture or progress on the Iran deal introduces new headwinds in the sessions ahead.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

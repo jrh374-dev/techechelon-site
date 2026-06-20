@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-TikTok's COO, V Pappas, is set to depart from the video-sharing firm after a five-year tenure, as confirmed by the company.
-
 TikTok's CEO, Shou Zi Chew, disclosed Pappas's forthcoming exit in a corporate memo, which was accessed by The Hill. He mentioned that Pappas would now be shifting her focus towards pursuing "entrepreneurial passions."
 
 In his message to employees, Chew expressed gratitude for Pappas's invaluable contributions during her tenure. He said, "Throughout her time at TikTok, she has been pivotal in expanding the business, championing the company, enhancing our products and marketing initiatives, and nurturing a vibrant community of creators and users."

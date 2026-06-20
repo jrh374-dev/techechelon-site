@@ -39,4 +39,4 @@ Comer requested information about OpenAI's audit committee and all relevant poli
 
 Altman's testimony is expected to be the most closely watched moment of the trial, which began in late April, with the CEO facing scrutiny both inside the courtroom and on Capitol Hill.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

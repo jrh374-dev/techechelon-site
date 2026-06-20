@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-On Saturday, Twitter CEO Elon Musk announced temporary restrictions on the number of tweets users can view daily. Verified users can now only see up to 6,000 posts a day, whereas unverified users are limited to 600 posts per day. Newly registered unverified accounts face even stricter limits, with a cap at 300 posts daily. Musk didn't clarify the duration for an account to outgrow its "new" status.
-
 These "temporary limits," as Musk described them, are a response to "extreme levels of data scraping and system manipulation." The time frame for when these restrictions would be lifted remains unspecified.
 
 In addition, Musk affirmed on Friday that, as a "temporary emergency measure," users must now log in to browse the social media platform. "We were getting data pillaged so much that it was degrading service for normal users!" he tweeted.

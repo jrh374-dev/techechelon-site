@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Tesla CEO Elon Musk announced that the company will begin deploying a fleet of robotaxis in Austin, Texas, by the end of June, marking a major step in Tesla’s long-promised autonomous driving ambitions.
-
 The launch will begin with approximately 10 vehicles and could scale rapidly if the pilot proceeds smoothly, Musk said during an interview Tuesday at Tesla’s Austin headquarters.
 
 The robotaxis, based on Tesla’s Model Y and running a new version of its Full Self-Driving software called “FSD Unsupervised,” will operate without human safety drivers. Instead, Tesla employees will monitor the vehicles remotely. Initially, the cars will be geofenced—restricted to specific areas of Austin—until the system proves reliable.
@@ -33,4 +31,4 @@ When asked about his long-term plans with Tesla, Musk was clear: “Yes, no doub
 
 Musk, whose net worth is estimated at $376 billion by Bloomberg, remains the world’s richest person.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

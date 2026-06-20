@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-U.S. stocks traded narrowly Wednesday as Wall Street headed toward the final stretch of 2025, capping another strong year for equities despite a recent bout of mild selling.
-
 The S&P 500 hovered near flat in early trading and remains on track to finish the year up roughly 17%, marking its third consecutive year of double-digit gains.
 
 The Nasdaq Composite has climbed about 21% in 2025, fueled largely by continued enthusiasm around artificial intelligence, while the Dow Jones Industrial Average is up approximately 13%, weighed down by its relatively limited exposure to major technology stocks.
@@ -35,4 +33,4 @@ Stocks are also poised to close December in positive territory. The Dow is up 1.
 
 The S&P 500 has added 0.7%, also eyeing an eight-month winning run, while the Nasdaq is modestly higher, heading for its eighth positive month in nine.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

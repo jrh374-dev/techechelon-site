@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-In a recent address, Jerome Powell, the Chair of the Federal Reserve, highlighted the importance of adaptability in economic forecasting, especially in the context of the unpredictable post-pandemic economy.
-
 Speaking at a conference marking the 100th anniversary of the Federal Reserve's Research and Statistics Division, Powell praised the division's rigorous approach but stressed the need for flexibility and innovative thinking beyond conventional models.
 
 Powell acknowledged the utility of economic models in understanding historical economic trends but noted that even the most advanced models can be taken by surprise by the economy's behavior, especially during times of unforeseen crises like a global financial crisis or a pandemic.

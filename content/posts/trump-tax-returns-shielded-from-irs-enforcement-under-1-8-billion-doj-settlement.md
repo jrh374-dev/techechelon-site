@@ -35,4 +35,4 @@ The department did not immediately respond to questions about why the tax-return
 
 With congressional Democrats vowing legal challenges and the Justice Department defending the arrangement as routine, the settlement is poised to remain a flashpoint in the broader debate over executive branch influence over federal law enforcement institutions.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

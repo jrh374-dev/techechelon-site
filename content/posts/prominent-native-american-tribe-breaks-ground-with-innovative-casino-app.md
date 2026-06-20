@@ -11,9 +11,7 @@ readTime: 1
 migratedFromWix: true
 ---
 
-In a groundbreaking move, the Morongo Casino Resort and Spa in Cabazon, CA, has unveiled a state-of-the-art mobile app for its casino.
-
-![](https://static.wixstatic.com/media/e37254_612ad8c614454336b48cba4f9c2453be~mv2.jpeg)
+![Photo](https://static.wixstatic.com/media/e37254_612ad8c614454336b48cba4f9c2453be~mv2.jpeg)
 
 Set to be released on September 1st, the mobile app will provide users with an encompassing digital interface to the resort's offerings. Compatible with both IOS and Android devices, it will offer users the ability to access their Morongo Rewards accounts, casino promotions, and a broad spectrum of the resort's amenities.
 
@@ -23,7 +21,7 @@ As part of its promotional activities surrounding the app's launch, from Septemb
 
 The app is positioned as a valuable tool for Morongo Rewards members who will have access to exclusive app-only benefits including special concert pricing, room rates, and unique promotions.
 
-![](https://static.wixstatic.com/media/e37254_1e25018b157d43e4b83bdef5c772e44c~mv2.jpeg)
+![Photo](https://static.wixstatic.com/media/e37254_1e25018b157d43e4b83bdef5c772e44c~mv2.jpeg)
 
 Morongo’s Chief Operating Officer, Richard St. Jean, commented on the release, emphasizing the app’s convenience for guests: "The goal with our new app is to place the full spectrum of Morongo’s amenities within easy reach of our guests, promising an integrated experience whether they're engaging with casino activities, managing reservations, or accessing other facilities."
 

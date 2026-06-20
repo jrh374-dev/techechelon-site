@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Intel shares fell by over 3% in Monday's trading session following a Reuters report which suggested that Nvidia and AMD are developing PC chips using Arm architecture. Following this news, Arm's stock increased by more than 6%, while Nvidia's stock rose close to 4% in late-day trading on Monday.
-
 At present, Intel dominates the PC chip market, with AMD trailing behind. Over half of Intel's revenue from the quarter ending in June was from PC chip sales.
 
 Intel's chips utilize the x86 instruction set. On the other hand, chips with Arm-based instruction sets, typically found in smartphones, tend to be more power-efficient, making them ideal for devices that rely on batteries.

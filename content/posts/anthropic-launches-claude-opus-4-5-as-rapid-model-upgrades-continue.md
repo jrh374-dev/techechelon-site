@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Anthropic rolled out Claude Opus 4.5 on Monday, marking the AI lab’s third major model release in just two months and underscoring the accelerating cadence of frontier-model development.
-
 The new flagship model is built for coding, computer use, and high-complexity enterprise work, targeting professional developers, data analysts, consultants, accountants, and other heavy productivity users.
 
 The launch follows a wave of momentum for Anthropic. The startup — founded by former OpenAI researchers — recently secured new multibillion-dollar investments from Microsoft and Nvidia, lifting its valuation to roughly $350 billion.

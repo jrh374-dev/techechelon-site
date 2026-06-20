@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-02-13T05:35:03.054Z"
 coverImage: "https://static.wixstatic.com/media/e37254_10e13aa226fb42d9be0f9ec307cb756f~mv2.webp"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-President Biden's reelection campaign has sparked controversy among politicians from both parties by establishing a presence on TikTok. The campaign made its debut on the popular video-sharing platform with a video of Biden answering questions related to the Super Bowl, featuring the Kansas City Chiefs and the San Francisco 49ers.
 
 Criticism has been particularly vocal from Republican senators, who have raised concerns about TikTok's data privacy and the national security implications of its ties to ByteDance, its parent company based in Beijing.
 

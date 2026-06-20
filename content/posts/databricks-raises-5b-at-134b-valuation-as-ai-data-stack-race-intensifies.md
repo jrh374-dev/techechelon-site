@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-Databricks has secured $5 billion in new equity financing alongside $2 billion in additional debt capacity, valuing the private data and AI infrastructure firm at $134 billion and reinforcing its position near the top of the enterprise software hierarchy.
-
 The company also reported that annualized revenue exceeded $5.4 billion for the January quarter, representing 65% year-over-year growth, while generating positive free cash flow over the past year — a combination that is increasingly rare among high-growth AI infrastructure companies.
 
 CEO and co-founder Ali Ghodsi said the company is prepared to go public “when the time is right,” signaling that an IPO remains on the table as market conditions stabilize.

@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-04-10T13:44:03.267Z"
 coverImage: "https://static.wixstatic.com/media/e37254_b7829a3bb27a4d22bf38dcd76b9fb79b~mv2.jpeg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Jack Ma, the founder of Alibaba, recently expressed his support for the significant changes and restructuring the company has undergone over the past year, in what is his second significant communication to the staff in a few months.
 
 This period has seen Alibaba, a leading tech conglomerate in China, implementing historic organizational adjustments and extensive leadership shifts to reignite growth.
 
@@ -27,4 +25,4 @@ The previous year marked a pivotal moment for Alibaba as it restructured into si
 
 Furthermore, Alibaba has canceled the planned public listings for its cloud and logistics divisions. As the company navigates these transformations, Ma's recent comments not only serve to uplift Alibaba's workforce but also highlight the leadership's focus on adapting to future technological advancements, particularly in the realm of e-commerce and artificial intelligence.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

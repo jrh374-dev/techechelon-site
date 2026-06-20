@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-05-09T19:01:37.922Z"
 coverImage: "https://static.wixstatic.com/media/e37254_199c54c84196449189e6947c0541e6dc~mv2.avif"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Senator Tom Cotton (R-Ark.) introduced new legislation Friday that would mandate location-tracking technology on advanced AI chips subject to U.S. export controls, in an effort to prevent sensitive technology from being diverted to foreign adversaries.
 
 The proposed law, called the Chip Security Act, would direct the Commerce Department to require a “location verification mechanism” on AI chips covered by export restrictions. Under the bill, exporters would be obligated to report any instances of chips being diverted from their intended destinations or tampered with to the Commerce Department’s Bureau of Industry and Security (BIS).
 

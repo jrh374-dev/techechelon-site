@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Wiz, a cloud security startup, has opted to abandon a $23 billion acquisition deal with Google, choosing instead to pursue an initial public offering (IPO). This decision was communicated by CEO Assaf Rappaport in a memo to employees, where he cited antitrust concerns and investor reservations as key factors influencing the decision.
-
 The company aims to achieve $1 billion in annual recurring revenue as it moves towards its IPO.
 
 Founded in 2020, Wiz has experienced rapid growth, achieving $100 million in annual recurring revenue within 18 months and reaching $350 million last year.
@@ -29,4 +27,4 @@ The startup's founders, who previously sold their security company Adallom to Mi
 
 Despite the setback, Wiz continues to focus on its growth trajectory and upcoming IPO.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

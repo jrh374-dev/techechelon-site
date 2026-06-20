@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Amazon Web Services (AWS) continues to dominate the cloud computing sector, but Microsoft is rapidly gaining ground with its Azure platform. Analysts have noted that while Microsoft does not publicly share Azure's revenue numbers, it is estimated that Azure has grown from being half the size of AWS five years ago to about three-quarters its size now.
-
 This surge in Azure's growth is partly attributed to Microsoft's focus on artificial intelligence (AI). During the earnings call on January 30, Microsoft's CFO, Amy Hood, mentioned that AI contributed to a 6-point increase in revenue growth for the Azure and cloud services division, a significant rise from the 3-point contribution in the previous quarter. Azure's revenue soared by 30% in the recent quarter, markedly outpacing AWS's 13% year-over-year increase.
 
 Microsoft has been enhancing its data centers with graphics processing units (GPUs) to support AI model execution, including the advanced GPT-4, which powers OpenAI’s ChatGPT chatbot. This move has attracted a wide range of businesses looking to integrate generative AI features into their offerings. Microsoft CEO Satya Nadella reported having 53,000 Azure AI customers, underscoring the platform's growing appeal.

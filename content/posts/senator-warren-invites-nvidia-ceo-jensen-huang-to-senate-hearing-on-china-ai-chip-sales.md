@@ -29,4 +29,4 @@ Warren has also framed her scrutiny of Nvidia and the AI sector in domestic econ
 
 Nvidia has not publicly responded to the invitation. Whether Huang will appear before the committee on June 11 remains an open question, and his decision is expected to draw significant attention from both national security observers and the investment community watching Washington's posture toward the AI industry.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

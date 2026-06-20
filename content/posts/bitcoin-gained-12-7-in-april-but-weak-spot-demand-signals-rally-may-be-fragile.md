@@ -37,4 +37,4 @@ The industry is also navigating a regulatory vacuum. Progress on the market stru
 
 With futures positioning still elevated and spot demand yet to show a meaningful recovery, the April rally's durability will likely hinge on whether broader market sentiment — and institutional buying — can bridge that gap before leveraged positions begin to unwind.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-OpenAI has rolled out two new lightweight language models designed to perform advanced reasoning tasks while running efficiently on consumer hardware — including single GPUs and even personal laptops.
-
 These models, referred to as "open-weight," allow developers full access to their trained parameters. While they stop short of being fully open-source — meaning the original training data and codebase are not included — they offer a high degree of flexibility for users who want to fine-tune the models or run them on private infrastructure.
 
 "What makes these models especially compelling is that they can be deployed locally, behind your own firewall," said Greg Brockman, OpenAI’s co-founder, during a press event. This setup gives businesses and individual users more control over data privacy and customization.

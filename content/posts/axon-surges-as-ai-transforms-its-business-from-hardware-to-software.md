@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Shares of Axon Enterprise jumped more than 18% Wednesday after the company delivered a strong earnings beat and signaled that artificial intelligence is rapidly reshaping its business model.
-
 The maker of Tasers, body cameras, and drones reported adjusted earnings of $2.15 per share on $797 million in revenue, well ahead of analyst expectations of $1.60 per share and $755 million in revenue. The company also issued bullish 2026 guidance, forecasting 27% to 30% revenue growth, above consensus estimates.
 
 ### AI Is Driving the Next Phase of Growth
@@ -39,4 +37,4 @@ The broader narrative aligns with a growing trend across industries: AI is not j
 
 For investors, the takeaway is clear: Axon is no longer just a hardware company with software attached. It is becoming an AI-powered public safety platform — and the market is starting to price it that way.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

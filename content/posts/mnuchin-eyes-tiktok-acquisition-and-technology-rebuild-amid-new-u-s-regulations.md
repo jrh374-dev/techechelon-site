@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Former Treasury Secretary Steven Mnuchin expressed ongoing interest in acquiring TikTok during an interview with Bloomberg Television on Tuesday. He mentioned discussions with various tech firms about the possibility of recreating the app's technology, acknowledging that the app's algorithms could be reconstructed.
-
 Mnuchin outlined a strategy for the acquisition, aiming to redevelop TikTok's technology under American leadership, ensuring it is independent from ByteDance and enhancing its security.
 
 This initiative follows a recent legislation signed by President Biden, mandating ByteDance to divest TikTok within a year or face exclusion from U.S. networks and app stores. Although ByteDance might be open to selling TikTok, the Chinese government has indicated it will not approve the export of the app's algorithm.

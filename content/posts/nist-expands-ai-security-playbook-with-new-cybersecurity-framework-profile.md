@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-The National Institute of Standards and Technology (NIST) is extending its influence over how organizations secure artificial intelligence, releasing a draft companion to its widely adopted Cybersecurity Framework (CSF) that directly addresses AI-related risks and defenses.
-
 The new Cybersecurity Framework Profile for Artificial Intelligence, published Tuesday, is designed to help organizations map AI-specific security considerations onto the CSF, one of the most commonly used cybersecurity blueprints across government and industry. The profile outlines how organizations can both protect AI systems and use AI to strengthen cyber defenses, while also guarding against AI-enabled attacks.
 
 NIST groups its guidance into three core categories: “secure,” “defend,” and “thwart.” These reflect the different ways AI is entering enterprise environments—from internally deployed models, to AI-powered security tools, to threats posed by adversaries leveraging AI.

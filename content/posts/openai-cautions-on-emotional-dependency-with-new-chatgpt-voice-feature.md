@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-OpenAI has raised concerns that users might develop an emotional dependency on its new ChatGPT voice feature, which simulates lifelike vocal interactions.
-
 The tech company discussed these findings in a report released on Thursday, highlighting the safety measures undertaken with ChatGPT and its recent vocal adaptation, which mimics human speech patterns.
 
 Last week, OpenAI began offering GPT-4o to its subscribed users, with CNN initially reporting the rollout. The AI model was first showcased in May, displaying capabilities such as translating between two people in real time and recognizing human emotions from a photo.

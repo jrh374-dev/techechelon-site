@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-The Labour government in the United Kingdom is reportedly considering a review of the Online Safety Act, a significant piece of legislation aimed at requiring social media companies to combat illegal content. This move comes in response to recent far-right riots, which were fueled by misinformation and inflammatory remarks from Elon Musk, the owner of the social media platform X (formerly known as Twitter).
-
 According to industry insiders, the government is exploring ways to strengthen the Online Safety Act, particularly in relation to disinformation, hate speech, and the incitement of violence. Senior officials have hinted that the government is prepared to amend the act to better address these issues, especially in light of recent events.
 
 The Online Safety Act, once fully implemented, will impose new duties on tech companies to actively manage and mitigate the risks of harmful content on their platforms. Violations could result in severe penalties, including fines of up to 10% of a company’s global annual revenue and potential jail time for senior executives in cases of repeated breaches.

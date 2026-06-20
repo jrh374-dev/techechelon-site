@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-02-04T04:35:41.110Z"
 coverImage: "https://static.wixstatic.com/media/e37254_f35d6bf7ddf8457ea8eeb87a89446fd0~mv2.jpg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-President Donald Trump has agreed to temporarily halt the imposition of new tariffs on Canadian imports, extending a similar concession to Mexico, as confirmed by Canadian Prime Minister Justin Trudeau. The decision to pause the tariffs for 30 days was made public shortly after a similar announcement regarding Mexican imports.
 
 On Saturday, Trump had announced a 25% tariff on goods from both Mexico and Canada, with an additional 10% on Chinese imports. He also had plans to introduce a 10% tariff on Canadian energy resources. In response, Trudeau had threatened to impose a retaliatory tariff of 25% on $155 billion worth of U.S. goods.
 

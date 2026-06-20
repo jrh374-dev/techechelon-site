@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-For the second time in U.S. history, Fitch Ratings has downgraded the nation's credit rating, signaling potential repercussions for both the national economy and individual finances if U.S. debt continues to escalate, experts say.
-
 The credit rating of the U.S. has been reduced to AA+ from AAA by Fitch Ratings, prompted by the growing U.S. debt and a perceived weakening of governance. Furthermore, Fitch anticipates the U.S. may face a recession later this year.
 
 This downgrade follows a period of federal deadlock that postponed a debt-ceiling resolution until just days before the U.S. was predicted to lose its capacity to service outstanding financial obligations.

@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-U.S. stocks surged Monday, clawing back much of Friday’s steep losses after President Donald Trump signaled that tensions with China may not escalate as sharply as investors feared.
-
 The Dow Jones Industrial Average jumped 491 points, or 1.1%, while the S&P 500 climbed 1.5% and the Nasdaq Composite rose 2%, powered by a rebound in beaten-down tech stocks. The rally helped recoup roughly 40% of Friday’s losses, which had erased about $2 trillion in market value amid fears of a renewed trade war.
 
 Semiconductor and AI-related names led the charge. AMD, Nvidia, and Oracle each gained more than 3%, while Broadcom soared over 7% after confirming a new partnership with OpenAI.
@@ -37,4 +35,4 @@ Meanwhile, earnings season kicks off this week, with Citigroup, Goldman Sachs, 
 
 Bond markets were closed for the Columbus Day holiday, leaving equity traders to drive the day’s optimism largely on sentiment—and on Trump’s tone shift. Whether that optimism holds through the week may depend on both the White House and Wall Street’s biggest banks.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

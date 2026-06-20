@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-The social media giant, X, previously known as Twitter, announced in its latest privacy policy update on Thursday that it will begin gathering biometric and professional details of its users.
-
 While the policy revisions have yet to be activated, they are scheduled to come into force on September 29.
 
 The newly revised privacy stipulations reveal the potential collection and utilization of biometric data by the company, emphasizing its use "for safety, security, and identification purposes."

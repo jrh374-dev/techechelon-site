@@ -11,7 +11,8 @@ readTime: 3
 migratedFromWix: true
 ---
 
-![San Francisco, CA.](https://static.wixstatic.com/media/e37254_d499ec083e7f480aab170076f8246e88~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_d499ec083e7f480aab170076f8246e88~mv2.jpg)
+*San Francisco, CA.*
 
 For years, the dominant story in tech has been geographic dispersal. Talent left coastal cities, startups followed, and capital became more distributed. San Francisco, New York, and Los Angeles were framed as legacy hubs struggling to stay relevant in a remote-first world.
 
@@ -23,7 +24,8 @@ According to [Multipolitan](https://www.multipolitan.com/)’s 2026 [Start-Up Fr
 
 Most rankings still rely on familiar inputs such as venture dollars, unicorn counts, and headline exits.
 
-![Start Friendly Cities Index 2026. Courtesy of Multipolitan.](https://static.wixstatic.com/media/e37254_a969f1a99fe840dd9ebaba26025154fa~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_a969f1a99fe840dd9ebaba26025154fa~mv2.jpg)
+*Start Friendly Cities Index 2026. Courtesy of Multipolitan.*
 
 Those metrics made sense when fundraising velocity was the primary signal of success. They matter less in an environment where founders are focused on durability, hiring, execution speed, and long-term retention.
 
@@ -41,7 +43,8 @@ The city continues to concentrate technical talent, early-stage formation, AI ca
 
 #### New York and Los Angeles Are Operating at the Same Tier
 
-![New York, NY.](https://static.wixstatic.com/media/e37254_a13576b1f1bf42e08b97c6ece4a8df5f~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_a13576b1f1bf42e08b97c6ece4a8df5f~mv2.jpg)
+*New York, NY.*
 
 New York’s top-five placement reflects its strength as a multi-sector operating hub. Fintech, enterprise software, healthcare, and media-adjacent technology all benefit from proximity to capital, customers, and regulators.
 
@@ -49,7 +52,8 @@ The city remains a place where companies start and professionalize.
 
 Los Angeles’ #6 ranking is equally telling.
 
-![Los Angeles, CA.](https://static.wixstatic.com/media/e37254_eaba3786ee2d4a61adffa392daa0f47e~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_eaba3786ee2d4a61adffa392daa0f47e~mv2.jpg)
+*Los Angeles, CA.*
 
 The city’s tech identity has shifted meaningfully over the past few years. Defense, aerospace, and dual-use startups have expanded across Southern California, drawn by specialized talent and the ability to build companies closer to physical and regulatory constraints. And the city’s proximity to Arizona’s chip production facilities has also bolstered its attractiveness to the tech industry. 
 

@@ -31,4 +31,4 @@ Murdoch emphasized that advertising revenue has become increasingly central to F
 
 The boards of both companies have already approved the deal, and it is expected to close in the first half of 2027, pending regulatory review. Fox's stock was trading down approximately 15% in premarket trading on Monday following the announcement, while Roku shares were largely unchanged.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

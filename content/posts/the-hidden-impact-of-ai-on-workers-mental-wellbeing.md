@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-As artificial intelligence continues to evolve, the individuals behind the technology are increasingly grappling with loneliness, insomnia, and a rise in post-work drinking habits, according to recent research.
-
 The study, revealed by the American Psychological Association on Monday, highlights an escalating concern over the mental and emotional wellbeing of AI researchers, resulting from their isolated work environment.
 
 "Working with AI systems can lead to negative ripple effects in the personal lives of employees. As inherently social beings, humans may find this isolation challenging," stated lead researcher, Pok Man Tang.

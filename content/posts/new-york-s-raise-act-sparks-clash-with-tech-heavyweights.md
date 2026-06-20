@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-A New York AI safety bill is drawing national attention — and big-money opposition — as the debate over state-level AI regulation heats up.
-
 A bipartisan super PAC backed by tech leaders including OpenAI President Greg Brockman, Palantir co-founder Joe Lonsdale, Andreessen Horowitz, and Perplexity is targeting congressional candidate Alex Bores over his support for the Responsible AI Safety and Education (RAISE) Act. 
 
 The group argues state rules would slow innovation and weaken the U.S. against China.

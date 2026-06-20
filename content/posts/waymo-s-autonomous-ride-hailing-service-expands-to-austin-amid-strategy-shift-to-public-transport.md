@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Alphabet's self-driving car unit, Waymo, has officially announced its expansion into Austin, Texas, marking the city as the latest addition to its ride-hailing pilot program, as revealed on Wednesday. Austin is now the fourth major city, following Metro Phoenix, San Francisco, and Los Angeles, to embrace Waymo's autonomous taxi service.
-
 The "initial phase of operations" in Austin is scheduled to commence this fall with a full deployment of autonomous vehicles. However, Waymo plans to delay providing services to the general public until a few months after this initial rollout. The company had already begun preliminary tests in Austin since March of this year.
 
 Chris Bonelli, Waymo's product communications manager, recently said the company's market entry strategy in Austin will follow a similar trajectory as previous launches, including manual testing, supervised testing, fully autonomous testing, and eventually public service. However, these stages won't start until the fall, and will progressively unfold from there.

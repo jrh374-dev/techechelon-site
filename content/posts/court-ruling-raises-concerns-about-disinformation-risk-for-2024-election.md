@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-A judicial order restricting communication between social media companies and specific agencies of the Biden administration may escalate the spread of disinformation in the lead up to the 2024 election.
-
 On Tuesday, a GOP-backed argument that claimed efforts to tackle disinformation infringe on protected speech led a federal judge to limit the interaction between the Biden administration and social media platforms. Experts fear this decision may suppress attempts to regulate false information on the internet.
 
 Brookings Institute’s Darrell West expressed concern that without significant content moderation, the spread of disinformation could escalate uncontrollably. The contention came from two Republican state attorneys general who alleged the Biden administration had partnered with social media platforms to suppress particular viewpoints and content, resulting in an alleged "campaign of censorship".

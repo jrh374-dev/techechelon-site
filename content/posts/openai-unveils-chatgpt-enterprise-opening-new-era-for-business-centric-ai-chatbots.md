@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-OpenAI revealed on Monday the latest development since the introduction of ChatGPT: the unveiling of ChatGPT Enterprise, a business-grade version of the AI chatbot available immediately.
-
 This business-centric tool, which took less than a year to develop, was fostered with input from over 20 diverse companies. OpenAI's COO, Brad Lightcap, has stated that ChatGPT Enterprise offers access to the GPT-4 model without limitations, performs up to twice as efficiently as its predecessors, and comes with API credits. However, pricing details remain undisclosed, with variations depending on company size and requirements. Notable beta testers include Block, Canva, and The Estée Lauder Cos.
 
 Earlier in the year, Microsoft invested an additional $10 billion in OpenAI, marking it as the year's most significant AI investment. By April, OpenAI secured a valuation between $27 billion-$29 billion, having received investments from giants like Sequoia Capital and Andreessen Horowitz. Remarkably, ChatGPT, within just two months of its November launch, boasted 100 million active users monthly, setting a record pace.

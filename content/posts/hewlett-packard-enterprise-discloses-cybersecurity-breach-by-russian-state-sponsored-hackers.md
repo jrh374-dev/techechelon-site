@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-01-25T15:08:16.169Z"
 coverImage: "https://static.wixstatic.com/media/e37254_fc22d3bea04a4f02a3fa246dafa19833~mv2.jpg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Hewlett Packard Enterprise (HPE) announced on Wednesday that it experienced a cybersecurity breach involving its cloud-based email system. The attack was attributed to the Russian state-sponsored hacking group, commonly referred to as Midnight Blizzard or Cozy Bear. 
 
 According to a regulatory filing by HPE, the breach was first identified in December 2023 and involved unauthorized access and data extraction from a small number of HPE email accounts since May 2023. These accounts belonged to employees across various departments including cybersecurity and business segments.
 
@@ -25,4 +23,4 @@ This group is linked to Russian intelligence and was responsible for the notable
 
 The disclosures by Microsoft and HPE are in line with new U.S. Securities and Exchange Commission regulations requiring companies to report significant cybersecurity incidents. Following the announcement, HPE's stock remained stable in after-hours trading, priced at $15.76.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

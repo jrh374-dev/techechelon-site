@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-06-27T14:18:30.099Z"
 coverImage: "https://static.wixstatic.com/media/e37254_ef9eb754497944abb2414437b7c688ca~mv2.jpeg"
-readTime: 3
+readTime: 2
 migratedFromWix: true
 ---
-
-The Critical Infrastructure and Cybersecurity Agency (CISA), a federal entity tasked with safeguarding essential services and countering cyber threats, has been indicted for overstepping its legal boundaries by monitoring domestic social media posts for misinformation, disinformation, and malinformation after the 2016 election, as per a preliminary report by a House committee steered by Republicans.
 
 The joint report, issued by the House Judiciary Committee and Subcommittee on Weaponization of the Federal Government, blames CISA for indirectly and directly censoring American citizens through third-party intermediaries. The report is backed by internal emails and meeting notes from the Department of Homeland Security (DHS).
 

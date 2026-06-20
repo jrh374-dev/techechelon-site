@@ -11,8 +11,6 @@ readTime: 13
 migratedFromWix: true
 ---
 
-Daniela Sarbu is a dedicated educational leader, whose profound personal journey inspired the establishment of Waldo International School. With a background rich in both personal experiences and academic credentials, Daniela brings a unique perspective to the world of education. Her initial encounters with the educational systems in Romania and later shifts in her academic pursuits have deeply influenced her approach to education, emphasizing understanding over rote learning. Daniela's vision for Waldo International School stems from a deeply rooted belief that education should be transformative, not transactional.
-
 Under Daniela's leadership, Waldo International School has become a beacon for progressive education, where the focus is on nurturing not just academic abilities but also critical thinking and personal growth. Daniela’s strategies include individualized learning plans, smaller class sizes, and an integration of International Baccalaureate programs, each designed to foster a holistic development of students. As a visionary, Daniela is not only looking to educate but to inspire students to be curious, engaged, and thoughtful individuals.
 
 In an exclusive interview, Daniela shares the inspirational story behind Waldo International School, its distinctive educational approach, and her aspirations for its future. Join us as she elaborates on how the school’s commitment to understanding, critical thinking, and personalized education sets it apart, making it an ideal environment for fostering the leaders of tomorrow.
@@ -21,7 +19,7 @@ In an exclusive interview, Daniela shares the inspirational story behind Waldo I
 
 The story behind the founding of Waldo International School is deeply personal and rooted in my own experiences and values. It all began with the birth of my first son when I encountered the challenge of finding a school that truly resonated with what I envisioned for his education. Despite various options in the area, none quite captured the essence of the educational journey I had experienced in Romania.
 
-![](https://static.wixstatic.com/media/e37254_ce7ff763dc86423eb1f1ec5ba5d220ce~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_ce7ff763dc86423eb1f1ec5ba5d220ce~mv2.jpg)
 
 My own educational background in Romania played a significant role in shaping my vision for Waldo International School. I firmly believe that education is the most powerful tool we can give to our children. It's not just about imparting knowledge but about fostering understanding and critical thinking. This belief was ignited during my high school years when I faced a pivotal moment that redirected my educational path.
 

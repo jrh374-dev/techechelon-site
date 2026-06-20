@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-After more than two years of stagnation, the tech IPO market is beginning to stir back to life, offering a glimmer of hope for investors and startups alike.
-
 This week, stock brokerage platform eToro made a strong public market debut, with shares jumping nearly 29% after pricing above the expected range. On the same day, newly public artificial intelligence infrastructure company CoreWeave posted 420% revenue growth in its first earnings report, sending its stock up roughly 60% for the week and doubling since its March IPO.
 
 These milestones mark a notable shift in momentum. Optimism had been growing earlier this year until the announcement of new U.S. tariffs in April sent markets into a tailspin. The resulting volatility caused several companies — including Klarna and StubHub — to delay their IPO plans.
@@ -31,4 +29,4 @@ Still, industry leaders caution that a full recovery in the IPO market depends o
 
 “The IPO market might be one of the latter ones to return as the market starts to recover, just given the risk around IPOs,” said Gerring. “We’re trending in the right direction.”
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

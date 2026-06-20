@@ -11,11 +11,10 @@ readTime: 3
 migratedFromWix: true
 ---
 
-_Purpose-built AI-native security model proactively hunts for breaches, combining autonomous AI responses with human oversight when required. It reflects Option3’s Zero Trust heritage through identity-based access decisions that adapt to evolving contexts across networks and endpoints._
-
 Cybersecurity investment specialist Option3 is preparing to bring its next-generation platform to market, targeting a summer launch for what it now calls Native 2020. The platform is designed to provide organizations without a dedicated Chief Information Security Officer (CISO) with what the company describes as an “Agentic CISO,” capable of making real-time AI-enabled security decisions while deferring to human oversight when required.
 
-![Courtesy of Option3.](https://static.wixstatic.com/media/e37254_4b92ef10106947b2a71301a6e8c65d93~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_4b92ef10106947b2a71301a6e8c65d93~mv2.jpg)
+*Courtesy of Option3.*
 
 The Native 2020 concept pairs an autonomous decision engine with fractional CISO services, also offered through the platform, aimed at meeting the needs of mid-market organizations that typically lack in-house security leadership and resources.
 

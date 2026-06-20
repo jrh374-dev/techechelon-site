@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-07-23T18:12:00.313Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e0e1b3c8c4584a84843fabe67a634c38~mv2.webp"
-readTime: 3
+readTime: 2
 migratedFromWix: true
 ---
-
-OpenAI CEO Sam Altman painted a bold picture of artificial intelligence’s future during a wide-ranging conversation with Federal Reserve Vice Chair Michelle Bowman this week in Washington, D.C., where he likened AI’s societal impact to that of the transistor and predicted a coming era of “intelligence too cheap to meter.”
 
 Speaking at the Federal Reserve’s Integrated Review of the Capital Framework for Large Banks Conference, Altman emphasized the extraordinary pace at which AI capabilities and adoption have evolved since the debut of ChatGPT in late 2022. Once viewed as futuristic, AI has become foundational in sectors from software development to scientific research. 
 

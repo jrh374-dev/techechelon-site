@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Nvidia CEO Jensen Huang has sharply criticized U.S. chip export controls, calling them a “failure” that have severely hurt American business interests while accelerating China’s efforts to develop its own semiconductor technologies.
-
 Speaking at the Computex tech conference in Taiwan, Huang said the restrictions have slashed Nvidia’s market share in China from 95% to 50%. He warned that if U.S. policy doesn’t shift soon, the country risks losing access to China’s massive market—and ceding leadership in the global race for artificial intelligence dominance.
 
 “The current approach is backfiring,” Huang said. “Rather than weakening China, it’s motivating them to build alternatives faster.”
@@ -33,4 +31,4 @@ As U.S.-China tech tensions deepen, Nvidia is walking a geopolitical tightrope�
 
 Huang’s message to U.S. policymakers remains urgent: rethink the strategy, or risk falling behind in the AI race.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

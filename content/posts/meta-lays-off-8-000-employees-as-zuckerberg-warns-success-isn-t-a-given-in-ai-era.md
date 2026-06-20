@@ -33,4 +33,4 @@ The broader tech industry is undergoing similar workforce realignments. Cisco sa
 
 Despite Wednesday's assurances, sources previously told CNBC that additional Meta layoff rounds are anticipated — one in August and another in the fall — underscoring that the company's restructuring is far from complete even as Zuckerberg pledges stability for the remainder of the year.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-The European Union is investigating Meta, the parent company of Facebook and Instagram, for the potentially addictive effects of its platforms on children.
-
 The European Commission, the bloc’s executive arm, opened formal proceedings against Meta on Thursday to determine if the company violated the Digital Services Act (DSA) protections for minors.
 
 In a press release, the commission highlighted concerns that the design of Facebook and Instagram "may exploit the weaknesses and inexperience of minors and cause addictive behaviour."

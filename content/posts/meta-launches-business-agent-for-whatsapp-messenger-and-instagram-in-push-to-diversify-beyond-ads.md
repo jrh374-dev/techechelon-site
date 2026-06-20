@@ -33,4 +33,4 @@ Meta is entering a crowded field. Amazon and Microsoft have both released agent 
 
 Zuckerberg has positioned AI as central to Meta's long-term competitive ambitions, citing rivalries with OpenAI, Anthropic, and Google in the development of frontier models and AI services. Meta Business Agent represents the most direct commercial expression of that strategy to date, translating model development into a subscription product aimed squarely at small and mid-sized businesses.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

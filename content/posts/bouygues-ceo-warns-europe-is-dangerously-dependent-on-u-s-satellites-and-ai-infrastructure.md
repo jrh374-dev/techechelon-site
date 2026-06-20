@@ -29,4 +29,4 @@ Roussat expressed cautious optimism that regulators would approve the deal. "The
 
 The remarks underscore a widening debate within Europe over digital sovereignty, as policymakers and corporate leaders weigh the strategic risks of dependence on infrastructure controlled by U.S. companies or figures with ties to the American government. With SpaceX's IPO potentially approaching and no European satellite internet provider operating at comparable scale, the window for building a sovereign alternative appears, by Roussat's assessment, to be narrowing.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

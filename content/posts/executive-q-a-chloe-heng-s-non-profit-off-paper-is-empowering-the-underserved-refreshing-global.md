@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-02-26T13:00:22.787Z"
 coverImage: "https://static.wixstatic.com/media/e37254_22ef083e5dd54ee9b5c22d3b1c9e568a~mv2.png"
-readTime: 20
+readTime: 19
 migratedFromWix: true
 ---
-
-Off Paper emerged in response to educational disparities amplified by the Covid-19 pandemic, aiming to provide quality education to underserved communities through a tailored literacy app. Drawing from extensive community feedback and recognizing the vital role of English as a lingua franca, Off Paper focused on practical learning needs, fostering digital solutions even in low-resource settings. The non-profit's initiatives include culturally sensitive content, comprehensive training for educators, and the incorporation of life skills alongside academic learning. 
 
 As Off Paper continues to grow, it measures success through community engagement and the effectiveness of its programs, while planning for technological updates and character-building features. The organization invites participation and contributions from like-minded individuals and entities to support its mission and further its impact on global education.
 
@@ -19,7 +17,7 @@ TechEchelon recently interviewed Off Paper's founder, Chloe Heng, on the organiz
 
 **Q: What inspired the creation of Off Paper, and how did you identify the specific needs it addresses in underserved communities?**
 
-![](https://static.wixstatic.com/media/e37254_4a4ba977e45a45109eb39f278dd74839~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_4a4ba977e45a45109eb39f278dd74839~mv2.jpg)
 
 Amid the challenges posed by the Covid-19 pandemic, technology emerged as a pivotal force reshaping our work and learning landscape. Initiatives driven by technology, such as online learning, demonstrated their potential to deliver high-quality education to individuals, irrespective of location and time. The genesis of Off Paper can be traced back to my experiences during this transformative period. It became a fertile ground for innovative solutions, presenting opportunities to enhance existing ways of life. Having encountered various digital tools that facilitated quality learning experiences, my goal was to create a product tailored to the needs of underserved children, providing them with similar opportunities.
 

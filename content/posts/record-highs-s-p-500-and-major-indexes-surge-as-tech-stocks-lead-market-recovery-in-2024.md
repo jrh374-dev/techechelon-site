@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-On Friday, the S&P 500 Index achieved a new record high, signaling a robust rebound in investor confidence and a vigorous return to equity purchases after a brief downturn at the outset of the year. The index witnessed a 1.1% rise, surpassing its previous high of 4818.62 set in January 2022.
-
 Concurrently, the Dow Jones Industrial Average, which had reached a record high at the end of the previous year, climbed by 360 points, or 1%. The Nasdaq Composite also advanced by 1.1%, and the Nasdaq-100, known for its focus on smaller, tech-centric companies, increased by 1.4%, reaching a new record as well.
 
 All three major U.S. stock indexes have now moved into positive territory for the year 2024, with the Dow turning positive during Friday's surge. This marks a significant recovery for the S&P 500, which had experienced a 19% decline in 2022. In 2023, the index rallied impressively with a 24% gain, buoyed by an economy that avoided a recession and an easing of inflation, allowing the Federal Reserve to halt interest rate hikes. The market rally had paused briefly at the beginning of 2024 as investors took profits from major tech companies like Apple.
@@ -27,4 +25,4 @@ In individual stock news, insurance company Travelers saw its shares rise by mor
 
 In the medical technology sector, Inspire Medical Systems experienced a notable boost. Shares of the company, which sells a device for treating obstructive sleep apnea, have risen more than 36% from a 52-week low set in mid-November. Analysts at Jefferies anticipate over 26% potential growth for the stock, having initiated it at a buy with a price target of $245. This optimism is based on the company's continued performance and growing awareness of its product, coupled with diminishing concerns over the impact of anti-obesity medications like Ozempic on its market. Inspire's shares were up more than 2% in Friday's trading.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

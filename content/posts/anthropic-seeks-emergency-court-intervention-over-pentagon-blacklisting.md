@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Artificial intelligence company Anthropic is asking a federal appeals court to block the Pentagon’s designation of its technology as a national security supply chain risk, arguing that the decision could cause severe financial damage and was issued without proper legal authority.
-
 In a filing submitted to the U.S. Court of Appeals for the D.C. Circuit, Anthropic requested an emergency stay that would temporarily halt the designation issued by Pete Hegseth, the U.S. Secretary of Defense. 
 
 The company’s lawyers claim the order—first announced in a social media post—was not a formal agency determination and lacked the statutory justification typically required for such actions.

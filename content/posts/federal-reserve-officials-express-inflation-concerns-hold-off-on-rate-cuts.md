@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-During their latest meeting, Federal Reserve officials expressed increasing concerns about inflation, indicating hesitance to consider reductions in interest rates.
-
 The minutes from the Federal Open Market Committee's April 30-May 1 meeting, released on Wednesday, revealed policymakers' unease about the timing for easing monetary policy.
 
 Recent data leading into 2024 suggested that inflation was persisting more than expected. The Fed aims for a 2% inflation rate, but recent indicators have shown price increases significantly above this target.
@@ -41,4 +39,4 @@ In public comments following the meeting, Fed officials have adopted a cautious 
 
 Market expectations for interest rate cuts have been recalibrated, with futures now showing about a 60% likelihood of a rate cut in September and a slightly better than even chance for a second cut in December. This marks a significant shift from earlier predictions of up to six quarter-point cuts this year.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

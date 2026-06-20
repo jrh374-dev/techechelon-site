@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-On Tuesday, Alibaba unveiled its most advanced artificial intelligence model yet, stepping up to compete with leading U.S. technology firms including Amazon and Microsoft.
-
 The Chinese e-commerce and cloud computing behemoth announced the release of Tongyi Qianwen 2.0, its new sophisticated large language model (LLM). LLMs, trained on extensive data sets, are the technological foundation for generative AI tools like ChatGPT, developed by American company OpenAI.
 
 Described as a significant improvement over its April-released predecessor, Alibaba highlighted Tongyi Qianwen 2.0's enhanced abilities in complex instruction comprehension, copywriting, reasoning, memory retention, and reduction of AI "hallucinations," a term for AI-generated incorrect information.

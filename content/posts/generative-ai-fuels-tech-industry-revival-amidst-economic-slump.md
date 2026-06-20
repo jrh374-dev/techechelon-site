@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-After a stagnation period earlier this year, the tech industry is experiencing a revival, thanks to the rise of generative artificial intelligence (AI). The tech world, which once grappled with decreased profits and job cuts, especially after the pandemic and rising federal interest rates, is now finding hope in this AI segment.
-
 According to Ali Javaheri from PitchBook, there was a noticeable dip in both venture capital funding and startup valuations. This decline, he says, resulted largely from the interest rate increase and a subsequent reduction in liquidity. 
 
 However, the current upswing in generative AI seems to be rejuvenating the industry. Javaheri observed, "AI, particularly generative AI, has remained robust, becoming a significant hub for funding, contrasting with the general tech domain."

@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Former President Donald Trump is set to launch his new cryptocurrency platform, World Liberty Financial, in a high-profile address from Mar-a-Lago on Monday. 
-
 In a video posted Thursday on the social platform X, Trump emphasized the need to move away from traditional banking systems, saying, “We’re embracing the future with crypto and leaving the slow and outdated big banks behind.”
 
 The launch event, branded as a “state of crypto address,” will take place on X’s Spaces at 8 p.m. EDT on Monday, where Trump will further elaborate on his vision for the platform as the Republican presidential nominee. 

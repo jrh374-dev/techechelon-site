@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-The resilience of the U.S. job market continues to defy expectations, delivering robust job growth across various sectors in January with a notable increase of 353,000 positions.
-
 Leading the employment surge was the health care and social assistance sector, contributing over 100,000 jobs. When factoring in private education, often grouped with the aforementioned sectors by some analysts, the figure rises to 112,000.
 
 Ambulatory health services and hospitals were significant contributors to the health care sector's expansion, with net increases of 33,000 and 20,000 jobs, respectively, as reported by the Bureau of Labor Statistics.

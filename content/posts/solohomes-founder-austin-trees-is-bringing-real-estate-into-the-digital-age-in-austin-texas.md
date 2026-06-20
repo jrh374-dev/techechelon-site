@@ -13,7 +13,7 @@ migratedFromWix: true
 
 In the heart of Austin’s booming housing market, [SoloHomes](https://www.solo-homes.com/) is making waves by offering a fresh, tech-forward approach to real estate. The brainchild of Austin Trees, SoloHomes aims to streamline the home buying and selling process by reducing fees and enhancing transparency, giving consumers more control over their transactions. Trees’ vision for SoloHomes is rooted in his extensive experience in real estate, both in the commercial and residential sectors.
 
-![](https://static.wixstatic.com/media/e37254_1470f90a05364f728bcff0540fdcc18b~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_1470f90a05364f728bcff0540fdcc18b~mv2.jpg)
 
 "I’ve worked in real estate for nearly a decade," says Trees, recounting his work with companies like Apple and Roku on real estate needs in Texas. He notes that while the commercial space has rapidly embraced technology and seen fee compression, the residential market has lagged in delivering financial value to buyers and sellers. "It became clear to me that despite gains in technology in this space, very little financial gains were making their way to buyers and sellers," Trees explains. This realization drove him to create SoloHomes, a platform that empowers users to manage their home transactions digitally and with fewer costs.
 

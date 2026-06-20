@@ -7,15 +7,14 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-10-21T22:31:45.192Z"
 coverImage: "https://static.wixstatic.com/media/e37254_497930c86d7a4b6f9bd097aebd76991b~mv2.jpg"
-readTime: 9
+readTime: 8
 migratedFromWix: true
 ---
 
-Eric Crites is a dynamic leader in the healthcare data management space, leveraging his extensive expertise to drive innovation in clinical data solutions. As Senior Vice President of Q-Centrix, Eric plays a pivotal role in transforming how hospitals and health systems manage and utilize clinical data to improve patient outcomes, streamline operations, and drive strategic growth.
-
 Q-Centrix is at the forefront of revolutionizing clinical data management, with its groundbreaking Enterprise Clinical Data Management (eCDM™) platform and industry-leading team of clinical experts. Eric’s path to Q-Centrix is rooted in a deep passion for harnessing the power of data to enhance healthcare quality and patient safety.
 
-![Eric Crites, Senior Vice President, Q-Centrix.](https://static.wixstatic.com/media/e37254_0fa6780555b0435e98f3410d90535997~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_0fa6780555b0435e98f3410d90535997~mv2.jpg)
+*Eric Crites, Senior Vice President, Q-Centrix.*
 
 In this exclusive Q&A, Eric Crites shares insights into Q-Centrix’s unique approach to clinical data management, the role of AI and automation in driving efficiency, and how the company is preparing to meet the future challenges of the healthcare industry. He also sheds light on how Q-Centrix partners with hospitals to elevate patient care, improve clinical research, and navigate regulatory complexities with ease.
 

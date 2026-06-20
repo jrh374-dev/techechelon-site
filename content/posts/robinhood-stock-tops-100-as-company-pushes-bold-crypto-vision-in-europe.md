@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Robinhood shares broke the $100 mark for the first time this week, continuing a surge that has lifted the stock more than 30% in the days since it was passed over for inclusion in the S&P 500.
-
 The rally coincides with a major strategic shift overseas. At an event in a Belle Époque mansion on the French Riviera, Robinhood unveiled plans to bring traditional financial assets fully on-chain — including tokenized stocks, ETFs, and private equity offerings.
 
 “This presentation and these products are dual-purpose,” said CEO Vlad Tenev. “The first purpose is obviously to deliver great products to users, but I think the second purpose is to just demonstrate very concretely how great it could be if crypto technology and traditional financial services could fully merge.”
@@ -25,4 +23,4 @@ Johann Kerbrat, general manager of Robinhood Crypto, added: “In the future, we
 
 Robinhood also launched crypto staking in the U.S. this week, a feature previously blocked by regulators. The company reported 50% year-over-year revenue growth in the first quarter.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

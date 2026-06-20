@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-OpenAI is acquiring cybersecurity startup Promptfoo as part of a broader push to strengthen safeguards around the rapidly expanding ecosystem of AI agents. Financial terms of the deal were not disclosed, but Promptfoo’s team will join OpenAI and its technology will be integrated into the company’s Frontier platform, which is designed to power autonomous AI agents operating across real-world systems.
-
 Promptfoo specializes in tools that allow developers to test, validate, and secure complex AI systems before they are deployed. 
 
 As AI agents increasingly interact with enterprise software, data systems, and automated workflows, ensuring that those systems behave safely and reliably has become one of the industry’s most pressing challenges. Promptfoo CEO Ian Webster said joining OpenAI will allow the company to accelerate work on “stronger security, safety, and governance capabilities” for teams building AI-powered applications.

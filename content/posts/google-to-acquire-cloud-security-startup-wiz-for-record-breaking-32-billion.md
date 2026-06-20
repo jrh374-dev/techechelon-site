@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Google announced on Tuesday that it has reached a definitive agreement to acquire the New York-based cloud security startup Wiz for $32 billion in an all-cash transaction. This acquisition will be the largest in Google's history, surpassing its previous largest purchase—the $12.5 billion acquisition of hardware manufacturer Motorola in 2012.
-
 With this deal, Wiz will become a part of Google's cloud division, significantly bolstering Google's security offerings in response to growing cybersecurity threats and rapid advancements in artificial intelligence. Google expects the acquisition to be completed by 2026.
 
 "Google Cloud is a leader in cloud infrastructure, with deep AI expertise and a track record of industry-leading security innovation," the company stated. "Bringing all this to Wiz will help make their solutions even better and more scalable, benefiting customers and partners across all major clouds."
@@ -27,4 +25,4 @@ Despite the acquisition, Wiz products will continue to support competitor cloud 
 
 The agreement could face regulatory scrutiny; however, Wall Street analysts have indicated optimism that President Donald Trump's administration may adopt a more permissive stance toward tech mergers and acquisitions. Alphabet, Google's parent company, is currently navigating an antitrust lawsuit over its dominance in online search.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

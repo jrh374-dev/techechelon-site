@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-The U.S. Treasury Department announced sanctions against the Greece-based spyware company Intellexa, along with its executive leadership, for targeting U.S. officials, reporters, and activists. These sanctions, described as unprecedented, aim to curb the abuse of commercial surveillance technology.
-
 The sanctions, announced on Tuesday, are against two key figures and five associated organizations linked to Intellexa. These parties were involved in the development, management, and distribution of spyware tools, which have been used to compromise the privacy of journalists, activists, and government personnel.
 
 Under Secretary of the Treasury for Terrorism and Financial Intelligence, Brian E. Nelson, emphasized the importance of these measures in combating the security risks posed by the misuse of surveillance technologies in the U.S. and abroad. He noted that the move underscores the U.S. commitment to setting standards for responsible technology use while safeguarding civil liberties and human rights worldwide.

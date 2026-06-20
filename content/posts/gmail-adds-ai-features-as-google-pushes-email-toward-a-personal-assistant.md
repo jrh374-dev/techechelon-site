@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2026-01-08T16:10:26.076Z"
 coverImage: "https://static.wixstatic.com/media/e37254_d742b56b26e14e01b43ac1f408b74c65~mv2.jpg"
-readTime: 3
+readTime: 2
 migratedFromWix: true
 ---
-
-Google is rolling out a new slate of artificial intelligence features for Gmail, signaling a major shift in how the world’s most widely used email platform functions, from inbox to AI-powered personal assistant.
 
 The new capabilities, announced Thursday, are designed to help users write more effectively, surface information buried across years of email, and proactively generate daily to-do lists. Google is initially launching the features in English for users in the United States, with plans to expand globally and into additional languages over time.
 

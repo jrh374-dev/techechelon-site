@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Elon Musk announced Wednesday that his artificial intelligence venture xAI has undergone a reorganization following the departure of multiple co-founders and just days after its merger with SpaceX.
-
 The restructuring, Musk said in a post on X, was designed “to improve speed of execution” and required “parting ways with some people.” He did not specify how many employees were let go or which exits were voluntary. Musk added that the company is now “hiring aggressively.”
 
 Earlier this week, xAI co-founders Jimmy Ba and Tony Wu announced they were leaving the company. Their exits follow earlier departures from several founding members, including Igor Babuschkin, Kyle Kosic, Christian Szegedy and Greg Yang.
@@ -35,4 +33,4 @@ The reorganization suggests a shift from founding-team experimentation to scaled
 
 Whether the overhaul signals internal turbulence or simply growing pains as Musk consolidates his AI ambitions into a trillion-dollar enterprise will likely become clearer as hiring accelerates and the IPO timeline sharpens.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

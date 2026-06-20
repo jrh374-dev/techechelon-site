@@ -11,15 +11,14 @@ readTime: 4
 migratedFromWix: true
 ---
 
-New York-based private equity firm Invidia Capital Management LP (“Invidia”) is a recently formed investment management firm with a targeted approach to middle-market investments in the healthcare space. Officially launched early this year by Jo Natauri, a seasoned healthcare investor with over 25 years of experience in the healthcare industry, the firm is focused on bringing large-cap experience to the upper-middle market, seeking to create long-term value for stakeholders while addressing healthcare’s most pressing needs.
-
 Following its recent inception, Invidia is focused on targeting high-growth subsectors within healthcare, including supporting R&D innovation, tech-enabled services, delivery transformation, and consumer-oriented healthcare. The firm’s mission is ambitious: seeking to reshape middle-market healthcare through a holistic, patient-centric approach while generating meaningful returns for investors.
 
 “Invidia differentiates itself from other firms because we seek to bring large-cap strategic insights and resources to the middle market, a segment of the market that often lacks the support and growth-oriented resources that larger companies enjoy,” explains Javier Bravo Nieto, Senior Associate at Invidia. “We believe there’s an opportunity to not only drive growth and operational efficiencies but to also create meaningful impact across the healthcare ecosystem, from patients to providers and payors.”
 
 Bravo Nieto, who officially joined Invidia this past summer, brings a strong background in healthcare investing from Goldman Sachs. His journey, marked by years of experience in both investment banking and private equity, has shaped his perspective on the healthcare sector’s challenges and opportunities.
 
-![Javier Bravo Nieto, Senior Associate at Invidia.](https://static.wixstatic.com/media/e37254_e51d7cc880d04f6c84b63cdf686305e8~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_e51d7cc880d04f6c84b63cdf686305e8~mv2.jpg)
+*Javier Bravo Nieto, Senior Associate at Invidia.*
 
 “At Goldman, I worked exclusively in healthcare, where I gained an understanding of the industry’s complexity and the value of providing companies with strategic capital and operational support,” he says. “Joining Invidia was a natural progression for me because it allows me to continue working in healthcare and to seek to apply a sharper focus on innovation and growth in the middle market.”
 

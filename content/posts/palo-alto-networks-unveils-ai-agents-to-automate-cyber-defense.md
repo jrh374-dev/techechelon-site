@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Palo Alto Networks is launching a new generation of artificial intelligence agents designed to help companies automatically detect and respond to cyber threats as attacks grow more complex and relentless.
-
 The cybersecurity giant unveiled its new system, Cortex AgentiX, on Tuesday. The AI agents can autonomously handle investigations, respond to email breaches, and coordinate threat intelligence across multiple security vendors. The tools are available immediately through Palo Alto’s existing cloud services and will expand into a dedicated platform next year.
 
 CEO Nikesh Arora said the launch responds to a surge in demand for automated protection amid an unprecedented rise in attack sophistication. “Many enterprises are still under the illusion that they are extremely secure,” Arora warned during a press briefing. He added that most of the company’s AI agents will still include human oversight to verify actions before deployment.

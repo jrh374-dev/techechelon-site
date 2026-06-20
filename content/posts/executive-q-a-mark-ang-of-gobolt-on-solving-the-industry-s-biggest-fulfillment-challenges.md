@@ -11,13 +11,12 @@ readTime: 9
 migratedFromWix: true
 ---
 
-As brands face growing pressure to deliver faster, cheaper, and more sustainably, the logistics sector is entering a pivotal period of transformation. From evolving tariff regulations to rising delivery expectations and increasingly complex returns, the decisions brands make today about their supply chain partners will define their ability to compete tomorrow.
-
 [GoBolt](https://www.gobolt.com/), a tech-enabled 3PL and last-mile logistics provider, recently released its [2025 ](https://www.gobolt.com/research-report-2025/)_[State of Logistics Report](https://www.gobolt.com/research-report-2025/)_—a data-rich look at the key challenges and priorities shaping the year ahead for retail and DTC brands. The report draws on insights from hundreds of supply chain leaders and outlines clear action steps around cost reduction, carrier diversification, transparency, and sustainability.
 
 To better understand the motivations behind the report—and what the findings say about where the industry is headed—we sat down with GoBolt CEO and Co-Founder Mark Ang. In this Executive Q&A, Ang reflects on the logistics pain points that first inspired GoBolt, what surprised him most in this year’s survey results, and how his team is preparing for the next wave of disruption.
 
-![Mark Ang, Co-Founder and CEO of GoBolt.](https://static.wixstatic.com/media/e37254_fd9d9a8323a64b7ba951066c7f7b7b85~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_fd9d9a8323a64b7ba951066c7f7b7b85~mv2.jpg)
+*Mark Ang, Co-Founder and CEO of GoBolt.*
 
 **Q: For those who may not be familiar with GoBolt yet, can you share a bit about your company’s origin story and what problem you set out to solve in the logistics world?**
 

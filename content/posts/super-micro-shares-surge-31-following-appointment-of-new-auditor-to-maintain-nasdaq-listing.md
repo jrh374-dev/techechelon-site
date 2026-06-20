@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Super Micro shares skyrocketed by 31% on Tuesday after the company announced it had appointed BDO as its new independent auditor and submitted a compliance plan to Nasdaq to retain its listing on the exchange.
-
 The stock, which had experienced a steep decline since its peak in March, has surged more than 50% over the past two trading days amid investor optimism about the company's potential to maintain its Nasdaq status. Despite the recent gains, Super Micro has seen a sharp fall in its market valuation, losing nearly three-quarters of its value since its peak, a drop translating to approximately $54 billion in market capitalization.
 
 The server manufacturer has faced challenges with timely financial reporting, delaying its 2024 year-end report to the Securities and Exchange Commission (SEC). The company’s previous auditor, Ernst & Young, resigned in October after taking over from Deloitte & Touche in March 2023.
@@ -29,4 +27,4 @@ In a further positive development, Super Micro recently announced it would offer
 
 In September, Super Micro received a Nasdaq compliance notice due to its delayed report. According to Nasdaq rules, the company had 60 days to either file the report or present a compliance plan, with the deadline set for Monday.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

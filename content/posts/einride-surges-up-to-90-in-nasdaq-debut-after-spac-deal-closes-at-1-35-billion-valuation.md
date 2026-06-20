@@ -33,4 +33,4 @@ Texas has emerged as the primary deployment hub for autonomous freight companies
 
 Einride's public debut comes as the autonomous trucking sector enters what the industry broadly describes as a period of rapid commercial scaling. Whether the company's existing customer base and ARR pipeline prove sufficient to justify Wednesday's first-day gains will likely depend on how quickly it can convert its joint business plan commitments into deployed trucks and contracted revenue.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

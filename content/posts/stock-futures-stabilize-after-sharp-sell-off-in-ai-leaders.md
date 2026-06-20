@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-U.S. stock futures were mostly flat Thursday night after a turbulent session that saw major indexes reverse sharply on renewed anxiety around artificial intelligence valuations.
-
 Dow futures ticked up roughly 0.1%, while S&P 500 futures slipped 0.1%. Nasdaq-100 futures fell nearly 0.3% as traders continued rotating out of megacap tech.
 
 The whiplash came just hours after Nvidia’s blowout fiscal Q3 results briefly ignited a powerful morning rally. 
@@ -31,4 +29,4 @@ All three major indexes are on track for weekly losses as investors lock in prof
 
 Still, some analysts view Thursday’s reversal as a healthy, even necessary, reset.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

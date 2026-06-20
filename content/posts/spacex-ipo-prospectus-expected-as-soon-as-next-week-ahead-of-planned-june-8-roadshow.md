@@ -31,4 +31,4 @@ OpenAI and Anthropic, two of the largest AI model developers, are also pursuing 
 
 The timing underscores the degree to which public markets are being reshaped by the AI buildout, with investors competing for exposure to a sector that has driven much of the equity market's momentum over the past several years. How SpaceX prices and allocates its offering will be closely watched as a signal of how much further that appetite extends.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

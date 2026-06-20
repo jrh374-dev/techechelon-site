@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Semiconductor Manufacturing International Corporation (SMIC) expressed concerns about heightened competition in the chip sector on Friday after its first-quarter earnings fell short of expectations.
-
 During its earnings call, SMIC stated, "There is increasing competition in the industry, and pricing for commodity products generally aligns with market trends."
 
 SMIC, which is pivotal to China's strategy to reduce dependency on foreign semiconductors, underscored its commitment to advancing its technology in mainland China. "The company is advancing its technological capabilities significantly, aiming to jump ahead by one to two generations," SMIC announced.
@@ -35,4 +33,4 @@ For the second quarter, SMIC anticipates a revenue increase of 5% to 7% and warn
 
 Additionally, SMIC has been affected by being listed on a U.S. trade blacklist in 2020, which hinders its ability to procure certain U.S. technologies. Despite these challenges, a recent analysis revealed that Chinese tech giant Huawei’s Mate 60 Pro smartphone uses a 7-nanometer chip manufactured by SMIC, demonstrating capabilities in advanced chip technology despite U.S. restrictions. TSMC and Samsung have been producing 7-nanometer chips since 2018 and have moved to even more advanced 3-nanometer technology.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

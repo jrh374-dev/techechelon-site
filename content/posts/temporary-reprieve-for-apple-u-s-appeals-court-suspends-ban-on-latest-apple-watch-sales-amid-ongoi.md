@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-The U.S. Federal Appeals Court has provisionally halted the execution of an International Trade Commission (ITC) ruling that prevented Apple from selling its latest models of the Apple Watch in the U.S. This temporary suspension was granted on Wednesday while the court deliberates on whether to extend a more enduring stay as Apple contests the ITC's verdict.
-
 Apple had submitted an urgent request to the appeals court on Tuesday, just after the prohibition on imports became effective.
 
 Anticipating the embargo, Apple had already withdrawn the Apple Watch Series 9 and Ultra 2 from its stores shortly before the holiday season. The Biden administration, given 60 days to comment on the matter, announced on Tuesday it would not intercede.

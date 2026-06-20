@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-10-11T18:15:20.298Z"
 coverImage: "https://static.wixstatic.com/media/e37254_eb65a7a31ed445ddb751e7be9a3a5e74~mv2.jpg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Geoffrey Hinton, often dubbed the "Godfather of AI," cautioned about the potential for AI-driven machines to surpass human control during a recent interview on CBS' "60 Minutes."
 
 Hinton, 75, highlighted the speed at which AI technology is advancing, suggesting it could surpass human intelligence within half a decade. This rapid evolution could result in AI systems being uncontrollable if they start self-modifying through their own coding.
 

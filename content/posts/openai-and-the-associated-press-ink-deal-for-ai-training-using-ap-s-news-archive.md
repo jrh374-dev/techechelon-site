@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-OpenAI, the creator of AI language model ChatGPT, has signed a licensing deal with The Associated Press (AP) for access to its news story archive, in order to help train OpenAI's AI systems, the companies announced on Thursday.
-
 As part of the agreement, AP's text archive will be incorporated into OpenAI's licensing and the AI company will provide technology and product support to AP. The specifics of this technological collaboration are still under wraps.
 
 In a joint statement, both organizations emphasized their belief in the responsible development and usage of AI systems. They acknowledged that they both stand to benefit from each other's well-established industry expertise.

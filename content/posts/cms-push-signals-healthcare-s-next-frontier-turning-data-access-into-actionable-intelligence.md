@@ -15,7 +15,8 @@ As healthcare continues moving toward broader interoperability, the conversation
 
 This week, [CMS’s “Kill the Clipboard” initiative](https://www.cms.gov/newsroom/press-releases/cms-launches-first-wave-healthtech-ecosystem-tools-fast-tracking-fully-digital-patient-centered) again drew attention to one of the industry’s most visible pain points: the administrative friction created by paper intake forms, fragmented records, and disconnected systems. CMS has positioned the effort around digital check-in and patient-controlled data sharing, part of a wider push toward a more connected health technology ecosystem.
 
-![Companies supporting CMS's Kill the Clipboard initiative attend an event hosted by the agency on April 9, 2026.](https://static.wixstatic.com/media/e37254_dfaef1cecb0643ca81d4e3a143326a8e~mv2.jpeg)
+![Photo](https://static.wixstatic.com/media/e37254_dfaef1cecb0643ca81d4e3a143326a8e~mv2.jpeg)
+*Companies supporting CMS's Kill the Clipboard initiative attend an event hosted by the agency on April 9, 2026.*
 
 That reflects clear progress in an area healthcare has struggled with for years. But it also highlights a larger issue now coming into focus across the market.
 

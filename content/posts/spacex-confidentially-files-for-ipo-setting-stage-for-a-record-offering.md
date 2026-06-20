@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2026-04-07T18:59:33.326Z"
 coverImage: "https://static.wixstatic.com/media/nsplsh_a8cee03ed71b40718aecfb77601743c8~mv2.jpg"
-readTime: 3
+readTime: 2
 migratedFromWix: true
 ---
-
-Elon Musk's SpaceX has confidentially filed for an initial public offering with the Securities and Exchange Commission, bringing the rocket company one step closer to what is shaping up to be the largest public market debut in U.S. history. According to sources cited by CNBC and Bloomberg, SpaceX could seek a valuation of $1.75 trillion when it lists, with a target timeline around June of this year.
 
 The confidential filing allows SpaceX to submit its financials to the SEC for regulatory review before making them public. The company will be required to release a public filing at least 15 days before its IPO road show begins — a final countdown that would signal one of the most consequential moments in the history of American capital markets.
 
@@ -27,4 +25,4 @@ The timing, however, carries meaningful risk. U.S. equity markets have been ratt
 
 For retail investors, SpaceX represents something rare — a chance to buy into a company that sits at the intersection of aerospace, artificial intelligence, satellite communications, and national defense, all under the leadership of the world's wealthiest person. An opportunity like this is unlikely to surface again anytime soon, and the institutional appetite for exposure to Musk's broader ecosystem is expected to be substantial when the road show begins.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-A new bipartisan bill introduced in the U.S. Senate aims to bring long-overdue transparency to healthcare pricing in America.
-
 The Patients Deserve Price Tags Act, co-sponsored by Senators John Hickenlooper (D-CO) and Roger Marshall (R-KS), would require providers and hospitals to disclose the real costs of medical services, giving patients and employers the ability to compare prices and make more informed decisions.
 
 “You wouldn’t book a flight if you couldn’t find out the ticket price until you land — or check into a hotel without knowing if you’re paying for the Ritz or a dump. But that’s the absurd guessing game Americans play every time they need medical care,” said Senator Hickenlooper, who serves on the Senate Health, Education, Labor, and Pensions Committee. “We deserve to know exactly what we are paying for whether it’s a lab test, a colonoscopy, or an MRI. Our bill gives Americans that peace of mind.”

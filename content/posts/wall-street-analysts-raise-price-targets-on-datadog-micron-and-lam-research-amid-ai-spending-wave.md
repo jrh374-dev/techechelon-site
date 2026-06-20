@@ -33,4 +33,4 @@ Rakesh sees additional upside to those estimates based on expanded capital expen
 
 The cluster of upgrades underscores a broader shift in analyst sentiment, as the latest earnings season has eased concerns about a potential pullback in AI-related capital spending and reinforced conviction that infrastructure demand remains durable well into the back half of the decade.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

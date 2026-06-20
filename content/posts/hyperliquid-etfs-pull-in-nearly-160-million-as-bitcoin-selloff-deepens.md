@@ -37,4 +37,4 @@ The hyperliquid platform itself remains inaccessible to U.S. users. Pandl said h
 
 Geraci cautioned that broader adoption is far from assured. "Hyperliquid's greatest challenge may be rising competition from both TradFi and DeFi, a dynamic that a more favorable regulatory environment could intensify," he wrote. Whether the current inflow momentum persists — or simply reflects early novelty — will likely depend on how quickly awareness expands beyond the narrow slice of investors who have discovered the platform so far.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

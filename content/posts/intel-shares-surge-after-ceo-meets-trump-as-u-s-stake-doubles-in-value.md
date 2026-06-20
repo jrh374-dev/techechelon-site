@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2026-01-09T20:46:17.877Z"
 coverImage: "https://static.wixstatic.com/media/e37254_9faf352f06b04581a6223d9cd8337718~mv2.jpg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Shares of Intel jumped roughly 10% Friday after CEO Lip-Bu Tan met with Donald Trump, extending a rally that has seen the stock more than double since the U.S. government took a major equity stake in the chipmaker last summer.
 
 Following the meeting, Trump praised both Tan and the company in a post on Truth Social, writing that “the United States Government is proud to be a Shareholder of Intel.” He also highlighted the company’s latest processor as being “designed, built, and packaged right here in the U.S.A.”
 
@@ -25,4 +23,4 @@ At the time, Intel said its leadership was “deeply committed to advancing U.S.
 
 Tan was appointed CEO in March 2025, stepping into the role amid declining sales and operational instability following the tenure of former CEO Pat Gelsinger. Since then, Intel has positioned itself as a central pillar of the U.S. effort to rebuild domestic semiconductor manufacturing — a strategy now reinforced by both government backing and renewed political support.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

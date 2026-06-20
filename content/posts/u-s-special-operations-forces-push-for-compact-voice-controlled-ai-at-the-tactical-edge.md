@@ -35,4 +35,4 @@ The comments reflect a broader shift in how the Defense Department approaches AI
 
 As AI agents move closer to deployment in special operations contexts, SOCOM's near-term acquisitions will likely serve as a testing ground for how the Pentagon scales edge-computing AI across more conventional forces.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

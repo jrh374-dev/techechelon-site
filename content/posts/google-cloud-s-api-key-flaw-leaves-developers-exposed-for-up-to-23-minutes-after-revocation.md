@@ -37,4 +37,4 @@ The qualified-talent shortage compounds the problem. LinkedIn's chief informatio
 
 For now, the gap between the security posture platforms prescribe and the one they themselves maintain is drawing increasing scrutiny, with the Aikido findings offering a concrete example of how that gap can translate directly into developer harm.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

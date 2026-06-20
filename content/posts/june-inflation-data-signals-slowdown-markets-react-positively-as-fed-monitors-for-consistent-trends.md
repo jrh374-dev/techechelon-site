@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-According to data released last Friday, indications of inflation slowing down further were visible in June. This data is particularly significant for the Federal Reserve.
-
 The Commerce Department reported that the personal consumption expenditures (PCE) price index, excluding food and energy, saw a modest rise of 0.2% compared to the previous month, which matched the Dow Jones projection.
 
 The core PCE, otherwise, noted an annual increase of 4.1%, slightly below the forecasted 4.2%. The yearly rate reached its lowest since September 2021, marking a decrease from May's pace of 4.6%.

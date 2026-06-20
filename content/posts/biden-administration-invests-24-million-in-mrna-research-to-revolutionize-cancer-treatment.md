@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-08-24T16:29:48.347Z"
 coverImage: "https://static.wixstatic.com/media/e37254_f5bf236209bf4dfb863bfafc261e672b~mv2.jpg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-On Wednesday, the Biden administration's newly-formed biomedical research agency announced an investment of up to $24 million for the advancement of mRNA platforms. These platforms are aimed at enhancing the immune system's ability to combat cancer and other illnesses.
 
 Leading the research will be a team from Emory University, based in Atlanta. The funds for this project will come from the Advanced Research Projects Agency for Health (ARPA-H), an initiative created to support groundbreaking and high-potential research.
 

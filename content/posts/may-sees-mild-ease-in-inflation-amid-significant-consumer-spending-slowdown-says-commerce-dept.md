@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-A report released by the Commerce Department on Friday indicates that inflation pressures saw a slight alleviation in May, as a significant slowdown in consumer spending was observed.
-
 The Federal Reserve pays close attention to the personal consumption expenditures price index, which rose by 0.3% for May, excluding food and energy. This rise was on par with the estimate provided by Dow Jones. The so-called core PCE recorded a 4.6% increase from the previous year, which was 0.1 percentage point lower than anticipated.
 
 For comparison, in April, the index experienced a 0.4% increase for the month, and a 4.7% rise from the same period in the preceding year.

@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Tiger Global is set to participate in OpenAI’s highly anticipated new funding round, which would value the artificial intelligence leader at over $150 billion, according to sources familiar with the matter.
-
 Thrive Capital is spearheading the round with a $1 billion investment, while major tech players like Microsoft, Nvidia, and Apple are also reportedly in discussions to join.
 
 This latest development comes after The Information first reported Tiger Global’s involvement. Earlier this year, OpenAI’s valuation surged to $80 billion, a significant leap from its $29 billion valuation the previous year.

@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-A consortium of civil, technology, and human rights organizations is urging the White House to turn its proposed artificial intelligence (AI) regulation guidelines into legally binding rules through an imminent executive order, as revealed in a letter delivered on Thursday.
-
 The group is advocating for the Biden administration to transform the AI Bill of Rights, a blueprint of which was published last October, into official government policy governing the use of AI by federal agencies, contractors, and recipients of federal grants.
 
 In no uncertain terms, the letter emphasized that "the federal government should only employ an AI system if its effectiveness, safety, and nondiscriminatory nature are demonstrated. AI must operate effectively and be universally beneficial."

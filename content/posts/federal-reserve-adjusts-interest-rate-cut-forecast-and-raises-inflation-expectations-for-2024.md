@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-The Federal Reserve has adjusted its forecast to include just one interest rate reduction of 0.25 percent this year, a shift from its previous prediction of three such cuts. This update was provided in the central bank's most recent summary of economic projections.
-
 For 2024, the Fed has raised its expected annual inflation rate to 2.6 percent from an earlier forecast of 2.4 percent. This adjustment is partly due to an increase in the core inflation rate—from 2.6 percent to 2.8 percent—which excludes the typically more volatile food and energy sectors. This measurement is based on the Commerce Department’s personal consumption expenditures (PCE) price index.
 
 Looking ahead, the Fed predicts that inflation will decrease to 2.3 percent in 2025 and further decline to 2 percent by 2026.

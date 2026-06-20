@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Amazon’s latest corporate overhaul has shaken morale across the company, as CEO Andy Jassy continues his push to remake the tech giant into what he calls “the world’s largest startup.” 
-
 The company confirmed 14,000 new layoffs last week—its largest cut yet—and insiders say another wave is planned for January after the annual re:Invent cloud conference. The reductions follow more than 27,000 job eliminations since 2022 and are expected to hit retail, human resources, and AWS divisions hardest.
 
 Jassy has framed the cuts as a cultural reset, not a financial necessity, arguing that Amazon became too slow and layered after years of aggressive hiring. “We’re working hard to flatten our organization,” he told investors, echoing his recurring theme of stripping away bureaucracy to restore early-stage agility. 

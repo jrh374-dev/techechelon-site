@@ -33,4 +33,4 @@ The cuts come amid a broader corporate trend in which companies including Amazon
 
 GM's move signals that the automotive sector is accelerating its own AI-driven workforce reconfiguration — and that even long-tenured technical employees are not insulated from the shift as traditional IT functions are absorbed by AI-assisted tooling.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

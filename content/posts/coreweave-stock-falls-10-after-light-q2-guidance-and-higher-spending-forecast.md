@@ -37,4 +37,4 @@ As of Thursday's close, CoreWeave shares had gained nearly 80% year to date, wel
 
 Whether CoreWeave can translate its surging backlog into consistent profitability — while managing debt that now approaches $25 billion — will remain a central question for investors as competition with established cloud providers intensifies.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

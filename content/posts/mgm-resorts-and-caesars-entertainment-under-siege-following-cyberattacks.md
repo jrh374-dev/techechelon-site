@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-MGM Resorts International is grappling with the aftermath of a cyberattack which took place five days ago, impacting its landmark Las Vegas venues, Bellagio and the MGM Grand. The company confirmed its ongoing efforts to mitigate the issue on Thursday. In a related development, Caesars Entertainment unveiled that they too had been the victim of a cyber onslaught.
-
 MGM Resorts was attacked by hackers last Sunday, leading to a disruption in its daily operations. Access to rooms, functioning of slot and ATM machines, and the company's website were all compromised. "We are actively addressing our cybersecurity challenges and catering to our guests' individual concerns," stated MGM Resorts on Thursday, acknowledging the dedication of their staff and thanking their customers for their patience.
 
 However, patience is thin for visitors like Walter Haywood. He narrated his experience, stating, "There were malfunctioning machines and long queues. It was absolute chaos."

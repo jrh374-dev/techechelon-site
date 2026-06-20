@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-On Friday, the European Union made a significant stride in regulating artificial intelligence (AI) technologies, including those like OpenAI's ChatGPT, by finalizing a groundbreaking set of rules. This development marks a crucial step in establishing legal oversight over this increasingly prevalent technology.
-
 Negotiations between the European Parliament and its 27 member states were challenging, with key issues such as generative AI, facial recognition, and the regulation of foundational AI models like ChatGPT and Google's Bard at the forefront. These discussions, reported by the Associated Press, revealed significant differences in opinions.
 
 One major point of contention involved AI-driven facial recognition systems, with EU lawmakers considering outright bans due to privacy concerns. This stance conflicted with some member states' desires to use these systems for law enforcement. After an intense 22-hour negotiation session that ended in a deadlock on Thursday, talks resumed on Friday.

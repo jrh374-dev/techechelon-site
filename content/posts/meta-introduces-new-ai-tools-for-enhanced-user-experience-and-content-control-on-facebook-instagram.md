@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Meta, Facebook's parent company, unveiled on Thursday a suite of new tools and resources to enhance the use of artificial intelligence (AI) on its social networks.
-
 In a press statement, Meta introduced twenty-four system cards centered on various features for both Facebook and Instagram. This tool shares insights on the way its AI systems rank and select content of the most relevance for its users.
 
 Meta's updated AI algorithms can pinpoint damaging content, thus enabling the reduction of problematic or low-quality content that falls short of certain standards, the company detailed.

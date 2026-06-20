@@ -31,4 +31,4 @@ Alphabet's stock has more than doubled over the past year, outperforming all oth
 
 The scale of the raise signals that Alphabet views its current infrastructure deficit as a constraint on near-term revenue growth — and that it is willing to materially dilute existing shareholders to close that gap before competitors do.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

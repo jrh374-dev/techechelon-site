@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-U.S. stocks fell sharply Thursday as renewed tensions surrounding the conflict with Iran pushed oil prices toward $80 a barrel, reigniting concerns that rising energy costs could pressure the global economy.
-
 The Dow Jones Industrial Average dropped nearly 1,000 points, or about 2%, while the S&P 500 declined 1.2% and the Nasdaq Composite slipped roughly 1%. Industrial and cyclical companies led the downturn, including Boeing and Caterpillar, which tend to be particularly sensitive to global economic slowdowns.
 
 The sell-off came as oil prices surged following reports that Iran struck an oil tanker with a missile, intensifying fears of supply disruptions in the Middle East. U.S. West Texas Intermediate crude jumped roughly 6% to trade above $79 per barrel, briefly touching $79.97, while Brent crude, the international benchmark, rose above $84.
@@ -33,4 +31,4 @@ Despite the broader market decline, Berkshire Hathaway was a rare bright spot d
 
 The broader market reaction reflects how quickly geopolitical events can shift investor sentiment. With oil markets now tightly linked to the evolving situation in the Middle East, traders are bracing for continued volatility across both energy and equity markets.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

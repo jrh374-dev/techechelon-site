@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-In a bid to boost the adoption of its product and establish itself as a technology leader, Alibaba announced on Thursday that it is allowing third-party developers access to its artificial intelligence (AI) model. This move puts Alibaba in direct competition with U.S. tech heavyweight Meta and could pose a threat to OpenAI, the company behind the popular AI chatbot ChatGPT.
-
 Alibaba introduced its own large language model (LLM) dubbed Tongyi Qianwen in April. An LLM is an AI model that's been trained on extensive data and serves as the foundation for generative AI applications like ChatGPT, which produce human-like responses to user inputs. Tongyi Qianwen supports AI content generation in both English and Chinese and offers various model sizes, including one with over seven billion parameters - a measure of the model's power.
 
 The Chinese e-commerce behemoth is planning to open-source two versions of its model: the seven-billion-parameter Qwen-7B and the Qwen-7B-Chat, tailored for conversational applications. This will enable researchers, academics, and businesses worldwide to develop their own generative AI applications without the need for expensive and time-consuming system training. However, companies with over 100 million monthly active users will need a royalty-free license from Alibaba.

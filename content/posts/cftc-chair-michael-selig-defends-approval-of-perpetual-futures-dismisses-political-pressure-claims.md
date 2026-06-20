@@ -37,4 +37,4 @@ The CFTC chair framed the broader regulatory philosophy as one of onshoring, arg
 
 With Kalshi's early volume figures drawing attention across the derivatives industry, other platforms and exchanges are likely to weigh whether to pursue their own perps offerings — a dynamic that could deepen the tension between the CFTC and incumbent exchange operators in the months ahead.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

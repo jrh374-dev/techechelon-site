@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-September exhibited robust job growth, defying expectations and indicating resilience in the U.S. economy amidst rising interest rates and ongoing challenges in Washington.
-
 The Labor Department reported a substantial 336,000 increase in nonfarm payrolls for the month, far surpassing the Dow Jones prediction of 170,000. This jump was significantly larger than the previous month's figures. The unemployment rate stood at 3.8%, a slight deviation from the anticipated 3.7%.
 
 Following the release, the stock market experienced a brief dip but soon rebounded. The Dow Jones Industrial Average saw an upswing of over 150 points within two hours of trading.

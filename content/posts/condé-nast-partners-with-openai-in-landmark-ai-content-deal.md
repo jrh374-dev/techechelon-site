@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Condé Nast, the global media giant, has entered into a significant partnership with OpenAI, granting the artificial intelligence company access to its extensive content library.
-
 In a memo to staff on Tuesday, Condé Nast CEO Roger Lynch described the multiyear agreement as a critical step in adapting to evolving technological landscapes. “It's essential that we meet our audiences where they are and embrace new technologies, while also ensuring that our intellectual property is properly attributed and compensated,” Lynch emphasized.
 
 Lynch reflected on the challenges that news and digital media have faced over the past decade, particularly as technology companies have undermined publishers' ability to monetize their content, especially through traditional search engines.
@@ -25,4 +23,4 @@ Condé Nast, which owns iconic media brands like Vanity Fair, The New Yorker, Vo
 
 In recent months, companies like News Corp, Vox, and Reddit have announced similar deals with OpenAI. Meanwhile, The New York Times and other newspapers have taken a different route, filing lawsuits against Microsoft and OpenAI, alleging copyright infringement through the use of their content to train AI systems.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

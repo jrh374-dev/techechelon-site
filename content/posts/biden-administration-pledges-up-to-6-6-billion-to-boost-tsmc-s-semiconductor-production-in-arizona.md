@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-04-08T13:43:10.338Z"
 coverImage: "https://static.wixstatic.com/media/e37254_c3c06748b405416a9fc3ded10e0f1380~mv2.jpeg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Under a preliminary deal announced by the Biden administration on Monday, the Arizona branch of TSMC is poised to receive as much as $6.6 billion from the U.S. government. This financial support, provided through the U.S. CHIPS and Science Act, aims to bolster Taiwan Semiconductor Manufacturing Co.'s ambitious endeavor, exceeding $65 billion, to establish three state-of-the-art chip fabrication facilities in Phoenix. This arrangement is yet to be finalized.
 
 In addition, the company might access approximately $5 billion in loans proposed under the same Act, illustrating the U.S. government's commitment to revitalizing its semiconductor production capabilities.
 

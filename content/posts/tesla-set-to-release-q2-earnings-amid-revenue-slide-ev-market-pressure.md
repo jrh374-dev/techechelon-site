@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Tesla is preparing to report its second-quarter financial results following the close of trading on Wednesday, with Wall Street bracing for another dip in revenue and continued signs of market share erosion.
-
 Analysts anticipate earnings of 43 cents per share on revenue of $22.74 billion, based on LSEG estimates. That revenue figure would represent an 11% decline from the same quarter last year, following a 14% drop in vehicle deliveries to 384,000 units earlier this month. 
 
 Deliveries are Tesla’s closest approximation of EV sales, though the company does not define them precisely.
@@ -33,4 +31,4 @@ Investors will be closely watching Wednesday’s earnings call for updates on th
 
 The call is scheduled for 5:30 p.m. ET.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -35,4 +35,4 @@ Musk left OpenAI's board in 2018 following disagreements with Altman and Brockma
 
 Once Musk's testimony concludes Thursday, his legal team is expected to call Jared Birchall — who manages Musk's family office and holds executive roles at xAI and Neuralink — as the next witness. Brockman and Stuart Russell, a computer science professor at the University of California, Berkeley, are also potential witnesses, signaling that testimony in the case could extend well into the coming week.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

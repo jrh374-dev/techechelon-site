@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-08-02T18:51:37.093Z"
 coverImage: "https://static.wixstatic.com/media/e37254_15ca77eea43b4a4ba3247f6fd19e26c3~mv2.jpeg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Chinese electric vehicle firm Xpeng experienced a 5% drop in shares on Wednesday after it revealed that Xinzhou Wu, its Vice President of autonomous driving, is set to leave the company. Wu's departure comes at a critical time for the electric vehicle start-up as it competes with rivals in the increasingly competitive Chinese market.
 
 Wu, who played a significant role in Xpeng's autonomous driving efforts, has decided to leave the company for personal and familial reasons, as stated by Xpeng. In his stead, Liyun Li, the senior director of Xpeng's autonomous driving team, will assume his role. Li, the lead of the project team working on Xpeng's advanced driver-assistance system XNGP, has been preparing for the transition for a considerable period, the company indicated.
 

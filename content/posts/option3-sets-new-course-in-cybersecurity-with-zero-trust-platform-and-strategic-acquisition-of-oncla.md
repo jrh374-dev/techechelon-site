@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-01-26T15:54:47.280Z"
 coverImage: "https://static.wixstatic.com/media/e37254_ae32075c3c644a8ebe4ed255d295dd35~mv2.png"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-In a significant move towards strengthening national cybersecurity, Option3, a private equity firm with a focus on cybersecurity, [announced](https://www.prnewswire.com/news-releases/option3-launches-zero-trust-cybersecurity-platform-with-agreement-to-acquire-onclave-networks-302045739.html) its plans to introduce a Zero Trust cybersecurity platform following an agreement to acquire Onclave Networks.
 
 The company anticipates this will be the first in a series of acquisitions, with the total investment expected to surpass $100 million in the coming year, aimed at integrating a comprehensive suite of Zero Trust capabilities onto a singular platform.
 
@@ -29,4 +27,4 @@ With a clear target on the federal market, Option3 also plans to extend its reac
 
 The upcoming acquisitions aim to reinforce U.S. national defense systems against a broad spectrum of threats and extend Military-Grade Zero Trust™ protection to the private sector in a dual-use strategy.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

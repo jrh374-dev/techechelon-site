@@ -35,4 +35,4 @@ Ahead of the Trump-Xi meeting, Bessent met in Seoul with Chinese Vice Premier He
 
 How the proposed AI safety protocol will be structured, governed, or enforced remains unclear, and both governments have yet to release formal documentation of the agreement. The scope and timeline for implementation will likely be among the key details to emerge as the summit concludes Friday.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

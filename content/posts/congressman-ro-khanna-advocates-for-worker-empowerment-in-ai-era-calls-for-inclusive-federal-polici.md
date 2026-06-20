@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-In a recent opinion piece for The New York Times, Congressman Ro Khanna from California emphasized the need for policies that empower workers in the era of advancing artificial intelligence (AI).
-
 Representing a district in the heart of Silicon Valley, Khanna acknowledged the potential benefits of AI to the economy but stressed the importance of prioritizing the welfare and economic stability of the working class amidst these technological shifts.
 
 Khanna argued that the Democratic Party must protect the interests of the working class against possible negative impacts of AI on their earnings and job security.

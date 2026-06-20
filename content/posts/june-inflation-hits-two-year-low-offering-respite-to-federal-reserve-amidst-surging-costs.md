@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-June saw inflation drop to its lowest yearly rate in over two years due to a slowdown in cost acceleration and the comparison to a period when price hikes were soaring at their highest in over four decades.
-
 The consumer price index saw a year-on-year increase of 3%, the smallest rise since March 2021. The index, which assesses a wide range of goods and services prices, climbed by 0.2% on a monthly basis. These figures contrast with Dow Jones estimates predicting 3.1% and 0.3% increases, respectively.
 
 When discounting the fluctuating costs of food and energy, the core CPI rose by 4.8% from the previous year and 0.2% monthly, below the anticipated increases of 5% and 0.3%.

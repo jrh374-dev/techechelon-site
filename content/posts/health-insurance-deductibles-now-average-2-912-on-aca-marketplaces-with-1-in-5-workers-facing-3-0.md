@@ -39,4 +39,4 @@ Patricia Kelmar, senior director of health care campaigns at PIRG, a consumer ad
 
 With deductible levels remaining near historic highs and policy uncertainty around ACA marketplace funding ongoing, the gap between nominal insurance coverage and actual financial protection for American patients shows little sign of narrowing in the near term.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

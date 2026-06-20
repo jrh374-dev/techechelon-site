@@ -15,7 +15,7 @@ Eric Fourrier, the innovative mind behind [GitGuardian](https://www.gitguardian.
 
 GitGuardian's latest report, the [2024 State of Secrets Sprawl](https://www.gitguardian.com/state-of-secrets-sprawl-report-2024), sheds light on the alarming increase in leaked secrets and the growing complexity of managing these risks. Eric's insights into this phenomenon, coupled with GitGuardian's advanced detection and remediation strategies, provide valuable guidance for organizations striving to secure their codebases and protect sensitive information.
 
-![](https://static.wixstatic.com/media/e37254_890afd001217429694f49f45853e88d8~mv2.jpeg)
+![Photo](https://static.wixstatic.com/media/e37254_890afd001217429694f49f45853e88d8~mv2.jpeg)
 
 In this exclusive Q&A, Eric discusses the findings of the 2024 report, the unique challenges different industries face, and the evolving role of AI in enhancing secrets detection. His expertise offers a comprehensive look at the current state of secrets management and the proactive measures necessary to safeguard against potential threats.
 

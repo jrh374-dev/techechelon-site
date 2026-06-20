@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-On Thursday, eight American newspaper publishers filed a lawsuit against Microsoft and OpenAI in a federal court in New York.
-
 They accuse the tech giants of unauthorized use and misrepresentation of their content in AI products.
 
 This legal action follows a similar lawsuit by The New York Times against OpenAI four months earlier, concerning copyright issues with the ChatGPT chatbot launched in late 2022. OpenAI has dismissed the allegations as baseless and expressed its intent to foster a sustainable news environment.

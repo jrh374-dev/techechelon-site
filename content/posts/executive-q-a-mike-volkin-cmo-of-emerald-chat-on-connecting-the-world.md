@@ -11,11 +11,9 @@ readTime: 5
 migratedFromWix: true
 ---
 
-Mike Volkin is an innovative leader in the online communication space, leveraging his extensive background in marketing and technology to revolutionize the way people connect. 
-
 As the Chief Marketing Officer of [Emerald Chat](https://emeraldchat.com/), Mike has played a pivotal role in transforming the platform into a vibrant community where individuals can meet and chat based on shared interests. His journey to Emerald Chat is marked by a commitment to enhancing user experience and fostering meaningful connections in an increasingly digital world.
 
-![](https://static.wixstatic.com/media/e37254_1e6f3e2ded2b44eabf44c7498b1cc59f~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_1e6f3e2ded2b44eabf44c7498b1cc59f~mv2.jpg)
 
 Mike's career began with a passion for technology and communication, leading him to various roles where he honed his skills in marketing and product development. With a keen eye for emerging trends and a deep understanding of user behavior, Mike has been instrumental in driving Emerald Chat's mission to create a space free from ads, bots, and gimmicks. His approach combines a rigorous focus on user safety and quality, ensuring that the platform remains a trusted and engaging environment for its users.
 

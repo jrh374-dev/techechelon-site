@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-10-26T03:32:30.237Z"
 coverImage: "https://static.wixstatic.com/media/e37254_0d75a18d01e54e54b1450ff3118f3dfc~mv2.jpeg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-A group of tech and workers' rights organizations have petitioned Senate Majority Leader Chuck Schumer (D-N.Y.) to focus on safeguards for employees amid the rise of artificial intelligence (AI) regulations. The letter, sent on Tuesday, shed light on the potential misuse of automated systems by employers to monitor, replace, or make hiring and firing decisions.
 
 The advocacy groups pointed to allegations of major corporations, including Amazon, Google, and Walmart, using AI or other technological tools for employee surveillance. They emphasized the need for legislative measures to prevent such companies from profiting through the exploitation of tech-driven surveillance.
 

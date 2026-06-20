@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-AT&T has announced a significant security breach involving the illegal download of data from approximately 109 million customer accounts. This incident, which involved records of call and text interactions from 2022, was detected in April and is currently under investigation by the FBI. The breach occurred when hackers accessed AT&T's data stored on a third-party cloud platform.
-
 The data, while not including the content of the communications or sensitive personal information like social security numbers, encompasses detailed records of interactions between nearly all of AT&T’s cellular and landline customers during May to October 2022. Additionally, the breach includes some data from as recently as January 2023 affecting a limited number of customers.
 
 This breach follows several other major cybersecurity incidents, including a ransomware attack on UnitedHealth Group's Change Healthcare in February, which potentially exposed private data of one-third of the US population.

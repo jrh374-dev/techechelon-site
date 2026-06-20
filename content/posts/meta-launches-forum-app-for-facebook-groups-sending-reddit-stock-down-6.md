@@ -33,4 +33,4 @@ The relaunch signals that Meta sees the forum and community discussion market as
 
 Whether Forum gains meaningful traction will likely hinge on how deeply new users engage with it versus treating it as a secondary alternative to existing platforms. For Reddit, the near-term question is whether its core habitual users — those who log in regularly and maintain strong ties to specific communities — remain insulated from any spillover of casual traffic toward Meta's new offering.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

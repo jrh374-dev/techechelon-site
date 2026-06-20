@@ -33,4 +33,4 @@ The vulnerability adds to a pattern of Check Point products being targeted by ra
 
 With the June 11 remediation deadline now in effect, federal agencies running IKEv1-configured Check Point deployments face immediate pressure to either apply vendor patches or implement the prescribed workarounds before the window closes.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

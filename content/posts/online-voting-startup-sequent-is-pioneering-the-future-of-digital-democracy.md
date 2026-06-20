@@ -11,7 +11,8 @@ readTime: 5
 migratedFromWix: true
 ---
 
-![From left to right, David Ruescas Co-Founder & Head of Research; Eduardo Robles Co-Founder & CTO; Shai Bargil Co-Founder & CEO.](https://static.wixstatic.com/media/e37254_080b74414d174f89800bc55c8a3f0102~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_080b74414d174f89800bc55c8a3f0102~mv2.jpg)
+*From left to right, David Ruescas Co-Founder & Head of Research; Eduardo Robles Co-Founder & CTO; Shai Bargil Co-Founder & CEO.*
 
 [Sequent](https://sequentech.io/), a pioneering online voting platform, is redefining the democratic process by making it more accessible, secure, and verifiable. Founded by a team with deep roots in cybersecurity, cryptography, and electoral processes, the company is dedicated to ensuring that every vote counts and that every voter can trust the integrity of the electoral process.
 

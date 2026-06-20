@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Google's AI division, DeepMind, is venturing into creating 21 unique tools aimed at delivering life advice, guidance, and tutoring. Concerns, however, have surfaced within Google regarding the potential risks of AI tools offering life advice.
-
 An internal presentation by Google's AI safety specialists last December revealed that users might face a decline in well-being and a loss of personal empowerment due to such AI-driven guidance.
 
 In its pursuit of excellence, Google has collaborated with Scale AI, a $7.3 billion AI startup known for its prowess in training and validation of AI systems, to rigorously test these tools. 

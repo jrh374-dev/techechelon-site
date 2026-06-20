@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Ford Motor Co. is gearing up to implement another wave of job cuts in the near future, as disclosed by sources to the Wall Street Journal on Thursday. The anticipated layoffs are poised to primarily impact salaried workers within the U.S.
-
 The forthcoming job reductions are set to target staff in both the electric vehicle (EV) and software divisions, as well as those involved in Ford's gas-engine operations.
 
 This fresh wave of layoffs follows a previous one in August of the previous year, which resulted in the termination of approximately 3,000 white-collar and contract roles. Earlier this year, Ford also confirmed its intentions to eliminate a further 3,800 positions in Europe, as per the Journal's report.

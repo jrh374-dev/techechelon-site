@@ -7,15 +7,14 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-05-15T13:00:14.552Z"
 coverImage: "https://static.wixstatic.com/media/e37254_9c529d2e798542a385869d591e091b46~mv2.jpg"
-readTime: 19
+readTime: 18
 migratedFromWix: true
 ---
 
-Dr. Danielle Kelvas stands at the rare intersection of clinical expertise and narrative precision. As the Founder and CEO of [DKMD Consulting](https://www.dkmdconsulting.com), she leads a growing team of physicians, pharmacists, and nurses who are reshaping how the healthcare industry communicates.
-
 With more than a decade of clinical experience, Dr. Kelvas recognized a growing disconnect between the innovations in medical technology and the way those advancements were being communicated to providers and patients. What began as a flood of writing requests during the COVID-19 pandemic evolved into a mission: bring medical accuracy, emotional intelligence, and clinical credibility to every piece of content in healthcare.
 
-![Danielle Kelvas, MD, Founder and CEO, DKMD Consulting.](https://static.wixstatic.com/media/e37254_49888e3817b64f92b6055eadd815f73b~mv2.jpeg)
+![Photo](https://static.wixstatic.com/media/e37254_49888e3817b64f92b6055eadd815f73b~mv2.jpeg)
+*Danielle Kelvas, MD, Founder and CEO, DKMD Consulting.*
 
 At DKMD Consulting, Dr. Kelvas brings a physician’s rigor to marketing, research, and thought leadership, producing content that not only resonates with medical professionals but also earns their trust. Her team specializes in translating complex medical concepts into compelling, accurate, and accessible materials—ranging from peer-reviewed white papers and case studies to patient-facing education and digital campaigns for AI-powered health technologies.
 

@@ -35,4 +35,4 @@ Looking further ahead, Nomura flags the rise of agentic AI as a catalyst for an 
 
 Whether supply constraints ease or tighten will be a key variable to watch, as the gap between soaring demand and capacity expansion remains the central tension shaping valuations across the memory sector.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

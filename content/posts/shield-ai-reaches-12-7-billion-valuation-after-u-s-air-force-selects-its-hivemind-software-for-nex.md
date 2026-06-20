@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2026-03-27T15:49:16.385Z"
 coverImage: "https://static.wixstatic.com/media/nsplsh_b1d1beb41b5c4a2c9cea4f06c007db2d~mv2.jpg"
-readTime: 3
+readTime: 2
 migratedFromWix: true
 ---
-
-Autonomous military aircraft startup Shield AI has closed a $1.5 billion Series G funding round at a $12.7 billion post-money valuation — a jump of 140 percent from the $5.3 billion valuation it carried just twelve months ago. The round was led by private equity firm Advent International, which has committed $1 billion specifically to defense technology investments, and a JPMorganChase investment group. In addition, Shield AI sold $500 million of preferred shares to funds managed by Blackstone and secured a $250 million credit facility for future use.
 
 The capital will also fund Shield AI's acquisition of Aechelon Technology, a maker of flight simulation software used to train U.S. military pilots. Financial terms of the acquisition were not disclosed. The deal underscores Shield AI's ambition to build not just an autonomous flight platform, but a comprehensive technology stack spanning simulation, training, and live operational autonomy.
 

@@ -29,4 +29,4 @@ The Anthropic-SpaceX arrangement reflects the intensifying competition among AI 
 
 Whether the company's interest in space-based compute capacity with SpaceX evolves into a formal agreement will be among the developments to watch in the months ahead.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

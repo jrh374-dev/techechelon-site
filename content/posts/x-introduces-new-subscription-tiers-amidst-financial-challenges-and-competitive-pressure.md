@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-X, previously known as Twitter, is introducing two new user subscription levels, according to its owner, Elon Musk, who announced the news on Friday.
-
 The first subscription model offers users a more affordable rate with full access to all features but does not reduce the number of ads. The second subscription, priced higher, promises an ad-free experience.
 
 Earlier this week, X revealed an experiment in New Zealand and the Philippines where users are charged an annual fee of $1 to post and interact with other content. This initiative aims to combat spam and automated bot interference on the platform. Users who choose not to subscribe can still view posts, but they won't be able to engage. It remains uncertain whether this $1 yearly subscription aligns with the two new tiers Musk mentioned.

@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-07-18T20:56:20.006Z"
 coverImage: "https://static.wixstatic.com/media/e37254_b0ad7019ef77414a8a1fe3ac2556deea~mv2.jpeg"
-readTime: 3
+readTime: 2
 migratedFromWix: true
 ---
-
-The recent large-scale cyberattack against numerous federal agencies serves as a stark reminder of the persistent cyber threat facing both governmental bodies and private sector organizations.
 
 An IBM report indicates that each data breach could cost governmental agencies an average of $2.07 million. In 2018 alone, the U.S. government spent a staggering $13.7 billion due to cyberattacks, as per Security Intelligence.
 

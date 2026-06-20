@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-07-02T23:33:43.816Z"
 coverImage: "https://static.wixstatic.com/media/e37254_6dec3ad19d28428da4b4c344cdfeeb42~mv2.webp"
-readTime: 3
+readTime: 2
 migratedFromWix: true
 ---
-
-As anticipation builds for the upcoming June employment report, a new source of strain is emerging in the U.S. labor market: mass layoffs of federal workers tied to recent government downsizing initiatives.
 
 The Department of Government Efficiency (DOGE), a newly formed agency under President Donald Trump’s administration, has driven aggressive cuts to the federal workforce—an effort that has already eliminated more than 280,000 positions, according to figures from Challenger, Gray & Christmas. While the ripple effects of these reductions have been slow to surface in broader employment metrics, analysts say that could be changing.
 

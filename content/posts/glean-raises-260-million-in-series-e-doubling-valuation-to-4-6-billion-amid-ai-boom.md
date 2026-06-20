@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-09-11T17:32:14.593Z"
 coverImage: "https://static.wixstatic.com/media/e37254_0498264a67624419b556521eb95719ed~mv2.jpg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-AI-powered search startup Glean announced on Tuesday that it has raised $260 million in a Series E funding round, valuing the company at $4.6 billion — more than double its previous valuation. The Palo Alto-based firm, founded in 2019, has now raised over $600 million from more than 20 investors.
 
 The latest funding round was led by Altimeter and DST Global, with new investors Craft Ventures, Sapphire Ventures, and SoftBank Vision Fund 2 also participating. Existing backers, including Coatue, General Catalyst, ICONIQ Growth, IVP, Kleiner Perkins, Latitude Capital, Lightspeed Venture Partners, and Sequoia Capital, also joined the round.
 
@@ -23,4 +21,4 @@ In a blog post accompanying the announcement, Jain emphasized that businesses ar
 
 The rapid rise of AI has fueled record-breaking investment levels, with startups in the sector seeing five times the funding compared to the previous year. According to CB Insights, 36 generative AI startups have now achieved unicorn status as valuations soar, with tech giants such as Microsoft, Amazon, Meta, and Google playing significant roles in the investment surge.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

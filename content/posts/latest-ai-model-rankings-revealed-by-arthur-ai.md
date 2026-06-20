@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-A recent report by Arthur AI, a prominent machine learning monitoring platform, awarded some of the leading AI models in the tech industry:
-
 - **OpenAI’s GPT-4**: Best at math.
 - **Meta’s Llama 2**: Average performer.
 - **Anthropic’s Claude 2**: Top in recognizing its own limitations.

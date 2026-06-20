@@ -31,4 +31,4 @@ Grayson Brulte, a co-founder of AUTNMY AI, which tracks the autonomous driving s
 
 The accumulation of software recalls and open regulatory investigations comes at a moment when Waymo is pushing aggressively into new markets, underscoring the operational tension between rapid geographic expansion and the reliability demands of driverless vehicle systems. Whether NHTSA escalates its oversight in response to the pattern of incidents will be a key development to watch in the months ahead.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-02-26T19:26:44.941Z"
 coverImage: "https://static.wixstatic.com/media/e37254_95cac0a74dd046b193843fd46af80da4~mv2.jpeg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Google has announced plans to relaunch its AI-driven image creation feature, which was temporarily suspended last Thursday amid controversies. This decision follows incidents where the tool generated images that were historically inaccurate or inappropriate, sparking widespread discussion online.
 
 Demis Hassabis, CEO of Google DeepMind, revealed at the Mobile World Congress in Barcelona that the tool, part of Google's Gemini suite of AI models, is undergoing fixes to address these issues, with hopes of it being back online within a few weeks.
 

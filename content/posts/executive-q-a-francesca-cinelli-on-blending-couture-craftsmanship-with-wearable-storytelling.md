@@ -7,13 +7,12 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-05-16T21:23:04.334Z"
 coverImage: "https://static.wixstatic.com/media/e37254_5a71c634fa494c95a7c3384754053fdf~mv2.jpg"
-readTime: 9
+readTime: 8
 migratedFromWix: true
 ---
 
-Francesca Cinelli is an artist whose work defies easy categorization—merging the worlds of fine art, couture craftsmanship, and cultural storytelling into an expressive, tactile form she calls _Bijoux Cravatés_. With a background that spans antique dealing, theater, and high fashion, Cinelli draws on a kaleidoscope of global influences and personal memories to craft sculptural accessories that are as emotionally resonant as they are visually striking.
-
-![Francesca Cinelli](https://static.wixstatic.com/media/e37254_947c74b82d7d4ed99301930db15270ad~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_947c74b82d7d4ed99301930db15270ad~mv2.jpg)
+*Francesca Cinelli*
 
 Now based in New York, Cinelli brings a poet’s sensibility to the creation of her wearable art. Each piece begins with a vintage tie—an object loaded with history and symbolism—and evolves into something wholly unique through her signature embroideries and eclectic material choices, sourced from flea markets and artisan shops across continents. The result is a kind of living collage: part jewelry, part sculpture, and part personal talisman.
 

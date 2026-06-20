@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-In a bold step to strengthen digital trust and cybersecurity innovation, Mastercard has unveiled a new Security Solutions program under its Start Path initiative. The program aims to support emerging startups focused on fortifying digital identity, fraud prevention, and payment system resilience in an increasingly connected world.
-
 The first cohort includes five cutting-edge startups — OneID, Scamnetic, Spec, VanishID, and Shield-IoT — selected after a competitive global application process. These companies are developing tools to combat phishing scams, protect personal data, secure IoT payment devices, and more.
 
 “Security is the cornerstone of trust,” said Johan Gerber, executive vice president and head of Security Solutions at Mastercard. “It is essential to fueling digital commerce in an increasingly connected world, where new threats emerge all the time. By partnering with startup innovators who are already working to protect our ecosystem, we are accelerating co-creation and knowledge-sharing — shaping a safer, smarter digital future.”

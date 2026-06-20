@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Qualcomm has announced a significant update to its mobile phone chips, integrating technology initially developed for its laptop processors to enhance their capabilities for generative AI tasks.
-
 The San Diego-based company, a leading provider of mobile phone chips, had previously expanded its business in 2021 by hiring a team of former Apple engineers to design laptop chips. These chips, branded under Qualcomm's “Oryon” technology, were introduced earlier this year and are now being used to power AI features in Microsoft’s Windows.
 
 For the first time, Qualcomm is bringing this custom computing technology to its mobile phone chips, including the Snapdragon 8 Elite.
@@ -23,4 +21,4 @@ The revamped chip is designed to handle tasks like image and text generation, a 
 
 Several major brands, including Samsung Electronics, Asustek Computer, and Xiaomi, are expected to incorporate Qualcomm’s new chip in their upcoming devices.
 
- [Disclaimer](https://www.techechelon.com/disclaimer)
+ [Disclaimer](/disclaimer)

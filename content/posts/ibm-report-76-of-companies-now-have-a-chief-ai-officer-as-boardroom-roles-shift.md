@@ -43,4 +43,4 @@ Senior executives, for now, appear largely insulated from that disruption. "In t
 
 Whether the CAIO role proves permanent or transitional remains an open question. Bean described the central issue as whether the position will eventually be absorbed into existing executive portfolios once AI transformations mature, or become a lasting fixture of corporate governance.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

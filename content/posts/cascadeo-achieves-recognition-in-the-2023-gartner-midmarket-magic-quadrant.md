@@ -13,7 +13,7 @@ migratedFromWix: true
 
 Leading cloud IT transformation provider, [Cascadeo](https://www.cascadeo.com/), [announced](https://www.businesswire.com/news/home/20231017689015/en/Cascadeo-Recognized-in-the-2023-Gartner%C2%AE-Midmarket-Context-Magic-Quadrant%E2%84%A2-for-Public-Cloud-IT-Transformation-Services) its third consecutive inclusion in the esteemed 2023 Gartner Midmarket Context: Magic Quadrant for Public Cloud IT Transformation Services. This latest recognition further cements Cascadeo’s position as a trusted authority in the realm of public cloud transformation.
 
-![](https://static.wixstatic.com/media/e37254_0c4215d86f64435995d6ee837e9e5c28~mv2.png)
+![Photo](https://static.wixstatic.com/media/e37254_0c4215d86f64435995d6ee837e9e5c28~mv2.png)
 
 Gartner's Magic Quadrant tool visually depicts the trajectory and maturity of technology providers in a given market. The fundamental objective of this tool is to enable stakeholders — from tech enthusiasts to industry leaders — to discern the proficiency of these providers in actualizing their vision, especially in relation to Gartner’s overarching market view.
 

@@ -11,8 +11,6 @@ readTime: 4
 migratedFromWix: true
 ---
 
-By 2030, it's projected that over 50% of all new cars sold in the U.S. will be electric vehicles (EVs), which could heavily tax our nation's aging electric grid, designed for a world powered by fossil fuels.
-
 Domestic electricity demand, expected to have risen by up to 18% in 2022, is forecasted to further increase by up to 38% by 2035, as per the Rapid Energy Policy Evaluation and Analysis Toolkit (REPEAT) study at Princeton University. This is a considerable shift from the 5% increase seen in the previous decade.
 
 "We're facing a significant surge in power demand in the coming years, a trend we haven't seen in almost 25 years," stated Rob Gramlich, founder and president of Grid Strategies, a policy group specializing in transmission.

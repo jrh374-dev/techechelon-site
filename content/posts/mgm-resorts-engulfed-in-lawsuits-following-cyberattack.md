@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-MGM Resorts is contending with two class action lawsuits lodged in a U.S. District Court in Nevada, related to a cyberattack it endured earlier this month. The lawsuits, accuse MGM Resorts of negligence and profiting unlawfully due to its failure to safeguard the personal information of its patrons from an alleged social engineering attack.
-
 The claimants argue separately that MGM ought to have been cognizant of the attack risks, citing preceding alerts by Okta of being recurrently subjected to similar assaults, and accuse the company of neglecting necessary steps to defend customer information.
 
 MGM Resorts declared normalcy in hotel and casino operations on Wednesday, following over ten days of disruptions affecting various operational facets including the reservations system and digital room keys. Nonetheless, the company is grappling with residual concerns and has advised guests to be vigilant with their MGM Rewards Mastercard accounts for potential fraudulent activities.

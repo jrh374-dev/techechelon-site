@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2026-03-09T21:33:11.525Z"
 coverImage: "https://static.wixstatic.com/media/e37254_2dc54862ed0f418bb12ada3308c696b7~mv2.webp"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Bluesky CEO Jay Graber announced Monday that she will transition from her role as chief executive to become the company’s Chief Innovation Officer, signaling a leadership shift as the decentralized social network moves into its next stage of growth.
 
 Graber said the change reflects Bluesky’s evolving needs as the platform scales. In a post announcing the transition, she explained that the company now requires “a seasoned operator focused on scaling and execution,” while she intends to focus more directly on product development and experimentation.
 

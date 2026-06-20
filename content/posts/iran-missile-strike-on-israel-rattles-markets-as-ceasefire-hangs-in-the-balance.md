@@ -33,4 +33,4 @@ Also on Friday, Elon Musk's SpaceX is set to make its public market debut, an of
 
 The confluence of geopolitical risk, inflation anxiety, and a high-profile equity offering sets up a pivotal week for markets already contending with questions about whether AI-driven valuations can withstand a higher-rate environment — and now, whether a renewed conflict in the Middle East will add fresh volatility to an unsettled backdrop.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

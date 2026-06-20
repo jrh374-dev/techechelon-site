@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-A recent publication in the Journal of the American Medical Association posits that a cyberattack on a single hospital could inadvertently affect other nearby healthcare facilities. It was found that an increase in patient flow and lack of sufficient resources could result from a nearby facility experiencing a ransomware attack, potentially delaying critical services.
-
 Further effects may encompass a surge in ambulance arrivals, extended waiting times, patients not being attended to, and prolonged patient stays. The researchers who carried out the study concluded that disruptions caused by cyberattacks on hospitals should be viewed as regional disasters.
 
 The study proposes that ransomware and similar cyber threats causing significant disruptions to regional hospitals should be classified as disasters, thereby necessitating a collaborative approach in planning and response.

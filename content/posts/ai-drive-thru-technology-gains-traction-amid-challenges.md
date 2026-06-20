@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Restaurants are increasingly turning to artificial intelligence to handle drive-thru orders as a strategy to reduce labor costs, although widespread implementation may still be several years away. Notably, significant investments are being made by large chains to adopt this technology due to their financial capability to scale such innovations.
-
 As of this year, 16% of restaurant operators intend to invest in AI technologies like voice recognition, spurred by escalating labor costs and a shift towards drive-thru service exacerbated by the pandemic and recent wage increases, according to a National Restaurant Association survey.
 
 However, the adoption of AI in restaurants hasn't been seamless. McDonald’s recently announced it would discontinue its Automated Order Taker pilot in partnership with IBM, turning instead to different suppliers. Conversely, competitors like White Castle and Taco Bell are progressing with trials, engaging other vendors.

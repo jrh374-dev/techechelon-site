@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-A top U.S. official emphasized the importance of incorporating security measures into artificial intelligence (AI) systems from their inception.
-
 Jen Easterly, director of the U.S. Cybersecurity and Infrastructure Security Agency, criticized the current norm of releasing technology products with vulnerabilities and relying on consumers to patch them. She highlighted the unique challenges posed by AI, noting its exceptional power and rapid development.
 
 Easterly's comments followed discussions in Ottawa with Sami Khoury, head of Canada's Centre for Cyber Security. They concurred on the need for security to be an integral part of AI's entire lifecycle.

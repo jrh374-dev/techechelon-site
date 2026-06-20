@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Microsoft has announced an ambitious plan to spend $80 billion in fiscal 2025 on developing advanced data centers designed to support artificial intelligence operations. This substantial investment, revealed in a company blog post, highlights Microsoft’s determination to maintain a leadership position in the rapidly evolving AI landscape.
-
 Over half of the $80 billion will be invested in U.S.-based facilities, according to Brad Smith, Microsoft’s Vice Chair and President. “Private-sector innovation and capital have placed the United States at the forefront of AI technology, driven by contributions from startups and established enterprises alike,” Smith wrote. He pointed to Microsoft's collaborations with AI leaders like OpenAI, as well as emerging companies such as Anthropic and xAI, as critical drivers of its success.
 
 ### A Landmark Year for AI Development
@@ -33,4 +31,4 @@ To counter these moves, Smith urged the U.S. to double down on promoting America
 
 Microsoft’s massive investment signals the growing importance of AI in shaping the future of technology. With plans to bolster U.S. infrastructure and maintain its partnerships with leading AI innovators, the company aims to strengthen its role as a global leader in AI development.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

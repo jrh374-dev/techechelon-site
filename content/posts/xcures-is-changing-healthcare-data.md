@@ -23,7 +23,8 @@ This enabled providers in getting a full understanding of a patient’s conditio
 
 In 2021, xCures took a significant leap forward by introducing AI-assisted portals that provided rapid and comprehensive access to critical data. This innovation marked a pivotal moment in the company’s history and enabled healthcare providers to make [informed decisions quickly](https://xcures.com/#information-extraction), which ultimately improved patient outcomes.
 
-![Mika Newton, CEO of xCures](https://static.wixstatic.com/media/e37254_f13e22c9f238432ca3632d2d9b68518c~mv2.jpeg)
+![Photo](https://static.wixstatic.com/media/e37254_f13e22c9f238432ca3632d2d9b68518c~mv2.jpeg)
+*Mika Newton, CEO of xCures*
 
 “The introduction of AI-assisted portals was a game-changer for us,” Mika Newton, CEO of xCures, told TechEchelon. “It allowed us to move beyond the traditional barriers of data access and provide a solution that could genuinely impact patient care in real-time. We saw the potential to do so much more, not just for cancer patients, but for all patients.”
 

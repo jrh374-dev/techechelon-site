@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-03-07T02:21:15.974Z"
 coverImage: "https://static.wixstatic.com/media/e37254_7841dd96511e49d68299ac380108dc39~mv2.png"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Meta, the parent company of Facebook, is actively developing an advanced artificial intelligence (AI) model aimed at enhancing its video services across all platforms, a top executive disclosed on Wednesday.
 
 Tom Alison, Facebook's chief, highlighted during the Morgan Stanley tech event in San Francisco that this initiative is a key component of Meta's technological strategy extending through 2026. Mark Zuckerberg, Meta's CEO, has previously revealed the company's substantial investment in Nvidia's GPUs to bolster its AI infrastructure.
 

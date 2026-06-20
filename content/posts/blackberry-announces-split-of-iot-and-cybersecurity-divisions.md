@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-On Wednesday, Canadian tech firm BlackBerry (BB) unveiled plans to divide its Internet of Things (IoT) and cybersecurity segments. They are eyeing an initial public offering (IPO) for the IoT department in the upcoming fiscal year.
-
 This move follows a trend where businesses are seeking a streamlined corporate model, allowing investors to more accurately assess distinct segments. For instance, earlier this week, the company once known as Kellogg Co. finalized its spinoff. Similarly, healthcare colossus Johnson & Johnson, along with industrial powerhouse General Electric, have previously separated some of their divisions.
 
 Addressing the restructuring, BlackBerry CEO John Chen remarked, "Both the IoT and Cyber sectors are poised to tap into vast and expanding markets. The anticipated structure is set to bolster their efficiency and dedication in offering top-notch solutions."

@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-A rogue version of Checkmarx's Jenkins Application Security Testing plugin was uploaded to the Jenkins Marketplace on May 9, marking the third supply-chain attack the application security testing firm has endured since late March.
-
 The compromise was claimed by the TeamPCP hacker group, which has carried out a series of related intrusions targeting developer tooling, including the Shai-Hulud campaigns on npm and a breach of the Trivy vulnerability scanner.
 
 The malicious plugin, versioned 2026.5.09, was uploaded to repo.jenkins-ci.org outside the plugin's standard release pipeline. The update lacked a git tag and a GitHub release, and deviated from the official date style scheme used in legitimate releases. The plugin is designed to integrate security scanning into automated CI/CD pipelines.

@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-As Russia intensifies its use of military drones in Ukraine and China incorporates advanced artificial intelligence (AI) into its global military strategies, the Pentagon grapples with keeping up. Congress is pushing for the military to modernize more swiftly via upcoming legislation in the National Defense Authorization Act (NDAA).
-
 Experts widely agree that the US military's future competitiveness hinges on its speed in acquiring and deploying AI and other state-of-the-art technologies. These tools are crucial to enhancing intelligence gathering, operating autonomous weapons, improving surveillance platforms, and advancing robotic vehicles. If not addressed promptly, US military superiority could be undermined.
 
 Yet, bureaucratic procedures for procurement and contracting have slowed the pace of technological adoption, which favors traditional hardware. To tackle this, Senators Mark Warner, Michael Bennet, and Todd Young introduced a bill to assess how the US is performing in critical technologies like AI compared to its competitors.

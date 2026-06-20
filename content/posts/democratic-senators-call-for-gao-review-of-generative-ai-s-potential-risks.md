@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-06-26T23:19:09.790Z"
 coverImage: "https://static.wixstatic.com/media/e37254_12d6baa6445d4dbdbbab9b97ac12ad98~mv2.jpeg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Senators Ed Markey of Massachusetts and Gary Peters of Michigan, both Democrats, have called on the Government Accountability Office (GAO) to examine the potential dangers posed by generative artificial intelligence (AI). The request comes as legislators consider regulations for the rapidly expanding sector.
 
 The senators urged the impartial government body in their letter dispatched on Friday to perform an exhaustive technological analysis of the hazards associated with generative AI tools, as well as strategies to lessen these risks.
 

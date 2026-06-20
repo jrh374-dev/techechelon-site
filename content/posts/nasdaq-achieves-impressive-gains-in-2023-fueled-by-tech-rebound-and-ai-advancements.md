@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-In 2023, technology stocks saw a remarkable recovery, propelling the Nasdaq to one of its best performances in the last twenty years. Following a significant 33% drop in 2022, the Nasdaq, known for its concentration of tech stocks, ended the year with a 43% increase, marking its most successful year since 2020.
-
 This rebound places 2023 just behind the gains seen in 2009, with these two years being the only ones with higher increases since the aftermath of the dot-com bubble in 2003.
 
 The Nasdaq's resurgence brought it within 6.5% of its all-time high, achieved in November 2021. This upward trend in the tech sector was largely influenced by a shift towards riskier investments, spurred by the Federal Reserve's decision to stop increasing interest rates and a more stable inflation outlook. Tech companies also reaped benefits from cost reduction strategies initiated in the previous year, which focused on improving efficiency and profit margins.
@@ -33,4 +31,4 @@ The tech rally of 2023 was not accompanied by a surge in initial public offering
 
 Byron Lichtenstein of Insight Partners referred to 2023 as "the great reset," indicating that the most promising companies for IPOs might not debut until the latter half of 2024. This period will be used for necessary preparations, such as strengthening governance and improving IT and accounting systems.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

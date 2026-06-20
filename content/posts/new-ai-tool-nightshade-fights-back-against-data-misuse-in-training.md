@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-A cutting-edge tool named Nightshade has emerged as a means for artists to shield their creative outputs. This tool damages training data extracted from art, potentially rendering AI platforms like DALL-E, Stable Diffusion, and Midjourney ineffective in producing visual content.
-
 Nightshade subtly modifies pixels in digital artwork. If an AI platform uses this altered artwork for training, the distortions serve as a "poison", manipulating the model's functionality. As a result, the AI may interpret an image of a car as something entirely different, like a cow.
 
 Ben Zhao, a professor at the University of Chicago and co-developer of Nightshade, told the MIT Technology Review that the tool's primary goal is to counterbalance AI firms that misuse copyrighted content for training. Research underlining Nightshade emphasizes the vulnerability of text-to-image AI systems to such disruptive strategies.

@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-08-22T14:14:29.592Z"
 coverImage: "https://static.wixstatic.com/media/e37254_d2493662a918457b97b5db15e60db356~mv2.webp"
-readTime: 3
+readTime: 2
 migratedFromWix: true
 ---
-
-Artificial intelligence is advancing quickly enough that chatbots and multimodal systems often give the impression of personality. For some users, that illusion of human-like behavior is powerful. But does imitation mean consciousness—and should the industry even be entertaining that idea?
 
 Mustafa Suleyman, Microsoft’s chief executive of AI, argues that it should not. In a blog post this week, he dismissed ongoing research into “AI welfare”—the idea that machines might one day develop subjective experiences and deserve rights—as both premature and dangerous. 
 

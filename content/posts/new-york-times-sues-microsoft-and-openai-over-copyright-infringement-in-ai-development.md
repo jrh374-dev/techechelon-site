@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-A recent legal action has been initiated by The New York Times against Microsoft and OpenAI, the developers of the renowned AI chatbot ChatGPT. The lawsuit, filed in the Southern District of New York's U.S. District Court, alleges that these companies have engaged in copyright infringement by utilizing the newspaper's content to develop large language models without permission.
-
 Microsoft, a key investor in OpenAI, provides the AI firm with Azure cloud computing resources. The New York Times asserts that its proprietary content has been used unlawfully, leading to significant financial damages. Despite acknowledging the potential benefits of AI for the public and journalism, the Times emphasizes the need for obtaining consent before using journalistic materials for commercial purposes.
 
 OpenAI and Microsoft are accused of building their tools using content from independent journalism, which the Times and others produce at a high cost and with expertise. The lawsuit claims that settled copyright law protects such journalistic content, and commercial use requires prior authorization, which has not been granted in this case.

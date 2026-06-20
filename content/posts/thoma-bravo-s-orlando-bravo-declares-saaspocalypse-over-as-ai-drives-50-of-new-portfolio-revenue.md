@@ -37,4 +37,4 @@ Bravo's comments arrive as broader markets are navigating a volatile stretch for
 
 For now, the question Thoma Bravo is pressing its portfolio companies to answer is not whether AI will displace them, but how quickly they can integrate it as a revenue driver before competitors do.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

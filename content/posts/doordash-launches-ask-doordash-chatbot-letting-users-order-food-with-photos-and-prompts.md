@@ -33,4 +33,4 @@ Ask DoorDash represents DoorDash's most consumer-facing AI effort to date, aimin
 
 Whether the chatbot can help stabilize investor sentiment — or accelerate user engagement enough to justify the spending — will likely come into focus when DoorDash reports its next quarterly results.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

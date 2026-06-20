@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Texas Instruments shares tumbled 12% on Wednesday after the chipmaker issued a cautious outlook and flagged persistent concerns over tariffs and geopolitical risks as factors weighing on demand.
-
 The company projected third-quarter earnings between $1.36 and $1.60 per share, with a midpoint of $1.48—coming in just under analysts’ consensus estimate of $1.50, according to data from LSEG. Revenue guidance for the quarter landed between $4.45 billion and $4.48 billion, with the midpoint slightly ahead of the $4.59 billion analysts were expecting.
 
 CEO Haviv Ilan noted during a post-earnings call that some of the recent strength in second-quarter sales may have been driven by customers stockpiling inventory ahead of expected tariff changes. He added that recovery in the automotive sector remains “shallow,” with buyers still hesitant amid global uncertainty.
@@ -21,4 +19,4 @@ Despite the sell-off, the company reported solid second-quarter results. Revenue
 
 Texas Instruments, which plays a key role in supplying semiconductors to the automotive and industrial sectors, continues to navigate a complex economic landscape shaped by trade policies and global supply chain shifts.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -37,4 +37,4 @@ AMD's results arrive amid a wider earnings-season surge in semiconductor stocks.
 
 With Helios shipments on the horizon and server demand described as accelerating, the next several quarters will serve as a test of whether AMD can translate its growing roster of hyperscaler partnerships into durable market share gains against Nvidia's entrenched position.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

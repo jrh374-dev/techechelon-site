@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Apple has halted sales of its Apple Watch Series 9 and Apple Watch Ultra 2 in the United States, as revealed by recent checks on its official website.
-
 When attempting to access the pages for the Apple Watch Series 9 and Apple Watch Ultra 2 on Thursday, the site displayed a message indicating that these products are "currently unavailable." Instead, the website now prominently displays the Apple Watch SE, an affordable model launched in 2022, which is not involved in the ongoing patent dispute.
 
 Earlier in the week, Apple announced its plan to cease online sales of these latest Watch models starting Thursday, with in-store sales ending after Sunday. The Apple Watch SE remains on sale through Apple and other retail outlets, with the latter continuing to sell the newer models until their stock runs out.

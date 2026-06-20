@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Airbnb announced its first-quarter earnings on Wednesday, surpassing analysts' expectations but providing a forecast that fell short of projections, leading to a more than 6% drop in shares during after-hours trading.
-
 The company's financials exceeded consensus estimates from LSEG as follows:
 
 - Earnings per share stood at 41 cents, outperforming the anticipated 24 cents.
@@ -34,4 +32,4 @@ The growth in bookings was particularly strong in the Asia Pacific and Latin Ame
 
 Average daily rates rose 3% from the previous year to $173. Airbnb ended the quarter with a record number of active listings, which saw a 15% increase from the previous year.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

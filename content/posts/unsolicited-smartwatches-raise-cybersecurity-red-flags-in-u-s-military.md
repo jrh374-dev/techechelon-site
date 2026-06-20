@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Unexpected shipments of smartwatches, capable of automatic connection to cellular networks and Wi-Fi and accessing user information, are being received by members of the U.S. military, triggering cybersecurity alarm bells.
-
 The Army's Criminal Investigation Division (CID) issued a warning last week that these devices could potentially harbor malware. The covert sender of these smartwatches might gain "access to saved data, such as banking details, contact lists, and login credentials," the CID said.
 
 An alternative explanation might be a non-malicious but deceptive marketing tactic known as 'brushing,' where online sellers artificially boost their ratings through fraudulent orders and reviews.

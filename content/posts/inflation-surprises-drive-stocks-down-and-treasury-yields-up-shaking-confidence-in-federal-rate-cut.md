@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-On Tuesday, stock markets experienced a decline following the release of inflation data for January that exceeded forecasts, causing a surge in Treasury yields. This development cast uncertainty over the Federal Reserve's ability to implement multiple rate cuts this year, which had been a crucial argument for those optimistic about the stock market's prospects.
-
 The Dow Jones Industrial Average dropped by 443 points or 1.2%, having earlier fallen over 500 points or 1.4%, marking its most significant decline since March 2023, when it decreased by 1.63%. Similarly, the S&P 500 and the Nasdaq Composite both saw declines of 1.2% and 1.4%, respectively.
 
 January's consumer price index (CPI) saw a 0.3% increase from December and a 3.1% rise on an annual basis, surpassing the expectations of economists who had predicted a 0.2% monthly increase and a 2.9% annual rise. Core CPI, which excludes the more volatile food and energy sectors, rose by 0.4% from the previous month and 3.9% from the previous year, again exceeding expectations of a 0.3% monthly and 3.7% annual increase.

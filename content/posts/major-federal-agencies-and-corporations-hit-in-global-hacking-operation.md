@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-On June 15, a major hacking operation impacted several US federal agencies, including the Department of Energy (DOE), exploiting a vulnerability in the commonly used file-transfer software, MOVEit Transfer, according to official sources.
-
 The cyberattack led to a data breach at two DOE divisions, the DOE contractor Oak Ridge Associated Universities and the New Mexico-based Waste Isolation Pilot Plant, a defense-related nuclear waste disposal facility. This occurred when hackers manipulated a security loophole in MOVEit Transfer, as stated by the DOE.
 
 In addition, Shell, a prominent British energy company, the University System of Georgia, Johns Hopkins University, and Johns Hopkins Health System also suffered from the hacking campaign, as confirmed by separate statements from the affected organizations. The latter is a nonprofit that collaborates with Johns Hopkins University and oversees six hospitals and primary care centers.

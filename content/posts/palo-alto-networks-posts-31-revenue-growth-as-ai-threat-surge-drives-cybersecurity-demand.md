@@ -37,4 +37,4 @@ The company also reiterated its target of reaching a 40% free cash flow margin i
 
 With earnings now clearing the bar set by months of elevated expectations, attention will turn to whether Palo Alto can sustain its organic bookings acceleration and close the growing pipeline of AI-driven security engagements — a dynamic that analysts will watch closely heading into the company's fiscal fourth quarter.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

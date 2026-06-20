@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-Boeing launched its first Starliner flight with astronauts on Wednesday, beginning a crucial final flight test of the long-delayed spacecraft.
-
 The launch took off at 10:52 a.m. ET from Cape Canaveral, Florida with two NASA astronauts aboard. Starliner is carried by United Launch Alliance’s Atlas V rocket and bound for the International Space Station.
 
 Wednesday’s liftoff comes after a series of attempts to launch the mission, known as the Boeing crew flight test. On Saturday, a launch attempt was called off in the final minutes of the countdown due to a problem with one of the computers that provides ground support to the rocket. In early May, another attempt was called off due to an issue detected with the rocket itself.

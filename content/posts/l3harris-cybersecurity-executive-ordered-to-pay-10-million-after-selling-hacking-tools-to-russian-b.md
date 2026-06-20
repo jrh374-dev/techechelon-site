@@ -33,4 +33,4 @@ Veteran cybersecurity reporter Kim Zetter first reported the new restitution ord
 
 The case stands as one of the most damaging leaks of advanced hacking tools in the recent history of the United States and its closest allies, underscoring the persistent insider-threat risk facing defense contractors that develop offensive cyber capabilities for government clients. With the new $10 million restitution order, scrutiny of the safeguards governing access to sensitive tools at firms like Trenchant is likely to intensify.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-U.S. stocks climbed on Tuesday after President Donald Trump announced a delay in imposing a 50% tariff on European Union imports.
-
 The Dow Jones Industrial Average rose 318 points, or 0.8%. The S&P 500 added 1%, while the Nasdaq Composite advanced 1.2%.
 
 Trump said Sunday that he would postpone the tariff until July 9, following a request from Ursula von der Leyen, president of the European Commission. The tariff had previously been scheduled to take effect on June 1.
@@ -25,4 +23,4 @@ The rebound follows a rough week for markets, during which the Dow, S&P 500, and
 
 Traders are now eyeing corporate earnings, with Okta reporting after Tuesday’s close. Reports from Nvidia, Macy’s, and Costco are expected later in the week. So far, more than 95% of S&P 500 companies have reported quarterly results, with nearly 78% exceeding analyst expectations, according to FactSet.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

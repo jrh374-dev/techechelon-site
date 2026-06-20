@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-President Donald Trump on Wednesday announced a 90-day pause on the implementation of new “reciprocal” tariffs—except for those targeting China, which will instead face a steep escalation.
-
 The decision marks a significant shift in Trump’s trade policy as global economic uncertainty mounts. Under the new directive, tariffs on Chinese imports will be raised to at least 125%, while other countries will receive temporary reprieve from new levies.
 
 The markets responded with enthusiasm. The S&P 500 soared, logging its best single-day gain since October 2008, as investors welcomed the prospect of easing trade tensions with key U.S. allies.
@@ -29,4 +27,4 @@ While Trump’s decision may ease tensions with allies such as the European Unio
 
 It remains to be seen whether the 90-day tariff freeze will be used as a window for negotiation or merely a brief lull in an ongoing economic war.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

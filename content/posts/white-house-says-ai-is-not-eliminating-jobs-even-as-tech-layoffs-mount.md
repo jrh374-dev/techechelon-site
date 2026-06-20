@@ -41,4 +41,4 @@ The upfront week also arrives against the backdrop of significant industry conso
 
 Whether Hassett's task force will produce policy recommendations — and on what timeline — remains unclear. What is clear is that AI's role in corporate decision-making is accelerating, even as its footprint in official labor statistics remains, for now, difficult to isolate.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-01-04T14:45:11.005Z"
 coverImage: "https://static.wixstatic.com/media/e37254_19a35007f8534ea0bfd6a99a0e2289c1~mv2.webp"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-The United States has imposed sanctions on China’s Integrity Technology Group, accusing the company of orchestrating cyberattacks through a hacking group known as "Flax Typhoon." The sanctions, announced on Friday, mark a significant escalation in cybersecurity tensions between Washington and Beijing.
 
 In a statement, the State Department described Integrity Technology as a major government contractor with close ties to China’s Ministry of State Security. The department alleged that hackers under Integrity’s direction targeted critical infrastructure in the U.S. and other countries, carrying out activities on behalf of the Chinese government.
 

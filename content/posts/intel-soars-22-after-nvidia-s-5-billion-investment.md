@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Intel shares jumped 22.8% on Thursday after Nvidia announced a $5 billion investment in the chipmaker, marking Intel’s best trading day since October 1987.
-
 Nvidia said it will purchase shares at $23.28 each as part of an agreement to co-develop data center and PC chips with Intel. The deal does not include the manufacturing of Nvidia chips in Intel’s foundries.
 
 Intel closed at $30.57, while Nvidia gained 3.5% on the day.
@@ -27,4 +25,4 @@ Intel shares had fallen to their lowest level in more than a decade earlier this
 
 Intel will build x86 CPUs for Nvidia’s AI infrastructure and PC system-on-chips using Nvidia’s RTX GPUs, according to the release.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

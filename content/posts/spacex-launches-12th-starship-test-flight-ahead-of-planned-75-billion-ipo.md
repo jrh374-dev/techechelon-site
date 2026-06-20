@@ -31,4 +31,4 @@ The timing of Friday's test flight â€” days after the IPO filing became public â
 
 With the IPO expected next month and the NASA lunar mission on the 2028 horizon, the performance of Starship's remaining test program will be closely watched by both regulators and the investment community alike.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

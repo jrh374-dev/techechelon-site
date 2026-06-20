@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-The New York Times has taken a step against AI by updating its terms of service on August 3, preventing the scraping of its content for training AI or machine learning models. This covers a broad spectrum of content including text, images, audio and video clips, designs, and metadata.
-
 In addition to this, the revised terms restrict website crawlers — tools that index web pages for search results — from using this content to instruct LLMs or AI tools. A breach of these guidelines could lead to penalties, although the exact nature remains ambiguous. The New York Times refrained from adding any comments beyond its terms of service.
 
 Katie Gardner, a partner at Gunderson Dettmer, observed, "While restrictions on data scraping are commonplace in terms of service, it's rare to see a direct mention of AI training."

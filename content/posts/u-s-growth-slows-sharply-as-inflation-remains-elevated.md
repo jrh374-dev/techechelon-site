@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-The U.S. economy slowed significantly in the final months of 2025 while inflation remained stubbornly elevated at the start of 2026, according to new data released by the U.S. Department of Commerce.
-
 Revised figures from the government show that gross domestic product grew at an annualized rate of just 0.7% in the fourth quarter, sharply lower than the previous estimate of 1.4% and well below economists’ expectations of roughly 1.5%. The slowdown marks a steep drop from the 4.4% growth rate recorded in the third quarter and suggests that economic momentum faded toward the end of the year.
 
 For the full year, the U.S. economy expanded by 2.1%, slightly lower than earlier estimates and down from the 2.8% growth recorded in 2024. According to the Bureau of Economic Analysis, the downward revision was driven by weaker consumer spending, lower government outlays, and adjustments to export and import data.
@@ -31,4 +29,4 @@ Meanwhile, the U.S. Supreme Court recently invalidated several tariffs previous
 
 The mixed signals leave the Federal Reserve in a difficult position ahead of its next policy decision. Markets widely expect the central bank’s rate-setting Federal Open Market Committee to hold interest rates steady for now, though some analysts warn that persistent inflation could force policymakers to reconsider the possibility of rate hikes later in the year.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

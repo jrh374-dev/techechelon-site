@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-In a recent discussion with The New York Times, SEC Chairman Gary Gensler highlighted the potential risks that artificial intelligence (AI) poses to the financial system. Gensler expressed concerns that the evolving AI technology could play a significant role in future financial downturns, emphasizing the issues related to economies of scale and network effects.
-
 He speculated that upcoming business infrastructures in the U.S. might heavily rely on a handful of base models. Such a scenario could promote “herding,” where all businesses depend on identical information, thus amplifying the chances of a financial collapse.
 
 The SEC introduced a potential regulation last month that would necessitate investment consultants to eliminate technology-induced conflicts of interest. This initiative stems from concerns that AI might prioritize the interests of brokers or advisers over those of investors. Gensler, in a prior press statement, stressed that advisers should always prioritize the investor's interests.

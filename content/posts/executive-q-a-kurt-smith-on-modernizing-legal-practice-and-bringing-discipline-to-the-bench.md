@@ -11,11 +11,10 @@ readTime: 12
 migratedFromWix: true
 ---
 
-In a legal landscape often shaped by legacy systems and opaque processes, Kurt Smith has built a practice grounded in clarity, discipline, and strategic thinking. As Founder and Lead Trial Attorney of [Smith Legal Group](https://www.thelegalsmith.com/), Smith has spent years advising clients through some of the most complex and emotionally charged legal challenges—spanning family law, criminal defense, and estate planning—while quietly modernizing how a law firm can operate in today’s environment.
-
 Drawing on a background that includes civil litigation, insurance, and project management at IBM Global Services, Smith brings a distinctly analytical, systems-driven approach to the practice of law. That perspective has shaped Smith Legal Group into a firm known not just for courtroom advocacy, but for thoughtful planning, transparent client communication, and an emphasis on long-term outcomes over short-term wins.
 
-![Kurt Smith, founder and lead trial attorney, Smith Legal Group.](https://static.wixstatic.com/media/e37254_bdad4fb7106c425eab991d7f5a12841d~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_bdad4fb7106c425eab991d7f5a12841d~mv2.jpg)
+*Kurt Smith, founder and lead trial attorney, Smith Legal Group.*
 
 Now, Smith is taking that philosophy a step further. In addition to leading his firm, he is running for District Court Judge in Nevada’s 8th Judicial District Court in Clark County, where he aims to apply the same principles of fairness, efficiency, and accountability to the judicial system itself.
 

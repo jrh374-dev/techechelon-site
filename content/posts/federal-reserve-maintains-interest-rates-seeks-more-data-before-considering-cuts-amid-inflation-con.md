@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Federal Reserve representatives noted during their June gathering that while inflation trends are heading towards the desired direction, the pace is insufficient for any immediate reduction in interest rates, according to the minutes released on Wednesday.
-
 The minutes revealed that the policymakers require more convincing data to be confident that inflation is steadily approaching the 2% target. Although there was some disagreement among the 19 central bankers in the discussion, with a few even considering a rate hike if necessary, the Federal Open Market Committee ultimately decided to maintain the current rates.
 
 The Fed has been targeting an annual inflation rate of 2%, a figure consistently surpassed since early 2021. Recent data suggests improvement, but officials seek more proof of sustained progress.
@@ -29,4 +27,4 @@ While the minutes do not specify the identities or the exact count of officials 
 
 Since this meeting, Fed officials have continued to promote a cautious approach, focusing on real-time data over projections. Following a recent event in Portugal, Chair Jerome Powell noted that the balance between the risks of reducing rates too early—which could reignite inflation—and delaying cuts, which could harm economic growth, is becoming clearer. Previously, the emphasis was on not prematurely easing efforts against inflation.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

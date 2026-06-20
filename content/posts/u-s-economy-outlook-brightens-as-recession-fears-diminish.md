@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-Economists' perspective on the U.S. economy is increasingly hopeful. Their latest predictions indicate that the economy will likely avoid a recession. Additionally, expectations are that the Federal Reserve will halt further interest rate hikes and inflation will keep subsiding.
-
 A recent Wall Street Journal survey of business and academic economists revealed a drop in the perceived risk of a recession in the next 12 months: down from 54% in July to 48%. This marks the first time since last year that the probability has been below the halfway mark, with the median risk standing at 50%.
 
 Doug Porter and Scott Anderson, economists at BMO, attributed this positive shift to the resolution of banking issues and a resilient labor market which, combined with increasing real incomes, has bolstered consumer demand.

@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-On Friday, the stock market experienced a notable upswing in response to the release of the October jobs report, a phenomenon driven by the notion that slightly unfavorable news can be beneficial, provided it's not excessively negative.
-
 The surge in stocks came as the Department of Labor reported that nonfarm payrolls had increased by 150,000 in October, missing the mark by 20,000 jobs. However, this shortfall was largely ascribed to the auto sector strikes, which have now concluded.
 
 The Federal Reserve finds itself in a position where the subdued job growth, along with wage increases that matched forecasts, doesn't necessitate immediate action. The central bank is in a position to monitor incoming data without having to alter interest rates, after having already raised them 11 times.

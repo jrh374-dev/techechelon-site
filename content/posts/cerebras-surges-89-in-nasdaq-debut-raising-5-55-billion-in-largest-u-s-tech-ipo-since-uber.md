@@ -41,4 +41,4 @@ The debut arrives as the broader technology IPO market shows signs of revival af
 
 Several high-profile offerings may follow. Elon Musk's SpaceX — which merged with AI company xAI in February — is preparing for a share sale, while model developers OpenAI and Anthropic could also seek public listings later this year, signaling that the appetite for AI-focused offerings remains far from exhausted.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

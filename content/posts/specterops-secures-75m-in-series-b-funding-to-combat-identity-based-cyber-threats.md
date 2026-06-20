@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Cybersecurity startup SpecterOps has raised $75 million in a Series B funding round to expand its BloodHound Enterprise platform, which helps organizations detect and eliminate identity-based attack paths. 
-
 The funding round was led by Insight Partners and included participation from Cisco Investments, Ansa Capital, M12, Ballistic Ventures, and Decibel.
 
 Founded in 2017, SpecterOps has built a reputation for its adversary-focused security solutions, including its open-source BloodHound Community Edition, which maps Active Directory attack paths to help organizations mitigate security risks.
@@ -29,4 +27,4 @@ The new funding will be used to expand SpecterOps’ platform, accelerate resear
 
 This round follows SpecterOps’ Series A funding in 2023, which was extended with an $8.5 million investment from Ballistic Ventures, bringing the total to $33.5 million at the time. With this latest investment, SpecterOps is positioned to scale its solutions and help enterprises stay ahead of modern cyber threats.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

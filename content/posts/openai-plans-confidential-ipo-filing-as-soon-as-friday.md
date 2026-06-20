@@ -31,4 +31,4 @@ OpenAI's eventual listing would offer public investors direct exposure to one of
 
 The timing and scale of the public offering will depend in part on market conditions and the SEC review process, both of which remain fluid. What Friday's expected filing would formally set in motion is a regulatory clock — and a countdown toward one of the most consequential technology listings in recent memory.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

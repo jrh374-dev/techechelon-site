@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-12-13T22:01:58.865Z"
 coverImage: "https://static.wixstatic.com/media/e37254_6a749dff0919496fb91bf1fe5444e80b~mv2.jpg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-The Federal Reserve, in its latest meeting, decided not to change the key interest rate, keeping it within the 5.25%-5.5% range. This marks the third consecutive time the rate has been held steady. The Federal Open Market Committee (FOMC) unanimously agreed on this decision, citing improvements in inflation rates and economic stability.
 
 Furthermore, the committee hinted at potential interest rate reductions in the coming years. For 2024, they anticipate at least three cuts, which is more aggressive than their previous stance but still less than market expectations of four cuts. They also forecast four more cuts in 2025 and three in 2026, potentially lowering the rate to between 2%-2.25%.
 

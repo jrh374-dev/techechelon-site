@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Google has committed to a new investment exceeding $1 billion in Anthropic, a leading generative AI startup, a source familiar with the matter confirmed to CNBC. This latest funding builds on Google’s prior $2 billion investment in Anthropic, alongside a 10% ownership stake and a substantial cloud services contract between the two companies.
-
 Anthropic, known for its Claude AI chatbot, continues to solidify its position in Silicon Valley’s AI arms race. The company is reportedly in advanced talks to raise $2 billion in a funding round led by Lightspeed Venture Partners, targeting a $60 billion valuation, as previously reported by CNBC.
 
 The Financial Times first reported Google’s latest investment.
@@ -41,4 +39,4 @@ The generative AI market, encompassing players like Anthropic, OpenAI, Google, A
 
 Google’s latest investment underscores the competitive dynamics in the generative AI space, further positioning Anthropic as a key contender in shaping the future of artificial intelligence.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-In February, the private sector's employment figures saw an increase with 140,000 new jobs added, according to the payroll company ADP. This uptick, from January's revised figure of 111,000, was slightly below the anticipated 150,000 jobs forecasted by Dow Jones.
-
 The leisure and hospitality industry led the way with 41,000 new positions, followed by construction with 28,000 and trade, transportation, and utilities adding 24,000 jobs.
 
 The report, a precursor to the Labor Department's highly anticipated nonfarm payrolls data due on Friday, shows a continued but modest growth in employment. Notably, service industries contributed 110,000 jobs, while goods-producing sectors added 30,000. Larger firms were the main drivers of job creation, with smaller businesses, those with fewer than 50 employees, adding only 13,000 jobs to the economy.

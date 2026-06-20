@@ -11,9 +11,7 @@ readTime: 8
 migratedFromWix: true
 ---
 
-Charles Legg stands as a pioneering figure in the biopharmaceutical realm, blending a passion for science with a strategic vision for innovation and accessibility. As the CEO of Zea Biosciences, Charles brings a wealth of experience from his extensive career in biotech, where he has been instrumental in the development of cutting-edge therapeutics and platforms, including gene therapy. His journey from a curious child fascinated by marine biology to a leader in biopharmaceuticals is a testament to his enduring commitment to advancing healthcare solutions.
-
-![](https://static.wixstatic.com/media/e37254_62d629887b9a4e249991b6c970546a1e~mv2.png)
+![Photo](https://static.wixstatic.com/media/e37254_62d629887b9a4e249991b6c970546a1e~mv2.png)
 
 With a robust background that includes leadership roles in various biotech firms, Charles has been pivotal in steering Zea Biosciences towards its core mission of scaling up therapies and vaccines to meet global health needs. Under his guidance, Zea is not only pushing the boundaries of biologic drug development but also embracing emerging technologies like AI to enhance data-driven insights and innovation. His approach as CEO is informed by his previous role as COO, where he laid the groundwork for many of the company's current initiatives.
 

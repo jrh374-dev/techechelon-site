@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Growth Catalyst Partners (GCP), a U.S.-based private equity firm specializing in information, marketing, and tech-enabled services, has acquired InspiredMinds!, the world’s largest community of AI leaders and innovators. 
-
 The move marks a significant milestone for both organizations, as InspiredMinds! prepares to scale its influential AI summits and robust community into the U.S. market.
 
 InspiredMinds!, founded in 2017 by AI entrepreneur Sarah Porter, has built a global reputation as a leader in ethical AI development and innovation. 
@@ -43,4 +41,4 @@ With AI adoption accelerating at an unprecedented pace, the collaboration betwee
 
 Porter emphasized the importance of these efforts: “This is a critical moment for human-AI collaboration. Our expanded platform will amplify the voices driving transformative innovation and ensure AI serves the greater good.”
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

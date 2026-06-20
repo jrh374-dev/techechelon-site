@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Apple's market value soared to $3 trillion this past Friday as the tech giant's stock price surged by 1%, surpassing the necessary $190.73 mark to reach this milestone.
-
 While the company managed to touch the $3 trillion valuation during a trading session in January 2022, it did not retain this peak by market close. Apple will have another opportunity to do so this coming Friday.
 
 Investors' ongoing faith in Apple and its product and service range continues to hold firm, notwithstanding the company's announcement in May indicating an anticipated 3% revenue dip for the current quarter.

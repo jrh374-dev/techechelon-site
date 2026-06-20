@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-The U.S. State Department has announced a reward of up to $10 million for any information that can help identify or locate the leaders of Hive, a notorious global ransomware syndicate.
-
 Additionally, the department is offering a reward of up to $5 million for details that lead to the arrest or conviction of individuals associated with Hive. Since June 2021, Hive has been implicated in extorting over $100 million through ransom demands from various sectors including hospitals, educational institutions, financial services, and critical infrastructure.
 
 In a significant operation last month, the Justice Department revealed that the FBI successfully penetrated the computer systems of Hive in July 2022, obtaining decryption keys which were then used to assist victims of the ransomware, thwarting potential ransom payments estimated at $130 million. This operation culminated in the take-over of Hive's servers and websites, significantly impairing the criminal group's operations.

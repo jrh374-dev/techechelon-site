@@ -35,4 +35,4 @@ Amazon has been incrementally compressing its delivery windows for years, moving
 
 How quickly Amazon can scale Amazon Now to tens of millions of customers — and whether consumers will consistently pay the delivery premiums attached to the service — will be closely watched as the company tests just how far it can push the speed of modern commerce.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

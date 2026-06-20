@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-The U.S. Department of Defense is threatening to cancel a major contract with Anthropic if the company does not agree to revised terms governing how its AI models can be used in military operations.
-
 According to officials, the Pentagon has given Anthropic until Friday to comply. At the center of the dispute are the company’s usage restrictions on its Claude model, which prohibit applications involving mass surveillance or autonomous weapons without human oversight.
 
 Defense Secretary Pete Hegseth met with Anthropic CEO Dario Amodei on Tuesday in an effort to resolve the standoff. While both sides described the meeting as constructive, the gap between government requirements and company policy remains unresolved.

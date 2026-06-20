@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-The high-performance semiconductors from Nvidia have gained significant attention due to their ability to drive artificial intelligence technology, a feature that is becoming increasingly valuable.
-
 However, the unique capabilities of these chips have also sparked concerns among U.S. critics who fear that they could be exploited if they end up in undesirable hands. This could potentially expedite the propagation of non-democratic ideologies or facilitate the creation of autonomous weapons.
 
 Eileen Donahoe, previously U.S. ambassador to the U.N. Human Rights Council and currently executive director of Stanford University's Global Digital Policy Incubator, expressed to NBC that should authoritarian regimes outpace democracies in technology, it could put democracy and human rights in jeopardy.

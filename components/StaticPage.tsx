@@ -29,7 +29,7 @@ export function StaticPage({ eyebrow, title, dek, children }: Props) {
         </div>
       </section>
       <section className="bg-cream py-12">
-        <div className="article-prose mx-auto px-7" style={{ maxWidth: "660px" }}>
+        <div className="static-prose mx-auto px-7" style={{ maxWidth: "660px" }}>
           {children}
         </div>
       </section>

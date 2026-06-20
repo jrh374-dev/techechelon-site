@@ -11,9 +11,7 @@ readTime: 10
 migratedFromWix: true
 ---
 
-Jon Murchison is a visionary in the cybersecurity arena, with a background that melds the high-stakes world of national security with cutting-edge technological innovation. As the founder and CEO of Blackpoint Cyber, Jon has leveraged his distinguished background in network engineering and IT operations to pioneer a proactive stance in cybersecurity. Jon’s transition into a leading role within the intelligence community – which involved dedicating over a decade to critical national security missions – has equipped him with unmatched offensive security strategies.
-
-![](https://static.wixstatic.com/media/e37254_8db29909c6df45ccbdc3dcafbf5c224b~mv2.webp)
+![Photo](https://static.wixstatic.com/media/e37254_8db29909c6df45ccbdc3dcafbf5c224b~mv2.webp)
 
 With expertise honed at the NSA as a computer operations specialist, Jon is at the forefront of developing aggressive cyber defense techniques aimed at preempting cyber threats and neutralizing insider risks. Jon's ownership of multiple patents in network defense, analytics, and proactive offensive strategies underscores his expertise in not just defending against, but actively engaging cyber threats. Under his guidance, Blackpoint Cyber distinguishes itself by emphasizing an offensive security posture that harnesses deep knowledge of adversary tactics to deliver cybersecurity solutions that defend and attack – ensuring organizations worldwide are always one step ahead of potential threats.
 

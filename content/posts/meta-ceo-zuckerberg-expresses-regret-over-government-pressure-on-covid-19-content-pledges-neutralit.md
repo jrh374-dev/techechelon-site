@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-In a recent communication to the House Judiciary Committee, Meta CEO Mark Zuckerberg expressed regret over his previous reluctance to speak out against what he described as "government pressure" on content moderation concerning COVID-19.
-
 Zuckerberg disclosed that in 2021, high-level officials from the Biden administration exerted significant pressure on Meta, the conglomerate behind Facebook and Instagram, to suppress certain content.
 
 "I believe the government pressure was wrong, and I regret that we were not more outspoken," Zuckerberg stated in his letter to Rep. Jim Jordan (R-Ohio), the committee chair.
@@ -37,4 +35,4 @@ In response to the uproar, the White House reiterated its stance, with a spokesp
 
 The spokesperson further affirmed, “Our position has been clear and consistent: we believe tech companies and other private actors should take into account the effects their actions have on the American people, while making independent choices about the information they present.”
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -33,4 +33,4 @@ In March, the U.S. Justice Department charged three individuals connected to Sup
 
 How quickly Nvidia can convert its CPU market forecast into realized China revenue will depend heavily on whether diplomatic and regulatory conditions shift — a variable that has so far moved slowly despite high-level engagement between Washington and Beijing.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

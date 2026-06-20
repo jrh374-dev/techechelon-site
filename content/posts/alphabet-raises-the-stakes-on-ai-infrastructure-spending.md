@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-Alphabet is resetting expectations for artificial intelligence infrastructure spending, signaling that the cost of staying competitive in the AI race is rising faster — and to higher levels — than Wall Street anticipated.
-
 On Wednesday, Alphabet said it expects 2026 capital expenditures of $175 billion to $185 billion, a figure that would be more than double what the company spent in 2025. 
 
 While Alphabet beat Wall Street expectations on fourth-quarter revenue, earnings, and cloud growth, the size of the capex forecast weighed on shares in extended trading.
@@ -53,4 +51,4 @@ For investors, Alphabet’s message is stark: AI leadership now requires capital
 
 The open question is not whether Alphabet can spend this much — but whether the returns arrive quickly enough to keep Wall Street on board.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

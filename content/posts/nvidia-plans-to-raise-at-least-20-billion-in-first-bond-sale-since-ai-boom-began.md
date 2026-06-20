@@ -31,4 +31,4 @@ Nvidia also announced an aggressive shareholder return program in May, raising i
 
 With its balance sheet capacity now being deployed at a scale commensurate with its revenue base, Nvidia's debt market debut since the AI era began signals how the company is structuring itself for a sustained, capital-intensive phase of growth — even as peers race to lock in financing of their own.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-07-05T03:47:20.542Z"
 coverImage: "https://static.wixstatic.com/media/e37254_7cdf7cd8221d479bbc2010616a842df5~mv2.jpeg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Elon Musk's decision to introduce temporary post-viewing restrictions on Twitter led to a surge in traffic for rival social platform Bluesky on Saturday, with the company reporting "record-high traffic". Musk, who holds the positions of executive chairman and CTO at Twitter, imposed this limit due to significant data scraping and system manipulation issues. Different viewing restrictions were enforced for verified, unverified, and newly unverified accounts, leading to an influx of users experiencing a "Rate limit exceeded" error message.
 
 Bluesky, a budding text-based social media network endorsed by Twitter co-founder Jack Dorsey, emerged as an alternative for frustrated Twitter users. Although it's still in its invite-only beta phase, the uptick in user traffic has strained the platform's performance. To manage these issues, Bluesky temporarily suspended new sign-ups, but resumed them by late Sunday.
 

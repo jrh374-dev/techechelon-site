@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Nvidia’s stock has tumbled nearly 30% from its all-time high, reflecting broader turmoil in the technology sector as market-wide sell-offs intensify. The semiconductor giant fell an additional 5% on Monday, extending last week’s losses as investor sentiment soured on growth prospects and tariff concerns.
-
 The sharp downturn in Nvidia’s stock follows its meteoric rise to a peak of $153.13 per share on January 7. Since then, the artificial intelligence and semiconductor leader has lost roughly a fifth of its market capitalization, particularly as economic uncertainty looms following President Donald Trump’s inauguration.
 
 The tech-heavy Nasdaq Composite has slid more than 4% in the past week, hitting a six-month low on Monday. Concerns over new tariffs targeting overseas manufacturing and supply chains have weighed heavily on technology stocks, sparking fears of a U.S. recession—a possibility Trump did not rule out over the weekend.
@@ -27,4 +25,4 @@ The VanEck Semiconductor ETF has plunged 16% since the inauguration, with Monday
 
 As investors brace for more volatility, Wall Street remains cautious about the near-term outlook for tech stocks, with many watching for policy shifts that could stabilize the sector.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-03-06T05:00:00Z"
 coverImage: "https://static.wixstatic.com/media/e37254_0cf6c6af810b418db6ba6fffdcae13a3~mv2.png"
-readTime: 6
+readTime: 5
 migratedFromWix: true
 ---
-
-Option3 is a is a specialist cybersecurity private equity firm based in New York and Reston, Virginia that combines experience from the classified world of U.S. national security with decades in investing, capital markets, and M&A. Since 2015, Option3 has invested in a variety of innovative companies across the cyber ecosystem, through two investment portfolios.
 
 TechEchelon recently interviewed Option3’s newest partner, Mike Moen, on the firm’s current work in the area of zero trust and what to expect in the months ahead.
 
@@ -19,7 +17,7 @@ TechEchelon recently interviewed Option3’s newest partner, Mike Moen, on the f
 
 The Zero Trust model is increasingly important in today's cybersecurity landscape, especially for entities involved in national security and defense. This model shifts the focus from traditional security standards, which operated on implicit trust within a network perimeter, to a more rigorous, "never trust, always verify" approach. Statista predicts that by 2027 the Zero Trust marketplace will grow to 60 billion dollars.
 
-![](https://static.wixstatic.com/media/e37254_4d0e9ff87b074ba3a893867c314edc17~mv2.png)
+![Photo](https://static.wixstatic.com/media/e37254_4d0e9ff87b074ba3a893867c314edc17~mv2.png)
 
 Given the sophistication of modern cyber threats, the relevance of Zero Trust cannot be overstated. Cyber-attacks are no longer just external threats; they often involve internal networks, making the old model of a secure perimeter obsolete. The Zero Trust model assumes that a breach is either inevitable or has already occurred, which is a realistic approach for high-stakes environments like defense, critical infrastructures, and research and development organizations whose IP and data are highly priced by nation-state cyber attackers.
 

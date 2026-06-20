@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2026-02-02T23:21:31.146Z"
 coverImage: "https://static.wixstatic.com/media/e37254_cddf270d420b47cf98e7fa4173753613~mv2.jpg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Palantir Technologies delivered a strong fourth-quarter beat on Monday, fueled by accelerating adoption of its AI platforms across U.S. government agencies and commercial customers, sending shares up roughly 7% in after-hours trading.
 
 The software analytics firm reported adjusted earnings of 25 cents per share, topping expectations of 23 cents, while revenue reached $1.41 billion, ahead of the $1.33 billion consensus estimate. Revenue climbed 70% year over year, underscoring the scale of demand for AI-enabled decision software.
 
@@ -29,4 +27,4 @@ Still, the results come amid an ongoing valuation debate. Palantir shares have r
 
 While some skeptics have warned about lofty multiples, management maintains that demand for AI systems capable of delivering real-world outcomes is only beginning.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Potential Chinese cyber offensives pose a serious risk to vital pipelines and transportation systems in the face of open conflict, warns CISA director Jen Easterly. U.S. cybersecurity bodies and law enforcement agencies have repeatedly expressed concerns over China's cyber capabilities for months amidst escalating tensions over the Taiwan Strait.
-
 Chinese hackers had managed to breach critical U.S. military and private sector infrastructure earlier this year. The U.S. chief cybersecurity official characterized China's cyber espionage and sabotage skills as a "defining threat of our era." She emphasized that in the event of open hostilities, "forceful cyber activities" could compromise crucial U.S. transportation networks "to incite societal chaos."
 
 "The primary threat we need to brace ourselves for is this," Cybersecurity and Infrastructure Security Agency director Jen Easterly stated during a Monday event at the Aspen Institute in Washington, D.C. Easterly was responding to an inquiry about the recent revelation of Chinese breaches into U.S. military and private sector networks.

@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-07-31T14:17:43.407Z"
 coverImage: "https://static.wixstatic.com/media/e37254_54843176bf524a99a9cf10ccf2662ea0~mv2.jpeg"
-readTime: 3
+readTime: 2
 migratedFromWix: true
 ---
-
-Technological advancements continuously redefine the job market landscape, as evident from the impact of automation and robotics, primarily on manufacturing and assembly lines. These advancements have transformed the job environment by causing job displacements, altering job roles, enhancing productivity, and introducing new positions.
 
 Similarly, the relatively new and rapidly evolving artificial intelligence (AI) is poised to have significant impacts on the job market, according to experts. However, the difference lies in the areas of workforce that it is likely to affect. Unlike past technologies, AI is encroaching into office spaces, traditionally occupied by white-collar employees and higher earners, stated Rakesh Kochhar, a senior researcher at Pew Research Center.
 

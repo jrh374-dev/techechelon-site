@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Two former employees of prominent cybersecurity incident response firms have pleaded guilty to participating in BlackCat (ALPHV) ransomware attacks that targeted U.S. companies in 2023, federal prosecutors said.
-
 Ryan Clifford Goldberg, 33, of Watkinsville, Georgia, and Kevin Tyler Martin, 28, of Roanoke, Texas, admitted to conspiring to obstruct commerce by extortion. Both face sentences of up to 20 years in prison, with sentencing scheduled for March 12, 2026.
 
 Goldberg, a former incident response manager at Sygnia, and Martin, who previously worked as a ransomware negotiator at DigitalMint, allegedly leveraged their professional expertise to breach victim networks while operating as affiliates of the BlackCat ransomware group.

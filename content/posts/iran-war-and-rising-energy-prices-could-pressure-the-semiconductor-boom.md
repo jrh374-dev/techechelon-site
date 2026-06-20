@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Escalating conflict in the Middle East is beginning to raise concerns across the global semiconductor industry, where analysts warn that supply chain disruptions and rising energy costs could eventually slow the pace of the artificial intelligence infrastructure boom. 
-
 While the immediate impact remains limited, a prolonged war could affect both the supply of key chipmaking materials and the economics of AI data center expansion.
 
 At the center of the concern is the semiconductor supply chain’s reliance on several materials sourced from the Middle East. One of the most critical is helium, an essential element used in semiconductor fabrication processes such as cooling and lithography. 
@@ -39,4 +37,4 @@ For now, the semiconductor sector remains relatively insulated from the geopolit
 
 However, analysts say the situation highlights how closely the AI boom is tied to both global energy markets and fragile supply chains, meaning that a prolonged conflict could eventually ripple through one of the world’s most strategically important industries.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

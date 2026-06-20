@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-U.S. equities moved higher on Wednesday, building on the prior session’s rebound as investors cautiously rotated back into technology — led by gains in Nvidia and Oracle.
-
 The S&P 500 rose 0.5%, while the Nasdaq Composite climbed 1%, reflecting renewed strength in growth and AI-linked names. The Dow Jones Industrial Average added a more modest 0.2%, highlighting a tech-led recovery rather than a broad-based rally.
 
 ## AI Earnings in Focus
@@ -45,4 +43,4 @@ AI remains the dominant market narrative, but the bar is rising. Companies are n
 
 With Nvidia earnings set to land after the close, the next leg of the market — higher or lower — may hinge on whether the AI leader can once again exceed already elevated expectations.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -37,4 +37,4 @@ Uber's platform now counts more than 10 million earners globally, including driv
 
 With consumer spending holding steady and autonomous vehicle partnerships expanding, Uber enters the second quarter facing rising fuel costs and geopolitical uncertainty — but with a guidance range that suggests its leadership expects demand to remain durable through the summer.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

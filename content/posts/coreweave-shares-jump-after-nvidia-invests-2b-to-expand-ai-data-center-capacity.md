@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Shares of CoreWeave surged on Monday after Nvidia announced a $2 billion equity investment aimed at accelerating the buildout of large-scale AI data center capacity.
-
 Nvidia purchased CoreWeave Class A common stock at $87.20 per share, according to the companies, a discount to Friday’s close of $92.98. The deal values the investment as a strategic vote of confidence and sent CoreWeave shares up as much as 12% in early trading.
 
 The capital will help CoreWeave speed its plan to deploy 5 gigawatts of AI “factory” capacity by 2030, a scale that underscores the rapidly rising power demands of advanced artificial intelligence workloads. Five gigawatts is roughly equivalent to the annual electricity usage of about 4 million U.S. households, based on Energy Information Administration data.
@@ -33,4 +31,4 @@ Still, demand signals remain strong. CoreWeave has struck a series of massive de
 
 Intrator echoed that view, describing the current moment as the foundational phase of a multi-decade shift. “This is base-load infrastructure being built at a pace that historically wasn’t even imaginable,” he said. “AI will be embedded into almost everything we do, and this infrastructure will continue paying dividends for decades.”
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

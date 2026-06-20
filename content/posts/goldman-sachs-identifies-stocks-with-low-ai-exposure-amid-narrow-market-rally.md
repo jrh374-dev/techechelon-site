@@ -31,4 +31,4 @@ The Goldman report arrives as the S&P 500 and Nasdaq have each reached multiple 
 
 Whether the non-AI cohort can sustain analyst optimism will depend in large part on upcoming earnings cycles, which will serve as the clearest test of whether fundamental support can hold independent of the dominant technology trade.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

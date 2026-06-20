@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-US-Israeli cloud security company Wiz is contemplating acquiring Israeli-origin cybersecurity enterprise SentinelOne, valued near $5 billion. Amid weekend speculation about the potential transaction, a representative from Wiz confirmed discussions about the possible acquisition.
-
 The spokesperson mentioned, “We're always on the lookout for opportunities to further our growth and solidify our industry-leading position. SentinelOne's robust cybersecurity offerings have caught our attention, and we've been monitoring their progress over the years.”
 
 SentinelOne's discussions about a potential sale are in the early stages. The company, currently valued at approximately $4.8 billion on the New York Stock Exchange, is exploring strategic avenues, including the possibility of a sale. As reported by Reuters, Qatalyst Partners, an investment bank, has been roped in to guide the discussions with prospective buyers, such as private equity firms.

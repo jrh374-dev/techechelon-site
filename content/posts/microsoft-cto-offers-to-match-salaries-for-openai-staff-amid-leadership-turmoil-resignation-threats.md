@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Microsoft's Chief Technology Officer Kevin Scott publicly offered to match the salaries of OpenAI employees considering resignation after the unexpected removal of CEO Sam Altman. 
-
 In a message on X (formerly Twitter), Scott extended an invitation to these employees to join Microsoft's new AI Research Lab, promising equivalent compensation and a shared mission.
 
 The specifics of Scott's offer, including its dependence on Altman's employment at Microsoft, remain uncertain. This development highlights Microsoft's readiness to absorb OpenAI talent and its commitment to investment in the AI sector.

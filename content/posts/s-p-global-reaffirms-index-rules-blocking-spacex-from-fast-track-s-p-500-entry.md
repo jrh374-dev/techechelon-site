@@ -31,4 +31,4 @@ Elon Musk's approach to the SpaceX IPO has diverged from conventional practice i
 
 The S&P 500's decision underscores the tension between exchange operators' efforts to attract richly valued private firms and the rules-based frameworks that have long governed index composition. With SpaceX, Anthropic, and OpenAI each edging closer to public offerings, index providers face mounting pressure to adapt — though S&P's ruling signals that at least one of the most influential benchmarks will hold its existing standards firm, regardless of the size of the company seeking entry.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

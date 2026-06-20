@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Microsoft has issued a warning about advanced disinformation activities linked to Chinese state-aligned forces. These campaigns are now portraying themselves as U.S. voters and are increasingly targeting U.S. political figures on several social media networks.
-
 According to a recent threat analysis report by the tech giant, “Digital threats from East Asia have escalated, with CCP-related concealed influence tactics showing heightened engagement with their target demographics on social platforms than ever before.”
 
 The analysis highlights the increasing utilization of generative A.I. by these influence campaigns to produce compelling visual content, which seems to be resonating more with genuine users. This shift in tactics became more apparent starting March.

@@ -35,4 +35,4 @@ Adding further momentum to the broader tech sector, Dell Technologies reported a
 
 The software sector's revival now sets the stage for a crowded earnings calendar in the week ahead, with Palo Alto Networks, Broadcom, and CrowdStrike all scheduled to report results. Investors will be watching closely to determine whether the May rebound reflects a durable shift in sentiment or a short-lived reprieve in a sector still navigating the long-term implications of AI displacement.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

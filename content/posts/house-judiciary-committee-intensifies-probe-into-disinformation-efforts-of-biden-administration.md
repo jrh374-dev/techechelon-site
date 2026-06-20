@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-08-18T20:19:03.718Z"
 coverImage: "https://static.wixstatic.com/media/e37254_4f1c59336fe4463cb9f365611c44976f~mv2.jpeg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-The House Judiciary Committee has ramped up its investigation into the Biden administration's methods to tackle disinformation. The committee has dispatched subpoenas to Attorney General Merrick Garland and FBI Director Christopher Wray.
 
 Chairman Jim Jordan (R-Ohio) emphasized the need to understand the perceived collusion and coercion between the executive branch and companies. “Before contemplating new laws that may restrict the Executive Branch's partnership with social media companies in limiting content or banning users, we first need a clear understanding of their collaboration,” Jordan stated in the letters.
 

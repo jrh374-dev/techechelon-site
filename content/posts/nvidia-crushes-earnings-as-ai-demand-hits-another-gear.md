@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-Nvidia once again reset expectations for the AI era, delivering a blowout quarter that underscores just how dominant the company has become at the center of global compute demand.
-
 The chip giant reported fiscal fourth-quarter results well ahead of Wall Street estimates, with revenue surging 73% year-over-year to $68.13 billion and adjusted earnings per share of $1.62, topping expectations. Shares moved higher in extended trading, continuing Nvidia’s outperformance relative to other megacap tech names in 2026.
 
 But the headline number — and the real story — sits inside one segment.
@@ -59,4 +57,4 @@ The key question now isn’t whether AI demand is real.
 
 It’s whether anything — supply chains, power constraints, or capital discipline — can slow it down.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

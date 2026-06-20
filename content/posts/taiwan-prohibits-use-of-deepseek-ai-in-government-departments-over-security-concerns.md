@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-The Taiwanese government has officially prohibited the use of DeepSeek, an artificial intelligence service developed by Chinese startup DeepSeek, within all government departments citing significant security risks.
-
 This decision, announced by Premier Cho Jung-tai, escalates previous advisories against the use of the technology.
 
 Taiwan, a democracy, remains vigilant about integrating Chinese technology due to ongoing sovereignty disputes and security threats from Beijing. 

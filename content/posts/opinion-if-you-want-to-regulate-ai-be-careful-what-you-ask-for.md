@@ -11,8 +11,6 @@ readTime: 4
 migratedFromWix: true
 ---
 
-Milton Friedman, the famed American economist and the 1976 winner of the Nobel Memorial Prize in Economic Sciences, made a point about government in many of his speeches and writings. One of the more memorable ones highlighted the effectiveness of government regulation.
-
 **_“If you put the federal government in charge of the Sahara Desert, in five years there'd be a shortage of sand.”_**
 
 Government regulation in software doesn’t work. It’s been tried before. During the 1990s, the United States Munitions List of the International Trafficking in Arms Regulation (ITAR) regulated the sale and distribution of encryption products and restricted the publication of source code unless it was extremely weak.

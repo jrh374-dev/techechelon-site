@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-The Federal Communications Commission (FCC) has imposed fines totaling $200 million on the four largest mobile carriers in the U.S. for unlawfully sharing customers' location data, the agency disclosed on Monday.
-
 T-Mobile received the heaviest fine of $80 million, in addition to a $12 million penalty for its subsidiary, Sprint, which it acquired in 2020. AT&T was fined more than $57 million, while Verizon received a fine of almost $7 million.
 
 The fines originate from allegations made by the FCC in 2020 under the Trump administration, which accused the carriers of failing to protect users' location data.

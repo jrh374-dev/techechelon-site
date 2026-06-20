@@ -37,4 +37,4 @@ The case arrives amid broad public skepticism of AI infrastructure buildout. A r
 
 The outcome of the Seattle Office for Civil Rights complaint and Amazon's internal investigation will likely shape how other large technology employers navigate employee political speech as data center opposition continues to mount across the country.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -13,7 +13,8 @@ migratedFromWix: true
 
 Founded in 2019, [Nomi Health](https://www.nomihealth.com/) has rapidly emerged as one of the most disruptive forces in American healthcare. Based in Orem, Utah, the company was born out of a deeply personal encounter with the healthcare system by its founder, Mark Newman, and has grown into a solution that now touches over 30 million lives across the United States.
 
-![Mark Newman, Founder and CEO of Nomi Health, says he started the company after experiencing personal frustrations with the U.S. healthcare system.](https://static.wixstatic.com/media/e37254_6a96066b827f4c50a99c677aba1a8f61~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_6a96066b827f4c50a99c677aba1a8f61~mv2.jpg)
+*Mark Newman, Founder and CEO of Nomi Health, says he started the company after experiencing personal frustrations with the U.S. healthcare system.*
 
 At its core, Nomi Health challenges the status quo with a direct healthcare model that bypasses traditional insurance structures. By directly connecting employers, governments, and providers through its integrated infrastructure, encompassing analytics, payments, pharmacy management services, and a provider network; Nomi assists clients cut healthcare costs by up to 30% with no out-of-pocket expenses for members.
 

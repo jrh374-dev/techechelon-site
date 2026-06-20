@@ -31,4 +31,4 @@ The rollout also raises data governance questions. While Reliance said its AI se
 
 Reliance enters an increasingly competitive domestic landscape. Tata Consultancy Services, Infosys, and the rival Adani Group have all expanded their own AI initiatives, forming partnerships with global players including Anthropic, Google, and OpenAI. Recent restrictions on access to some Anthropic models have underscored the risks Indian companies face from dependence on foreign AI infrastructure — a supply-chain vulnerability that is accelerating the push by Indian conglomerates to build proprietary technology stacks.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -37,4 +37,4 @@ In what Haynes called a "controversial decision," the S&P 500 Index Committee an
 
 With Musk's net worth having surpassed $1 trillion and Page's sitting at just under $300 billion — making them the two wealthiest individuals in the world — the question of how their companies navigate an increasingly overlapping set of markets in AI, cloud infrastructure, and autonomous systems may prove more consequential than the index calendar alone.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

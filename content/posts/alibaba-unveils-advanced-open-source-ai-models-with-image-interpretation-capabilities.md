@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Alibaba unveiled its advanced AI model on Friday, designed to comprehend images and facilitate deeper conversations compared to its older models. This is a testament to the growing global competition in the realm of AI technology.
-
 The tech behemoth from China has introduced two open-source models: Qwen-VL and Qwen-VL-Chat. With this move, global researchers, institutions, and corporations can develop their AI applications without the requirement of training their own models, thereby reducing costs and time.
 
 The Qwen-VL model is adept at responding to a variety of questions related to images and can also produce image captions. On the other hand, Qwen-VL-Chat is tailored for intricate interactions. Alibaba highlights its ability to contrast multiple image inputs, answer multiple rounds of inquiries, craft stories, produce images from user-provided photos, and solve mathematical problems represented in images.

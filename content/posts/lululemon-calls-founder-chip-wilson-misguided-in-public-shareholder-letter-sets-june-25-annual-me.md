@@ -37,4 +37,4 @@ Incoming CEO Heidi O'Neill, whose appointment Lululemon has defended as central 
 
 With the annual meeting now set and settlement talks exhausted, the outcome rests with shareholders — and whichever slate they elect will inherit both a storied brand and a recovery effort that has so far failed to restore investor confidence.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -29,4 +29,4 @@ Bank of America analyst Craig Siegenthaler reiterated a buy rating on alternativ
 
 With earnings season continuing and geopolitical uncertainty around the Iran conflict still unresolved, equity markets will likely face persistent volatility even as major indexes hold near historic levels.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-10-23T20:08:17.218Z"
 coverImage: "https://static.wixstatic.com/media/e37254_d88763d011e94271a8d2b5206f0a8387~mv2.jpeg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Tech experts and proponents are scheduled to meet Senate leaders on Capitol Hill this Tuesday to discuss the challenges and opportunities linked to artificial intelligence (AI).
 
 Key attendees for the upcoming AI Insights Forum, hosted by Senate Majority Leader Chuck Schumer, D-N.Y., include venture capitalists Marc Andreessen of Andreessen Horowitz and John Doerr from Kleiner Perkins, among a total of 21 participants, as confirmed by Schumer's spokesperson.
 

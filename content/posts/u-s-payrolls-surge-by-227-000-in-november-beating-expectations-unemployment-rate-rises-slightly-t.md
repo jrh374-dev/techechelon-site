@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-The U.S. labor market saw a strong rebound in November, with nonfarm payrolls increasing by 227,000, surpassing expectations of 214,000, according to the Bureau of Labor Statistics' report released Friday. This marks a significant recovery from October's revised gain of just 36,000, which had been impacted by widespread labor strikes and severe storms in the Southeast.
-
 Despite the robust job growth, the unemployment rate inched up to 4.2%, as anticipated, reflecting a slight drop in the labor force participation rate and a reduction in the labor force size. A broader unemployment measure, which includes discouraged workers and those in part-time roles for economic reasons, also rose to 7.8%.
 
 **Sector Highlights:**

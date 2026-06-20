@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-12-31T14:44:50.537Z"
 coverImage: "https://static.wixstatic.com/media/e37254_a0fa920a4a4a42389a65f4e7986c0bee~mv2.webp"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Sen. Bernie Sanders said artificial intelligence represents the “most consequential technology in the history of humanity,” warning that its rapid development is outpacing public debate and democratic oversight.
 
 Speaking Sunday on State of the Union, Sanders argued that Congress, the media, and the public have not sufficiently grappled with how AI will reshape the economy, labor markets, and society at large.
 

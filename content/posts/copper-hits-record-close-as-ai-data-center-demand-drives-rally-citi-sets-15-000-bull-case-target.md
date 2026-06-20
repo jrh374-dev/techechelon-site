@@ -35,4 +35,4 @@ Einhorn also highlighted industrial construction firm Fluor as a beneficiary of 
 
 The dual narratives — copper's record run and the chip sector's single-session reversal — underscore how AI-driven infrastructure spending is reshaping demand across asset classes, even as near-term macroeconomic pressures, including inflation and the Iran conflict, introduce volatility into markets that had reached historic highs.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

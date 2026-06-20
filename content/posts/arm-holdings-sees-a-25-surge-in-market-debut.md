@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-SoftBank-owned chip design firm, Arm Holdings, witnessed an impressive 25% hike in its share prices on its debut trading day after its initial public offering was priced at $51 per share.
-
 Upon opening, Arm's valuation soared to a near $60 billion. Trading with the “ARM” ticker symbol, the firm offloaded approximately 95.5 million shares. Notably, 90% of the company's outstanding shares remain under SoftBank’s purview, which had privatized the firm in 2016.
 
 Shares were priced at the top-end of Arm’s expected bracket on Wednesday. They commenced trading at $56.10 on Thursday, finally closing at $63.59.

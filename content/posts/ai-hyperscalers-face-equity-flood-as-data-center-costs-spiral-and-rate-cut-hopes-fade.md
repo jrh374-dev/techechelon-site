@@ -33,4 +33,4 @@ President Trump also signed an executive order this week establishing a governme
 
 The weeks ahead are likely to test how much equity the market can absorb from the technology sector, with the SpaceX offering serving as an early indicator — and with the trajectory of Federal Reserve policy now pointing away from the relief that rate cuts would have provided.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

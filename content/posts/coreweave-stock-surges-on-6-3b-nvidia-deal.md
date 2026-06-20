@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-CoreWeave’s stock jumped Monday after the AI cloud infrastructure company revealed a massive order from Nvidia worth at least $6.3 billion.
-
 The disclosure, made in a regulatory filing, outlined that Nvidia will be obligated to purchase CoreWeave’s residual unsold GPU capacity through April 2032. A copy of the agreement will be released with the company’s third-quarter financial results.
 
 A CoreWeave spokesperson described the deal as “reflecting the scale, trust, and pivotal role CoreWeave plays in accelerating AI innovation worldwide.”
@@ -27,4 +25,4 @@ CoreWeave’s growth trajectory has been staggering. In August, it reported $1.2
 
 Despite those losses, Monday’s Nvidia order reinforces CoreWeave’s position as a critical player in the AI arms race, ensuring GPU capacity at a time when supply remains tight.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

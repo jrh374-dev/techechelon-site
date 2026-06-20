@@ -33,4 +33,4 @@ The awards reflect a broader push by the federal government to secure domestic l
 
 The announcement comes as competition between the United States and other nations over advanced computing infrastructure continues to intensify, reinforcing Washington's strategy of deploying direct financial support — and equity positions — to accelerate development in sectors it deems strategically critical.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

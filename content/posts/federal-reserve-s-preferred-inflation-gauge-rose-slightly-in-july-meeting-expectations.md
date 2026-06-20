@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-The Federal Reserve's favored inflation measure, the personal consumption expenditures (PCE) price index, recorded a modest rise of 0.2% in July, aligning with analysts' predictions, as reported by the Commerce Department on Friday.
-
 The increase reflected a steady inflation rate of 2.5% compared to the same month last year, which met the forecasts set by Dow Jones.
 
 Excluding the often fluctuating food and energy costs, the core PCE also noted a 0.2% increase for the month, though the annual growth rate at 2.6% was slightly below the anticipated 2.7%.
@@ -35,5 +33,4 @@ In the backdrop of these developments, Fed Chair Jerome Powell recently expresse
 
 The next significant economic indicator will be the nonfarm payrolls report for August, expected to show a job increase of about 175,000, as forecasted by FactSet.
 
-
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

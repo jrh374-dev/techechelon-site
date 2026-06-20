@@ -39,4 +39,4 @@ That same month, Trump purchased between $1 million and $5 million each in Servi
 
 The disclosures arrive as scrutiny of presidential financial activity has intensified, with the OGE records offering an unusually detailed window into the scope and timing of transactions made during the administration's early months. Whether the sequence of purchases and public commentary draws further congressional or regulatory attention remains to be seen.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

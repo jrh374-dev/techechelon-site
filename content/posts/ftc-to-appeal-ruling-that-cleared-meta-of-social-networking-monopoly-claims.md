@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-The Federal Trade Commission said Tuesday it will appeal a November court decision that found Meta Platforms does not hold a monopoly in personal social networking, signaling the agency’s intent to continue one of the most consequential antitrust fights against Big Tech.
-
 The FTC sued Meta in 2020, alleging the company unlawfully cemented monopoly power through its acquisitions of Instagram and WhatsApp. But in November, U.S. District Judge James Boasberg ruled against the agency, concluding that Meta competes in a broader market that includes platforms such as TikTok and YouTube.
 
 “Our position has not changed,” said Joe Simonson, the FTC’s director of public affairs, adding that the agency believes Meta violated antitrust laws with the Instagram and WhatsApp deals. The FTC said it will file a notice of appeal with the U.S. Court of Appeals for the D.C. Circuit.

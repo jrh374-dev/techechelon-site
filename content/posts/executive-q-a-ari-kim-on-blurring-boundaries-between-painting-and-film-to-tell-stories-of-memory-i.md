@@ -7,15 +7,14 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-02-16T16:59:57.479Z"
 coverImage: "https://static.wixstatic.com/media/e37254_5eefb46ac86a415a9e83cced937a3c1b~mv2.jpg"
-readTime: 15
+readTime: 14
 migratedFromWix: true
 ---
 
-Ari Kim is a multidisciplinary artist and filmmaker whose work navigates the fluid intersection of visual storytelling, personal memory, and cultural heritage. With a background in painting and an intuitive grasp of cinematic language, Ari has carved out a distinct creative space where art and film seamlessly coexist. Her approach is deeply introspective yet universally resonant, capturing fleeting emotions, ephemeral beauty, and the in-between moments that define human experience.
-
 Born with an innate drive to express through visuals, Ari's artistic journey began in childhood, where drawing and painting became her first language. This early passion led her to New York, where she studied at NYU and immersed herself in the city's thriving art and film community. Though her foundation was firmly rooted in painting, exposure to filmmaking introduced a new dimension to her creative practice. She became captivated by cinema’s ability to extend the static image into movement, rhythm, and sound—elements that added depth and complexity to her storytelling.
 
-![Ari Kim, multidisciplinary artist and filmmaker.](https://static.wixstatic.com/media/e37254_53b7eccf74f742688acccbb39aca2a81~mv2.jpeg)
+![Photo](https://static.wixstatic.com/media/e37254_53b7eccf74f742688acccbb39aca2a81~mv2.jpeg)
+*Ari Kim, multidisciplinary artist and filmmaker.*
 
 Over the years, Ari has developed a signature aesthetic that merges meticulous composition with a painterly sensibility. Her work is marked by a restrained yet evocative use of color, light, and negative space, often drawing from personal memories and cultural motifs. A recurring theme in her recent work is the integration of Korean folklore, craftsmanship, and mythology—elements that serve as a bridge between her identity and broader storytelling traditions. From the delicate intricacies of “Mae-deup,” a form of traditional Korean knotting, to the symbolic presence of the tiger in her grandfather’s home, Ari’s work is a conversation between past and present, introspection and expression.
 

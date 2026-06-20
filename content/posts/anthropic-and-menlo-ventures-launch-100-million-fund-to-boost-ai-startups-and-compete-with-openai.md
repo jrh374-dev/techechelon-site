@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Anthropic, in collaboration with Menlo Ventures, has announced the creation of the Anthology Fund, a $100 million initiative aimed at supporting early-stage startups and encouraging them to utilize Anthropic's artificial intelligence technology.
-
 This new fund seeks to replicate the success of the iFund, a joint effort by Apple and Kleiner Perkins launched in 2008 to aid developers on Apple's mobile platforms.
 
 Menlo Ventures will finance the investments, while Anthropic is set to offer founders $25,000 in credits for using its large language models. This partnership takes inspiration from the iFund, which began with a $100 million investment and expanded to $200 million within two years.
@@ -27,4 +25,4 @@ This strategy positions Anthropic as a direct competitor to OpenAI, which has it
 
 Murphy expressed confidence in the unique position of the Anthology Fund to align strategic partnerships and cultivate a community of innovative entrepreneurs focused on groundbreaking developments in AI.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

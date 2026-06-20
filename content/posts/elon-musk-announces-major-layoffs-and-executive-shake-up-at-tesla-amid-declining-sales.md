@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-04-30T17:19:10.385Z"
 coverImage: "https://static.wixstatic.com/media/e37254_de3f3f49c75b477a9de98ca3802ea57a~mv2.webp"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Elon Musk has terminated the employment of two senior Tesla executives and announced plans for extensive layoffs due to dissatisfaction with declining sales and slow progress in reducing the workforce, according to a report by The Information on Tuesday.
 
 The report, based on an email from Musk to senior managers, named Rebecca Tinucci, the senior director of Tesla's Supercharger business, and Daniel Ho, head of the new vehicles program, as those dismissed effective Tuesday morning.
 

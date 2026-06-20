@@ -1,5 +1,7 @@
 import Link from "next/link";
 import { TechEchelonMark } from "./TechEchelonMark";
+import { StockTicker } from "./StockTicker";
+import { getAllPosts } from "@/lib/posts";
 
 const NAV = [
   { label: "Today", href: "/" },
@@ -31,6 +33,7 @@ export function SiteHeader() {
   const { edition, time, date } = editionInfo();
   return (
     <header className="bg-cream">
+      <StockTicker />
       <div className="bg-navy text-cream/85">
         <div className="max-w-[1320px] mx-auto px-7 py-2.5 flex items-center justify-between">
           <div className="flex items-center gap-5 font-mono text-[10.5px] tracking-[0.04em]">
@@ -94,18 +97,35 @@ export function SiteHeader() {
         </div>
       </div>
 
-      <div className="bg-cream-deep border-b border-rule">
-        <div className="max-w-[1320px] mx-auto px-7 py-2 flex items-center gap-3">
-          <span className="font-mono text-[10px] tracking-[0.08em] uppercase font-bold text-coral">
-            ● Latest
-          </span>
-          <span className="font-mono text-[10px] text-sand tracking-[0.04em]">{time}</span>
-          <span className="text-sand-light">|</span>
-          <span className="font-display text-[13px] font-semibold text-ink truncate">
-            OpenAI&apos;s $110B round just rewrote the rules of the power market →
-          </span>
-        </div>
-      </div>
+      <LatestBar fallbackTime={time} />
     </header>
+  );
+}
+
+function LatestBar({ fallbackTime }: { fallbackTime: string }) {
+  const latest = getAllPosts()[0];
+  if (!latest) return null;
+  const d = new Date(latest.publishedAt);
+  const hour = d.getHours();
+  const ampm = hour >= 12 ? "PM" : "AM";
+  const h12 = hour % 12 || 12;
+  const min = d.getMinutes().toString().padStart(2, "0");
+  const stamp = `${h12.toString().padStart(2, "0")}:${min} ${ampm} ET`;
+  return (
+    <div className="bg-cream-deep border-b border-rule">
+      <div className="max-w-[1320px] mx-auto px-7 py-2 flex items-center gap-3">
+        <span className="font-mono text-[10px] tracking-[0.08em] uppercase font-bold text-coral whitespace-nowrap">
+          ● Latest
+        </span>
+        <span className="font-mono text-[10px] text-sand tracking-[0.04em] whitespace-nowrap">{stamp}</span>
+        <span className="text-sand-light">|</span>
+        <Link
+          href={`/post/${latest.slug}`}
+          className="font-display text-[13px] font-semibold text-ink hover:text-coral truncate"
+        >
+          {latest.title} →
+        </Link>
+      </div>
+    </div>
   );
 }

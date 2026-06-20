@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-07-02T23:19:16.011Z"
 coverImage: "https://static.wixstatic.com/media/e37254_62ea5b545daf47ccae1ef368b1b5656f~mv2.webp"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-A major antitrust case targeting Apple will move forward, following a federal judge’s decision Monday to deny the company’s attempt to halt the proceedings. The ruling represents a preliminary but important step forward for the Department of Justice (DOJ), which is pursuing the tech giant over alleged anti-competitive practices in the smartphone market.
 
 U.S. District Judge Julien Xavier Neals ruled against Apple’s motion to dismiss, rejecting the company’s claims that the DOJ had failed to adequately define its allegations. The lawsuit accuses Apple of unlawfully maintaining dominance by locking users and developers into its tightly controlled ecosystem, limiting competition and consumer choice.
 
@@ -27,4 +25,4 @@ The DOJ declined to comment on the court’s decision.
 
 The case is one of several high-profile efforts by the Biden administration’s antitrust regulators to scrutinize the business models of dominant tech firms and reshape the competitive landscape in digital markets.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

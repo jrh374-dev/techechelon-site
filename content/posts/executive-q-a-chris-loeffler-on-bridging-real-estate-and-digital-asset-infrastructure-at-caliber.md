@@ -11,11 +11,10 @@ readTime: 8
 migratedFromWix: true
 ---
 
-Chris Loeffler built Caliber Wealth Management in 2009 to capitalize on opportunities within the distressed real estate market and underserved middle-market assets, firmly not digital assets. The company’s roots go back to the post-2008 period, when the market was messy, headlines were loud and good deals were available for people who could stay disciplined. 
-
 Today, [Caliber (NASDAQ: CWD)](https://www.caliberco.com/) operates across multiple real estate strategies, including buying and operating existing income-producing commercial properties, stepping into value-add situations and getting involved in projects that need fresh capital, new structure, or a more active operator mindset. It is not about being flashy. It is about being consistent.
 
-![Chris Loeffler, CEO of Caliber (NASDAQ: CWD)](https://static.wixstatic.com/media/e37254_8181c6f91d6c46e4a610b2433b1437e0~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_8181c6f91d6c46e4a610b2433b1437e0~mv2.jpg)
+*Chris Loeffler, CEO of Caliber (NASDAQ: CWD)*
 
 That consistency is also how Caliber built to scale. Managing $2.6 billion of assets did not happen from one good year; it came from repeating the basic principles of investing and management, such as sourcing deals others miss, being transparent with investors and building trust across wealth managers, family offices and ultra high-net-worth clients who care more about process than marketing.
 
@@ -171,4 +170,4 @@ The finance industry has not modernized its core rails in a long time, and this 
 
 You can watch it happen, or you can own a stake in the infrastructure that helps power it.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

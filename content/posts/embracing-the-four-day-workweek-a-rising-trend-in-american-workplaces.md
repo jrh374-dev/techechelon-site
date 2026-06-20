@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-According to a recent survey by ResumeBuilder.com, more than 50% of American employers either already offer or are planning to initiate a four-day workweek. The survey, involving 976 business leaders, revealed that 20% have already implemented this system while 41% have plans to introduce it, at least on an experimental basis.
-
 Over the years, American businesses have tested the concept of a four-day workweek, typically in response to economic downturns. However, the idea has become more popular recently. If a four-day week becomes the norm, it would be the most significant change to the national work schedule since the five-day workweek was introduced by Henry Ford in 1926.
 
 However, it's worth noting that the biggest transformation in the American workplace, particularly in the last three years, has been the shift to remote work, a trend that became prevalent during the COVID-19 pandemic.

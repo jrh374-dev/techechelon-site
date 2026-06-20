@@ -29,4 +29,4 @@ The arrest comes roughly a week after a separate incident involving Secret Servi
 
 The back-to-back incidents are likely to intensify scrutiny of conduct standards within the agency, which is responsible for protecting the president and other senior officials. The outcome of both the criminal proceeding against Spillman and the Secret Service's internal investigation will determine what disciplinary action, if any, follows the administrative leave designation.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

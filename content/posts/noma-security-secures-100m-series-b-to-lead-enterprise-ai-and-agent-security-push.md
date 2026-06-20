@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Noma Security, a rapidly emerging leader in AI security, has raised $100 million in a Series B funding round to accelerate adoption of its AI and agent security platform, the company announced Wednesday.
-
 The round was led by Evolution Equity Partners with continued backing from Ballistic Ventures and Glilot Capital. The fresh capital comes less than a year after Noma Security’s previous funding round and cements the company’s status as one of the fastest-growing firms in the AI security space.
 
 Since emerging from stealth in November 2024, Noma Security has seen explosive demand, growing annual recurring revenue by more than 1,300% over the past year and securing dozens of enterprise customers across industries like financial services, life sciences, retail, and big tech.

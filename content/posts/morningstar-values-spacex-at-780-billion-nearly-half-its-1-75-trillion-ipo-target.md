@@ -37,4 +37,4 @@ Separately, speculation has resurfaced about a potential merger between SpaceX a
 
 As the listing date approaches, the tension between institutional enthusiasm for AI infrastructure and fundamental concerns about profitability is likely to remain at the center of investor debate around one of the most closely watched public offerings in years.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

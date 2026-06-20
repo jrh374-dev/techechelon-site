@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Elon Musk, the owner of X, is set to auction off various Twitter memorabilia in an upcoming event named "Twitter Rebranding: Online Auction Featuring Memorabilia, Art, Office Assets & More!" from September 12-14, as mentioned on the official auction website.
-
 Among the 584 items to be auctioned are iconic blue bird logo signs, office furniture, and an array of musical instruments.
 
 Notably, the auction includes the blue bird logo sign that's currently affixed to the Twitter headquarters in San Francisco. The listing states, “Bird is still mounted on the side of the building. Buyer is responsible for hiring an SF Licensed Company with appropriate Permits.”

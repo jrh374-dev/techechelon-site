@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-In June, the United States' labor market introduced an additional 209,000 jobs, leading to a slight decrease in the unemployment rate to 3.6%, according to Friday's government report.
-
 Although the figure is slightly below the anticipated 225,000 jobs by economists, it indicates a slowdown from the revised figures of the previous month, which dropped by 33,000 to 306,000. Moreover, the April job additions were also found to be less than initially calculated, being adjusted downward by 77,000 to 217,000. Among sectors with the most significant job growth in the last month were government and health care.
 
 The report also highlights the steady wage growth parallel to job gains.

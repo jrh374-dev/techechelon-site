@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-08-09T20:55:27.913Z"
 coverImage: "https://static.wixstatic.com/media/e37254_ee61eea51a3b40009b9fb5678791bc94~mv2.jpg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Ola Electric, an Indian startup specializing in electric vehicles, saw its stock increase by 20% on its first trading day, boosting its valuation to approximately $4.8 billion.
 
 The company, which had its shares debut at 76 rupees (about 91 cents) each, successfully raised over $730 million through its initial public offering (IPO) in Mumbai. This marks the largest IPO in India for the year, as reported by Reuters.
 
@@ -25,4 +23,4 @@ Backed by prominent investors like SoftBank and Temasek from Singapore, Ola Elec
 
 Aggarwal, who also co-founded the ride-hailing service Ola Cabs, remains a pivotal figure in India's tech and transportation sectors.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

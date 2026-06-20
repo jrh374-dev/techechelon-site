@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-U.S. intelligence authorities alerted American aerospace firms on Friday about foreign intelligence attempts to compromise and pilfer crucial space technologies.
-
 The National Counterintelligence and Security Center, in collaboration with the FBI and the Air Force’s Office of Special Investigations, highlighted potential risks posed by foreign actors seeking access via partnerships, takeovers, site tours, and staff hiring.
 
 The shared message stated: “The importance of the U.S. commercial space sector, which plays a pivotal role in the economy and national defense, and its increasing reliance on space assets, hasn't gone unnoticed by Foreign Intelligence Entities (FIEs).”

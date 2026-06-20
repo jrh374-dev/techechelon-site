@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-The defunct cryptocurrency exchange FTX has reached an agreement to sell a significant portion of its shares in the AI company Anthropic for $884 million, as revealed in a court filing made public on Friday evening in Delaware.
-
 The filing, dated March 22, names a diverse group of purchasers, with the lion's share of the transaction involving ATIC Third International Investment Co., linked to the Mubadala sovereign wealth fund of the United Arab Emirates, acquiring Anthropic shares worth close to $500 million.
 
 Interest in FTX's stake in Anthropic was high among various sovereign wealth funds, with recent reports indicating that Saudi Arabia was specifically excluded from the deal due to national security concerns. The kingdom has been actively investing in technology to reduce its dependence on oil and to compete with the UAE for tech talent.
@@ -35,4 +33,4 @@ Legal representatives have informed a Delaware court of their confidence in full
 
 Negotiations for a potential relaunch of FTX were ultimately abandoned in January.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

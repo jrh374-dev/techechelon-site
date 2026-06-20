@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Jerome Powell, the Chairman of the Federal Reserve, indicated in a recent address that determining the future path of inflation will require time, making the prospects of interest rate reductions uncertain for now.
-
 Addressing the issue of unexpectedly high inflation at the beginning of the year, Powell emphasized that there is no urgency to modify the current monetary stance.
 
 During a speech prior to a Q&A session at a policy conference at Stanford University, Powell remarked, "It's premature to conclude if the latest inflation figures are merely a temporary fluctuation."

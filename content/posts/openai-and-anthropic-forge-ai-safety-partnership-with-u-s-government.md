@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-OpenAI and Anthropic, prominent players in the AI sector, have entered into agreements with the U.S. government to permit the use of their AI models for research, testing, and evaluation purposes, as announced by the National Institute of Standards and Technology (NIST) on Thursday.
-
 Under these agreements, the U.S. AI Safety Institute will have early access to the companies’ significant new models both before and after their public release, according to a NIST press release.
 
 The agreements aim to enhance research into AI's capabilities and risks and identify effective safety measures. The AI Safety Institute will also provide feedback to OpenAI and Anthropic on potential safety enhancements.

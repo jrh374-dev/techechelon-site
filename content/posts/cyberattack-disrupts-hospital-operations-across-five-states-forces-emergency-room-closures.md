@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-A cyberattack on Thursday has caused disruptions to hospitals and clinics in five states, leading to the closure of several emergency rooms.
-
 Prospect Medical Holdings, which operates the affected facilities, reported the cyberattack across their locations in California, Texas, Connecticut, Rhode Island, and Pennsylvania.
 
 The company swiftly responded to the attack by taking its systems offline to safeguard them. "We have initiated an investigation into the cyberattack with the assistance of external cybersecurity experts," the company announced in a statement on Friday.

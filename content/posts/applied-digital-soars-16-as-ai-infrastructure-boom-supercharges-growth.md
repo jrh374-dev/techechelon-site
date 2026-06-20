@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Applied Digital (NASDAQ: APLD) extended its blistering 2025 rally on Friday, with shares jumping 16% after the company reported first-quarter results that blew past expectations—driven by accelerating demand for AI-focused data centers. 
-
 The stock is now up more than 340% year to date, underscoring investor enthusiasm for the companies powering the AI buildout.
 
 ### AI Power Demand Sparks Explosive Growth
@@ -35,4 +33,4 @@ Applied Digital’s aggressive buildout comes amid an industrywide scramble to s
 
 Analysts surveyed by LSEG expect the company’s momentum to continue into next quarter, forecasting $76 million in revenue and a $0.15 per-share loss, as Applied Digital scales to meet surging AI demand.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

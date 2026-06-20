@@ -37,4 +37,4 @@ Musk co-founded OpenAI alongside Altman, Brockman, and others in 2015, before de
 
 The trial is expected to continue with additional witnesses in the coming days, as the court weighs whether OpenAI and its backers breached the obligations of its founding charitable mission.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

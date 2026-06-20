@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-Thirty-three states have taken legal action against Meta, the company behind Facebook and Instagram, accusing them of creating addictive applications detrimental to the well-being of youngsters.
-
 The collective lawsuit, led by California Attorney General Rob Bonta, was launched in San Francisco's federal court on Tuesday. The states argue that Meta breached the national children's online privacy act and numerous state consumer protection legislations by cultivating addictive products and misrepresenting their potential harm to children.
 
 Furthermore, eight other state attorneys general and the District of Columbia are separately pursuing legal actions in their respective jurisdictions. In sum, 42 entities, inclusive of the District of Columbia, announced lawsuits on Tuesday.

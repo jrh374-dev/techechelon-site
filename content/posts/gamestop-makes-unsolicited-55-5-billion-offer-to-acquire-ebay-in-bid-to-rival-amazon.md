@@ -41,4 +41,4 @@ Cohen's compensation structure, updated at the start of the year, includes stock
 
 Whether eBay's board treats the approach as credible or dismisses it outright is the immediate question; the answer is expected to shape the next phase of one of the more unconventional corporate takeover bids in recent memory.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Amazon's cloud division, Amazon Web Services (AWS), unveiled its latest AI chip, Trainium2, and a new general-purpose processor, Graviton4, at the Reinvent conference in Las Vegas. In addition to these, AWS will provide access to Nvidia's latest H200 AI graphics processing units. AWS aims to offer a diverse range of cost-effective cloud solutions, not limited to its own products but also including premium offerings like Nvidia's GPUs.
-
 This strategy mirrors Microsoft's recent move in the cloud sector, where it introduced its first AI chip, Maia 100, and also plans to incorporate Nvidia H200 GPUs in its Azure cloud service.
 
 Graviton4, based on Arm architecture, is more energy-efficient than its Intel or AMD counterparts and offers 30% better performance than Graviton3. This enhancement comes at a time when inflation and rising interest rates are motivating organizations to seek more cost-effective cloud solutions.

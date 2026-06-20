@@ -27,4 +27,4 @@ The speed and breadth of Allbirds' transformation — from wool sneakers to a na
 
 Carlsten's background at the intersection of enterprise cloud infrastructure, government technology, and AI hardware positions the company to at least make a credible case to investors. Whether Smartbird can translate that positioning into revenue at a scale that justifies its valuation remains an open question as the AI infrastructure market grows increasingly competitive.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

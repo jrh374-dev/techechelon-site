@@ -11,8 +11,6 @@ readTime: 4
 migratedFromWix: true
 ---
 
-In the vibrant heart of Westport, Connecticut, a unique investment firm is redefining the landscape of the lower middle market with its innovative approach to fostering growth and entrepreneurship. Buy Build Fund, led by a trio of seasoned investors and operators, is on a mission to unlock the potential of small to medium-sized businesses through strategic investment and operational support.
-
 Established with the vision to bridge the gap between untapped market opportunities and strategic growth, Buy Build Fund has quickly become a beacon for companies seeking to elevate their business to new heights. With a focus on sectors ranging from technology and media to consumer services, the firm leverages its extensive network of over 1,000 firms and individuals to partner with companies that exhibit strong growth potential, a solid market position, and a commitment to digital innovation.
 
 The firm’s recent acquisition of Prints of Love, a key player in the custom printing industry known for its personalized wedding cards, baby announcements, and promotional materials, is a testament to Buy Build Fund's strategic vision. While the details of this acquisition are part of a broader narrative, it's the underlying strategy and philosophy of Buy Build Fund that merit a closer look.

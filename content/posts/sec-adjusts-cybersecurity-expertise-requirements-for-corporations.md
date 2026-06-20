@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-The U.S. Securities and Exchange Commission (SEC) has recently withdrawn its initial proposal of mandating corporations to disclose the presence of a cybersecurity expert on their board. This move, however, does not detract from the SEC's demand for businesses to elaborate on the role and skill set of their board in managing and assessing cybersecurity risks.
-
 Originally, the SEC's March 2022 proposition mandated businesses to publicly announce a cybersecurity specialist within both their management and board of directors. Now, while they've retreated from the board expert necessity, they maintain the requirement for management-level cybersecurity proficiency.
 
 However, the definition of what qualifies as "cybersecurity expertise" is not explicitly stated by the SEC, leaving businesses to set their own standards. The SEC has provided some direction in this regard, suggesting considerations such as professional certifications, educational degrees, and work history.

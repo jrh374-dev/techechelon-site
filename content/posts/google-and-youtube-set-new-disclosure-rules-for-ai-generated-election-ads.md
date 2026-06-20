@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-As the campaign fervor for the 2024 presidential and congressional elections intensifies, Google has unveiled regulations requiring all AI-generated election advertisements on its platforms, including YouTube, to bear conspicuous disclosures. This change follows mounting concerns over the ease of disseminating misleading content online, especially with the rise of AI tools like OpenAI's ChatGPT and Google's Bard.
-
 A representative from Google articulated, "In light of the increasing use of synthetic content tools, we are extending our policies to mandate advertisers to openly indicate when their election ads have digital modifications or are AI-generated. This is an enhancement to our ongoing commitment to transparency, ensuring trustworthy political advertising and equipping voters with vital information for their decision-making."
 
 This policy, effective from mid-November, necessitates that ads with AI-induced elements indicate their computer-originated nature or the fact that they don't portray actual events. However, minimal alterations like image brightening or resizing won't demand such notifications.

@@ -11,7 +11,7 @@ readTime: 2
 migratedFromWix: true
 ---
 
-![](https://static.wixstatic.com/media/e37254_c1bdbeda765f4adb9fa55a8a3b4e9538~mv2.jpeg)
+![Photo](https://static.wixstatic.com/media/e37254_c1bdbeda765f4adb9fa55a8a3b4e9538~mv2.jpeg)
 
 
 Meta, Facebook and Instagram's parent company, has unveiled a new text-oriented platform named Threads on Thursday, setting it up in direct competition with Twitter, currently managed by Elon Musk, the billionaire founder of Tesla and SpaceX.

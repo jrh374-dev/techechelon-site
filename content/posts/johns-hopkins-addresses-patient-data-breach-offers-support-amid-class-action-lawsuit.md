@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Johns Hopkins Health System confirmed on Monday that it is currently reaching out to patients affected by a cyber breach that took place at the end of May.
-
 The hacking incident involved the widespread file transfer software, MOVEit, which enabled the unauthorized access and downloading of documents from a server, as confirmed by Johns Hopkins.
 
 The extent and type of information stolen varied among the impacted patients, potentially involving details such as names, addresses, email addresses, phone numbers, dates of birth, social security numbers, among other personal information. However, it's worth noting that not all patients in the system were affected.

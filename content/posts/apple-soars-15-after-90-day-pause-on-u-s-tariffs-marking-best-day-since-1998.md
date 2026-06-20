@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-04-10T00:45:14.791Z"
 coverImage: "https://static.wixstatic.com/media/e37254_7e86b4f4c460426eaa4013434b40fb43~mv2.jpg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Apple shares surged 15% on Wednesday after President Donald Trump announced a 90-day pause on new “reciprocal tariffs,” a move that buoyed investor confidence and lifted markets across the board.
 
 The one-day rally added more than $400 billion to Apple’s market capitalization, bringing its valuation to just under $3 trillion. It was Apple’s strongest single-day performance since January 1998, when Steve Jobs had returned as interim CEO, years before the debut of the first iPod.
 
@@ -25,4 +23,4 @@ Prior to Wednesday’s rally, Apple had been in the midst of its worst four-day 
 
 Apple has yet to release a public statement regarding the tariff developments. CEO Tim Cook is expected to provide more insight during the company’s upcoming earnings call on May 1.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

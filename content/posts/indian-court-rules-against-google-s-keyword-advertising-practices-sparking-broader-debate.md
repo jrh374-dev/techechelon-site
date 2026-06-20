@@ -35,4 +35,4 @@ Rana nonetheless told TechCrunch that the decision does not carry a "far-reachin
 
 The ruling adds to a growing body of legal challenges Google faces across global markets over its advertising business. Whether Indian courts will build on the Hindware precedent — or whether the decision remains a narrowly applied trademark judgment — will likely depend on future litigation and how aggressively affected brand owners choose to pursue similar claims.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

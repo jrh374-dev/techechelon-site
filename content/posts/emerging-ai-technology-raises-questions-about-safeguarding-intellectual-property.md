@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-Emerging AI technology, particularly generative artificial intelligence, presents new quandaries in the arena of intellectual property law.
-
 Lawmakers and legal experts are grappling with the implications of this rapidly advancing field for copyright protection while aiming to retain America's competitive edge globally. As patent law comes into focus, strategies for sensible regulation are being deliberated in Congress.
 
 In the Senate Judiciary subcommittee meeting on intellectual property held this Wednesday, the subject of patents and innovation was intensely discussed, underlining the increasing focus on AI-related concerns across the political spectrum.

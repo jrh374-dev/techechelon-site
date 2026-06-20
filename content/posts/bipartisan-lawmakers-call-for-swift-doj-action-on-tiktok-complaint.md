@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-On March 14, 2024, an FTC investigation revealed potential breaches by TikTok of the Children’s Online Privacy Protection Act (COPPA), prompting bipartisan members of Congress to request the Department of Justice (DOJ) to swiftly address the complaint. 
-
 Senators Ed Markey (D-Mass.) and Bill Cassidy (R-La.) alongside Representatives Tim Walberg (R-Mich.) and Kathy Castor (D-Fla.) emphasized the urgency in a letter sent Tuesday, citing past violations by TikTok and the overarching importance of safeguarding children's online privacy.
 
 The legislators urged the DOJ to "expeditiously investigate these allegations and take all necessary action," underscoring the platform's history with COPPA infractions. TikTok has contested the FTC's charges, arguing that the allegations, mostly pertaining to past incidents, were either factually incorrect or have since been resolved.

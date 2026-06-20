@@ -37,4 +37,4 @@ YouTube growth strategist Aniket Mishra frames the consultant's value in terms o
 
 YouTube is set to showcase many of its top creators at its annual Brandcast advertising presentation on Wednesday at New York City's Lincoln Center, underscoring how the platform's commercial footprint has expanded well beyond its origins as a video-sharing website. As the creator economy grows and algorithm dynamics continue to shift, demand for the strategists who navigate those changes appears to be following the same trajectory.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-On Thursday, Microsoft temporarily blocked its employees from using ChatGPT, a popular product from OpenAI, in which the company has invested billions. This decision was noted in an internal update due to concerns about security and data.
-
 Microsoft emphasized the need for caution when using external AI services like ChatGPT, Midjourney, or Replika, citing privacy and security risks. Despite this, the block on ChatGPT and Canva, another design software, was later retracted from the advisory.
 
 Microsoft clarified the situation, stating the restriction was an unintentional result of testing systems for managing large language models (LLMs), which was promptly corrected. The company encourages the use of Bing Chat Enterprise and ChatGPT Enterprise for enhanced privacy and security.

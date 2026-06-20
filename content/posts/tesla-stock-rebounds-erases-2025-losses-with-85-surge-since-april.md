@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-09-15T20:14:46.661Z"
 coverImage: "https://static.wixstatic.com/media/e37254_5e83c41cd764462a98039a7fe96f301f~mv2.jpg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Tesla’s turbulent year has swung back into positive territory after a sharp rally that lifted shares nearly 85% since their April lows, driven by CEO Elon Musk’s hefty stock purchase and renewed investor optimism.
 
 The electric vehicle maker endured its worst first quarter since 2022, with shares plunging on the heels of President Donald Trump’s new tariff plans announced in early April. The stock bottomed at $221.86 on April 4, leaving Wall Street questioning Tesla’s momentum.
 
@@ -31,4 +29,4 @@ Tesla leadership has sought to redirect attention to longer-term bets on robotax
 
 For now, Tesla’s stock surge underscores how quickly sentiment can shift on one of the market’s most closely watched—and polarizing—companies.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

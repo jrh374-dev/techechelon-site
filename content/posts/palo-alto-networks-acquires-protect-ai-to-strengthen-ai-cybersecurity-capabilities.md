@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Palo Alto Networks announced Monday that it will acquire Protect AI, a startup focused on securing artificial intelligence and machine learning applications. The terms of the deal were not disclosed, but the acquisition is expected to close by the first quarter of fiscal year 2026.
-
 With this acquisition, Palo Alto aims to expand its capabilities in safeguarding AI systems from emerging threats. As the adoption of AI and machine learning accelerates across industries and government sectors, so too do the security risks associated with these technologies. Palo Alto said that addressing these threats requires defenses specifically designed for the AI environment, rather than relying on traditional cybersecurity measures.
 
 “By extending our AI security capabilities to include Protect AI’s innovative solutions for securing AI, businesses will be able to build AI applications with comprehensive security,” said Anand Oswal, senior vice president and general manager of network security at Palo Alto Networks.

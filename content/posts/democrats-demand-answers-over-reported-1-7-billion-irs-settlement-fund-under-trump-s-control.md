@@ -33,4 +33,4 @@ The reported settlement would, if finalized, allow Trump to drop a lawsuit that 
 
 With no final terms confirmed and the White House silent on the matter, the political dispute over the reported agreement is likely to intensify heading into next week, as lawmakers on both sides of the aisle weigh whether to formally intervene.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

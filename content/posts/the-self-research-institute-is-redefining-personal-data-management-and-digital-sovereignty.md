@@ -13,7 +13,7 @@ migratedFromWix: true
 
 [The Self Research Institute](https://www.selfresearch.org/) (SRI) goes beyond its name and its function as a non-profit focused on ensuring individuals have control over their own data but the lofty ambition to interpret, engage and adapt along with the information to improve lives. SRI stands as a transformative entity committed to reshaping how personal data is handled and utilized across multiple areas. This includes deciphering and recognizing significant trends in personal data behavior within sectors like healthcare, finance, and others. 
 
-![](https://static.wixstatic.com/media/e37254_767686a36397475fbc71cd1250c3b45f~mv2.jpeg)
+![Photo](https://static.wixstatic.com/media/e37254_767686a36397475fbc71cd1250c3b45f~mv2.jpeg)
 
 Founded by [Sterling Snead](https://www.linkedin.com/in/rsterlingsnead/), a forward-thinking leader and a principal within the [S&S Global Family Office](https://www.ssgfo.com), SRI is setting out on a journey to create a platform that combines scientific research and technological advancements to enable people to take charge of their personal information.
 
@@ -31,7 +31,7 @@ At the core of its mission are two transformative projects: SelfProfile™ the g
 
 The SelfProfile™ is an advanced platform for individuals to consolidate, manage, and securely use their personal data. "Our vision with SelfProfile™ was to craft a tool that not only secures personal information against cyber threats but to also empower users to leverage their data in meaningful ways, such as understanding one’s biometric data through visualization of the data," said Snead during a recent interview with TechEchelon. This initiative harnesses OWL2 ontology language to structure decentralized digital identities and provides a dynamic and comprehensive approach to data management.
 
-![](https://static.wixstatic.com/media/e37254_b032d3b7a8e94d369d1c21cd38451770~mv2.png)
+![Photo](https://static.wixstatic.com/media/e37254_b032d3b7a8e94d369d1c21cd38451770~mv2.png)
 
 The SelfProfile™ also integrates seamlessly with other data providers and services through the Self Framework SDK to foster a connected ecosystem of data management and visualization of data patterns for diagnosis. One of its most notable features is the ability to link profiles and cater to families needing to share critical information securely. Moreover, it provides a guardianship feature that includes enhanced control for users requiring oversight, such as minors or individuals with limited decision-making capacity.
 

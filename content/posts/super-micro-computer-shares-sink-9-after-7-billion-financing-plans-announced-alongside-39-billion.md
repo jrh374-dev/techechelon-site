@@ -31,4 +31,4 @@ The company has also been navigating a separate legal matter. In March, Super Mi
 
 How investors respond when shares resume regular trading on Wednesday will signal whether the market views the equity raise primarily as a dilution concern or as a sign that the company's order book justifies the capital outlay.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

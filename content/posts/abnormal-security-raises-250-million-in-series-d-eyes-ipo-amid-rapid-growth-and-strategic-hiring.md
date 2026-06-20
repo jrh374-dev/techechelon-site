@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Abnormal Security, a leader in the cybersecurity sector, announced on Tuesday that it secured $250 million in a Series D funding round, bringing the company's valuation to $5.1 billion. The funding round was led by Wellington Management and supported by previous investors including Greylock Partners, Menlo Ventures, Insight Partners, and CrowdStrike's venture arm.
-
 Founded in 2018 by the architects behind the Twitter-acquired TellApart, Abnormal Security has rapidly expanded, now boasting over 2,400 customers like Maersk, Xerox, and Mattel. This customer base represents about 17% of the Fortune 500 companies, signaling significant market penetration. The company has achieved over $200 million in annualized revenue, doubling its size within the past year.
 
 The influx of capital will be channeled into enhancing Abnormal's AI-driven platform aimed at defending users from sophisticated email threats and other cybersecurity risks, such as phishing, malware, and spam. This move comes as the cybersecurity market sees increased activity and competition from major players like Microsoft, Cloudflare, Zscaler, and Palo Alto Networks, amidst ongoing market consolidation.

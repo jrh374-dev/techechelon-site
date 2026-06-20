@@ -33,4 +33,4 @@ The pattern underscores a broader reckoning across the technology industry, wher
 
 For Wix, the dual pressures of AI-driven efficiency expectations and unfavorable foreign exchange dynamics reflect a challenge particular to companies headquartered outside the United States with significant dollar-denominated revenue, signaling that the current round of tech workforce reductions is being shaped by factors well beyond any single market trend.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Airbus, a leading aerospace company, and Atos, a prominent French IT firm, have begun preliminary talks regarding the potential acquisition of Atos' Big Data and Security division. 
-
 The news, first leaked in December and confirmed in a recent market update by Atos, notes that Airbus is considering purchasing the entire division for an estimated €1.5 to 1.8 billion (approximately $1.65 to $2 billion). This proposal, however, is not yet final.
 
 This potential transaction has been in consideration for some time, with Airbus showing interest in Atos' cybersecurity branch since early 2022. Airbus had previously attempted to acquire a significant stake in Atos' parent division Evidian, but later withdrew their offer. Atos believes that a partnership with Airbus could significantly strengthen their position in cybersecurity, especially in sectors like defense, public safety, and critical infrastructure.
@@ -23,4 +21,4 @@ Airbus, like many in the aviation sector, has faced several security challenges 
 
 In the United States, the Transportation Security Administration (TSA) is implementing new security requirements for airports and aircraft operators. Similarly, in the European Union, the upcoming Implementing Regulation 2023/203 aims to manage information security risks within the aviation industry, expected to be in force between 2025 and 2026. These regulations are likely to accelerate the adoption of cybersecurity measures within the industry, according to Tenenbaum.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

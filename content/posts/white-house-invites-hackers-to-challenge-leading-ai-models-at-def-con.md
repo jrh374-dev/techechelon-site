@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-08-15T17:44:00.306Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e3c98244e184446696a4398342f0193a~mv2.png"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-In a recent bid to assess the robustness of the world's top generative AI models, the White House organized a challenge where thousands of hackers and security experts took on AI models from tech giants such as OpenAI, Google, Microsoft, Meta, and Nvidia. The event took place between August 11-13 during the DEF CON convention in Las Vegas.
 
 About 2,200 individuals participated, attempting to trick these advanced chatbots or large language models (LLMs) into inappropriate actions like fabricating news or providing unsafe instructions within a 50-minute window. This initiative marked the first public evaluation of various LLMs, as confirmed by a spokesperson from the White House Office of Science and Technology Policy.
 

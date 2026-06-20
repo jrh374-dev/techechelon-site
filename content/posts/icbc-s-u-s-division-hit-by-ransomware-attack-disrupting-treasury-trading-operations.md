@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-The U.S. division of ICBC, a major Chinese bank, recently faced a ransomware cyberattack, impacting its Treasury trading operations. ICBC Financial Services, the bank's financial arm, experienced system disruptions due to the attack. The bank responded swiftly, isolating affected systems to mitigate the incident's impact.
-
 Ransomware attacks, where hackers seize control of systems and demand payment for release, have become increasingly common. The identity of the attackers remains undisclosed, but ICBC is conducting a thorough investigation with the aid of information security experts and coordinating with law enforcement.
 
 Despite the attack, ICBC managed to clear U.S. Treasury and repo financing trades. However, reports from various sources, including the Financial Times, indicated disruptions in Treasury trade settlements. The U.S. Treasury Department is monitoring the situation closely, maintaining regular communication with key financial sector entities.

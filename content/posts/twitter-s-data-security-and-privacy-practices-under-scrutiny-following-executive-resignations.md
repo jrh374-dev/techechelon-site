@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Privacy experts and legislators are expressing concerns over Twitter's data security and privacy measures following the exit of key company executives.
-
 A letter addressing these apprehensions was recently sent to Twitter by a group of Democratic senators. They voiced worries that the recent resignation of senior data security executives might jeopardize user data security and privacy, and possibly infringe upon a 2022 agreement with the Federal Trade Commission (FTC).
 
 This correspondence was prompted by the resignation of Ella Irwin, Twitter's head of trust and safety, and A.J. Brown, the company's head of brand safety and advertising quality. Irwin stepped into her role last fall following the resignation of Yoel Roth, Twitter’s previous head of trust and safety, amid the tumultuous acquisition of the company by Elon Musk.

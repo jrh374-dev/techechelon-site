@@ -37,4 +37,4 @@ OpenAI's decision to stand up a dedicated Strategic Futures team — and to staf
 
 How Shazeer will be deployed within OpenAI's research or product organization has not yet been disclosed.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

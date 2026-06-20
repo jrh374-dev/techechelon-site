@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Despite the growing popularity of AI, OpenAI's ChatGPT does not seem to be a significant threat to Google's standing as the leader in search engines, according to a new report by Bank of America Securities.
-
 The analysts highlighted that the number of downloads for both ChatGPT and Microsoft's Bing have been declining in recent weeks, based on data from Sensor Tower. Justin Post, a BofA analyst, confirmed this in a recent note.
 
 The report pointed out a 38% monthly decline in the download rate of ChatGPT on iPhones in the U.S. in June. Bing, which incorporates a ChatGPT-based chatbot in the U.S., also experienced a 38% decrease in downloads during the same period.

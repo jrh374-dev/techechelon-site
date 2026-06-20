@@ -37,4 +37,4 @@ Nvidia itself gained 8.4% for the week, while Whirlpool moved sharply in the oth
 
 With the Beijing summit approaching and Iran peace negotiations at a critical juncture, markets head into next week carrying both momentum and a considerable degree of geopolitical uncertainty.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

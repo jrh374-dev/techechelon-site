@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-04-29T22:35:35.398Z"
 coverImage: "https://static.wixstatic.com/media/e37254_f41d08fc0b9b4876b0fdee1d29507dc9~mv2.avif"
-readTime: 3
+readTime: 2
 migratedFromWix: true
 ---
-
-President Donald Trump personally called Amazon founder Jeff Bezos on Tuesday to complain about a report that the online retail giant was considering displaying U.S. tariff costs alongside product listings, according to a source familiar with the matter.
 
 Shortly after the call, Amazon publicly downplayed the scope of its plan — and later announced it had been scrapped entirely.
 

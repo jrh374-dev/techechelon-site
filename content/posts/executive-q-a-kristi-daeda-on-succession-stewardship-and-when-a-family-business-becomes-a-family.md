@@ -15,7 +15,8 @@ As families navigate the complexities of generational transition, particularly a
 
 Kristi Daeda, President and CEO of The Family Business Consulting Group (FBCG), suggests the family business evolution is at a critical juncture where families must thoughtfully address issues of leadership, ownership, and long-term purpose.
 
-![Kristi Daeda, President and CEO of The Family Business Consulting Group.](https://static.wixstatic.com/media/e37254_cc249d38eeac454984572a16281f4f29~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_cc249d38eeac454984572a16281f4f29~mv2.jpg)
+*Kristi Daeda, President and CEO of The Family Business Consulting Group.*
 
 Daeda leads a firm focused on helping multigenerational family enterprises build strong businesses and strong families through clarity of vision, aligned energies, and effective family engagement.
 

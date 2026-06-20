@@ -41,4 +41,4 @@ Huang described Nvidia's broader ambition in expansive terms, outlining what he 
 
 Whether Washington will ultimately carve out any pathway for Nvidia to re-enter China — and on what terms — remains the central question hanging over the company's long-term revenue ceiling.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

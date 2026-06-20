@@ -17,7 +17,8 @@ Out of that convergence of crises came Paritii, a mission-driven company using t
 
 In this conversation, Dr. Simpson reflects on the personal and professional journey behind Paritii, the challenges of being a Black woman founder in tech, and what she hopes her legacy will be as she builds a platform for impact—and for change.
 
-![Dr. Shmona Simpson.](https://static.wixstatic.com/media/e37254_2165f61cd40c4c9ca7ee11affc3e8c40~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_2165f61cd40c4c9ca7ee11affc3e8c40~mv2.jpg)
+*Dr. Shmona Simpson.*
 
 **Q: Dr. Simpson, can you take us back to the moment or experience that first sparked the idea for Paritii? What was happening in your life that made you feel this company needed to exist?**
 

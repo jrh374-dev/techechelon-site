@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-On Wednesday, prominent tech giants leading the artificial intelligence (AI) sector, including Microsoft, Google, OpenAI (creators of ChatGPT), and Anthropic, an AI research company, announced their intent to form a collaborative forum.
-
 The initiative, named the Frontier Model Forum, aims to ensure the safe and responsible development of AI models, especially in an era where lawmakers across the world, including the U.S., are hustling to comprehend the rapidly expanding AI industry and implement appropriate safeguards.
 
 The Forum will open its doors to organizations involved in developing and implementing frontier models, as long as they demonstrate a robust commitment to safety and express readiness to further the Forum's objectives, as per the joint statement released by the companies.

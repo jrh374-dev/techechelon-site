@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Hewlett Packard Enterprise (HPE) announced its intention to acquire Juniper Networks, a prominent networking equipment manufacturer, for approximately $14 billion in cash, translating to $40 per share.
-
 The completion of this transaction is expected towards the end of this year or early 2025, as per HPE's statement. This news follows a recent report by the Wall Street Journal about advanced discussions between the two companies.
 
 Following the Journal's report, Juniper's stock experienced a significant surge, recording its highest single-day gain in two decades on Tuesday. The stock closed at $37.05, a 22% increase. The proposed acquisition price reflects a 32% premium over Juniper's stock price prior to the Journal's story.
@@ -35,5 +33,4 @@ Details of the deal will be further discussed in a conference call scheduled for
 
 Advising HPE on the deal are JPMorgan and Qatalyst.
 
-
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

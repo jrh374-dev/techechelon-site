@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Stocks pulled back Tuesday as enthusiasm around big tech stocks faded, halting the S&P 500’s six-day climb—its longest winning streak in nearly a month.
-
 The S&P 500 slipped 0.39% to close at 5,940.46, while the Nasdaq Composite fell 0.38% to 19,142.71. The Dow Jones Industrial Average declined by 114.83 points, or 0.27%, finishing the session at 42,677.24.
 
 Technology stocks, which had fueled the recent rally, saw broad declines. Nvidia dropped 0.9%, while shares of Advanced Micro Devices, Meta Platforms, Apple, and Microsoft also ended lower. The tech sector as a whole lost 0.5% on the day.
@@ -25,4 +23,4 @@ Tesla shares bucked the broader trend, rising 0.5% after CEO Elon Musk reaffirme
 
 Meanwhile in Washington, President Trump faced resistance from key House Republicans over a proposed tax bill, specifically regarding the cap on state and local tax deductions. Their opposition casts doubt on the legislation’s chances of passing before the Memorial Day recess.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

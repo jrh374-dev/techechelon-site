@@ -35,4 +35,4 @@ In response to the findings, a Miko spokesperson said the company "includes mult
 
 Consumer groups are calling for stricter regulation of the category, and some lawmakers have proposed bans. With trade shows like CES, MWC, and Hong Kong's Toys and Games Fair continuing to feature AI toys prominently, and the barriers to building such products continuing to fall, pressure on regulators to establish enforceable standards is likely to intensify before the next major holiday shopping season.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

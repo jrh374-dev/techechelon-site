@@ -33,4 +33,4 @@ Cisco is a participant in Anthropic's Project Glasswing, which opened access to 
 
 With Thursday's gain, Cisco's stock trajectory underscores how demand for AI is migrating beyond chip manufacturers and cloud providers into the broader networking layer — a shift that the company is positioning as a multi-year tailwind rather than a single-quarter event.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

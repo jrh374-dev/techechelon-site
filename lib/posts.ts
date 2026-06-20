@@ -54,8 +54,27 @@ export function getPostBySlug(slug: string): Post | null {
   return all.find((p) => p.slug === slug) ?? null;
 }
 
+// Title prefixes used historically on TechEchelon for opinion pieces.
+const OPINION_PREFIX = /^\s*opinion\s*[:|—\-]/i;
+
+export function isOpinion(p: Post): boolean {
+  return p.category === "opinion" || OPINION_PREFIX.test(p.title);
+}
+
 export function getPostsByCategory(category: Category): Post[] {
-  return getAllPosts().filter((p) => p.category === category);
+  const all = getAllPosts();
+  if (category === "opinion") {
+    return all.filter(isOpinion);
+  }
+  // Exclude OPINION-prefixed pieces from other category feeds so they appear
+  // only under Opinion.
+  return all.filter((p) => p.category === category && !OPINION_PREFIX.test(p.title));
+}
+
+export function getPostsByAuthor(authorSlug: string): Post[] {
+  const all = getAllPosts();
+  const norm = (s: string) => s.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
+  return all.filter((p) => norm(p.author) === authorSlug);
 }
 
 export function formatPostDate(iso: string): string {

@@ -33,4 +33,4 @@ The surge in Marvell's stock reflects a broader rally in AI-adjacent semiconduct
 
 With Nvidia's public endorsement now on record and a $2 billion investment backing it, the market's next test for Marvell will be whether its revenue trajectory can support the valuation distance between $250 billion and the trillion-dollar threshold Huang described.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

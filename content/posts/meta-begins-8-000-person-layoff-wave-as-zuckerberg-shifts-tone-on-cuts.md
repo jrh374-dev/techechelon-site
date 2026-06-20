@@ -39,4 +39,4 @@ Umesh Ramakrishnan, chief strategy officer at executive search firm Kingsley Gat
 
 With more rounds expected before year-end and its AI strategy still taking shape, Meta faces simultaneous pressure from investors skeptical of its long-term direction and employees uncertain about their place in the company's increasingly automated future.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -33,4 +33,4 @@ The week also saw other AI policy movement. On Tuesday, Trump signed an executiv
 
 The potential equity arrangement would mark one of the more direct financial entanglements between a leading AI company and the federal government, reinforcing the central role that firms like OpenAI have played in shaping White House policy on the technology. Whether and how the two sides ultimately structure a deal will be closely watched, particularly as OpenAI's IPO timeline comes into sharper focus.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

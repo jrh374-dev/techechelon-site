@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Broadcom announced Monday that it has agreed to produce future generations of artificial intelligence chips for Google and signed an expanded partnership with Anthropic that will give the AI startup access to approximately 3.5 gigawatts of computing capacity drawn from Google's custom AI processors. Broadcom shares climbed more than 3% in extended trading following the disclosure.
-
 The announcement underscores the extraordinary pace at which demand for AI computing infrastructure is accelerating. Anthropic's rise has been particularly striking: the company's annualized revenue has surpassed $30 billion, up from approximately $9 billion at the end of last year, and it now counts more than 1,000 business clients spending over $1 million annually — double the number from just two months ago. The Claude app became the top free app in the U.S. App Store in February, a moment that drove a visible surge in enterprise interest and data center provisioning requests.
 
 The deal deepens an already substantial relationship between Broadcom and Anthropic. On a recent earnings call, Broadcom CEO Hock Tan disclosed that the company was off to a strong start with Anthropic in 2026, providing 1 gigawatt of compute from Google's homegrown tensor processing units (TPUs). Looking to 2027, Tan noted that demand from Anthropic is expected to surge well beyond 3 gigawatts of compute — a figure that analysts at Mizuho translated into roughly $21 billion in AI revenue for Broadcom from Anthropic in 2026, rising to an estimated $42 billion in 2027. The securities filing on Monday did not disclose a specific dollar value for the expanded arrangement.

@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-06-07T14:01:30.508Z"
 coverImage: "https://static.wixstatic.com/media/e37254_be65eefbf9e9497d9ce5a97a9be42c9e~mv2.jpeg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-The U.S. economy added significantly more jobs than anticipated in May, countering concerns of a labor market slowdown and likely diminishing the Federal Reserve’s motivation to lower interest rates.
 
 Nonfarm payrolls increased by 272,000 for the month, up from 165,000 in April and far exceeding the Dow Jones consensus estimate of 190,000.
 

@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Arnold Schwarzenegger, the star of the 1991 blockbuster "Terminator 2: Judgment Day", finds the film's once-imaginary storyline increasingly plausible in today's world.
-
 "Back in those days, we merely touched upon the concept of AI, artificial intelligence. Just think about it," Schwarzenegger said to an enraptured audience at the Academy Museum of Motion Pictures in Los Angeles. The discussion took place on Wednesday evening prior to a screening of James Cameron's acclaimed film, which portrays a future where AI gains consciousness and plans to obliterate humanity.
 
 "Currently, there's a widespread fear of the potential path of AI," Schwarzenegger added, noting the debates surrounding the utilization of AI in businesses.

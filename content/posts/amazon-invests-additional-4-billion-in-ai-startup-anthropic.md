@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-11-22T14:49:24.605Z"
 coverImage: "https://static.wixstatic.com/media/e37254_fc0433a538ce44969376b34ab5d7b758~mv2.webp"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Amazon has announced a $4 billion investment in Anthropic, the San Francisco-based AI startup founded by former OpenAI research executives. This latest funding round brings Amazon’s total investment in the company to $8 billion, solidifying its role in the rapidly growing generative AI sector. Despite the substantial investment, Amazon remains a minority shareholder.
 
 As part of the expanded partnership, Amazon Web Services (AWS) will now serve as Anthropic’s primary cloud and training partner. Anthropic will utilize AWS Trainium and Inferentia chips to train and deploy its advanced AI models. Additionally, AWS customers will gain early access to a unique feature enabling fine-tuning of Anthropic’s Claude AI model using their own data.
 
@@ -27,4 +25,4 @@ Anthropic has also attracted investment from Google, which committed $2 billion 
 
 As the AI arms race intensifies, Amazon’s growing relationship with Anthropic highlights the company’s strategic focus on generative AI, positioning AWS as a key infrastructure provider for the technology’s future.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

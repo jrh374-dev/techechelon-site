@@ -31,4 +31,4 @@ At its core, the suit centered on Musk's claim that Altman and Brockman had indu
 
 The verdict closes the legal chapter for now, though Judge Gonzalez Rogers retains authority to issue her own findings independent of the jury's recommendation. With Musk's xAI competing directly against OpenAI in the generative AI market, the rivalry between the two organizations — and their principals — is unlikely to recede from public view.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

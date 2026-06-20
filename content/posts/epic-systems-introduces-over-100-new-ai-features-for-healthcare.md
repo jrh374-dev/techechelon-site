@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Epic Systems, a leading healthcare software company, is unveiling more than 100 new artificial intelligence (AI) features designed to assist both doctors and patients. The company’s technology is already in use in thousands of hospitals and clinics across the United States, storing medical records for over 280 million individuals.
-
 This week, thousands of industry leaders gathered at Epic’s headquarters in Verona, Wisconsin, to explore the company’s latest products and updates. A key focus of the event was the integration of AI into Epic’s offerings, such as MyChart, an app that allows patients to access their medical records, and Cosmos, a deidentified patient dataset used by clinicians for research.
 
 Epic CEO Judy Faulkner, known for her unique and playful presentations, addressed the audience during the event, emphasizing the role of AI in the company’s future. Faulkner revealed that many of these AI tools are still in development, but some are expected to be available by the end of this year. 

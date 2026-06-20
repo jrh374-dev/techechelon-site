@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-T-Mobile has announced its intention to reduce its workforce by approximately 5,000 employees, constituting about 7% of its total staff, by September's end, according to an internal communication sent out by the company's CEO on Thursday.
-
 The company's top executive, Mike Sievert, clarified in the email, which was also documented in a filing with the Securities and Exchange Commission, that the reductions would mostly affect corporate, tech, and back-office positions. He emphasized that roles in retail and customer interactions would remain untouched.
 
 Sievert highlighted that the roles being affected are mostly "redundant or no longer in line with evolving systems, processes, and company objectives." Additionally, he assured that there aren’t plans for further layoffs in the near-term.

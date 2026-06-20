@@ -7,15 +7,13 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-01-30T14:00:26.713Z"
 coverImage: "https://static.wixstatic.com/media/e37254_4ad206215e364eb2950ab467b7397c82~mv2.png"
-readTime: 10
+readTime: 9
 migratedFromWix: true
 ---
 
-Haley is a dynamic political influencer focused on engaging young women and youth in the voting process. Sparked into action by the 2022 midterm elections, she recognized the disconnection between young voters and the political sphere. Harnessing social media as her platform, Haley strives to bridge this gap, educating and empowering her audience on the importance of civic participation. Her efforts are dedicated to increasing awareness and breaking down barriers to voter turnout, especially among young women. Haley's work symbolizes the essence of modern advocacy, leveraging digital tools to create a more informed and engaged electorate.
-
 TechEchelon recently interviewed Haley on her current work and vision for the future.
 
-![](https://static.wixstatic.com/media/e37254_4ad206215e364eb2950ab467b7397c82~mv2.png)
+![Photo](https://static.wixstatic.com/media/e37254_4ad206215e364eb2950ab467b7397c82~mv2.png)
 
 **Q: What inspired you to become a political influencer and focus (among other things) on women and youth voting?**
 

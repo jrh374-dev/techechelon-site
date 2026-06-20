@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Lendbuzz, a Boston-based auto finance fintech, is preparing to go public with an IPO filing expected as soon as Friday, according to people familiar with the matter. The company is eyeing a valuation of roughly $1.5 billion, though that figure could shift as investor discussions unfold.
-
 Founded a decade ago, Lendbuzz specializes in serving borrowers with limited credit history by using alternative data and machine learning to assess risk. Its lending operations are funded through asset-backed securitizations, warehouse facilities from traditional banks, and portfolio sales to institutional investors—particularly insurance firms seeking yield in a higher-rate environment.
 
 The move comes amid a wave of fintech listings. Both Chime and Klarna have gone public in the last three months, with mixed early performances: Chime trading below its debut price while Klarna is modestly above. Lendbuzz will test whether investor appetite extends to niche, data-driven lenders in the fintech ecosystem.

@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Three weeks following a sudden decision by OpenAI's board to remove CEO Sam Altman, Reid Hoffman, former director and co-founder of LinkedIn, expressed confusion about the situation at Wired's LiveWired conference in San Francisco.
-
 Altman was reinstated after intervention from major investors and concerns of a staff exodus. Changes to the board are underway, including the departure of several longstanding members, but details about the initial upheaval remain unclear.
 
 Various reports have speculated on the reasons behind the board's decision. Bloomberg suggested Altman was seeking funding for a new AI chip venture, The New York Times cited co-founder Ilya Sutskever's concerns about Altman's focus on technological risks, and Reuters mentioned a significant technical advancement known to the board. The New Yorker reported a disagreement between Altman and departing director Helen Toner.

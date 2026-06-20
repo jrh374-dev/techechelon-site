@@ -7,17 +7,16 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-05-29T12:00:15.491Z"
 coverImage: "https://static.wixstatic.com/media/e37254_38de2c158a20452f9415d35b39b93dbe~mv2.png"
-readTime: 8
+readTime: 7
 migratedFromWix: true
 ---
-
-As the battle over how to regulate Big Tech plays out in courtrooms, legislatures, and the public square, one journalist is helping audiences make sense of it all. Cristiano Lima-Strong has spent years on the frontlines of tech policy reporting — from writing Politico’s _Morning Tech_ to leading coverage at _The Washington Post_ and now at Tech Policy Press, a nonprofit newsroom focused on the intersection of tech and democracy.
 
 At a time when artificial intelligence, platform accountability, and data privacy are dominating headlines — but still often misunderstood — Lima-Strong is working to close the gap between dense policymaking and public understanding. His reporting has ranged from online harms to government surveillance, and he continues to spotlight the high-stakes debates that will shape how technology governs our lives in the years to come.
 
 In this conversation, he reflects on what pulled him into the beat, the stories that have stuck with him, and how nonprofit journalism can play a vital role in making tech policy more accessible to everyone — not just lobbyists and insiders.
 
-![Cristiano Lima-Strong.](https://static.wixstatic.com/media/e37254_c552457f216b464dad4a9eff5047c797~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_c552457f216b464dad4a9eff5047c797~mv2.jpg)
+*Cristiano Lima-Strong.*
 
 **Q: Can you tell us a little about your journey into journalism and what first drew you to covering tech policy?**
 

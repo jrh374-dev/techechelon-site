@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Mira Murati, OpenAI's Chief Technology Officer, emphasized the crucial need for intensive research on the consequences of advancing artificial intelligence (AI) technology during an interview at The Atlantic Festival on Thursday, to prevent AI from becoming dangerous and excessively addictive.
-
 Murati, a pivotal executive of the company responsible for the renowned ChatGPT AI tool, expressed concern over AI’s potential to become “even more addictive” as it evolves beyond the current systems available today.
 
 Companies are implementing features with enhanced memory and greater personalization capacities, making results more user-relevant, Murati mentioned. ChatGPT has undergone significant enhancements since its initial release. A voice mode feature has been recently announced by the company, enabling users to converse with the chatbot more conveniently.

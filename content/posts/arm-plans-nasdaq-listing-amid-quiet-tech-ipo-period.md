@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Arm, a leading chip design firm under the ownership of Japan's SoftBank, has announced its intention to list on Nasdaq. This comes at a time when tech IPOs are witnessing a sluggish phase. They plan to use the ticker "ARM" for trading.
-
 For the fiscal year ending March 2023, the company reported revenues of $2.68 billion and a net income of $524 million. This marks a slight decrease from its 2022 revenues of $2.7 billion.
 
 Previously, the U.K.-centric firm had confidentially filed for a U.S. listing, choosing the U.S. over the U.K., a move seen as a setback for the London Stock Exchange.

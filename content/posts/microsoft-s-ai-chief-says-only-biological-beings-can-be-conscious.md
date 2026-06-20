@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Microsoft’s top AI executive, Mustafa Suleyman, said this week that only biological beings are capable of consciousness and warned that researchers should stop pursuing artificial intelligence designed to appear self-aware.
-
 “I don’t think that is work that people should be doing,” Suleyman told CNBC at the AfroTech Conference in Houston, where he was a keynote speaker. “If you ask the wrong question, you end up with the wrong answer. I think it’s totally the wrong question.”
 
 Suleyman, who joined Microsoft in 2024 following its $650 million acquisition of his startup Inflection AI, has become one of the most outspoken figures in Silicon Valley against the notion of “conscious AI.” 

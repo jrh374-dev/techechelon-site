@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-In an era increasingly dominated by artificial intelligence (AI), security experts are raising alarms about a new kind of threat: the cyber-physical attack. This form of attack, powered by sophisticated AI technologies, is emerging as a significant risk to critical infrastructure within the United States.
-
 FBI Director Christopher Wray recently informed Congress about the persistent efforts of Chinese government-backed hackers. Their targets include essential U.S. systems such as water treatment facilities, the electrical grid, and transportation networks. Such breaches aim to disrupt or cause direct physical damage to these vital services.
 
 At the Massachusetts Institute of Technology (MIT), simulations conducted by researchers have demonstrated the potential for cyberattacks to cause real-world physical damage. By compromising control systems, these simulations have led to fires and explosions in machinery like motors and pumps. Stuart Madnick, a professor of engineering systems at MIT and a pioneer in cybersecurity research, emphasizes the grave implications of these findings. Unlike traditional cyberattacks that temporarily disable services, cyber-physical attacks can cause lasting damage, leading to prolonged outages and significant safety hazards.

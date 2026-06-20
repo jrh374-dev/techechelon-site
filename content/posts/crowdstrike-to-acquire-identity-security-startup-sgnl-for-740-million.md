@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-CrowdStrike announced Thursday that it will acquire identity security startup SGNL in a deal valued at nearly $740 million, underscoring the company’s push to expand its platform amid a surge in AI-driven cyber threats.
-
 The acquisition is expected to close in the first quarter of CrowdStrike’s fiscal 2027. Once completed, SGNL’s technology will be integrated into CrowdStrike’s flagship Falcon platform, enhancing customers’ ability to manage both human and AI identity access requests while monitoring real-time risk.
 
 CEO George Kurtz said the deal significantly strengthens CrowdStrike’s position in the rapidly growing identity security market, which the company estimates reached $435 million by the end of its second fiscal quarter and represents one of today’s most exploited attack surfaces.

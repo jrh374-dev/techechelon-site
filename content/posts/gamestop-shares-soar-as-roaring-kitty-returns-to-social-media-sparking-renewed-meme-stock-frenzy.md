@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Shares of GameStop surged significantly on Monday, fueled by a post from "Roaring Kitty," the figure central to the 2021 short squeeze phenomenon, marking his first online appearance in about three years.
-
 The post featured an image on X (formerly Twitter) depicting a video gamer intently leaning forward, signaling serious gameplay. This was Roaring Kitty's inaugural post on the platform since his hiatus began in 2021, quickly attracting 63,000 likes within 13 hours.
 
 The company's stock price closed 70% higher after reaching an increase of as much as 110% during the day, with several trading halts due to extreme volatility. Other meme stocks also saw notable gains, with AMC Entertainment climbing 22%, and shares in Reddit rising 13%.
@@ -33,4 +31,4 @@ GameStop's stock has recently shown signs of revival, increasing 57% in May alon
 
 In late March, GameStop reported a revenue of $1.79 billion for the fiscal fourth quarter, down from $2.23 billion a year earlier.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

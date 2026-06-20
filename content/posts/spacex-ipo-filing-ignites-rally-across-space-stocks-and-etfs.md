@@ -35,4 +35,4 @@ Analysts at Vanda flagged a broadening of retail interest beyond established pro
 
 With the IPO filing now official and enthusiasm running across the sector, the central question for investors is how much of the anticipated valuation — estimated at roughly $1 trillion by market observers — has already been priced into the names riding SpaceX's wake.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

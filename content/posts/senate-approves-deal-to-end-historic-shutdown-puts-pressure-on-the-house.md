@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-The Senate has passed a long-awaited bill to reopen the federal government, ending the longest shutdown in U.S. history and setting up a consequential vote in the House later this week.
-
 The funding measure — approved 60–40 with support from nearly all Republicans and a small group of centrist Democrats — would keep the government operating through January. 
 
 It now heads to the House, where Speaker Mike Johnson has instructed members to return to Washington for a vote as early as Wednesday afternoon. If approved, the bill will go to President Donald Trump, who has signaled he will sign it.

@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-06-28T17:55:58.785Z"
 coverImage: "https://static.wixstatic.com/media/e37254_2291ecc2f0fe4bd5a8673dc63061a918~mv2.jpeg"
-readTime: 3
+readTime: 2
 migratedFromWix: true
 ---
-
-On Wednesday, Federal Reserve Chairman Jerome Powell strongly addressed the issue of inflation during a forum. He announced his anticipation for a series of interest rate hikes, possibly undertaken at a faster-than-usual rate.
 
 Powell, while participating in a monetary policy discussion in Sintra, Portugal, suggested, “We foresee further constraints ahead”. He attributed this to a robust labor market.
 

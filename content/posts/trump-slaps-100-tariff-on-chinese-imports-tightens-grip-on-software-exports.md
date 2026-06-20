@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-President Donald Trump announced Friday that the U.S. will impose a sweeping 100% tariff on all imports from China, doubling existing rates and escalating an already volatile trade standoff. The move, set to take effect November 1, also includes new export controls on “any and all critical software,” signaling a dramatic expansion of Washington’s economic pressure campaign against Beijing.
-
 The White House framed the decision as retaliation for China’s latest export restrictions on rare earth minerals—materials essential to high-tech manufacturing, including electric vehicles, defense systems, and semiconductors. China currently accounts for about 70% of the global supply of rare earths, giving it outsize leverage over industries powering both the digital and green economies.
 
 In a post on Truth Social, Trump accused China of taking “an extraordinarily aggressive position on trade” and of sending “an extremely hostile letter to the world” about its plans to impose “large-scale export controls on virtually every product they make.” He called the move “a moral disgrace in dealing with other nations” and said the U.S. would respond with tariffs “over and above any tariff that they are currently paying.”

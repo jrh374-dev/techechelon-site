@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Utah has initiated a lawsuit against TikTok, accusing the platform of promoting harmful social media habits to children.
-
 This move by Utah claims that TikTok lures children into extended usage, conceals the true nature of its safety measures, and misrepresents its autonomy from its parent company in China, ByteDance, as informed by The Associated Press. With this lawsuit, Utah follows in the footsteps of Arkansas and Indiana, which have lodged similar legal complaints against the platform.
 
 Utah's Governor Spencer Cox remarked in a press briefing on the issue, "Our children's well-being is paramount. We are committed to ensuring that these corporations are held responsible for their actions, and we will take all necessary steps to safeguard our young citizens."

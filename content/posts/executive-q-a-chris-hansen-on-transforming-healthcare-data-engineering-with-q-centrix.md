@@ -7,13 +7,12 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-02-07T06:31:53.370Z"
 coverImage: "https://static.wixstatic.com/media/e37254_9343f3eb1f8640ce80d02b3bb54826e3~mv2.png"
-readTime: 11
+readTime: 10
 migratedFromWix: true
 ---
 
-Chris Hansen is a visionary leader in healthcare data engineering, analytics, and warehousing, leveraging his deep expertise to transform how clinical data is managed and utilized. As Head of Data Engineering at Q-Centrix, Chris plays a critical role in shaping data strategy and pioneering innovative use cases to maximize the value of data within the Q-Centrix Enterprise Clinical Data Management platform.
-
-![Chris Hansen, Head of Data Engineering at Q-Centrix.](https://static.wixstatic.com/media/e37254_c2ad6807f5eb454ba4108c03ffe63ea1~mv2.png)
+![Photo](https://static.wixstatic.com/media/e37254_c2ad6807f5eb454ba4108c03ffe63ea1~mv2.png)
+*Chris Hansen, Head of Data Engineering at Q-Centrix.*
 
 Q-Centrix is at the forefront of revolutionizing clinical data management, empowering healthcare organizations with best-in-class solutions to enhance patient care, streamline operations, and drive informed decision-making. Chris’s passion for harnessing data to improve healthcare outcomes has been instrumental in advancing analytics capabilities and unlocking new opportunities for hospitals and health systems.
 

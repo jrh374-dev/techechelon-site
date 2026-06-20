@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-09-01T16:30:02.505Z"
 coverImage: "https://static.wixstatic.com/media/e37254_42d2991db5304f249d0764411aea32f2~mv2.jpg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-SentinelOne's CEO and co-founder, Tomer Weingarten, made it clear in a recent CNBC interview the cybersecurity firm, which went public in 2021, is not on the market for a sale.
 
 This announcement comes in the wake of a Reuters report that alluded to the company potentially being up for sale. Moreover, there was buzz about the security startup, Wiz, showing interest in acquiring SentinelOne, following statements from a representative of Wiz.
 

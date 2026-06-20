@@ -31,4 +31,4 @@ The company's May warning had flagged uncertainty about whether it could continu
 
 The situation underscores the risk profile that accompanied the company's pivot to holding a single, illiquid, politically connected digital asset as its primary balance-sheet position. With lock-up restrictions limiting its options and WLFI's value continuing to slide, AI Financial's ability to meet exchange compliance requirements will be closely watched in the days ahead.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

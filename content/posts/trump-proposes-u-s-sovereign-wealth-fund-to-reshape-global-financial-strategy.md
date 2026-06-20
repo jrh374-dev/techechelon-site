@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-02-04T04:46:23.044Z"
 coverImage: "https://static.wixstatic.com/media/e37254_c5d201393b034a6bb5a27ffba3a0d055~mv2.webp"
-readTime: 3
+readTime: 2
 migratedFromWix: true
 ---
-
-President Donald Trump is charting a new course for America's financial strategy with a bold move to reshape the nation’s investment approach and its economic footprint across the globe. On a crisp Monday morning, Trump signed an executive order that began the ambitious process of creating a U.S. sovereign wealth fund, aiming to generate additional revenue for the government and alter the landscape of international finance.
 
 Sovereign wealth funds are not a new concept globally. Managed by national governments, these funds handle substantial amounts of money, often accruing from surplus revenues or the exploitation of natural resources. Countries like Norway and various Gulf states have long benefited from such funds, utilizing oil and gas revenues to support broad economic objectives from stabilizing prices to funding domestic policies. China, too, maintains a significant fund, bolstered by its substantial trade surplus.
 

@@ -11,11 +11,10 @@ readTime: 7
 migratedFromWix: true
 ---
 
-Justin Hendrix is a leading voice at the crossroads of technology, democracy, and civil society. As the CEO and Editor of _Tech Policy Press_, he has created a platform that amplifies urgent conversations about how emerging technologies shape power, politics, and public life. With a background that includes teaching graduate courses on Tech, Media, and Democracy at NYU, Justin combines academic insight with journalistic rigor to spotlight the profound challenges and possibilities of the digital age.
-
 What began as a side project born from post-2016 anxieties about democracy has grown into a vital nonprofit publication. Under Justin’s leadership, _Tech Policy Press_ serves as a bridge between expert discourse and public understanding—offering nonpartisan analysis and elevating diverse voices from around the globe. Whether tackling AI’s role in governance, the unchecked power of tech oligarchs, or the overlooked risks of neurotechnology, Justin brings clarity to issues that are shaping our collective future.
 
-![Justin Hendrix, CEO and Editor of Tech Policy Press.](https://static.wixstatic.com/media/e37254_bc7107ff92c44c659be922709509b0e4~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_bc7107ff92c44c659be922709509b0e4~mv2.jpg)
+*Justin Hendrix, CEO and Editor of Tech Policy Press.*
 
 In this Q&A, Justin shares the story behind _Tech Policy Press_, reflects on the state of tech journalism, and explains why a democratic future depends on more equitable, transparent, and inclusive tech policy.
 

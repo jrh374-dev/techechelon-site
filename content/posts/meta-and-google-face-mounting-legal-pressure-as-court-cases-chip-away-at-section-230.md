@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-For three decades, Section 230 of the Communications Decency Act has served as the bedrock legal protection for internet platforms, shielding companies like Meta and Google from liability over content posted by their users. 
-
 That protection is now being tested in courtrooms across the country, as plaintiffs' attorneys have developed targeted legal theories specifically designed to circumvent it — and in several high-profile cases, they are winning.
 
 In a landmark verdict last week in Los Angeles, a jury found Meta and Google's YouTube negligent in a personal injury case that alleged the platforms had intentionally engineered addictive features — including autoplay, recommendation algorithms, and notification systems — that caused serious mental health harm to a minor. 

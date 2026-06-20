@@ -29,4 +29,4 @@ Ron Gaver, CEO of Tapcheck, emphasized the importance of their service, particul
 
 Both companies claim the positive impact of EWA benefits is substantial, and not only aids employees in managing their financial health but also positions Powerback Rehabilitation as an employer of choice.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

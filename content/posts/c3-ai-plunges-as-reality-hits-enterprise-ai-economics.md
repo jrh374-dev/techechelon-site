@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2026-02-26T16:50:27.136Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e0adb6e06f474542b1bea5c7ab6c372a~mv2.webp"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-C3 AI is facing a sharp market reset, with shares dropping roughly 17% after the company reported disappointing third-quarter results and announced a sweeping restructuring that will eliminate more than a quarter of its workforce. 
 
 The move underscores a growing divide in the AI market between companies benefiting from infrastructure-driven demand and those struggling to translate AI momentum into durable enterprise revenue.
 
@@ -33,4 +31,4 @@ The broader implication is not that AI demand is weakening, but that monetizatio
 
 C3 AI now enters a critical transition period, focused on cost discipline, operational efficiency, and proving that its platform can deliver tangible business outcomes in an increasingly scrutinized AI market.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-09-27T13:22:00.886Z"
 coverImage: "https://static.wixstatic.com/media/e37254_69b9222cbcc54708a21a05181de57909~mv2.jpeg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Several state media outlets from Russia, China, and Iran have experienced a significant 70% rise in user interaction on the platform X, formerly Twitter, following the removal of "state-affiliated" labels, as disclosed in a recent report published Tuesday by NewsGuard.
 
 NewsGuard's in-depth analysis of media patterns and misinformation highlighted that 12 state media accounts from the mentioned countries observed an increase in likes and reposts of their content, escalating from 2.93 million to 4.98 million in the subsequent 90 days post the removal of the labeling.
 

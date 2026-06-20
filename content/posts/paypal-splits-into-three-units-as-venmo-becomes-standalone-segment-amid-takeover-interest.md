@@ -41,4 +41,4 @@ PayPal is scheduled to report first-quarter earnings next week, giving investors
 
 The degree to which Lores's reorganization restores confidence in PayPal's competitive position — against Apple, Google, and Stripe in the e-commerce payments market — will likely depend on how quickly the newly defined Venmo segment can demonstrate independent growth and attract the executive talent the company is now actively recruiting.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

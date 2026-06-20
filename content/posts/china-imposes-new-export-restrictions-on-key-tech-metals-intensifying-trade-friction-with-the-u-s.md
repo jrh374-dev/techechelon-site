@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-07-03T22:37:55.360Z"
 coverImage: "https://static.wixstatic.com/media/e37254_f721a58b51d94c5f9ca5bd7df84b2c77~mv2.jpeg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-The Chinese government revealed new restrictions on the export of two rare metals crucial for manufacturing semiconductors and electric vehicles on Monday.
 
 Starting from August 1, the country's Ministry of Commerce declared that exports of germanium and gallium would only be permitted if the necessary licenses are obtained from the ministry. It justified this decision as crucial to "safeguard national security and interests."
 

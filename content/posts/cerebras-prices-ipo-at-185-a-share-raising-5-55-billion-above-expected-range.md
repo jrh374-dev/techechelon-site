@@ -35,4 +35,4 @@ The IPO's lead underwriters are Morgan Stanley, Citigroup, Barclays, and UBS.
 
 Cerebras' offering sets the stage for what could be a busy IPO cycle in AI. Investors are watching for potential offerings later this year from SpaceX, OpenAI, and Anthropic — listings that would dwarf even the Cerebras raise in scale and investor attention.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

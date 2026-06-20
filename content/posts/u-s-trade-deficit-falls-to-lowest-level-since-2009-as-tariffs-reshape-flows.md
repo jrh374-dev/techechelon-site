@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-The U.S. trade deficit narrowed sharply in October, falling to its lowest level since the aftermath of the global financial crisis, as exports rose and imports declined following President Donald Trump’s tariff actions.
-
 The Commerce Department reported Thursday that the trade gap shrank to $29.4 billion in October, a 39% decline from the prior month. Exports increased 2.6%, while imports fell 3.2%, reflecting a meaningful slowdown in inbound trade alongside steady foreign demand for U.S. goods and services.
 
 It marked the smallest trade deficit since the second quarter of 2009, when the U.S. economy was emerging from the Great Recession.
@@ -33,4 +31,4 @@ Labor market data also remained stable. Initial jobless claims for the week endi
 
 Taken together, the data suggests tariffs are reshaping trade flows while productivity gains are helping stabilize growth — a combination that could prove pivotal as the economy heads into 2026.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -11,13 +11,12 @@ readTime: 12
 migratedFromWix: true
 ---
 
-In an industry where institutional giants dominate the trading landscape, Julius Franck-Oberaspach is working to rewrite the rules. As Co-Founder and Co-CEO of Vertus, he’s built a fintech platform that gives retail investors and smaller institutions access to the kinds of advanced, risk-mitigating trading strategies once reserved for the biggest players.
-
 With a background in quantitative finance and a deep understanding of market inefficiencies, Franck-Oberaspach and his team are developing adaptive systems that prioritize resilience over speed—and transparency over opacity. The goal? To arm clients with tools that not only outperform during market booms but protect against devastating downturns.
 
 In this conversation, Franck-Oberaspach shares how Vertus got its start, what it takes to win the trust of institutional clients, and why he believes machine learning—not classical financial theory—is the key to unlocking the next era of alpha.
 
-![Julius Franck-Oberaspach, Co-Founder and Co-CEO of Vertus.](https://static.wixstatic.com/media/e37254_c8060423c9624af9a69868346b70eed3~mv2.jpeg)
+![Photo](https://static.wixstatic.com/media/e37254_c8060423c9624af9a69868346b70eed3~mv2.jpeg)
+*Julius Franck-Oberaspach, Co-Founder and Co-CEO of Vertus.*
 
 **Q: Can you tell me how the idea for your fintech platform first came about? What gap in the market were you seeing?**
 

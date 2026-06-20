@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-ENIGMA, a next-generation cybersecurity platform backed by Option3, has announced its agreement to acquire Dellfer Inc., a leading provider of firmware security solutions for the automotive and Internet of Things (IoT) sectors. This all-stock transaction marks ENIGMA’s second acquisition in six months and a significant step in expanding its Zero Trust-based cybersecurity offerings.
-
 Dellfer's shareholders, including DENSO Corporation—a global leader in advanced mobility technologies and an early backer of Dellfer—will become major stakeholders in ENIGMA. This move enables DENSO to access ENIGMA's comprehensive suite of cybersecurity solutions, further supporting the automotive industry's shift toward software-enabled connected vehicles.
 
 "We are thrilled to welcome Dellfer to the ENIGMA platform," said Manish Thakur, Managing Partner of Option3. "Dellfer's expertise in firmware security and IoT protection complements ENIGMA's focus on Zero Trust solutions. Together, we aim to address emerging cybersecurity challenges across sectors, including automotive, healthcare, and government."

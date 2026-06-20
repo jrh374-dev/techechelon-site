@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Labor disputes at West Coast ports are causing congestion and increased commercial shipping prices, raising fears of new supply chain disruptions that could result in product shortages or heightened costs. The standoff between port workers and operators is causing worry among legislators, as escalating container prices could impact a wide range of consumer goods, reminiscent of supply chain issues post-pandemic.
-
 According to data from Go Comet, median delay times are on the rise in several key West Coast ports, including Los Angeles, Seattle, and Long Beach, with Seattle wait times now exceeding one week. Experts analysing the data report a rapid surge in shipping container rates on the West Coast.
 
 Eytan Buchman of logistics booking company Freightos says, “Over the past week, container rates for importing 40-foot containers to the United States’ West Coast have leapt 20 percent week-on-week, likely due to anticipated port congestion.”

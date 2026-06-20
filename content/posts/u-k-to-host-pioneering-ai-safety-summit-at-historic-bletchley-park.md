@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-08-24T14:58:58.761Z"
 coverImage: "https://static.wixstatic.com/media/e37254_7b65de0d877049f1b83f63011b5de925~mv2.jpeg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-The British government has announced plans to hold the world's inaugural summit focusing on AI safety at Bletchley Park, famous for its World War II codebreakers led by Alan Turing, who deciphered the game-changing Enigma Code.
 
 Set for November 1-2, this groundbreaking summit aims to unite AI titans, research specialists, and governments globally. The summit's core theme will revolve around examining AI risks, particularly at its evolving forefront, and brainstorming international strategies to address these concerns.
 

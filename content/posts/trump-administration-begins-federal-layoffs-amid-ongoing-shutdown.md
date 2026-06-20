@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-The Trump administration began issuing permanent layoffs to federal workers on Friday as the U.S. government shutdown entered its tenth day, marking a sharp escalation in the political standoff that has already halted key government operations.
-
 Office of Management and Budget Director Russell Vought confirmed the move on X, writing, _“The RIFs have begun,”_ using the acronym for _Reductions in Force._ An OMB spokesperson later said the cuts “are substantial” and span multiple agencies, including the Treasury, Health and Human Services, Commerce, Education, Energy, EPA, Homeland Security, HUD, and Interior.
 
 President Donald Trump told reporters in the Oval Office that the number of layoffs would “be a lot,” adding that they would “be Democrat-oriented” — suggesting an effort to eliminate programs his administration views as politically aligned with Democrats.

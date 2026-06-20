@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-DeepL, an AI-powered translation platform, announced on Wednesday that it secured $300 million in new funding, demonstrating robust investor interest in the AI industry.
-
 The investment round, led by venture capital firm Index Ventures, elevated DeepL’s valuation to $2 billion.
 
 New contributors ICONIQ Growth and Teachers’ Venture Growth joined the round, alongside existing investors IVP, Atomico, and WiL.
@@ -37,4 +35,4 @@ DeepL’s ambition is to evolve into a more integral productivity tool for enter
 
 DeepL has intensified its push into the enterprise sector, now serving notable clients like Zendesk, Nikkei, Coursera, and Deutsche Bahn.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

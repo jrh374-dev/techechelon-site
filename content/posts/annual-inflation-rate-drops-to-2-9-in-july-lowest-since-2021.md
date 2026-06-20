@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-The consumer price index, a broad-based measure tracking prices for goods and services, reported a modest increase of 0.2% in July.
-
 This rise contributed to a 12-month inflation rate of 2.9%, marking the lowest annual rate since March 2021. When omitting volatile food and energy sectors, core CPI similarly rose by 0.2% for the month, aligning with an annual rate of 3.2%, which met economists' expectations.
 
 Shelter costs, which surged by 0.4%, were the primary drivers of the month's inflation, accounting for 90% of the overall price increase in the index. Meanwhile, food prices also saw a slight increase of 0.2%, whereas energy prices remained unchanged.
@@ -27,4 +25,4 @@ Interestingly, while some categories like automotive and medical care services e
 
 The Federal Reserve continues to monitor these trends closely, balancing between stimulating economic growth and controlling inflation to maintain economic stability.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

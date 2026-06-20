@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Reddit, a platform that hosts myriad online communities and is 19 years old, set its initial public offering (IPO) price at $34 per share on Wednesday, hitting the upper end of its anticipated range.
-
 This pricing effort generated $519 million, as stated in a company press release, and positioned Reddit's market value at approximately $6.5 billion. The company initially aimed for a share price between $31 and $34.
 
 The public trading of Reddit shares is set to commence on Thursday under the symbol “RDDT,” marking the first significant public listing of a social media company since Pinterest in 2019. It's also among the rare venture-backed technology offerings in the last couple of years. The IPO involved the sale of 15.28 million shares by Reddit and an additional 6.72 million shares by its existing shareholders.

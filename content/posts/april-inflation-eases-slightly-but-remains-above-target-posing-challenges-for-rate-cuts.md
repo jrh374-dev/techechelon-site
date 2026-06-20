@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Inflation showed a slight decrease in April, offering some relief to consumers, although it remains too high to anticipate any immediate interest rate reductions.
-
 The Consumer Price Index (CPI), which gauges the average change over time in the prices paid by consumers for goods and services, rose by 0.3% from March, according to the Labor Department’s Bureau of Labor Services. This increase was marginally lower than the 0.4% predicted by Dow Jones.
 
 Looking at the year-over-year figures, the CPI saw a 3.4% increase, aligning with expectations.
@@ -27,4 +25,4 @@ Shelter expenses, a major concern for Federal Reserve officials hoping for a red
 
 Energy prices increased by 1.1% over the month and were 2.6% higher compared to last year. Food prices remained steady month-over-month and saw a 2.2% increase from the previous year. Meanwhile, prices for both used and new vehicles, which had significantly impacted inflation during the peak of the Covid pandemic, declined by 1.4% and 0.4%, respectively.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

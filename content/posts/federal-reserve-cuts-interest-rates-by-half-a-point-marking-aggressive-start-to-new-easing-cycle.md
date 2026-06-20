@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-On Wednesday, the Federal Reserve made its first interest rate cut since the early stages of the Covid-19 pandemic, lowering its key interest rate by half a percentage point. This move is intended to counteract a potential slowdown in the labor market as inflation and job growth both soften.
-
 The Federal Open Market Committee (FOMC) reduced the overnight borrowing rate by 50 basis points, meeting market expectations which had shifted from predictions of a smaller cut. The last time the Fed made a half-point cut, aside from emergency Covid measures, was during the 2008 global financial crisis.
 
 As a result, the federal funds rate now stands between 4.75% and 5%. This rate, which influences short-term borrowing costs for banks, impacts a wide range of consumer loans, such as mortgages, auto loans, and credit cards.
@@ -41,4 +39,4 @@ Wednesday’s decision could have a ripple effect globally, as other central ban
 
 While the Fed has approved the rate cut, it has continued with its "quantitative tightening" policy, gradually reducing its bond holdings. The Fed's balance sheet has decreased to $7.2 trillion, a $1.7 trillion reduction from its peak, as it allows up to $50 billion in maturing Treasurys and mortgage-backed securities to roll off each month.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

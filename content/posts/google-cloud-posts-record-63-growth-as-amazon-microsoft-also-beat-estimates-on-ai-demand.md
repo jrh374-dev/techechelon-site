@@ -35,4 +35,4 @@ Competition is also emerging from smaller providers. So-called neocloud companie
 
 With all three hyperscalers reaccelerating growth and raising spending guidance simultaneously, the coming quarters will test whether AI-driven cloud demand can justify the capital commitments already on the books — and whether the neocloud segment's market share gains continue to erode the incumbents' dominance.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

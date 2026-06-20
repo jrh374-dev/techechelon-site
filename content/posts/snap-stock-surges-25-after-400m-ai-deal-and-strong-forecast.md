@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Snap is making a comeback. The social media company’s shares jumped as much as 25% on Wednesday after it reported stronger-than-expected quarterly earnings, announced a $500 million stock buyback, and revealed a landmark $400 million partnership with AI search startup Perplexity.
-
 For the third quarter, Snap posted revenue of $1.51 billion, slightly above Wall Street’s $1.49 billion estimate, and a net loss of $104 million, down from $153 million a year earlier. 
 
 Global daily active users rose to 477 million, just topping projections, while average revenue per user climbed to $3.16. Adjusted EBITDA hit $182 million, beating expectations, and the company forecasts up to $310 million next quarter—well ahead of analyst targets. Snap projects fourth-quarter sales between $1.68 billion and $1.71 billion, with the midpoint slightly above consensus estimates.
@@ -29,4 +27,4 @@ Australia’s new minimum-age bill, for instance, will soon penalize platforms t
 
 After losing 32% of its value earlier this year, Snap’s sharp rebound reflects renewed investor confidence that its AI partnerships, AR ambitions, and improving fundamentals may mark the beginning of a turnaround for the long-challenged social media firm.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

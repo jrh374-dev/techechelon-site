@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Nvidia shares surged by 6% after-market on Wednesday as it exceeded fiscal second-quarter expectations and projected a bullish outlook for the following quarter.
-
 **Q2 Highlights:**
 
 - **Earnings**: Nvidia posted $2.70 per share, surpassing the $2.09 expected by Refinitiv.

@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-President Donald Trump escalated global trade tensions on Thursday by signing an aggressive and far-reaching "reciprocal tariff" policy at the White House, prompting sharp reactions from markets and trade partners worldwide.
-
 The newly announced tariffs establish a 10% baseline tariff on imports across the board, with significantly higher rates imposed on key trading partners, including 34% on China, 20% on the European Union, 46% on Vietnam, and 32% on Taiwan.
 
 Stocks responded negatively, opening sharply lower on Thursday as investors reacted to heightened trade uncertainty and potential disruptions to global supply chains.
@@ -31,4 +29,4 @@ Secretary Lutnick also cautioned foreign nations against retaliatory tariffs, ca
 
 As markets continue to digest the news, international trade negotiations are expected to intensify in the coming days and weeks.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

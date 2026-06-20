@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-A legislative proposal aimed at preventing Chinese social media giant TikTok from transferring user data to China has been re-proposed by a bipartisan group of senators.
-
 The proposed bill, named the "Protecting Americans’ Data From Foreign Surveillance Act of 2023", was initially introduced in 2022 and has now been updated with various new provisions. These additions include tasks for the Commerce secretary and other agencies to discern types of personal data whose export could pose a threat to U.S. national security.
 
 The bill tasks the Commerce secretary with developing a list of 'low-risk' countries, where data sharing is considered safe, and a 'high-risk' list where data transfer, particularly of sensitive nature, would be prohibited. Additionally, the bill seeks to establish a licensing system for data exports to countries that are not on either list.

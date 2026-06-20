@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-Elon Musk, long fascinated with the letter X, is phasing out the Twitter name and its trademark blue bird. This bold move is part of Musk's initiative to mold his $44 billion purchase into something distinctly his own.
-
 Musk envisions X to be similar to China's WeChat, a versatile app that people use for entertainment, e-commerce, social media, and messaging. This shift follows a period of unpredictable behavior by the world's wealthiest individual, which deterred users and advertisers and left Twitter financially unstable and susceptible to rivals.
 
 Analyst Mike Proulx from Forrester warns that replacing such a well-known internet brand is "extremely risky", especially with emerging competition like Instagram's new Threads feature and smaller contenders like Bluesky attracting users.

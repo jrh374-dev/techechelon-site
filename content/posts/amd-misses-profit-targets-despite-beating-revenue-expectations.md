@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Advanced Micro Devices (AMD) released its second-quarter financial results on Tuesday, showing stronger-than-expected revenue but falling short on profit forecasts. The stock dipped over 5% in after-hours trading.
-
 The semiconductor giant reported adjusted earnings of 48 cents per share, just shy of the 49 cents anticipated by analysts. However, revenue reached $7.69 billion, outpacing the expected $7.42 billion.
 
 Looking ahead, AMD projected revenue of $8.7 billion for the third quarter, give or take $300 million, surpassing the $8.3 billion Wall Street forecast.
@@ -35,4 +33,4 @@ AMD also saw major gains in its Client and Gaming segment, which includes chips 
 
 Despite profit pressures, Su expressed confidence in AMD’s AI roadmap and overall product demand, signaling a robust outlook for the remainder of the year.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

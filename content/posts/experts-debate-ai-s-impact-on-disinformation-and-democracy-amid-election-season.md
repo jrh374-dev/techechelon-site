@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Cybersecurity specialists are concerned that AI-created content could skew our understanding of reality, an especially pressing issue during an election-heavy year.
-
 However, Martin Lee, the technical lead at Cisco's Talos security intelligence and research group, believes that the perceived threat from deepfakes to democracy might be exaggerated.
 
 Lee acknowledged that deepfakes are indeed a formidable technology but argued they are less influential than conventional fake news. He warned that new AI tools could simplify the creation of fraudulent content.

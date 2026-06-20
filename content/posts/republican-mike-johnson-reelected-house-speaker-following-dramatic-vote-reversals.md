@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-01-04T14:39:59.999Z"
 coverImage: "https://static.wixstatic.com/media/e37254_4050046170424e1ca47b307962e82d03~mv2.webp"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Republican Rep. Mike Johnson of Louisiana has been reelected as Speaker of the House of Representatives after a dramatic voting session marked by key vote reversals among his GOP colleagues. Johnson secured the position on the first ballot, defeating Democratic nominee Rep. Hakeem Jeffries of New York.
 
 Johnson clinched the required 218 votes after Reps. Ralph Norman of South Carolina and Keith Self of Texas switched their support to him. The two had initially cast their votes for other Republican candidates but changed their positions following discussions with Johnson near the House floor. 
 

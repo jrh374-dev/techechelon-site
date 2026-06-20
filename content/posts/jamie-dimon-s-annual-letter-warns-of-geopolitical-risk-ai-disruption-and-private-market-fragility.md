@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2026-04-07T19:49:49.145Z"
 coverImage: "https://static.wixstatic.com/media/e37254_8610189888054a279e5447c3a502b760~mv2.jpg"
-readTime: 3
+readTime: 2
 migratedFromWix: true
 ---
-
-JPMorgan Chase CEO Jamie Dimon used his annual letter to shareholders on Monday to issue a broad call for a recommitment to American values, while laying out one of the most comprehensive surveys of systemic risk the world's largest bank by market cap has published in recent memory. 
 
 Spanning geopolitical conflict, trade policy upheaval, artificial intelligence, private market fragility, and bank regulation, the letter offers an unvarnished look at how the most influential banker in the world sees the current environment.
 

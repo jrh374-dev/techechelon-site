@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-The growing importance of robust cybersecurity strategies in contemporary business operations is prompting companies to integrate security executives into their boardrooms.
-
 According to Chris Steffen, research director at Enterprise Management Associates (EMA), it's becoming a common practice to promote Chief Information Security Officers (CISOs) to board positions. This shift recognizes that cybersecurity should not be a subordinate aspect of a company's tech priorities.
 
 With risk management and regulatory compliance taking center stage in companies, CISOs are becoming indispensable as they oversee a majority of these security-related controls, Steffen added. As cybersecurity incidents are reported more frequently, it's essential for boards to show they're actively addressing these issues. The most effective way of doing this for many organizations is to place the CISO in a decision-making role on the board, he explained.

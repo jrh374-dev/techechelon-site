@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-President Donald Trump on Friday nominated Kevin Warsh to succeed Jerome Powell as chair of the Federal Reserve, ending a months-long selection process marked by unusual political pressure on the central bank.
-
 In a post on Truth Social, Trump praised Warsh as a long-time confidant and predicted he would become “one of the GREAT Fed Chairmen.” Warsh, 55, previously served as a Federal Reserve governor and is widely viewed on Wall Street as an experienced policymaker unlikely to simply follow White House directives.
 
 Market reaction was muted. Stock futures dipped modestly early Friday but pared losses as investors digested the news. Analysts suggested the nomination was largely priced in, given Warsh’s familiarity with monetary policy and his credibility with markets.

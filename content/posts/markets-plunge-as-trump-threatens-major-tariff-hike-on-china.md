@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-U.S. markets nosedived Friday after President Donald Trump threatened sweeping new tariffs on Chinese imports, escalating tensions over Beijing’s tightening control of rare earth metals—a vital supply chain component for both the technology and defense industries.
-
 The Dow Jones Industrial Average sank 878 points (1.9%) to close at 45,479.60, while the S&P 500 dropped 2.7% to 6,552.51, marking its steepest one-day decline since April. The Nasdaq Composite was hit hardest, plunging 3.6% to 22,204.43 after briefly touching a record high earlier in the session.
 
 > “I was to meet President Xi in two weeks at APEC in South Korea, but now there seems to be no reason to do so,” Trump wrote on Truth Social. “One of the policies we’re calculating at this moment is a massive increase of tariffs on Chinese products coming into the United States.”
@@ -33,4 +31,4 @@ With political gridlock deepening and global trade tensions rising, investors fl
 
 “Expectations for a China trade deal just got swept off the table,” said Jeff Kilburg of KKM Financial. “Profit-takers are out in full force, and traders are reassessing what this means for earnings season ahead.”
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -35,4 +35,4 @@ The AI infrastructure deals pushed the S&P 500 and Nasdaq to new records on Wedn
 
 The convergence of a potential executive order on AI evaluation, active copyright litigation against a major AI developer, and continued private-sector investment in AI infrastructure suggests the sector is entering a period where legal and regulatory constraints may begin to shape development timelines as meaningfully as capital availability.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

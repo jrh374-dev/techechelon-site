@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-In August, a favored economic indicator of inflation by the Federal Reserve, the personal consumption expenditures (PCE) price index, excluding food and energy, experienced a smaller-than-anticipated rise, suggesting progress in the central bank's battle against escalating prices.
-
 The Commerce Department revealed that it had a 0.1% increase for the month, contrary to the 0.2% gain predicted by the Dow Jones consensus of economists. This reflected the smallest monthly rise since November 2020, with the annual increase for core PCE standing at 3.9%, aligning with projections.
 
 Consumer spending also witnessed a modest inflation gain of 0.4% based on the current-dollar, a notable decrease from July’s 0.9%. Adjusted for inflation, the real-term spending only rose by 0.1% after a 0.6% increase in July.

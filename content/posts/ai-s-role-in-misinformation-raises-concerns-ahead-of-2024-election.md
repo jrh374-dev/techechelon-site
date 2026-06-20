@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-09-12T03:13:39.994Z"
 coverImage: "https://static.wixstatic.com/media/e37254_7c20b889fb384edb8f04b6ced642a842~mv2.jpeg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Over half of Americans predict that AI-driven misinformation will influence the results of the 2024 presidential election, according to a recent [Axios-Morning Consult AI survey](https://www.axios.com/2023/09/11/poll-ai-elections-axios-morning-consult). The study revealed that 53% of participants feel that AI's role in disseminating false information will have an effect on the election outcome. This sentiment was commonly shared among regular viewers of major news networks like Fox, CNN, and MSNBC.
 
 2020's Trump supporters were twice as prone to express decreased trust in the election results due to AI as compared to Biden voters. Breaking down the numbers, 47% of those concerned about AI misinformation were Trump voters, while 27% supported Biden.
 

@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-08-15T19:18:39.934Z"
 coverImage: "https://static.wixstatic.com/media/e37254_259b2908717245129f1c2c7415907b0b~mv2.jpeg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Companies are ramping up salaries to attract professionals with expertise in artificial intelligence (AI). Netflix, recently under the spotlight due to the ongoing actors' and writers' strike, is offering roles with a whopping annual salary that can reach $900,000.
 
 For a data scientist role in LA's advertising sector, the compensation ranges from $390,000 to $900,000. Netflix elaborated on its website, "Our team's objective is to harness machine learning in order to provide our members with a plethora of choices and enhance their viewing experience."
 

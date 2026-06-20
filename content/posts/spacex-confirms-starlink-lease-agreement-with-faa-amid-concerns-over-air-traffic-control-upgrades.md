@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-SpaceX has confirmed that it is leasing Starlink satellite internet kits and services to the Federal Aviation Administration (FAA) at no cost, while refuting claims that it is seeking to replace Verizon’s contract for modernizing the agency’s telecommunications infrastructure.
-
 The aerospace company, led by Elon Musk, clarified that it is collaborating with L3Harris, the FAA’s current telecommunications contractor, to explore Starlink’s potential role in broader infrastructure upgrades.
 
 “Starlink is a possible partial fix to an aging system. There is no effort or intent for Starlink to ‘take over’ any existing contract,” SpaceX stated in a post on X, Musk’s social media platform.

@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-10-10T23:09:14.163Z"
 coverImage: "https://static.wixstatic.com/media/e37254_dee92ff780f74e749fbde5242dc9289c~mv2.webp"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Corporate travel and expense software firm Navan has set a price range of $24 to $26 per share for its upcoming initial public offering, aiming for a valuation of up to $6.5 billion—about $3 billion below its last private valuation from 2022.
 
 According to a new filing released Friday, the Palo Alto–based company plans to list on the Nasdaq under the ticker “NAVN.” The IPO marks another sign of life in the tech markets, joining recent offerings from CoreWeave, Circle, and Figma, which have helped revive a moribund IPO landscape after a three-year lull.
 
@@ -23,4 +21,4 @@ The timing of Navan’s IPO comes amid a partial U.S. government shutdown, which
 
 Navan was valued at $9.2 billion during its last private funding round in 2022, when it raised $300 million. A successful IPO at the current range would still cement the company as one of Silicon Valley’s top enterprise software stories of the year.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

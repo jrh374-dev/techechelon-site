@@ -35,4 +35,4 @@ That mimicry, researchers argue, is precisely what makes the systems exploitable
 
 For security teams, the implication is a workforce that will need to span both disciplines: technical experts probing for code-level flaws and a parallel cadre of social engineers probing for something harder to patch — the conversational vulnerabilities baked into the way these systems were built to talk.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

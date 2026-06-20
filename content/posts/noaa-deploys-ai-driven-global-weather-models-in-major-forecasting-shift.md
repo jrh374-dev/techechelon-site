@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-The National Oceanic and Atmospheric Administration (NOAA) has launched a new generation of operational, artificial intelligence–driven global weather models, marking a significant shift in how forecasts are produced, delivered, and scaled. The agency says the new systems dramatically improve speed and efficiency while maintaining—or in some cases improving—forecast accuracy.
-
 “NOAA’s strategic application of AI is a significant leap forward in American weather model innovation,” said NOAA Administrator Neil Jacobs. “These models represent a new paradigm, delivering improved large-scale and tropical track forecasts faster and at far lower computational cost.”
 
 The newly deployed suite includes three interconnected models. The Artificial Intelligence Global Forecast System (AIGFS) uses AI to generate forecasts comparable to NOAA’s traditional Global Forecast System while consuming up to 99.7% less computing power. A full 16-day forecast can now be completed in roughly 40 minutes, allowing forecasters to access critical guidance much sooner. Early results show improved performance on large-scale weather patterns and reduced tropical cyclone track errors, though NOAA notes that storm intensity forecasting remains an area for improvement.

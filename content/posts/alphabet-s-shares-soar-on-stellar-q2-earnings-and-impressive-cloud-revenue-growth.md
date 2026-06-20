@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Alphabet Inc.'s shares jumped almost 7% early Wednesday, fueled by robust second-quarter earnings that exceeded predictions, and a significant year-over-year increase in revenue from cloud services.
-
 On Tuesday, the tech giant reported adjusted earnings per share at $1.44, surpassing the anticipated $1.34 according to a Refinitiv analyst survey. Additionally, the company posted revenue of $74.6 billion for the second quarter, outperforming the estimated consensus of $72.82 billion.
 
 However, the significant uptick in cloud computing revenue was the primary highlight. Alphabet recorded $8.03 billion from Google Cloud sales, surpassing the StreetAccount consensus of $7.87 billion. Google Cloud is in direct competition with industry giants Amazon Web Services and Microsoft Azure.

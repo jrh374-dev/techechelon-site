@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-U.S. stocks surged Friday as investors stepped back into equities following a bruising week dominated by fears that artificial intelligence could upend the traditional software business model.
-
 The Dow Jones Industrial Average climbed more than 700 points, or about 1.6%, led by strength in industrial and financial shares. The S&P 500 rose roughly 1%, while the Nasdaq Composite added about 0.7%, marking a tentative recovery after days of heavy selling in technology stocks.
 
 Despite Friday’s rebound, the week remained volatile. The S&P 500 clawed back into positive territory for 2026, but both it and the Nasdaq were still on pace for weekly losses of roughly 1% and 3%, respectively. The Dow, by contrast, was tracking a gain of more than 1% for the week.
@@ -39,4 +37,4 @@ Precious metals also reflected choppy sentiment. Silver — a volatile trade tha
 
 The day’s rally suggests investors may be distinguishing between long-term AI beneficiaries and areas most vulnerable to disruption. Whether the rebound marks a durable turn or just a pause in a broader repricing remains the key question heading into next week.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

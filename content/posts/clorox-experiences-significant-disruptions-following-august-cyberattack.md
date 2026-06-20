@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-The Clorox Company, famed for products like sanitizing wipes, PineSol, FreshStep cat litter, and Hidden Valley Ranch, reported disruptions in their operations due to a cyberattack in August.
-
 The security filing released on Monday highlighted the unauthorized activities detected on their IT systems on Aug. 14. As a response, the company took several systems offline for remediation.
 
 This cyberattack caused considerable damage to parts of Clorox's IT infrastructure, leading to potential implications for the availability of its products in the market.

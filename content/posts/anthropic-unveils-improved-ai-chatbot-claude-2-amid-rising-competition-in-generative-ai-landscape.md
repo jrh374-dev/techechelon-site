@@ -11,9 +11,7 @@ readTime: 3
 migratedFromWix: true
 ---
 
-The competitive landscape of artificial intelligence is welcoming a new participant. While tech giants like Microsoft-supported OpenAI and Google are vying for supremacy in developing the most progressive AI chatbots, Anthropic is also making significant investments to stay competitive.
-
-![](https://static.wixstatic.com/media/e37254_0d6c96db8ea9485485971fb280ab612f~mv2.png)
+![Photo](https://static.wixstatic.com/media/e37254_0d6c96db8ea9485485971fb280ab612f~mv2.png)
 
 Only a few monnths after securing $750 million in two funding rounds, the startup is unveiling a fresh AI chatbot: Claude 2.
 

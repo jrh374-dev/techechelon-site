@@ -13,7 +13,7 @@ migratedFromWix: true
 
 Eric Olson is an innovator at the intersection of technology and knowledge accessibility. As the founder and CEO of [Consensus](https://consensus.app/), Eric has channeled his deep-seated passion for scientific exploration and expert discourse into creating a platform that democratizes access to specialized knowledge. Drawing inspiration from his own voracious appetite for non-fiction and expert-led podcasts, Eric envisioned a tool that could distill and deliver expert insights on any subject at the touch of a button. His background in technology development and a keen understanding of AI's capabilities have positioned him uniquely to tackle the challenges of unbiased information curation and user-centric design.
 
-![](https://static.wixstatic.com/media/e37254_b302dfb987544cacb3bafa4bdf7dbc9a~mv2.png)
+![Photo](https://static.wixstatic.com/media/e37254_b302dfb987544cacb3bafa4bdf7dbc9a~mv2.png)
 
 At the core of Consensus is a revolutionary approach to information retrieval—utilizing vector search technology to go beyond traditional keyword searches, thus capturing the nuance and interconnectedness of modern knowledge. Under Eric’s leadership, Consensus not only simplifies the academic research process but also makes it more engaging for users without a research background, encouraging a broader spectrum of users to delve into complex material with ease. 
 

@@ -11,8 +11,6 @@ readTime: 5
 migratedFromWix: true
 ---
 
-The HIMSS Global Health Conference & Exhibition returns to Las Vegas in 2026, bringing together healthcare executives, clinicians, researchers, and technology companies from around the world to explore the future of digital health.
-
 With more than a thousand exhibitors across the conference’s expansive exhibition floor, HIMSS has become one of the most important venues for unveiling the technologies shaping healthcare’s digital transformation.
 
 This year’s show reflects a major shift underway across the industry: artificial intelligence, data infrastructure, and interoperability platforms are rapidly converging to help healthcare organizations extract meaningful insights from massive volumes of patient data.

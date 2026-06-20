@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-10-21T01:26:29.801Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e01fd5bb86284567902a55ed2913a318~mv2.jpg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-During a recent event, Rep. Andrew Garbarino (R-N.Y.) expressed concerns about labor shortfalls in the cyber industry, highlighting it as a major threat to U.S. cybersecurity in the long run.
 
 "If we don't address this workforce issue within the next five years, it will likely be our largest obstacle in cybersecurity," commented Garbarino.
 

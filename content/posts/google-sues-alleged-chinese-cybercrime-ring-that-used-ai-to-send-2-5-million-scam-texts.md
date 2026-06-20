@@ -31,4 +31,4 @@ Google's lawsuit targets the group's technical infrastructure directly, a legal 
 
 The outcome of the case and the scope of the FBI's parallel law enforcement actions are expected to become clearer in the coming weeks, as court filings and federal disclosures provide additional detail on the alleged network's operators and reach.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

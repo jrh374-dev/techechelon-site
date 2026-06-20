@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-OpenAI has acquired TBPN, a daily technology news podcast hosted by John Coogan and Jordi Hays, in a move that reflects the company's growing interest in shaping public discourse around artificial intelligence — and in the broader shift in how audiences consume media. The Wall Street Journal first reported the deal; terms were not disclosed.
-
 TBPN launched in 2025 and has grown rapidly despite its modest subscriber base of around 58,000 on YouTube. The show has attracted high-profile guests including Meta CEO Mark Zuckerberg, Microsoft CEO Satya Nadella, and OpenAI co-founder and CEO Sam Altman — who is also a recurring presence on the program. 
 
 Advertisers have already taken notice: the podcast secured sponsorships from fintech companies Ramp and Plaid, as well as Google's Gemini, and struck a content partnership with the New York Stock Exchange. TBPN generated approximately $5 million in advertising revenue in 2025 and was on track to exceed $30 million this year, according to the Journal.

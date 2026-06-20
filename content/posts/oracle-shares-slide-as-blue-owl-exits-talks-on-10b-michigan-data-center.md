@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Oracle shares fell roughly 5% on Wednesday following reports that Blue Owl Capital has stepped away from discussions to help fund a planned $10 billion data center in Michigan tied to OpenAI. While Oracle and its development partner pushed back on claims that the project is in jeopardy, the news reignited investor concerns about the mounting costs and financing structures behind the AI-driven data center boom.
-
 According to the _Financial Times_, Blue Owl had been in talks to back a 1-gigawatt data center in Saline Township, Michigan, intended to support OpenAI workloads. Those discussions ultimately stalled, with sources citing worries over Oracle’s growing debt load, aggressive AI spending, and the structure of repayment terms. Concerns about potential construction delays linked to local politics were also raised.
 
 Blue Owl confirmed it evaluated the project but chose not to proceed, according to a person familiar with the matter. The firm remains invested in two other Oracle data center projects in the U.S., including major sites in Texas and New Mexico.
@@ -31,4 +29,4 @@ Despite the market reaction, some analysts downplayed the significance of Blue O
 
 Still, Oracle shares remain under pressure, down roughly 50% from their September peak, underscoring how sensitive investors have become to financing risks as AI infrastructure spending accelerates.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

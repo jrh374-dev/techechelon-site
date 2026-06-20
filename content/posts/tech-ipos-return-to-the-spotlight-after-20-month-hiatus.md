@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Silicon Valley has been buzzing with anticipation for the next big tech Initial Public Offering (IPO), with a noticeable void spanning 20 months since the last significant venture-backed tech listing. Last Friday, that wait was over as grocery delivery company, Instacart, and data and marketing firm, Klaviyo, signaled their intent to debut on the stock market.
-
 Earlier, Arm, the chip designer under the SoftBank umbrella of Japan, announced its intention to list on the Nasdaq. It comes seven years after its $32 billion acquisition and privatization.
 
 Despite having varied business models, these three companies will gauge the public market investors' appetite for fresh tech opportunities. Their market performances may pave the way for more companies to list in the upcoming quarter.

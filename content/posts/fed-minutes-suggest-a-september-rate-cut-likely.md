@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-The Federal Reserve appears poised for a long-anticipated interest rate reduction in September, according to the minutes from their July meeting, released on Wednesday. While no action was taken last month, the minutes reveal a growing consensus among officials that a rate cut is likely on the horizon.
-
 During the July 30-31 meeting, a significant majority of Fed officials indicated that if economic data continues to meet expectations, easing monetary policy at the September meeting would be appropriate. This potential cut would mark the first reduction since the emergency measures taken during the early days of the COVID-19 pandemic.
 
 Although all members of the Federal Open Market Committee (FOMC) voted to maintain the current benchmark rates in July, the minutes show that some officials were inclined to begin easing immediately. However, they ultimately opted to wait until September.

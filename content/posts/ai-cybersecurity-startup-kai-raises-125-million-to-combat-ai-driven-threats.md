@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-A fast-growing wave of investment into AI-powered cybersecurity startups continues to accelerate as Kai announced it has raised $125 million in a combined seed and Series A funding round, positioning the young company to expand its AI-driven cyber defense platform.
-
 The funding round was led by Evolution Equity Partners and included participation from venture capital firm N47 and other investors. The San Jose-based startup said the new capital will be used to scale operations, expand into new markets, and accelerate research and development around its artificial intelligence cybersecurity platform.
 
 Kai was founded by cybersecurity entrepreneurs Galina Antova and Damiano Bolzoni, both of whom previously built and exited successful security companies. Antova is also the co-founder of Claroty, a major industrial cybersecurity platform, while Bolzoni previously co-founded SecurityMatters, which was acquired by Forescout Technologies in 2018.

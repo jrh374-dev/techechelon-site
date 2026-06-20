@@ -35,4 +35,4 @@ A May Gallup poll found that seven in 10 Americans oppose constructing AI data c
 
 How the Mississippi court rules on the DOJ's motion to intervene could set a significant precedent for how citizen suits under the Clean Air Act are handled in cases where the government asserts a national security interest, with implications for communities near AI infrastructure across the country.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

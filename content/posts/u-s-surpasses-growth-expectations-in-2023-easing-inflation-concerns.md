@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-In the last quarter of 2023, the U.S. economy experienced a stronger-than-anticipated growth, defying previous recession predictions, according to the Commerce Department. The Gross Domestic Product (GDP), which represents the total value of goods and services produced, expanded at an annualized rate of 3.3%, surpassing the 2% expectation of Wall Street for that period. This growth followed a 4.9% increase in the third quarter.
-
 There was also notable progress in controlling inflation. Core personal consumption expenditures (PCE) prices, a key inflation metric favored by the Federal Reserve, increased by 2%, with the overall rate at 1.7% for the quarter. Yearly, the PCE price index grew 2.7%, a reduction from the previous year’s 5.9%, while the core index, excluding food and energy, rose 3.2% annually, down from 5.1%.
 
 Beth Ann Bovino, U.S. Bank's chief economist, described the scenario as "supersonic Goldilocks," highlighting robust economic activity alongside manageable inflation. Consumer spending on items like new cars and recreation, as well as travel, contributed to this trend. This indicates a move towards a "soft landing" for the economy.

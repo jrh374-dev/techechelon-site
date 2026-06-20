@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-The Federal Reserve continues its series of interest rate hikes, marking another 0.25 percentage point increase and hitting a 22-year high.
-
 This move elevates the overnight federal funds rate to a band of 5.25%-5.5%, as part of the Fed's ongoing initiative to combat skyrocketing prices, despite recent signs of receding inflation.
 
 "Current signals indicate a moderate expansion in economic activity," shared the Federal Open Market Committee, the group responsible for setting policy, in a statement following the decision.

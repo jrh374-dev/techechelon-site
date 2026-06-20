@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-01-22T21:53:35.006Z"
 coverImage: "https://static.wixstatic.com/media/e37254_04ccb48c060244269cada5ffae96d65c~mv2.webp"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-The Department of Homeland Security (DHS) has dissolved the current memberships of all its advisory committees, casting doubt on the future of the Cyber Safety Review Board (CSRB) and its ongoing investigations.
 
 The directive, issued by Acting DHS Secretary Benjamin Huffman, mandates the immediate cessation of all existing advisory committee memberships as part of a broader effort to reallocate resources and focus on national security concerns. This move has particularly significant implications for the CSRB, established in 2022 under the Biden administration to enhance cyber safety protocols.
 

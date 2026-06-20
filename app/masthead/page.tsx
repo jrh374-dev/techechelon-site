@@ -11,9 +11,12 @@ export default function MastheadPage() {
       title="Masthead"
       dek="The people who report, edit, and run TechEchelon."
     >
-      <h2>Editorial</h2>
+      <h2>Editor in Chief</h2>
       <p>
-        <strong>Sara Montes de Oca</strong>, Founder &amp; Editor. Previously at Bloomberg and The Information.
+        <strong><a href="/author/sara-montes-de-oca">Sara Montes de Oca</a></strong> &mdash; Editor in Chief. Sara founded TechEchelon and leads editorial across markets, AI, policy, and security.
+      </p>
+      <p>
+        <em>Sara&apos;s full bio will be added here — share the verbatim copy from the existing site whenever convenient and we&apos;ll paste it in.</em>
       </p>
       <h2>Bureaus</h2>
       <p>
@@ -21,7 +24,7 @@ export default function MastheadPage() {
       </p>
       <h2>Get in touch</h2>
       <p>
-        For story tips, reach the newsroom at <a href="/contact">our contact page</a>. For corrections, see <a href="/corrections">Corrections</a>. For sponsorship and partnership inquiries, please use the contact form rather than reaching reporters directly.
+        For story tips, press, partnerships, and corrections, see the <a href="/contact">Contact</a> page.
       </p>
     </StaticPage>
   );

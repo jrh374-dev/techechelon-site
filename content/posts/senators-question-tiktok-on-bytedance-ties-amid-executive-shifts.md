@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-On Tuesday, Sens. Marsha Blackburn (R-Tenn.) and Richard Blumenthal (D-Conn.) sought clarification from TikTok regarding its relationship with parent company ByteDance, based in Beijing. This inquiry follows the Wall Street Journal's revelation that several ByteDance executives have transitioned to prominent roles at TikTok, some relocating from China to the U.S.
-
 These transitions have raised eyebrows among U.S. TikTok employees, especially since TikTok CEO Shou Zi Chew had previously emphasized to Congress the distinction between TikTok and ByteDance.
 
 Addressing Chew, Blackburn and Blumenthal stated, “Given the recent relocation of several ByteDance executives to the U.S., there seems to be a discrepancy between what has been conveyed to the public and Congress about TikTok's independence from ByteDance.”

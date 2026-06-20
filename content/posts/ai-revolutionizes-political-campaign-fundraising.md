@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-As the realm of politics starts to embrace artificial intelligence (AI), a pioneering company has stepped in to utilize AI for drafting fundraising emails for campaigns.
-
 Creating campaign fundraising emails has often been a draining and lengthy task. This has further contributed to fatigue among political workers in an already volatile job sector.
 
 Quiller, an initiative by Democratic strategist Mike Nellis, is poised to provide Democratic campaigns with AI-drafted preliminary versions of fundraising emails. Quiller’s CEO, Hillary Lehr, emphasized the primary advantages: improving efficiency, granting access, and reducing staff exhaustion.

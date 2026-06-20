@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-In a decisive move to address gender disparity in the cybersecurity sector, Evolution Equity Partners has announced a strategic partnership with Women Who Code, a globally renowned nonprofit organization championing the cause of diverse women in tech.
-
 This collaboration was inaugurated with Evolution Equity Partners making a significant donation to Women Who Code.
 
 The donation was ceremoniously presented to Lily Chang, a board member of Women Who Code, during the first-ever Presidents Forum held in San Francisco. This international gathering, which coincided with the RSA Conference week, saw a convergence of Chief Information Security Officers (CISOs), global leaders, cybersecurity experts, and heads of state deliberating on the nuances of cybersecurity.

@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-Nvidia CEO Jensen Huang is deepening his relationship with President Donald Trump as the company cements its dominance in the global AI race and navigates escalating U.S.–China trade tensions. The alliance has become a defining feature of Trump’s second term, offering mutual political and economic benefits as both men champion America’s technological supremacy.
-
 The partnership was on full display this week at Nvidia’s GPU Technology Conference in Washington, D.C.—often dubbed the “Super Bowl of AI.” Huang capped a two-hour keynote with praise for Trump’s energy and manufacturing policies, ending with a nod to the president’s signature slogan: “Thank you for making America great again.” Hours later, he boarded a flight to South Korea to attend the APEC Forum, reportedly hoping to meet Trump before his departure.
 
 “There’s a lot of value for Jensen Huang to cozy up with Trump and feel like he’s in his good graces,” said Owen Tedford of Beacon Policy Advisors. “At the same time, Trump wants to be seen as supporting Nvidia’s growth domestically. It’s a mutually beneficial relationship.”

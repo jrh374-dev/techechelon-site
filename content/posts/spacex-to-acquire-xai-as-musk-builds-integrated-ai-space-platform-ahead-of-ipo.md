@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Elon Musk is combining SpaceX with his artificial intelligence startup xAI, creating a vertically integrated entity spanning rockets, satellites, AI models, data centers, and social media as the company prepares for a potential blockbuster public offering.
-
 Musk announced the transaction Monday in a blog post, describing the merged company as “the most ambitious, vertically integrated innovation engine on (and off) Earth,” uniting AI, launch services, space-based internet, and the X social platform. Public filings with Nevada list Space Exploration Technologies Corp. as the managing member of [X.AI](http://X.AI) Holdings, with the deal completed on Feb. 2.
 
 According to Bloomberg, the combined entity could target an IPO valuation of $1.25 trillion, a figure that would place it among the most valuable companies globally. The move represents the largest consolidation yet across Musk’s business empire.
@@ -39,4 +37,4 @@ It also escalates Musk’s rivalry with OpenAI CEO Sam Altman, with whom Musk is
 
 If successful, the merger could redefine how AI infrastructure is built and priced—on Earth and beyond. If not, it risks concentrating capital, regulatory exposure, and technical ambition at an unprecedented scale.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

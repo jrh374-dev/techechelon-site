@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-On July 19, 2024, the world experienced what has been dubbed the "largest IT outage in history," with widespread impacts felt from transportation to healthcare. The disruptions, primarily caused by a significant Microsoft outage and a problem with CrowdStrike's IT services, were evident at locations such as Manila's Ninoy Aquino International Airport where long queues disrupted travel plans.
-
 Financial institutions, medical offices, and television broadcasters faced operational difficulties throughout the day. Air travel was significantly hampered, with numerous flights cancelled or delayed, prompting airports to advise passengers on potential disruptions.
 
 CrowdStrike reported a major disruption early in the day, attributed to a flaw in a recent tech update affecting Windows hosts, confirmed by CEO George Kurtz. He assured that the problem was not due to a cyberattack and that a resolution was swiftly implemented. 

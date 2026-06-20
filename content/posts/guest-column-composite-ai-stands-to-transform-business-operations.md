@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-12-14T23:05:39.213Z"
 coverImage: "https://static.wixstatic.com/media/e37254_fa6c2dc532d94d5badd7ae844aba07f0~mv2.jpeg"
-readTime: 4
+readTime: 3
 migratedFromWix: true
 ---
-
-Generative AI provides capabilities that are tangibly changing the way businesses operate. It excels at generating text, crafting basic code, taking on conversational roles, and engaging users in dialogues to prompt deeper thought processes. It can also decipher and simplify intricate texts to bridge the gap between convoluted information and comprehensible content, making daily work tasks more manageable.
 
 Generative AI is also potentially transformative in business when used in combination with other tools, especially traditional AI and machine learning (ML) models. This implementation method, called composite AI, strategically fuses multiple types of generative and traditional AI alongside other technologies to achieve a singular, cohesive objective.
 

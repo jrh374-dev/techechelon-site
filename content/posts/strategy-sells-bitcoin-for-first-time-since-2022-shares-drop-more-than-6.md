@@ -31,4 +31,4 @@ Bitcoin ETFs on Friday recorded their tenth consecutive day of net outflows — 
 
 The sale is small relative to Strategy's overall holdings, but the symbolic weight of breaking from Saylor's defining "never sell" doctrine — twice now within four years — is drawing attention from investors and market observers alike. How aggressively the company deploys its new balance-sheet management framework in the months ahead will determine whether the pivot represents a measured recalibration or a broader retreat from the bitcoin accumulation strategy that made Strategy a proxy bet for crypto bulls.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

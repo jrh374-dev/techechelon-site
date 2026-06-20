@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-On Wednesday, Neuralink, a venture led by Elon Musk, showcased a groundbreaking live demonstration featuring a patient manipulating a computer cursor and engaging in a chess game, all through the company’s pioneering brain implant technology.
-
 29-year-old Noland Arbaugh, the first person to receive Neuralink’s device, revealed during the broadcast on Musk's platform X that he had been paralyzed following a diving mishap about eight years prior. Neuralink, aiming to forge a bridge between the human brain and computers, introduced its inaugural device named Telepathy. Musk, in a January announcement on X, highlighted the device's potential to transform the lives of those with severe paralysis by enabling them to operate external devices via brain signals alone.
 
 Arbaugh described the implant procedure, which involves the surgical insertion of electrodes into the brain after removing a segment of the skull, as remarkably straightforward, with his hospital stay lasting only a day. Despite encountering some challenges, Arbaugh emphasized the significant positive impact the device has had on his life, cautioning that the journey toward perfecting this technology is far from over.

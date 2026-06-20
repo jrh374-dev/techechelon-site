@@ -11,9 +11,7 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Matt Higgins, a self-made millionaire, CEO of RSE Ventures, and guest star on ABC's "Shark Tank," suggests that artificial intelligence (AI) isn't merely a tool for completing assignments or tweaking your images and videos. It could be your future income stream if harnessed properly.
-
-![](https://static.wixstatic.com/media/e37254_8757dee61f0d425291389f21e7109bdf~mv2.jpeg)
+![Photo](https://static.wixstatic.com/media/e37254_8757dee61f0d425291389f21e7109bdf~mv2.jpeg)
 
 "AI will revolutionize wealth creation, as it doesn't discriminate based on your birthplace, financial status, or educational credentials," states Higgins. He foresees AI tearing down existing barriers hindering people from financial progress and pursuing their economic dreams.
 

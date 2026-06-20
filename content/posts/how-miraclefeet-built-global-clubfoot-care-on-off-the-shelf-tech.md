@@ -7,17 +7,16 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2026-06-03T13:00:22Z"
 coverImage: "https://static.wixstatic.com/media/e37254_b52aded879b9491c9c53e61554d24577~mv2.jpg"
-readTime: 7
+readTime: 6
 migratedFromWix: true
 ---
-
-**_On World Clubfoot Day, the nonprofit’s chief executive explains why connecting proven platforms let a roughly 50-person organization track a quarter-million patient visits a year across nearly 40 countries._**
 
 Clubfoot is one of the most treatable conditions in pediatric medicine. A baby born with the inward-twisting foot deformity can, in most cases, be corrected without major surgery through a months-long sequence of plaster casts and a brace, a protocol known as the Ponseti method, for an average of about $500.
 
 And yet, of the roughly 200,000 children born with clubfoot each year, most live in low- and middle-income countries where that care is hard to reach. The result is a vast, avoidable gap of a fixable condition that, left untreated, hardens into a lifelong disability.
 
-![At a clinic visit, a health worker cradles a baby’s feet while recording the assessment in CAST, MiracleFeet’s mobile app. Built to work offline, the app lets frontline providers document each stage of a child’s clubfoot treatment even where internet is unreliable or absent.  Photo courtesy of MiracleFeet.](https://static.wixstatic.com/media/e37254_b52aded879b9491c9c53e61554d24577~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_b52aded879b9491c9c53e61554d24577~mv2.jpg)
+*At a clinic visit, a health worker cradles a baby’s feet while recording the assessment in CAST, MiracleFeet’s mobile app. Built to work offline, the app lets frontline providers document each stage of a child’s clubfoot treatment even where internet is unreliable or absent.  Photo courtesy of MiracleFeet.*
 
 [MiracleFeet](https://www.miraclefeet.org/), the nonprofit working to close that gap, has spent the better part of a decade attacking it with an unlikely tool set: a stack of off-the-shelf software stitched together to run a real-time clinical operation across more than 500 clinics in nearly 40 countries. This World Clubfoot Day, that system quietly processes more than a quarter of a million patient visits a year, managed by a core team of roughly 50 people and, notably, without a dedicated in-house software developer.
 
@@ -27,7 +26,8 @@ For Daphne Sorensen, MiracleFeet’s chief executive, that last detail is a deli
 
 The architecture is straightforward by design. Frontline providers record each child’s treatment in CAST, a mobile app built on Dimagi’s CommCare platform that runs offline in clinics with little or no connectivity. That field data flows through an automated pipeline (built with the workflow-automation company OpenFn and the implementation firm Vera Solutions) into Salesforce, where MiracleFeet tracks treatment quality and outcomes in close to real time. No nightly exports, no manual re-keying.
 
-![A health worker logs visit details in CAST while a clinician examines a child’s foot. The app guides providers through a standardized, image-referenced scoring of each foot, turning a complex, multi-year treatment into structured data that syncs automatically to MiracleFeet’s central monitoring system.  Photo courtesy of MiracleFeet.](https://static.wixstatic.com/media/e37254_e488eb87a6f443f3b039399741e6fb02~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_e488eb87a6f443f3b039399741e6fb02~mv2.jpg)
+*A health worker logs visit details in CAST while a clinician examines a child’s foot. The app guides providers through a standardized, image-referenced scoring of each foot, turning a complex, multi-year treatment into structured data that syncs automatically to MiracleFeet’s central monitoring system.  Photo courtesy of MiracleFeet.*
 
 MiracleFeet could have commissioned a custom system to connect those pieces, but it chose not to.
 

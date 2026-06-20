@@ -27,4 +27,4 @@ Taiwan asserts the right to self-government but is claimed by China, making it a
 
 The congressional delegation's remarks at the Dialogue underscore the degree to which lawmakers — across party lines — view their institutional role as a counterweight to executive-branch ambiguity on the Taiwan question, reinforcing that congressional authorization of arms transfers reflects a durable policy commitment rather than a bargaining instrument.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

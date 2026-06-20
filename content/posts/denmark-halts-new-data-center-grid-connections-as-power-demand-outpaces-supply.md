@@ -35,4 +35,4 @@ Sebastian Schwartz Bøtcher, country sales director at Schneider Electric, descr
 
 How Denmark resolves the tension between grid constraints and its ambitions as a data center hub will likely be watched closely by other Nordic nations still weighing their own responses to surging energy demand.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

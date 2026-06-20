@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-President Donald Trump is once again challenging one of Wall Street’s longest-standing practices: the quarterly earnings report. In a Truth Social post Monday, Trump suggested that U.S. companies should no longer be required to report every three months, instead switching to a semiannual schedule.
-
 The move, he argued, would “save money, and allow managers to focus on properly running their companies,” while helping executives take a longer-term view. Trump cited China’s 50-to-100 year corporate planning horizon as a counterpoint to America’s quarterly-driven culture.
 
 ### Market Structure Implications
@@ -35,4 +33,4 @@ Hogan dismissed comparisons to Europe, noting the unique scale of U.S. markets: 
 
 For now, Trump’s proposal is just that—a proposal. But with the SEC in Republican control, what once seemed a perennial debate about disclosure standards could become a live policy fight.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

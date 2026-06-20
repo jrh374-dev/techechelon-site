@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-The House Oversight and Accountability Committee's Republican members initiated an inquiry on Wednesday into recent email data breaches at several federal agencies, including the State Department and the Department of Commerce.
-
 In letters addressed to Antony Blinken, Secretary of State, and Gina Raimondo, Secretary of Commerce, the GOP members of the Oversight Committee requested a briefing from each department within the following week. Their objective is to comprehend the scale and implications of the data breaches reportedly orchestrated by Chinese hackers.
 
 In their statement, the lawmakers cited recent reports of a purported cyber-espionage campaign by China, targeting data in sensitive computer networks. Allegedly, these breaches took place in over two dozen organizations, encompassing a few U.S. government agencies. They pointed out that Raimondo's own email was compromised in these attacks.

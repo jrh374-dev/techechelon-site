@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-In aiming for the Federal Reserve's 2% inflation target, the focus primarily falls on services and shelter costs. Although other sectors are showing signs of stabilization, these two remain stubborn. Recent inflation trends showed the most resistance in these areas, differing from the typical cyclical nature seen in food, gas, or cars.
-
 Steven Blitz, Chief U.S. Economist at GlobalData TS Lombard, suggests the possibility of needing a recession to regain control over escalating rents and medical services costs, implying that the 2% target might not be achievable without drastic measures. September's consumer price index (CPI) saw a drop to 3.7%, a figure that’s still higher than the Federal Reserve's ideal but a significant improvement from previous rates exceeding 9%.
 
 The details of the CPI report reveal mixed developments. For instance, while costs for used cars and medical services saw reductions, shelter costs surged by 7.2%. Additionally, the rent of primary residences increased by 7.4%, and the homeowners' equivalent rent, a critical element in the CPI metric, rose 7.1%. The Federal Reserve may struggle to achieve its inflation target if these trends persist.

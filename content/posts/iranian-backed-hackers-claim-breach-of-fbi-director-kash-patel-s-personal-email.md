@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2026-03-27T18:19:08.493Z"
 coverImage: "https://static.wixstatic.com/media/e37254_6167c376672e4751997b86fed3c69917~mv2.avif"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-A hacking group backed by the Iranian government has claimed it breached the personal Gmail account of FBI Director Kash Patel, publishing a cache of leaked files that investigators and journalists have begun verifying as authentic. The group, known as Handala, posted the alleged documents on its website alongside what appear to be genuine emails from Patel's personal account, some dating back to 2014 when he was serving at the Justice Department.
 
 The FBI confirmed the breach in a statement, acknowledging that "malicious actors" had targeted Patel's personal email and that the agency had "taken all necessary steps to mitigate potential risks." Officials were careful to note that the compromised information is "historical in nature and involves no government information." The Bureau also announced it is offering up to $10 million in rewards for information leading to the identification of Handala's operators.
 

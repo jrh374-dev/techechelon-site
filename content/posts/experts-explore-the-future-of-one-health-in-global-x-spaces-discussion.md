@@ -11,8 +11,6 @@ readTime: 4
 migratedFromWix: true
 ---
 
-In a dynamic and thought-provoking episode of “Apinions” hosted live on X (formerly Twitter Spaces), Michael Dershem, better known as “Dersh,” founder and CEO of Apierion, brought together global experts in veterinary science and biosecurity for a compelling conversation on the evolving role of animal health in shaping the future of human medicine.
-
 This [episode](https://www.youtube.com/watch?v=i6dsRnPAQxU) of Apinions, titled “Lions, Tigers, and Vets—Oh My! One Health and Data in Action,” explored the intersection of veterinary medicine, human healthcare, and emerging technologies like AI, blockchain and predictive analytics, in what’s known as the “One Health” movement. At the core of One Health is the idea that the health of people, animals, and their environments is inextricably linked.
 
 ###### A Global Lens on One Health

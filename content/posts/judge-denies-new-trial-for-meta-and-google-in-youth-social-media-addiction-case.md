@@ -31,4 +31,4 @@ The ruling adds to a growing body of litigation against major social media platf
 
 With both Meta and Google committing to appeals, the case is now expected to move into a higher court, where the scope of Section 230 protections — and their application to product design rather than content moderation — will likely face renewed scrutiny. The outcome could have broad implications for how platform liability is defined across the industry.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

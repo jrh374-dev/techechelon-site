@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-07-23T18:04:11.931Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e94cfd055e214c4dbdacaf58edf40492~mv2.webp"
-readTime: 3
+readTime: 2
 migratedFromWix: true
 ---
-
-The Trump administration on Wednesday released a 28-page “AI Action Plan” outlining more than 90 policy steps it wants federal agencies to execute in the near term to secure what it calls U.S. leadership in a global artificial intelligence race. The framework leans hard into accelerating domestic innovation, rapidly scaling data center and energy infrastructure, and promoting widespread adoption of American AI systems abroad.
 
 David Sacks, the White House’s AI and crypto lead, framed the moment as a high-stakes competition with national security implications, saying the administration’s goal is to ensure the United States “wins” in AI. The plan’s opening thrust is deregulatory: federal agencies are to inventory and roll back rules judged to “injure” AI development across sectors including finance, agriculture, health care, and transportation.
 

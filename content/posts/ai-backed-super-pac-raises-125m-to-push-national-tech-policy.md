@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2026-01-30T15:11:05.276Z"
 coverImage: "https://static.wixstatic.com/media/e37254_2249179168454d7195f2f9d83dcd23dc~mv2.avif"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-A super PAC backed by prominent figures and firms in the artificial intelligence industry raised $125 million in 2025, positioning itself as a major force in shaping U.S. technology policy ahead of the 2026 election cycle.
 
 The group, Leading the Future, said it ended the year with $70 million in cash on hand, according to an announcement released ahead of its first formal campaign finance filing. The PAC was formed last summer and is focused on backing candidates who favor federal AI regulations, rather than a fragmented, state-by-state approach.
 

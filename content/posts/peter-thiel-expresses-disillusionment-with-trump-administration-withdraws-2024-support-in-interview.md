@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-In a recent interview with The Atlantic, tech billionaire and PayPal co-founder Peter Thiel expressed his disillusionment with the Trump administration, describing it as "crazier" and "more dangerous" than he had anticipated.
-
 Thiel, who has been a prominent supporter and donor to Trump, stated that he will not be contributing financially to Trump or any other candidate in the upcoming 2024 presidential campaign.
 
 Thiel reflected on his support for Trump as a desperate plea for change, hoping that Trump's election would prompt a critical reevaluation and rebuilding of the nation.

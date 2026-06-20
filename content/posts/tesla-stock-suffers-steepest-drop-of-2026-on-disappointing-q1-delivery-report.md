@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Tesla shares slid more than 5% on Thursday — their worst single-day decline of the year — after the company's first-quarter delivery and production report came in below analyst expectations, adding another chapter to what has been a prolonged period of underperformance for the electric vehicle maker.
-
 Tesla delivered 358,023 vehicles in Q1 2026, falling short of the analyst consensus estimate of 370,000 deliveries and the company's own internal estimate of 365,645. Production for the quarter came in at 408,386 vehicles. 
 
 While deliveries improved 6% compared to the same period a year ago — when the company reported 336,681 deliveries — the miss against forecasts reignited concerns about demand softness and the company's near-term trajectory. Tesla's stock is now down 20% for the year through Thursday's close.
@@ -31,4 +29,4 @@ The broader backdrop for Tesla remains challenging. The company has recorded ann
 
 Tesla's automotive gross margins and supply chain dynamics will be closely scrutinized when the company reports full Q1 earnings on April 22. One notable countertrend: sales of used electric vehicles have increased since the U.S.-Iran war began in late February, as elevated oil prices have pushed some consumers toward electrification — though whether that tailwind is sufficient to move the needle on Tesla's top line remains to be seen.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

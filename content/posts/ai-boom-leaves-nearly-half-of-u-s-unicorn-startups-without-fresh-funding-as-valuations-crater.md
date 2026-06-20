@@ -39,4 +39,4 @@ The SaaS model — which embeds software into employee workflows and typically c
 
 With venture capital increasingly concentrated around AI-native firms, the window for older startups to raise bridge rounds or find acquirers at their peak valuations continues to narrow, signaling a prolonged restructuring of the private tech market that is unlikely to resolve quickly.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

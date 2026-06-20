@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-The concerns that unchecked artificial intelligence (AI) could potentially jeopardize humanity are not new, and have been voiced by tech experts, Silicon Valley tycoons, and common citizens alike. Recent research by the Center for AI Safety (CAIS) has now elaborated on what the "catastrophic" risks from AI are.
-
 In a paper entitled "An Overview of Catastrophic AI Risks", researchers from CAIS noted that we currently live in a world that would be unrecognizable to people from a few centuries or even decades ago. They pointed out the rapid pace of development that has brought us from the birth of Homo sapiens to the dawn of the AI revolution.
 
 CAIS, a tech nonprofit, aims to mitigate "societal-scale risks associated with AI" by conducting safety research, expanding the community of AI safety researchers, and advocating for safety standards. It also recognizes the potential benefits that AI can offer.

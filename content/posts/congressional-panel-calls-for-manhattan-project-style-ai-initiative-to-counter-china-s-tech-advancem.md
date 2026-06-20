@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-11-19T22:16:49.756Z"
 coverImage: "https://static.wixstatic.com/media/e37254_b67ea0692b4d4af48d21f2aba507352c~mv2.jpg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-A congressional commission has proposed a "Manhattan Project-style" initiative to fund the development of artificial intelligence (AI), aiming to bolster the United States' technological lead over China.
 
 The recommendation was part of a report released on Tuesday by the bipartisan U.S.-China Economic and Security Review Commission (USCC), which called on Congress to grant extensive multiyear contracting authority to support AI, cloud computing, and data center innovations.
 

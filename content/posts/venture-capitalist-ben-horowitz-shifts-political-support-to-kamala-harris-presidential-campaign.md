@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Venture capitalist Ben Horowitz, co-founder of Andreessen Horowitz, announced his intention to donate to Vice President Kamala Harris’ 2024 presidential campaign, according to an internal email sent to employees at the firm.
-
 Horowitz, alongside his business partner Marc Andreessen, had previously declared their financial support for a pro-Trump super PAC in July. However, this was before Harris replaced Joe Biden as the Democratic nominee for president.
 
 In the email, Horowitz explained his decision, citing a long-standing personal relationship with Harris. “Felicia and I have known Vice President Harris for over 10 years, and she has been a great friend to both of us during that time,” Horowitz wrote, referring to his wife. The email was first reported by Axios.

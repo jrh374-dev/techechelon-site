@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Utah Governor Spencer Cox rolled out a new initiative on Friday, focusing on the potential drawbacks of excessive social media use in children, according to an announcement from his office.
-
 The campaign points out the extensive usage of the internet and social media by children, emphasizing its potential adverse effects on their psychological well-being.
 
 “We've observed escalating levels of depression, anxiety, loneliness, and suicidal tendencies recently,” stated Gov. Cox. He further emphasized, “The detrimental effects of social media on children's mental, physical health, brain functions, and self-worth are evident. We urge parents to be informed about these risks to better guide their kids. We advocate for minimized screen time and increased real-world interactions. It's about disconnecting to truly reconnect.”

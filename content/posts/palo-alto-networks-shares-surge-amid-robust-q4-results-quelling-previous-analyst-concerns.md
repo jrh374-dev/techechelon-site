@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Shares of Palo Alto Networks surged over 14% on Monday morning, extending gains from last week after the cybersecurity firm unveiled robust fiscal fourth-quarter results.
-
 Palo Alto announced an adjusted earnings per share of $1.44, outperforming Refinitiv analysts' projection of $1.28. Despite narrowly missing the revenue consensus estimate by $10 million — reporting $1.95 billion as opposed to the anticipated $1.96 billion for the quarter ending July 31 — the firm highlighted a 26% year-over-year revenue uptick.
 
 Speculation had mounted among analysts regarding a potentially disappointing earnings report from Palo Alto, given its decision to reveal earnings post-market on Friday. This time slot has often been associated with subpar results in the past, leading the company's stock to dip to $208.02 post-announcement of its earnings release schedule.

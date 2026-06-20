@@ -11,9 +11,7 @@ readTime: 3
 migratedFromWix: true
 ---
 
-Serial entrepreneur Erica Anenberg has always had a passion for turning ideas into reality. Over the years, she’s applied her talents to renovating properties and office spaces while working with other builders. When the pandemic hit, she transitioned into construction full-time, founding two innovative companies: Girl Flip and BuilderBud. Both businesses reflect her vision to bring inclusivity and streamlined communication to the traditionally complex and male-dominated construction industry.
-
-![](https://static.wixstatic.com/media/e37254_f131756d0dc64eb98ed65ae1b8705117~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_f131756d0dc64eb98ed65ae1b8705117~mv2.jpg)
 
 #### Girl Flip: Bringing Inclusion to Home Renovation
 

@@ -39,4 +39,4 @@ Zillow's AI mode is currently oriented toward buyers; Stevens said a seller-faci
 
 The concerns raised by Lane and Serhant reflect a broader tension taking shape across industries where AI is being applied to high-stakes, data-rich decisions — one in which the tools are capable enough to generate convincing outputs yet not calibrated to the judgment, local knowledge, or emotional complexity that human professionals bring to individual transactions.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

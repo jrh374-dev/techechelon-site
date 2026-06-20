@@ -39,4 +39,4 @@ According to market data provider VandaTrack, retail investors have been rotatin
 
 Whether the company can sustain its valuation will depend heavily on the pace of Starlink's subscriber growth, the trajectory of its xAI integration, and how investors ultimately weigh Musk's long-horizon ambitions against near-term financial disclosures now that quarterly reporting is mandatory.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -33,4 +33,4 @@ The convergence of the FISA stalemate and the Mythos access concerns illustrates
 
 Whether the China-access report accelerates legislative action on AI export controls — or remains disputed by the parties involved — is likely to define the next phase of the Mythos controversy.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

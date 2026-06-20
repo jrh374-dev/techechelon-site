@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-AMD introduced a new artificial intelligence chip on Thursday, targeting Nvidia’s dominance in the data center graphics processor market. The Instinct MI325X is set to begin production by the end of 2024, marking AMD's move to compete directly with Nvidia's forthcoming Blackwell chips, which are expected to ship in large volumes early next year.
-
 If AMD’s AI chips are recognized by developers and cloud providers as viable alternatives to Nvidia's, this could lead to pricing pressure on Nvidia, which has maintained high margins due to the demand for its GPUs.
 
 Generative AI technologies, like OpenAI’s ChatGPT, require extensive data center infrastructure packed with GPUs to handle the necessary processing, fueling demand for more AI chip options. Nvidia currently dominates the data center GPU market, but AMD, traditionally second, is working to capture a more significant share of the market, which it estimates will reach $500 billion by 2028.
@@ -37,4 +35,4 @@ Although AMD holds about 34% of the market for data center CPUs, Intel continues
 
 These new CPUs are designed to work efficiently with AI workloads, providing the data throughput necessary for GPUs to operate effectively. “Today’s AI is really about CPU capability, especially in data analytics,” said Su.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

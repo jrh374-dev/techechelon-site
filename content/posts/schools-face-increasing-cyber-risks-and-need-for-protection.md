@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-The educational sphere, encompassing students, educators, parents, and staff, is facing not only physical safety threats but also increasing digital dangers. Charlie Reisinger, the chief information officer at Penn Manor School District in Pennsylvania and a professor at Millersville University, highlighted the constant cyber threats faced by schools. 
-
 In 2022, nearly 2,000 schools across 45 U.S. districts were targeted by cyber attacks, almost doubling the number from the previous year, as reported by Emsisoft.
 
 Schools struggle with insufficient funding to combat these cyber threats, according to Josh Heller of Digi International. The Penn Manor School District, with its 5,500 students, is a typical example, generating millions of data points vulnerable to cybercriminals. 

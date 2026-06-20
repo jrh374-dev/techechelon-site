@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-07-12T22:43:53.073Z"
 coverImage: "https://static.wixstatic.com/media/e37254_ce4713bcbddb4f9c85d901dacc93cc18~mv2.jpeg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Vice President Harris convened a meeting on Wednesday with advocates from civil rights and consumer protection organizations to discuss the potential hazards associated with artificial intelligence (AI) technology. "The issue is complex and multifaceted, and with the speed at which this technology is advancing, it's crucial that we understand the implications," Harris expressed before the meeting.
 
 She further stressed the necessity to approach the issue urgently and collaboratively involving a spectrum of sectors including private, public, nonprofits, and government. "Our goal is to act in the best interest of the health, safety, and overall well-being of our citizens," she added.
 

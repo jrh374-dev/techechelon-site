@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-In an opinion piece published by CNBC, Scott Gottlieb, the former Commissioner of the Food and Drug Administration (FDA), opined that artificial intelligence (AI) is poised to assume responsibilities previously managed by doctors, and this transition could occur earlier than anticipated.
-
 Gottlieb emphasized that the not-so-distant future of medicine might witness AI systems performing duties typically carried out by medical practitioners. He divided AI applications in healthcare into two sections: machine learning, which employs algorithms for identifying data patterns and making predictions, and natural language processing, which comprehends and generates human language.
 
 In certain instances, according to Gottlieb, robust language models are employed to examine patient medical records and suggest diagnoses and treatments directly to the patient, bypassing the need for a doctor.

@@ -37,4 +37,4 @@ Paxton is currently in the final stretch of a U.S. Senate primary runoff against
 
 With three major jury verdicts or settlements now on the books and more than 1,200 school district cases still pending, the legal landscape surrounding Meta's platform design practices is likely to grow more costly and complex through the remainder of the year.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

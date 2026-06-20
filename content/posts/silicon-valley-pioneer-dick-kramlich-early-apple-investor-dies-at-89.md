@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Dick Kramlich, a pioneering figure in Silicon Valley's venture capital scene and an early investor in Apple, passed away at the age of 89 on Saturday night.
-
 Kramlich co-founded New Enterprise Associates (NEA) in 1977, making astute early investments in tech companies that would go on to become giants in computer networking.
 
 Christina Kramlich, his daughter, expressed the family's loss to CNBC, describing her father as "our warm, curious, ever-optimistic family leader."

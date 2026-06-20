@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-A new study reveals that some of the world’s most widely used artificial intelligence (AI) chatbots are spreading Russian disinformation, highlighting growing concerns over AI’s vulnerability to manipulation.
-
 According to research by NewsGuard, a news monitoring service, a Moscow-based disinformation network known as Pravda—which translates to “truth” in Russian—has been injecting false narratives into online spaces. These misleading stories, in turn, influence AI chatbots by shaping the information they generate for users.
 
 “By flooding search results and web crawlers with pro-Kremlin falsehoods, the network is distorting how large language models process and present news and information,” NewsGuard reported. The study found that Western AI systems have incorporated over 3.6 million Pravda-published articles in 2024 alone, embedding disinformation into chatbot-generated responses.

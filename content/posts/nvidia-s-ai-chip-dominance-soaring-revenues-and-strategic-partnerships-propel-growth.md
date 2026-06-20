@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-05-21T16:10:01.870Z"
 coverImage: "https://static.wixstatic.com/media/e37254_12adbca8fc8144da91a86c085b230e80~mv2.jpeg"
-readTime: 4
+readTime: 3
 migratedFromWix: true
 ---
-
-At the start of last week, OpenAI’s technology chief personally thanked Nvidia CEO Jensen Huang for providing the advanced chips necessary for a demo in a presentation on OpenAI's latest artificial intelligence models.
 
 A day later, at Google’s annual developer conference, Alphabet CEO Sundar Pichai emphasized his company’s long-standing partnership with Nvidia and noted that Google Cloud will utilize the chipmaker’s Blackwell graphics processing units (GPUs) in early 2025.
 
@@ -45,4 +43,4 @@ A key question for Nvidia is how well the transition to its next generation of A
 
 "To some degree, the setup has shifted," wrote Morgan Stanley analyst Joseph Moore on Monday. "Six months ago, short term expectations were very strong but there was anxiety about durability. Now, fresh on the back of hyperscalers talking up longer-term spending expectations for AI, those longer-term views are more positive, but there is anxiety about a pause in front of Blackwell."
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-According to a recent report by the watchdog organization, Accountable.US, significant S&P 500 consumer goods corporations have been escalating their prices in an attempt to augment their profit margins. This occurs in spite of the Federal Reserve's efforts to curb inflation through increased interest rates.
-
 Despite earning billions in additional net income and allocating over a trillion dollars to affluent investors, large food industry corporations within the S&P have continued to increase consumer prices, revealed Liz Zelnick, the director of economic security and corporate power at [Accountable.US.](Accountable.US.) 
 
 The report, released the previous week, highlighted that companies like General Mills Inc., Tyson Foods Inc., and PepsiCo Inc., have conceded to profiting from these higher prices. These observations reinforce the notion that corporate avarice may contribute to inflation, a phenomenon some refer to as “greedflation.”

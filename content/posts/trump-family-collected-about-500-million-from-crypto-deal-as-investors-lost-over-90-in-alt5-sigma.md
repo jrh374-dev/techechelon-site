@@ -35,4 +35,4 @@ Hong Kong-based Soul Ventures Holdings disclosed an $85 million stake in the Aug
 
 The Alt5 Sigma episode has emerged as a cautionary episode for investors who viewed a Trump-affiliated deal as a natural beneficiary of the current political environment. With AI Financial now trading at penny-stock levels and its future in question, scrutiny of the transaction's structure — and the disclosure obligations surrounding it — is unlikely to ease.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

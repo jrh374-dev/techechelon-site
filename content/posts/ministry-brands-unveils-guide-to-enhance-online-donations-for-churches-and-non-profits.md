@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-As non-profit organizations grapple with the challenge of converting online interest into donations, purpose-driven tech company Ministry Brands is stepping in with a timely solution. 
-
 Their latest release, "Seven Steps to Improve Online Donations," is a meticulously crafted guide aimed at transforming how churches and non-profit entities approach online giving.
 
 This new report emerges as a beacon of hope, especially in light of the M+R Benchmarks for 2023, which alarmingly indicates that a mere 19% of visitors to donation pages actually complete their giving process.

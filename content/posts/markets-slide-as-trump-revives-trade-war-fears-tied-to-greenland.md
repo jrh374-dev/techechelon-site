@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Global markets sold off sharply Tuesday after Donald Trump reignited fears of a widening trade war, tying new tariff threats to U.S. efforts to secure control of Greenland. The escalation sparked a broad “sell America” move, pressuring U.S. stocks and bonds while pushing safe-haven assets to record highs.
-
 U.S. equities suffered their worst session since October. The S&P 500 fell about 2.1%, the Nasdaq Composite dropped more than 2.4%, and the Dow Jones Industrial Average slid roughly 870 points. The S&P 500’s decline erased its gains for the year, while the Nasdaq moved more than 1% lower for 2026.
 
 The selloff wiped out an estimated $1.2 trillion in S&P 500 market value as investors reacted to Trump’s warning that seven European Union countries and the United Kingdom could face new tariffs unless they support U.S. control of Greenland, a semi-autonomous Danish territory. Asked how far he would go to secure the territory, Trump replied, “You’ll find out.”
@@ -31,4 +29,4 @@ U.S. officials sought to calm markets. Treasury Secretary Scott Bessent urged r
 
 As investors weigh geopolitical risk against earnings and policy uncertainty, markets appear set for elevated volatility—particularly if tariff rhetoric hardens or retaliatory measures materialize.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -29,4 +29,4 @@ The proposal comes as several states have moved aggressively to regulate AI syst
 
 How the draft is received by industry groups, civil society organizations, and state governments in the coming weeks is likely to shape whether the framework advances to formal legislation.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

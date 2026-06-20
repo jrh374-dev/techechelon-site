@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Despite high stock valuations and extravagant compensations at leading companies, the Bay Area's dominant sector is showing worrying signs. Amid the cash surge during the pandemic, venture capital firms that feed Silicon Valley's tech startups have become more frugal, leaving a multitude of pre-profit startups struggling with scarce resources and dwindling funds.
-
 In 2021, the tech sector saw rapid and sometimes unstable growth. Meta and Alphabet expanded their workforce massively as their primary revenue source, digital ad expenditure, skyrocketed. Venture capital-funded firms nearly doubled the previous investment funding record, amassing $330 billion from over 17,000 deals, as reported by PitchBook.
 
 Nevertheless, firms seldom receive the entire funding at once. The standard process involves raising gradually larger amounts at increasingly higher valuations until an "exit" event like an initial public offering or a company sale occurs. These used to be frequent, with companies like Bumble, Roblox, Coinbase, Robinhood, Squarespace, and Rivian going public in 2021, alongside many other tech giants. Today, firms like Reddit and Instacart are holding back their public offerings in an unpredictable market despite filing initial paperwork.

@@ -41,4 +41,4 @@ Bruemmer added that limiting social media exposure — particularly long recordi
 
 For Sampson, the episode produced lasting behavioral changes. She became more cautious at home, updated her phone settings, and remains wary of calls even from familiar numbers. "I don't ever want to hear that ringtone again," she said.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

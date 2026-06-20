@@ -31,4 +31,4 @@ SolarSquare declined to comment. B Capital, Lightspeed Venture Partners, and Ele
 
 With the Series C expected to close in June, the round would give SolarSquare additional capital to pursue its residential growth targets at a moment when both policy tailwinds and investor appetite in India's clean energy space continue to build.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

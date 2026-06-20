@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Microsoft announced on Thursday that it will no longer ship Recall, an artificial intelligence tool that tracks user activity, with the release of the Copilot+ PC next week. This decision comes in response to concerns about privacy and security.
-
 In a blog post, the company stated that Recall will transition from being a widely available tool to a preview feature accessible only through the Windows Insiders Program (WIP) when the new computer is launched on June 18. Microsoft aims to gather feedback through WIP before making the AI feature available on all Copilot+ PCs.
 
 "This decision is rooted in our commitment to providing a trusted, secure, and robust experience for all customers," wrote Pavan Davuluri, Windows Corporate Vice President.

@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-A top cybersecurity firm, CyberCX, has indicated that in light of the Israel-Hamas war, Australian organizations might be under the cyber threat radar of ideologically-driven actors.
-
 CyberCX's recent report from 10 October reveals that following Israel's official war declaration on 8 October, they've tracked a change in online narratives of over 30 groups. These groups have affiliations with countries like Russia, Ukraine, India, Pakistan, and Bangladesh. Notably, many entities that had been focusing on the Russian-Ukraine conflict have recently shifted their attention to the Israel-Hamas situation.
 
 According to CyberCX, there's a high possibility that groups which support Russia and have previously targeted the Australia-New Zealand (AUNZ) region will exploit the ongoing Middle East conflict and associated political reactions, like on-ground protests in Australia, to intensify their cyber activities.

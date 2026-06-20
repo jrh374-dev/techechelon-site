@@ -33,4 +33,4 @@ One significant question looms over the blue-collar boom: sustainability. Analys
 
 For now, the labor market divergence reinforces a broader recalibration — one in which the traditional equation of college degree to career stability is being stress-tested by a technology transition that is moving faster than workforce development pipelines can reliably answer.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

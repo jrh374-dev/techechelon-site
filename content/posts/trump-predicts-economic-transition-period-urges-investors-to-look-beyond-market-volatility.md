@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-President Donald Trump and his administration are preparing Americans for potential short-term economic turbulence, emphasizing that any slowdown is part of a broader strategy to strengthen the nation’s economy.
-
 Amid growing concerns over tariffs, a cooling labor market, and signs of slowing growth, Trump reassured the public that these disruptions are temporary and necessary for long-term prosperity.
 
 “There is a period of transition, because what we’re doing is very big,” Trump said in an interview on _Fox News’ Sunday Morning Futures_. “We’re bringing wealth back to America. … It takes a little time, but I think it should be great for us.”
@@ -47,4 +45,4 @@ Still, the Trump administration remains firm in its stance that the short-term e
 
 “What we’re doing is we’re building a tremendous foundation,” Trump reiterated.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

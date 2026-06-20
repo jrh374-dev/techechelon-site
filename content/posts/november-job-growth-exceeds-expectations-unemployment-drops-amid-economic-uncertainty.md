@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-November's job growth surpassed expectations, with nonfarm payrolls increasing by 199,000, outpacing the Dow Jones estimate of 190,000. This marks an improvement over October's 150,000 gain, according to the Labor Department.
-
 Government hiring and returning workers from the auto and entertainment sectors contributed to this growth. The unemployment rate dropped to 3.7%, lower than the anticipated 3.9%, as more people joined the workforce, pushing the participation rate to 62.8%. Additionally, a broader measure of unemployment, including part-time and discouraged workers, fell to 7%.
 
 Economists like Daniel Zhao from Glassdoor note the job market's resilience despite recession concerns. The household survey, which calculates unemployment, showed an impressive addition of 747,000 jobs and 532,000 new labor force members. Average hourly earnings, important for tracking inflation, rose by 0.4% in November and 4% year-over-year, aligning with predictions.

@@ -35,4 +35,4 @@ The upgrade arrives ahead of the anticipated initial public offering of SpaceX, 
 
 Amazon's automation milestones and JPMorgan's reassessment of Tesla both reflect a broader recalibration underway across the technology sector — one in which physical AI systems, from warehouse robots to humanoid platforms, are attracting renewed institutional attention even as the human cost of that transition remains contested.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

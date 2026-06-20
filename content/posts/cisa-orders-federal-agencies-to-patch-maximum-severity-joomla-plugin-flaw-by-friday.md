@@ -33,4 +33,4 @@ CISA reiterated the systemic nature of the risk in its advisory, noting that "th
 
 Agencies that cannot apply mitigations are instructed to discontinue use of the affected product entirely, in line with BOD 26-04 guidance for cloud services. The Friday deadline leaves federal IT teams a narrow window to audit their Joomla deployments, apply the update, and verify that no prior compromise has left residual access for attackers.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

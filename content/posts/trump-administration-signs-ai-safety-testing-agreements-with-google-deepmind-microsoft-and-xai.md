@@ -45,4 +45,4 @@ Microsoft's blog post indicated that CAISI, Microsoft, and the National Institut
 
 Whether Trump moves forward with a formal executive order mandating pre-release evaluations — and what standards that order would establish — will likely determine how much weight the new agreements ultimately carry.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Sam Altman, the CEO of OpenAI, made clear this week that he believes governments — not technology companies — should ultimately hold the upper hand in the emerging artificial intelligence era. 
-
 Speaking at the Morgan Stanley Technology, Media & Telecom Conference, Altman said that “government is supposed to be more powerful than private companies,” warning that it would be “bad for society” if technology firms began abandoning democratic institutions simply because they disagreed with political leadership.
 
 The comments came amid a rapidly escalating dispute between the U.S. Department of Defense and OpenAI rival Anthropic, which has clashed with defense officials over restrictions placed on how its AI models can be used. 
@@ -33,4 +31,4 @@ Altman’s remarks suggest that as the technology becomes more powerful, the com
 
 In an industry defined by rapid innovation and enormous capital flows, the relationship between AI developers and the state may ultimately shape how the technology evolves — and who controls it.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

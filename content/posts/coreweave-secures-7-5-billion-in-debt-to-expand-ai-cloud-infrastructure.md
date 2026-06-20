@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Fresh off a $1.1 billion equity funding round, artificial intelligence infrastructure startup CoreWeave has raised $7.5 billion in debt to more heavily invest in its cloud data centers.
-
 Blackstone’s funds led the lending round, with participation from Coatue, Carlyle, BlackRock and others. In its equity financing two weeks ago, CoreWeave was valued at $19 billion.
 
 Investors are flocking to CoreWeave because the 550-person company is one of the main providers of Nvidia’s chips for running AI models. Demand for the technology is soaring as businesses across virtually all sectors are racing to integrate AI chatbots into their products following the launch of OpenAI’s ChatGPT in late 2022.

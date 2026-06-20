@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Ransomware has matured into a complex industry, often circumventing Western governments and putting vulnerable businesses in peril, according to a recent assessment from the UK.
-
 A decade since the initiation of the Cryptolocker attack, lax online security has allowed the ransomware trade to flourish. Criminals have developed an ecosystem where they can exchange software vulnerabilities, initiate franchises for newcomers, and establish platforms for trading access to compromised enterprises.
 
 The joint report by the National Cyber Security Centre (a GCHQ division) and the National Crime Agency indicates an apparent reluctance by legal authorities in countries such as Russia, Belarus, and other former Soviet territories to curb these profitable illegal operations. Ransomware activities have also been identified in regions like south-east Asia, India, and west Africa.

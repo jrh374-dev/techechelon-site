@@ -37,4 +37,4 @@ The remarks come as OpenAI CEO Sam Altman reportedly acknowledged in a company l
 
 With three of the most closely watched private technology companies now at various stages of the IPO process, the coming months will test whether public market investors are prepared to absorb valuations built on AI's long-term promise — and how that appetite, in turn, shapes Perplexity's own path toward a 2028 debut.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

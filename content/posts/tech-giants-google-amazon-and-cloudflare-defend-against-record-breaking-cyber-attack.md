@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2023-10-12T21:59:20.640Z"
 coverImage: "https://static.wixstatic.com/media/e37254_58a750294a06460cbe41a46ed1e236b9~mv2.jpeg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-Leading internet giants, including Google, Amazon, and Cloudflare, recently withstood the largest ever recorded denial of service attack. They have raised concerns over a novel method that poses a significant threat to internet stability.
 
 Google, a subsidiary of Alphabet Inc (GOOGL.O), mentioned in a Tuesday blog post that its cloud services successfully fended off malicious traffic that exceeded the volume of the previous largest attack by more than seven times.
 

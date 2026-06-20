@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Tesla's stock plunged by over 7% on Thursday following unclear remarks from CEO Elon Musk and other top executives regarding the automaker's latest Cybertruck and a future robotaxi model. This tumble could mark the worst single-day performance for Tesla's stock in the last three months.
-
 Musk hinted at potential production hiccups in the third quarter, noting "we've got summer shutdowns" for several "factory upgrades." However, he affirmed the company's goal to hit 1.8 million vehicle deliveries for the year.
 
 The financial world showed unease over Tesla's shrinking profit margin, now at 9.6%, the lowest in the last five quarters. Mark Delaney of Goldman Sachs speculated that Tesla might face further margin pressure if the company reduces prices to boost sales volumes.

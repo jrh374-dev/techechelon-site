@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Google has announced the release of Gemini, its most advanced artificial intelligence model, amid growing interest in AI's commercial potential. Gemini consists of three variants: Gemini Ultra, the most powerful; Gemini Pro, versatile across many tasks; and Gemini Nano, tailored for specific tasks and mobile use.
-
 Gemini will initially be available through Google Cloud licensing, allowing customers to incorporate it into their applications. Starting December 13, developers and enterprises can access Gemini Pro via Google's AI interfaces. Gemini Nano will be available for Android developers. Additionally, Gemini will enhance Google products like Bard chatbot and Search Generative Experience, an experimental feature providing conversational search responses.
 
 Gemini Ultra excels in MMLU (massive multitask language understanding), surpassing human expertise in areas like math, physics, and ethics. Its nuanced understanding of complex topics is a key feature.

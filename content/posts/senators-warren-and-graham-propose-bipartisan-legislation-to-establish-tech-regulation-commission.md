@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Senators Elizabeth Warren, a Democrat from Massachusetts, and Lindsey Graham, a Republican from South Carolina, are joining forces to introduce a bill aimed at regulating major technology companies.
-
 This legislation, known as the Digital Consumer Protection Commission Act, was presented on Thursday, proposing the establishment of a new agency responsible for supervising tech powerhouses like Meta, Google, Amazon, and others.
 
 The proposed commission's role would involve fostering competition in the tech industry and safeguarding online consumer privacy. It is intended to function alongside existing antitrust bodies such as the Federal Trade Commission (FTC) and Department of Justice (DOJ), as outlined in the bill.

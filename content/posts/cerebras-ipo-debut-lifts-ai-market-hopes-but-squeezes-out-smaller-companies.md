@@ -37,4 +37,4 @@ As part of that arrangement, Cerebras agreed not to sell its products to certain
 
 For companies that lack a comparable AI narrative, the current environment offers little reassurance. Rick Heitzmann, a partner at venture firm FirstMark, said companies are watching each other for signs that the market will absorb new offerings. "It's going to encourage people to say, 'Hey, jump in, the water's warm,'" he said — though that signal may take months to arrive, and may depend heavily on how the SpaceX filing is received.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-On Wednesday, Carvana revealed that it has finalized a debt restructuring deal that will decrease its total outstanding debt by over $1.2 billion.
-
 This agreement, the company stated, will wipe out above 83% of its unsecured note maturities set for 2025 and 2027, reducing its annual cash interest expense by over $430 million for the upcoming two years.
 
 In addition, Carvana announced in a public filing on Wednesday that it plans to sell up to $1 billion in shares to boost capital and restructure its operations.

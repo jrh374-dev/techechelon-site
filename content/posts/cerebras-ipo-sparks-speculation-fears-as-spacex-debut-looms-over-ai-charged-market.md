@@ -37,4 +37,4 @@ Cerebras' debut is also seen as opening a path for other ASIC-focused startups. 
 
 With Nvidia's earnings set to report next week into a market near record highs, and a raft of major retailers including Walmart and Target also reporting, investors face a week that will test how much of the AI rally can hold against mounting macroeconomic headwinds.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

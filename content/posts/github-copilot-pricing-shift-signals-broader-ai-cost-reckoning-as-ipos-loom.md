@@ -35,4 +35,4 @@ The Uber comparison is instructive but imperfect. Anthony Ha, also speaking on t
 
 With Anthropic's IPO filing now in motion and other AI companies expected to follow, the coming months will test whether investors are willing to absorb the uncertainty — or whether rising consumer prices and usage caps will become standard features of an industry still searching for a durable business model.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

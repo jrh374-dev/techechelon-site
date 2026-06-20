@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-11-03T16:04:13.295Z"
 coverImage: "https://static.wixstatic.com/media/e37254_d2bd4cfc733340afaa2a22b51dd80ab8~mv2.png"
-readTime: 3
+readTime: 2
 migratedFromWix: true
 ---
-
-OpenAI has signed a massive $38 billion deal with Amazon Web Services, marking its first-ever partnership with the cloud leader and one of its most significant moves away from Microsoft. The agreement gives OpenAI access to hundreds of thousands of Nvidia GPUs hosted in AWS data centers across the U.S., with capacity expansions planned through 2026 and beyond.
 
 Shares of Amazon jumped roughly 5% Monday after the announcement, underscoring the significance of the partnership for both companies. The deal immediately allows OpenAI to run workloads on AWS infrastructure while Amazon builds additional dedicated capacity for the ChatGPT maker. “It’s completely separate capacity that we’re putting down,” said Dave Brown, vice president of compute and machine learning services at AWS. “Some of that capacity is already available, and OpenAI is making use of that.”
 
@@ -29,4 +27,4 @@ Industry analysts say the agreement represents a turning point in the cloud wars
 
 As Altman put it in his announcement, “This partnership is about ensuring we have the capacity to keep advancing safely and reliably — not just this year, but for many years to come.”
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

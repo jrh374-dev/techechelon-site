@@ -11,11 +11,9 @@ readTime: 10
 migratedFromWix: true
 ---
 
-Ivan Wicksteed is a pioneer in creating technology-driven solutions for elderly care, blending personal experiences with cutting-edge innovations. As the driving force behind Eve, a virtual companion designed to alleviate loneliness and isolation among seniors, Ivan has drawn upon his background in product design and development to craft a unique offering that stands apart from traditional virtual assistants.
-
 His journey into this space was profoundly influenced by personal tragedy, leading him to address a widespread societal issue with empathy and technological prowess. Ivan's expertise in understanding user needs, combined with a keen sense of technological advancement, has allowed him to develop Eve into a trusted companion for the elderly, ensuring their voices are heard and their well-being prioritized.
 
-![](https://static.wixstatic.com/media/e37254_32a1e6e406304becbeca23ff9ee2ff7f~mv2.jpeg)
+![Photo](https://static.wixstatic.com/media/e37254_32a1e6e406304becbeca23ff9ee2ff7f~mv2.jpeg)
 
 In an exclusive Q&A, Ivan delves into the inspiration behind Eve, the challenges faced during its development, and the unique features that make it an ideal companion for seniors. He also discusses the impact Eve has on users' mental and physical health, its role in supporting caregivers, and future plans for the platform. Join us as we explore the journey and vision behind Eve, and how it aims to transform the lives of the elderly through compassionate technology.
 

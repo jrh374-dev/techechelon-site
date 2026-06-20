@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Airbus Ventures, a leading investor in space startups, has raised a $155 million fund aimed at advancing the rapidly growing space sector and broader deep tech initiatives. Thomas d’Halluin, managing partner of Airbus Ventures, shared with CNBC that this latest fund, called "Fund-Y," is intended to "unlock new possibilities," with space being one key focus.
-
 The new fund comes as venture capital investment in space is recovering after two challenging years. Airbus Ventures plans to channel its new capital into early-stage deep tech startups that push the boundaries of scientific and engineering innovation. D’Halluin describes deep tech as technology that revisits "the laws of physics" and embraces difficult challenges, setting these companies apart from more conventional ventures.
 
 Founded in 2016, Airbus Ventures operates independently from its namesake corporation, Airbus. The firm’s new fund draws more than half of its capital from external sources, including institutional investors, private equity firms, and family offices. This approach distinguishes Airbus Ventures from many corporate-backed venture capital firms.
@@ -23,4 +21,4 @@ D’Halluin emphasized that investing in space requires patience, explaining tha
 
 Airbus Ventures aims to deploy Fund-Y globally, with d’Halluin pointing to strong momentum in space startups in Europe and Japan, in addition to its traditional focus on U.S. companies.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

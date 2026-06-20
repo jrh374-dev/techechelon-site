@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-CDK Global, a leading provider of automotive dealership software in the U.S., has experienced a cyberattack that led to the shutdown of most of its systems, disrupting sales at about 15,000 car dealerships.
-
 Notable clients impacted include General Motors dealerships, Group 1 Automotive, and Holman, which operates across eight states.
 
 A spokesperson from CDK said, "We are currently addressing a cyber incident. To ensure the safety of our customers, we've temporarily disabled most of our systems and are striving to restore them as swiftly as possible."

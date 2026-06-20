@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Stocks surged on Thursday, with the Dow Jones Industrial Average marking a seventh consecutive day of gains, buoyed by fresh jobless claims data that fueled optimism for potential Federal Reserve rate cuts this year.
-
 The Dow advanced 331.37 points or 0.85%, closing at 39,387.76, its longest rally since December's nine-day stretch. The S&P 500 rose by 0.51% to end at 5,214.08, while the Nasdaq Composite increased by 0.27% to finish at 16,346.26.
 
 Leading the gains in the Dow were Home Depot and Caterpillar, both climbing over 2%.
@@ -29,4 +27,4 @@ In related news, UBS predicted a downturn in U.S. inflation, projecting that the
 
 Meanwhile, Barclays highlighted a continued slump in the U.S. electric vehicle (EV) market, dubbing it an "EV winter." The firm adjusted its volume estimates for General Motors downward, despite the auto manufacturer's strong stock performance this year, suggesting possible future reductions in production forecasts.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

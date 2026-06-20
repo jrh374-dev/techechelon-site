@@ -11,9 +11,7 @@ readTime: 2
 migratedFromWix: true
 ---
 
-_In a decisive move to fortify national cybersecurity infrastructure, Option3 is combining technologies and expertise to focus on Zero Trust solutions to meet pressing security needs amid evolving cyberspace threats._
-
-![](https://static.wixstatic.com/media/e37254_441272e2809a43b2a2b3ace13d1cb35e~mv2.png)
+![Photo](https://static.wixstatic.com/media/e37254_441272e2809a43b2a2b3ace13d1cb35e~mv2.png)
 
 Cybersecurity private equity firm Option3 is unveiling a Zero Trust cybersecurity platform that is tailored primarily for the federal, national security, and critical infrastructure sectors. This new venture arises as a direct response to the Biden Administration’s 2021 Executive Order that mandates a paradigm shift in the federal government’s cybersecurity framework to a Zero Trust model.
 
@@ -37,4 +35,4 @@ Thakur and Donnan say the platform represents a crucial stride towards reinforci
 
 Advised by a technology board involving former CIOs from the CIA, DoD, and senior cyber executives from the private sector, the firm is poised to service a wide range of government customers ahead of the government’s shift toward Zero Trust.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

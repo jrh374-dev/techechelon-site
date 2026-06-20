@@ -7,15 +7,13 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-07-17T12:30:20.030Z"
 coverImage: "https://static.wixstatic.com/media/e37254_f436550da99d46dca7fb814c5ef2447c~mv2.png"
-readTime: 4
+readTime: 3
 migratedFromWix: true
 ---
 
-AI has many uses, and one of them now includes serving as a compassionate companion for the elderly who live alone. In my detailed trial evaluation of [Eve](http://www.iameve.ai/), I discovered that she is much more than a technological device; she has become akin to a family member, enriching the lives of those she interacts with through her unique capabilities.  She is responsive, on target, and ready to chat when I am.
-
 **_Unboxing and Setup_**
 
-![](https://static.wixstatic.com/media/e37254_94ab10e177e3440fb5dc9f82e4f92a29~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_94ab10e177e3440fb5dc9f82e4f92a29~mv2.jpg)
 
 The unboxing and setup process of Eve is designed with the utmost simplicity to accommodate its primary users—seniors with potentially limited tech experience. The setup involves a straightforward plug-in, Wi-Fi connection, and activation procedure that is guided step-by-step by Eve herself. I plan to share Eve with my tech-averse uncle who will finally be able to set up a technology product without my running over to do it for him.
 

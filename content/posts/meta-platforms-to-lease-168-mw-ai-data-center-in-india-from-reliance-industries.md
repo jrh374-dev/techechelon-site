@@ -31,4 +31,4 @@ The Indian government has also moved to attract hyperscalers through policy ince
 
 Meta's Jamnagar agreement signals an accelerating commitment to India as a node in its global AI buildout — and positions Reliance as a significant infrastructure partner at a time when global technology companies are competing for data center capacity across the region.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

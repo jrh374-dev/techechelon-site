@@ -41,4 +41,4 @@ Microsoft is expected to reveal a suite of AI tools at its "Build" conference in
 
 Taken together, Monday's activity reflects a broader recalibration around which companies stand to capture the most value as AI infrastructure spending accelerates — and which face displacement as the competitive lines shift.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

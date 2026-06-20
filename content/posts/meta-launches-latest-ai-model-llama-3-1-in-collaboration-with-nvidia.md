@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Meta has unveiled Llama 3.1, the latest iteration of its Llama artificial intelligence series. This release introduces three new model versions, including the most extensive and capable AI developed by Meta thus far. Maintaining its tradition, Llama 3.1 remains open source, offering free access to its capabilities.
-
 This announcement underlines the deepening ties between Meta and Nvidia. Nvidia plays a crucial role, supplying Meta with GPUs essential for training these expansive AI models.
 
 Unlike competitors such as OpenAI and Google, which monetize their AI models, Meta continues to shun the creation of a parallel enterprise business. Instead, it has opted to collaborate with numerous tech companies, allowing them to integrate Llama 3.1 into their cloud platforms and provide additional security and management tools.

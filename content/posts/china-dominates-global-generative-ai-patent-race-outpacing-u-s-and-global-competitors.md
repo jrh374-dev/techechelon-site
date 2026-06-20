@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-07-04T15:20:27.234Z"
 coverImage: "https://static.wixstatic.com/media/e37254_d32addc616534642a6465b49f0039bab~mv2.jpeg"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-China's recent surge in generative AI (GenAI) patents highlights the nation's strategic push to lead in technological innovation and compete with major global players like the U.S. This notable rise in patent filings, as reported by the United Nations, not only showcases China's prowess but also underscores a broader shift in AI development dynamics.
 
 From 2014 to 2023, China filed a staggering 38,210 GenAI patents, significantly outpacing other countries. The U.S. registered 6,276 patents, followed by the Republic of Korea, Japan, and India. This vast disparity underlines China's aggressive focus on AI and its applications across various sectors, including image and video data, text processing, and speech or music.
 

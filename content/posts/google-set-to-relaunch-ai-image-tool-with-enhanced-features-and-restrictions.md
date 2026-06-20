@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Google is set to reintroduce its artificial intelligence tool for generating images of people, the company announced on Wednesday. This decision comes after Google temporarily discontinued the service in February following several controversies over the accuracy of its outputs.
-
 The AI tool, known as Imagen 3, will be integrated into the Gemini platform and will initially be accessible to Gemini Advanced, Business, and Enterprise users in English.
 
 Dave Citron, a senior director of product at Gemini, stated that Google has enhanced the technology and refined its evaluation methods, including conducting red-teaming exercises to test for vulnerabilities.

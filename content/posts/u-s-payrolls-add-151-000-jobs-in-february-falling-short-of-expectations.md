@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-U.S. employers added 151,000 jobs in February, missing analyst expectations amid ongoing efforts to streamline federal government employment.
-
 The Labor Department’s Bureau of Labor Statistics reported Friday that payroll growth increased from a revised 125,000 in January but still fell short of the 170,000 forecast by Dow Jones economists. The unemployment rate edged slightly upward to 4.1%.
 
 February’s jobs report reflects ongoing initiatives by Elon Musk’s Department of Government Efficiency to reduce federal employment. While overall employment improved from January’s revised increase of 125,000, the government’s drive to trim its workforce was apparent, with the unemployment rate inching higher.
@@ -23,4 +21,4 @@ Wage growth also continued, with average hourly earnings rising modestly in Febr
 
 Economists suggest the slight miss in payrolls highlights ongoing volatility in job growth as the government navigates structural changes.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

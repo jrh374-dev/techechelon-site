@@ -39,4 +39,4 @@ The results come days after the Pentagon announced a five-year contract with Del
 
 With supply constraints tightening and demand continuing to outpace capacity, Dell's ability to fulfill its raised guidance will depend heavily on whether the component shortages Clarke described ease before the back half of the fiscal year.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

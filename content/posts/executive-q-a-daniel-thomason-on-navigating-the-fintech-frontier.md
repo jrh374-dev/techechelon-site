@@ -11,9 +11,7 @@ readTime: 20
 migratedFromWix: true
 ---
 
-Daniel Thomason is a dynamic figure in the fintech sector, bridging his deep understanding of economics with the fast-paced world of technology. Starting his career as an economist at a central bank, Daniel's curiosity and desire for more immediate impact led him down an unconventional path to becoming a product manager at Google, focusing on contactless payments.
-
-![](https://static.wixstatic.com/media/e37254_5ca61c9939324d87bd193b4553cd4054~mv2.jpg)
+![Photo](https://static.wixstatic.com/media/e37254_5ca61c9939324d87bd193b4553cd4054~mv2.jpg)
 
 His journey through various industries and roles reflects a consistent pursuit of tackling complex, scalable problems that affect millions globally. With a background that includes founding an escape room business and navigating the diverse challenges of startups and multinational corporations alike, Daniel brings a unique perspective to product management.
 

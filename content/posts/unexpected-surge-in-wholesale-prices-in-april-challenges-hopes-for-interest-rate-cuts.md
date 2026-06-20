@@ -35,4 +35,4 @@ Other inflation indicators like the consumer price index and the Commerce Depart
 
 Moreover, consumer expectations for inflation remain elevated, with the New York Fed's latest monthly survey showing a one-year inflation outlook of 3.3%, the highest since November, largely driven by anticipated rises in housing costs.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

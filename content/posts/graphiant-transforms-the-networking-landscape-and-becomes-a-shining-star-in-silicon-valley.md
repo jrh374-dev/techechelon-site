@@ -37,7 +37,7 @@ Additionally, Graphiant’s Network Edge enables organizations to tackle today�
 
 Graphiant’s goal is to solve enterprises’ significant challenges, which include connecting resources, clouds, and applications across the diverse digital landscape. 
 
-![](https://static.wixstatic.com/media/e37254_ff5e2617745f4acfa0dac9d7a35543f8~mv2.png)
+![Photo](https://static.wixstatic.com/media/e37254_ff5e2617745f4acfa0dac9d7a35543f8~mv2.png)
 
 **True Leadership of a Founder**
 

@@ -7,11 +7,9 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-02-04T16:55:52.603Z"
 coverImage: "https://static.wixstatic.com/media/e37254_d5ac83b870ea4a8bb290f2b6d578ef6c~mv2.webp"
-readTime: 2
+readTime: 1
 migratedFromWix: true
 ---
-
-On Tuesday, the Chinese Finance Ministry declared it will implement new tariffs of 15% on U.S. coal and liquefied natural gas imports starting February 10. Additionally, duties on American crude oil, agricultural machinery, and select vehicles will increase by 10%. This move follows the recent U.S. tariffs on Chinese products, intensifying fears of a renewed trade war between the two largest global economies.
 
 In response to the U.S.'s additional 10% tariffs, China criticized these measures as a serious breach of World Trade Organization norms, disrupting normal economic and trade exchanges.
 

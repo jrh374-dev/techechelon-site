@@ -35,4 +35,4 @@ Intel shares have risen more than 200% this year, following an 84% gain in 2025.
 
 With risk production now underway and foundry customer commitments expected before year's end, the second half of 2026 will test whether Intel's manufacturing ambitions translate into the commercial relationships the company — and Wall Street — have been anticipating.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

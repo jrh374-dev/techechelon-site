@@ -11,8 +11,6 @@ readTime: 3
 migratedFromWix: true
 ---
 
-Grapevine Technologies, a groundbreaking software solution built by distributors for healthcare facilities, has announced remarkable success in its operations. The platform was initially designed as an in-house tool to streamline the supply chain as Pandemic Relief Supply (PRS), which generated over $20 million in revenue between 2020 and 2022.
-
 In its current iteration as Grapevine Technologies, the company is already valued at $10 million.
 
 Grapevine sets itself apart from competitors by extending its benefits beyond the immediate confines of a business. The platform allows companies to digitize their healthcare network, automate manual processes, and expand their customer and supplier base. It invites users to join the network for free, encouraging growth through collaboration, sharing, and transactions with verified trade partners.
@@ -25,7 +23,8 @@ Grapevine also differs in its holistic approach to managing business operations.
 
 The platform's design and operation were born from first-hand experience and an in-depth understanding of the problems faced by healthcare distributors. With over 20 years of combined experience in healthcare supply chain and distribution, the team at Grapevine is well-versed in the intricacies of the industry. The software was initially conceived to manage operations at PRS, a medical distribution company, and has since grown into a resource that benefits the entire healthcare community.
 
-![Luka Yancopoulos, founder and CEO fo Grapevine Technologies. Source: Grapevine Technologies.](https://static.wixstatic.com/media/e37254_6b9173152f2945a982b54d4f9ed81521~mv2.png)
+![Photo](https://static.wixstatic.com/media/e37254_6b9173152f2945a982b54d4f9ed81521~mv2.png)
+*Luka Yancopoulos, founder and CEO fo Grapevine Technologies. Source: Grapevine Technologies.*
 
 Behind Grapevine Technologies is Luka Yancopoulos, a dynamic CEO with a clear vision for transforming the healthcare supply chain. Luka's impactful academic journey as a distinguished VIPER student at UPenn and six years of professional experience – including groundbreaking nanopore bioanalytic research – have positioned him as a rising force in the healthcare industry. His ventures, including PRS and Grapevine have displayed his unwavering commitment to revolutionizing healthcare logistics.
 

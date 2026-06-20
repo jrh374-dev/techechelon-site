@@ -11,8 +11,6 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Nvidia moved to reassure investors Tuesday after its stock fell 3% on reports that Meta may shift part of its data center buildout to Google’s in-house AI chips.
-
 In a post on X, the company said its GPUs remain “a generation ahead of the industry” and emphasized that Nvidia is the only platform that runs every major AI model across all computing environments.
 
 The response follows rising chatter that Google’s tensor processing units (TPUs) — custom ASIC chips used to train the new Gemini 3 model — could become a stronger alternative to Nvidia’s flagship Blackwell GPUs. Analysts estimate Nvidia still controls over 90% of the AI accelerator market.
@@ -27,4 +25,4 @@ Huang also cited comments from DeepMind CEO Demis Hassabis reaffirming that indu
 
 Shares of Nvidia remain volatile as hyperscalers weigh a more diversified mix of AI chips, even as the company maintains a dominant position in next-gen compute infrastructure.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

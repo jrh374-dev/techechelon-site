@@ -7,13 +7,11 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-05-22T18:24:23.694Z"
 coverImage: "https://static.wixstatic.com/media/e37254_d5e67989420345438b3fc886aaa153e4~mv2.jpg"
-readTime: 18
+readTime: 17
 migratedFromWix: true
 ---
 
-Woody Sessoms is a distinguished figure in the technology and telecommunications sectors, renowned for his strategic vision and leadership in driving business innovation through IT. As a former senior executive at Cisco and the current driving force behind Graphiant, Woody brings a wealth of experience and insight into the transformative role of technology in business. His tenure at Cisco saw him at the forefront of numerous initiatives that leveraged technology to enhance business performance, market differentiation, and operational efficiency.
-
-![](https://static.wixstatic.com/media/e37254_b7e2efd5d83c4785aacc33d30955ca00~mv2.png)
+![Photo](https://static.wixstatic.com/media/e37254_b7e2efd5d83c4785aacc33d30955ca00~mv2.png)
 
 Now at Graphiant, Woody applies his deep understanding of IT's strategic role to spearhead solutions that not only enhance service provider capabilities but also streamline operations and secure customer brands across various industries. Under his leadership, Graphiant is positioned as a key player in adapting IT infrastructure to meet contemporary challenges, focusing on real-time decision-making support, data accessibility, and security.
 

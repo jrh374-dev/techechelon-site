@@ -39,4 +39,4 @@ Musk's compensation at SpaceX is tied to two milestones: achieving a $7.5 trilli
 
 Representatives from SpaceX and Tesla did not respond to requests for comment. Musk is set to kick off SpaceX's roadshow next week, and the outcome of that investor pitch — and how Wall Street values the combined conglomerate — will likely shape how seriously a potential merger is considered in the months ahead.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)

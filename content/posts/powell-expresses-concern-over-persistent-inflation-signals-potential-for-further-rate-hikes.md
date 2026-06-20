@@ -11,8 +11,6 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Federal Reserve Chair Jerome Powell expressed concerns on Friday regarding ongoing inflation and suggested that there may be more interest rate hikes on the horizon.
-
 Even though Powell recognized advancements in addressing inflation, he emphasized that it's still higher than the desired threshold. He signaled that the Federal Reserve won't rush into any decisions, but he didn't indicate a willingness to relax their stance in the immediate future.
 
 Speaking at the Kansas City Fed’s annual gathering in Jackson Hole, Wyoming, Powell stated, "Even if inflation has decreased from its previous highs, it's still unacceptably high. We're ready to adjust rates further if needed, aiming to ensure a steady decrease in inflation towards our target."

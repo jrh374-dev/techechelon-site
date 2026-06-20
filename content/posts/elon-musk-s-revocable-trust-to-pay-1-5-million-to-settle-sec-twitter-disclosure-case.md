@@ -29,4 +29,4 @@ Twitter, which Musk rebranded as X following his acquisition and has since folde
 
 The proposed settlement still requires court approval before it takes effect. If approved, it would mark the conclusion of a case that drew significant attention both for the scale of the alleged regulatory violation and the comparatively modest penalty the agency ultimately sought.
 
-[Disclaimer](https://www.techechelon.com/disclaimer)
+[Disclaimer](/disclaimer)
