@@ -41,6 +41,14 @@ export function SiteHeader() {
             <span>{time}</span>
           </div>
           <div className="flex items-center gap-5 font-sans text-[10.5px] tracking-[0.12em] uppercase font-semibold">
+            <Link href="/search" className="hover:text-coral-light inline-flex items-center gap-1.5">
+              <svg viewBox="0 0 20 20" fill="none" stroke="currentColor" strokeWidth="2" className="w-3 h-3">
+                <circle cx="8.5" cy="8.5" r="5.5" />
+                <path d="M16 16l-3.5-3.5" strokeLinecap="round" />
+              </svg>
+              <span>Search</span>
+            </Link>
+            <span className="text-cream/40">·</span>
             <Link href="/subscribe" className="hover:text-coral-light">Subscribe</Link>
             <span className="text-cream/40">·</span>
             <Link href="/account" className="hover:text-coral-light">Sign in</Link>
