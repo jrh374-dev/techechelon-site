@@ -29,4 +29,4 @@ Apple said the 9th Circuit decision would affect how millions of app purchases a
 
 The Supreme Court's refusal to pause the contempt order means Apple must continue operating under the existing judicial constraints while it prepares its full appeal — a process that could keep the App Store's fee structure under legal pressure for months to come.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

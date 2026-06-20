@@ -29,7 +29,7 @@ Rather than producing original content, Pravda acts as an aggregator, republishi
 
 The network was established in April 2022, shortly after Russia’s invasion of Ukraine, and was first flagged by Viginum, France’s foreign disinformation watchdog, in early 2024. Since then, Pravda has expanded its reach to 49 countries and operates across 150 domains, spreading content in multiple languages.
 
-NewsGuard found that out of 450 chatbot-generated responses, 56 contained direct links to Pravda-backed disinformation, citing a total of 92 Pravda articles. Some AI models referenced up to 27 false stories each, pulling from Pravda-linked sites such as Denmark.news-pravda.com, Trump.news-pravda.com, and NATO.news-pravda.com.
+NewsGuard found that out of 450 chatbot-generated responses, 56 contained direct links to Pravda-backed disinformation, citing a total of 92 Pravda articles. Some AI models referenced up to 27 false stories each, pulling from Pravda-linked sites such as [Denmark.news-pravda.com](http://Denmark.news-pravda.com), [Trump.news-pravda.com](http://Trump.news-pravda.com), and [NATO.news-pravda.com](http://NATO.news-pravda.com).
 
 ##### The Growing Challenge of AI and Disinformation
 

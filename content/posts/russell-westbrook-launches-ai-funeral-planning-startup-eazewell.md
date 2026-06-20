@@ -11,7 +11,7 @@ readTime: 2
 migratedFromWix: true
 ---
 
-NBA superstar Russell Westbrook is stepping into the startup world with the launch of Eazewell, a new company aimed at transforming funeral planning through artificial intelligence.
+NBA superstar Russell Westbrook is stepping into the startup world with the launch of _Eazewell_, a new company aimed at transforming funeral planning through artificial intelligence.
 
 The Denver Nuggets point guard, currently competing in the NBA playoffs, announced the new venture alongside co-founders Kemba Walker, a former Charlotte Hornets star, and Donnell Beverly Jr., Westbrook’s longtime friend and the president of Russell Westbrook Enterprises. Beverly will serve as CEO of Eazewell.
 
@@ -23,7 +23,7 @@ The platform is free to use and does not currently feature advertising. While fu
 
 “We’re trying to take the weight off people’s shoulders as much as we can,” said Walker, who also played college basketball with Beverly at the University of Connecticut. “This process is hard enough without having to manage every detail alone.”
 
-The company was born out of personal experience. As high schoolers, Westbrook and Beverly lost their teammate Khelcey Barrs III to an undiagnosed heart condition—a tragedy that left a lifelong impact. Westbrook continues to honor Barrs by wearing a bracelet with his initials, KB3, and naming a signature shoe after him.
+The company was born out of personal experience. As high schoolers, Westbrook and Beverly lost their teammate Khelcey Barrs III to an undiagnosed heart condition—a tragedy that left a lifelong impact. Westbrook continues to honor Barrs by wearing a bracelet with his initials, _KB3_, and naming a signature shoe after him.
 
 Years later, after the deaths of both of Beverly’s parents—his father in 2016 and his mother in 2023—he found the funeral planning process emotionally taxing and unnecessarily complex. That experience served as the catalyst for Eazewell.
 

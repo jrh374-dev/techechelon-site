@@ -33,4 +33,4 @@ Companies including xAI, Google, Microsoft, Meta, Oracle, OpenAI, and Amazon hav
 
 FERC took an earlier step in December to assist data center operators, voting to allow tech companies to connect a data center directly to a power plant. Thursday's order builds on that framework, reinforcing the administration's push to accelerate AI infrastructure deployment even as the commission acknowledged the limits of what regulatory action alone can accomplish in addressing tightening energy supplies.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

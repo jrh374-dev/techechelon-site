@@ -33,4 +33,4 @@ Comments from Intel, Apple, and the White House were not immediately available. 
 
 The Apple partnership, if confirmed in detail, would mark a notable shift for Intel's foundry ambitions — and a potential inflection point for a company that spent much of the past decade ceding ground to rivals. What formal agreements underpin the announcement, and what timeline governs chip development, remains to be disclosed.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

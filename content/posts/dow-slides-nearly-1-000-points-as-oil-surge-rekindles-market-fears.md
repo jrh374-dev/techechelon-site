@@ -33,4 +33,4 @@ Despite the broader market decline, Berkshire Hathaway was a rare bright spot d
 
 The broader market reaction reflects how quickly geopolitical events can shift investor sentiment. With oil markets now tightly linked to the evolving situation in the Middle East, traders are bracing for continued volatility across both energy and equity markets.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

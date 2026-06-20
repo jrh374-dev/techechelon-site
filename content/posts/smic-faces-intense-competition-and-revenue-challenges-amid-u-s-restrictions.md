@@ -35,4 +35,4 @@ For the second quarter, SMIC anticipates a revenue increase of 5% to 7% and warn
 
 Additionally, SMIC has been affected by being listed on a U.S. trade blacklist in 2020, which hinders its ability to procure certain U.S. technologies. Despite these challenges, a recent analysis revealed that Chinese tech giant Huawei’s Mate 60 Pro smartphone uses a 7-nanometer chip manufactured by SMIC, demonstrating capabilities in advanced chip technology despite U.S. restrictions. TSMC and Samsung have been producing 7-nanometer chips since 2018 and have moved to even more advanced 3-nanometer technology.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

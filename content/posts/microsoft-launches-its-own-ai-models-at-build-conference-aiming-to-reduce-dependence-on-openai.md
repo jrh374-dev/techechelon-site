@@ -35,4 +35,4 @@ Beyond the two headline models, Microsoft also revealed updated cloud-based tool
 
 The Build announcements reinforce that Microsoft is no longer content to sit primarily as a cloud host and strategic investor. As OpenAI and Anthropic grow toward the public markets and capture an expanding share of developer mindshare, Microsoft's decision to field its own proprietary models signals a deepening competition that runs directly through its most important AI partnerships.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

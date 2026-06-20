@@ -35,4 +35,4 @@ Nadella said on Microsoft's most recent earnings call in April that GitHub was s
 
 With GitHub's Azure migration incomplete and leadership still unsettled, whether Microsoft can stabilize its infrastructure quickly enough to retain its dominant position in developer tooling remains an open question — one that will likely define the next phase of Nadella's twelve years at the company's helm.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

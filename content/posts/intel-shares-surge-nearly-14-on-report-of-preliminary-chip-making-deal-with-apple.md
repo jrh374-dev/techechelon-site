@@ -37,4 +37,4 @@ Samsung, Intel, and TSMC remain the only three companies globally capable of pro
 
 With Apple reportedly also visiting Samsung's chip manufacturing plant under construction in Texas, the iPhone maker appears to be actively exploring a multi-foundry strategy — a shift that could reshape advanced semiconductor supply chains for years ahead.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

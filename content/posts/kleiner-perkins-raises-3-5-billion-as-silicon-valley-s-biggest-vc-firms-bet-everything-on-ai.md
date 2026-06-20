@@ -21,4 +21,4 @@ What makes Kleiner Perkins' raise particularly notable is the firm's operational
 
 The real question heading into the back half of the decade is whether these enormous capital pools will be deployed into a market that can absorb them. Exit activity remains sluggish, and while IPO windows have cracked open for names like Figma, the broader pipeline of late-stage companies ready to go public is still constrained. For Kleiner Perkins and its peers, the bet is that Anthropic, SpaceX, and the next generation of AI-native companies will eventually provide the liquidity their limited partners are waiting for — and that being early and concentrated in the right names will prove to be the defining trade of the decade.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

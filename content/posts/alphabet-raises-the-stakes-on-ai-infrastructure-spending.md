@@ -53,4 +53,4 @@ For investors, Alphabet’s message is stark: AI leadership now requires capital
 
 The open question is not whether Alphabet can spend this much — but whether the returns arrive quickly enough to keep Wall Street on board.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

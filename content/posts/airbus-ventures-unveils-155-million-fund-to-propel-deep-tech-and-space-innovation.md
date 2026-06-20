@@ -23,4 +23,4 @@ D’Halluin emphasized that investing in space requires patience, explaining tha
 
 Airbus Ventures aims to deploy Fund-Y globally, with d’Halluin pointing to strong momentum in space startups in Europe and Japan, in addition to its traditional focus on U.S. companies.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

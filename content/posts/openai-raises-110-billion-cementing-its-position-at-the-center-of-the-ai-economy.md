@@ -27,4 +27,4 @@ From a broader market perspective—especially given your ongoing focus on AI in
 
 The implication is clear: while enterprise AI companies are being forced to prove ROI in the near term, the infrastructure layer continues to absorb unprecedented capital, with OpenAI now sitting at the center of that gravitational pull.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

@@ -25,4 +25,4 @@ Tesla shares bucked the broader trend, rising 0.5% after CEO Elon Musk reaffirme
 
 Meanwhile in Washington, President Trump faced resistance from key House Republicans over a proposed tax bill, specifically regarding the cap on state and local tax deductions. Their opposition casts doubt on the legislation’s chances of passing before the Memorial Day recess.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

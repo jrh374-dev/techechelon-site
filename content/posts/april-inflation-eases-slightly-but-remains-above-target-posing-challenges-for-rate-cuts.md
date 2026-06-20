@@ -27,4 +27,4 @@ Shelter expenses, a major concern for Federal Reserve officials hoping for a red
 
 Energy prices increased by 1.1% over the month and were 2.6% higher compared to last year. Food prices remained steady month-over-month and saw a 2.2% increase from the previous year. Meanwhile, prices for both used and new vehicles, which had significantly impacted inflation during the peak of the Covid pandemic, declined by 1.4% and 0.4%, respectively.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

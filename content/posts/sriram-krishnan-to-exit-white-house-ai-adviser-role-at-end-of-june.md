@@ -35,4 +35,4 @@ Looking ahead, Krishnan indicated he plans to remain active in AI policy circles
 
 Krishnan's exit comes as Washington's scrutiny of advanced AI systems intensifies, underscoring the pressure on both government and industry to establish durable frameworks before the next generation of models reaches the public.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

@@ -23,4 +23,4 @@ The timing of Navan’s IPO comes amid a partial U.S. government shutdown, which
 
 Navan was valued at $9.2 billion during its last private funding round in 2022, when it raised $300 million. A successful IPO at the current range would still cement the company as one of Silicon Valley’s top enterprise software stories of the year.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

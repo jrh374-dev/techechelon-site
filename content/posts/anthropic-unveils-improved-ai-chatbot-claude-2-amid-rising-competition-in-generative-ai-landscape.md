@@ -13,6 +13,8 @@ migratedFromWix: true
 
 The competitive landscape of artificial intelligence is welcoming a new participant. While tech giants like Microsoft-supported OpenAI and Google are vying for supremacy in developing the most progressive AI chatbots, Anthropic is also making significant investments to stay competitive.
 
+![](https://static.wixstatic.com/media/e37254_0d6c96db8ea9485485971fb280ab612f~mv2.png)
+
 Only a few monnths after securing $750 million in two funding rounds, the startup is unveiling a fresh AI chatbot: Claude 2.
 
 Established in 2021 by previous OpenAI research executives, Anthropic has drawn financial backing from companies like Google, Salesforce, and Zoom. With the release of Claude 2, the startup is offering its chatbot technology to the general public for the first time. Over the last two months, Anthropic's AI models have undergone testing by businesses such as Slack, Notion, and Quora, amassing a waitlist of over 350,000 people eager to access Claude's API and consumer services.

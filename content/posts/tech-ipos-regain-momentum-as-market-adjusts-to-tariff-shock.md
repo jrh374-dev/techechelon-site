@@ -31,4 +31,4 @@ Still, industry leaders caution that a full recovery in the IPO market depends o
 
 “The IPO market might be one of the latter ones to return as the market starts to recover, just given the risk around IPOs,” said Gerring. “We’re trending in the right direction.”
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

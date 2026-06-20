@@ -23,4 +23,4 @@ The revamped chip is designed to handle tasks like image and text generation, a 
 
 Several major brands, including Samsung Electronics, Asustek Computer, and Xiaomi, are expected to incorporate Qualcomm’s new chip in their upcoming devices.
 
- Disclaimer
+ [Disclaimer](https://www.techechelon.com/disclaimer)

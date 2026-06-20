@@ -29,4 +29,4 @@ The flagship model of the Llama 3.1 series, named Llama 3.1 405B, incorporates 4
 
 Smaller versions, Llama 3.1 8B and Llama 3.1 70B, are also released, offering enhancements over their predecessors and supporting applications like chatbots and coding assistants.
 
-U.S.-based users of WhatsApp and visitors to Meta.AI will soon experience firsthand the capabilities of the new Llama 3.1 through interactions with Meta's digital assistant, capable of addressing complex queries and coding issues. Users can choose between the high-capacity Llama 3.1 model or a smaller, faster version tailored to their needs.
+U.S.-based users of WhatsApp and visitors to [Meta.AI](http://Meta.AI) will soon experience firsthand the capabilities of the new Llama 3.1 through interactions with Meta's digital assistant, capable of addressing complex queries and coding issues. Users can choose between the high-capacity Llama 3.1 model or a smaller, faster version tailored to their needs.

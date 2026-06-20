@@ -35,4 +35,4 @@ The bitcoin ETF comparison offers a useful, if imperfect, template. Grayscale su
 
 Sohn said the delay does not, in his reading, signal fundamental opposition from the current administration. "I think all systems go, until I see otherwise on the SEC website," he said. Whether the agency moves quickly to clear the remaining questions — or allows the review to drag into a prolonged standoff — will signal how far the Trump SEC's deregulatory posture extends into politically sensitive financial territory.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

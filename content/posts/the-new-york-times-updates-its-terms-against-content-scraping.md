@@ -27,7 +27,7 @@ The Washington Post scrutinized Google’s C4 dataset and found content from pro
 
 Chris Pedigo from Digital Content Next notes that other publishers are now revisiting their terms of service in light of these developments.
 
-Towards Licensing Agreements
+**Towards Licensing Agreements**
 
 The response from AI companies to these updated terms remains to be seen. Given potential legal pitfalls, there are talks between AI firms and top-tier publishers to form licensing agreements, similar to the one between OpenAI and The Associated Press.
 

@@ -11,7 +11,7 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Jeff Bezos is getting back into the startup trenches. According to a report from The New York Times, the Amazon founder is taking on a hands-on role as co-CEO of Project Prometheus, a newly launched AI startup that has already secured an eye-popping $6.2 billion in funding.
+Jeff Bezos is getting back into the startup trenches. According to a report from _The New York Times_, the Amazon founder is taking on a hands-on role as co-CEO of Project Prometheus, a newly launched AI startup that has already secured an eye-popping $6.2 billion in funding.
 
 Bezos will share the helm with Vik Bajaj, a well-known biotech and AI innovator. Bajaj previously led Google’s life sciences efforts and co-founded both Verily (an Alphabet subsidiary) and Foresite Labs, an AI-driven venture studio tied to Foresite Capital. Bajaj reportedly departed Foresite to build Prometheus.
 

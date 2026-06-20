@@ -17,6 +17,8 @@ The software's robust features allow companies to invite employees, customers, o
 
 In a move to incentivize participation, the software incorporates gamification, where users earn points for participating, and decision-makers can reward top-performing participants with prizes.
 
+![Ideawake CEO Coby Skonord. Source: Ideawake.](https://static.wixstatic.com/media/e37254_5e03d33e65434d2bb5cc031b289738f0~mv2.png)
+
 “I firmly believe that the power of innovation lies within the collective intelligence of a workforce,” said Ideawake’s CEO Coby Skonord in a recent interview with TechEchelon. “At Ideawake, we aim to harness this potential by providing a platform that encourages collaboration, facilitates growth, and recognizes innovative contributions. We're not just providing a software solution, we're building the launchpad for the next big business idea.”
 
 A standout feature is the software's capacity for duplicate idea detection, which automatically flags similar suggestions during the posting process. This ensures a streamlined, collaborative experience free of repetitive input. It also includes a customizable submission form that caters to the specific requirements of new ideas, solutions, or projects.

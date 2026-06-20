@@ -37,4 +37,4 @@ Meanwhile, earnings season kicks off this week, with Citigroup, Goldman Sachs, 
 
 Bond markets were closed for the Columbus Day holiday, leaving equity traders to drive the day’s optimism largely on sentiment—and on Trump’s tone shift. Whether that optimism holds through the week may depend on both the White House and Wall Street’s biggest banks.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

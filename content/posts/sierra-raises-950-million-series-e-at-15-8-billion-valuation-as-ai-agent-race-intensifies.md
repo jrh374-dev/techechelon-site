@@ -35,4 +35,4 @@ For now, Sierra is staying private. Taylor said an IPO is "definitely in our fut
 
 Whether Sierra can maintain its lead as the customer service AI segment grows more crowded will be the central test of whether this latest capital raise translates into durable category dominance.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

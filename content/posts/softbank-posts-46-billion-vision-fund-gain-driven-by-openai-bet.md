@@ -33,4 +33,4 @@ The results underscore how thoroughly SoftBank's financial performance has becom
 
 Whether SoftBank can manage the debt load that comes with its OpenAI concentration — while continuing to chase additional AI and chip investments — remains the central question heading into the next fiscal year.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

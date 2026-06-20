@@ -33,4 +33,4 @@ Cramer said he would be more comfortable with the offering if demand were even m
 
 How the stock trades in its first session — and whether the compressed window before options open on June 16 gives institutions enough time to establish hedges — will be closely watched by market participants navigating what Davitt called a genuinely novel challenge for Wall Street.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

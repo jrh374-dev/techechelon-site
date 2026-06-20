@@ -37,4 +37,4 @@ Altman's Capitol Hill visit is his latest in a series of high-profile Washington
 
 With CISA's binding directive imminent and the voluntary pre-release testing window now codified — however narrowly — the coming weeks will test whether the administration's framework can translate a thin executive order into concrete federal action, and whether leading AI developers will follow through on their stated willingness to cooperate.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

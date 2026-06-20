@@ -33,4 +33,4 @@ Qualcomm CEO Cristiano Amon said on the company's April earnings call that the c
 
 Despite the recent momentum, Qualcomm has lagged behind Nvidia in the race to supply chips for training and running large AI models. Its strategy pivots instead on the proliferation of AI-capable hardware at the edge — a bet that the next phase of the AI cycle runs not through hyperscale data centers alone, but through the billions of connected devices people carry, drive, and wear.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

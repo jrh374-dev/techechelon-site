@@ -18,7 +18,7 @@ The Max plan offers two pricing options:
 - $100/month for five times the usage of the current Pro plan
 - $200/month for twenty times the usage
 
-Both options promise priority access to Anthropic’s newest models and features, including the upcoming voice mode rollout, according to product lead Scott White.
+Both options promise _priority access_ to Anthropic’s newest models and features, including the upcoming voice mode rollout, according to product lead Scott White.
 
 This move positions Anthropic’s offering as a direct challenger to OpenAI’s ChatGPT Pro, which also carries a $200/month price tag.
 

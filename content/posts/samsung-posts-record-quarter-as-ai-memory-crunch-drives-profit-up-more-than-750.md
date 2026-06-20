@@ -37,4 +37,4 @@ The record earnings land amid a broader surge in AI-driven capital expenditure a
 
 For Samsung, closing the HBM gap with SK Hynix while sustaining record chip revenue will be the central challenge heading into the back half of the year, even as the structural tailwinds from AI infrastructure buildout show no immediate sign of softening.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

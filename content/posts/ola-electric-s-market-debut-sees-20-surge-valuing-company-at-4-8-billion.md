@@ -25,4 +25,4 @@ Backed by prominent investors like SoftBank and Temasek from Singapore, Ola Elec
 
 Aggarwal, who also co-founded the ride-hailing service Ola Cabs, remains a pivotal figure in India's tech and transportation sectors.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

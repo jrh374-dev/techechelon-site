@@ -33,4 +33,4 @@ The insertion of Alexa for Shopping into search results also raises questions fo
 
 How the integration affects ad spend and organic seller visibility will be closely watched as the product rolls out more broadly.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

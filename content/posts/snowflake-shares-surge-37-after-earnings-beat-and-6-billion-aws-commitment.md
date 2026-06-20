@@ -33,4 +33,4 @@ On the downside, Marvell Technology slipped almost 3% despite an upbeat outlook.
 
 For Snowflake, the combination of a landmark infrastructure commitment and a clear earnings beat signals the company's intent to position itself at the center of enterprise AI workloads. Whether the AWS deal translates into durable margin expansion will be a key metric for analysts to track in coming quarters.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

@@ -34,4 +34,4 @@ The growth in bookings was particularly strong in the Asia Pacific and Latin Ame
 
 Average daily rates rose 3% from the previous year to $173. Airbnb ended the quarter with a record number of active listings, which saw a 15% increase from the previous year.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

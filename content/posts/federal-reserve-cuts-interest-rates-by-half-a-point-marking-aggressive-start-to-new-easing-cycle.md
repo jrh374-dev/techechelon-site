@@ -41,4 +41,4 @@ Wednesday’s decision could have a ripple effect globally, as other central ban
 
 While the Fed has approved the rate cut, it has continued with its "quantitative tightening" policy, gradually reducing its bond holdings. The Fed's balance sheet has decreased to $7.2 trillion, a $1.7 trillion reduction from its peak, as it allows up to $50 billion in maturing Treasurys and mortgage-backed securities to roll off each month.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

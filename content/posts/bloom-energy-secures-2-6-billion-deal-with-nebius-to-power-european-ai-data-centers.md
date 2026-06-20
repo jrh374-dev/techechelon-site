@@ -31,4 +31,4 @@ The Bloom partnership adds a power-supply dimension to that expansion strategy, 
 
 For Bloom, the deal represents one of its largest commercial commitments to date, coming as energy-intensive AI workloads create fresh demand for distributed power generation outside traditional utility grids.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

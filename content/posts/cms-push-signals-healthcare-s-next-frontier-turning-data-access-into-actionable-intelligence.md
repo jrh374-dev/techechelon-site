@@ -7,13 +7,15 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2026-04-10T14:00:32.324Z"
 coverImage: "https://static.wixstatic.com/media/e37254_dfaef1cecb0643ca81d4e3a143326a8e~mv2.jpeg"
-readTime: 2
+readTime: 3
 migratedFromWix: true
 ---
 
 As healthcare continues moving toward broader interoperability, the conversation is beginning to shift.
 
-This week, CMS’s “Kill the Clipboard” initiative again drew attention to one of the industry’s most visible pain points: the administrative friction created by paper intake forms, fragmented records, and disconnected systems. CMS has positioned the effort around digital check-in and patient-controlled data sharing, part of a wider push toward a more connected health technology ecosystem.
+This week, [CMS’s “Kill the Clipboard” initiative](https://www.cms.gov/newsroom/press-releases/cms-launches-first-wave-healthtech-ecosystem-tools-fast-tracking-fully-digital-patient-centered) again drew attention to one of the industry’s most visible pain points: the administrative friction created by paper intake forms, fragmented records, and disconnected systems. CMS has positioned the effort around digital check-in and patient-controlled data sharing, part of a wider push toward a more connected health technology ecosystem.
+
+![Companies supporting CMS's Kill the Clipboard initiative attend an event hosted by the agency on April 9, 2026.](https://static.wixstatic.com/media/e37254_dfaef1cecb0643ca81d4e3a143326a8e~mv2.jpeg)
 
 That reflects clear progress in an area healthcare has struggled with for years. But it also highlights a larger issue now coming into focus across the market.
 
@@ -25,7 +27,7 @@ That question is becoming more important as providers face growing volumes of cl
 
 That dynamic is helping define a new competitive focus across healthcare technology. Increasingly, the differentiation is not just in moving data between systems, but in making that data usable once it arrives.
 
-Companies such as xCures are positioning around that next layer. xCures, which is an early MVP recipient of CMS’s “Kill the Clipboard” initiative, is focused on structuring fragmented medical data into formats intended to support search, workflow integration, and clinical use.
+Companies such as xCures are positioning around that next layer. xCures, which is an early MVP recipient of CMS’s “Kill the Clipboard” initiative, is focused on structuring fragmented medical data into formats intended to support search, [workflow integration](https://xcures.com/#workflow-integration), and clinical use.
 
 The broader market implication is that interoperability may be evolving from a question of access to a question of utility.
 

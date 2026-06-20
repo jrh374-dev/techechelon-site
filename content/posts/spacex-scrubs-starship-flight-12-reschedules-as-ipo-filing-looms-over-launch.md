@@ -31,4 +31,4 @@ NASA is also counting on Starship to serve as the lunar lander for its Artemis I
 
 The timing of the test flight carries symbolic weight. It represents what many analysts consider the company's final opportunity to demonstrate Starship's capabilities to prospective public investors before shares reach the market. With the IPO prospectus already in hand, the outcome of Friday's launch will be closely watched as a signal of where the program stands heading into its public debut.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

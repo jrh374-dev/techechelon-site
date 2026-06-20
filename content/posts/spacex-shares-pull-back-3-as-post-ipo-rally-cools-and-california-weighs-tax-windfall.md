@@ -43,4 +43,4 @@ The LAO maintained a measured optimism regardless, noting that "past major tech 
 
 How much of that potential materializes will depend heavily on the financial decisions of individual shareholders — and on whether OpenAI and Anthropic maintain their IPO timelines through the rest of 2026.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

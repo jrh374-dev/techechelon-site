@@ -33,4 +33,4 @@ The potential nomination also comes against a backdrop of heightened concern in 
 
 CISA has faced workforce and budget cuts since Trump began his second term, underscoring the stakes attached to whoever ultimately leads the agency. The White House, DHS, and Sankar did not immediately respond to requests for comment.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

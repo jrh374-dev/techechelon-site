@@ -39,4 +39,4 @@ An Nvidia spokesperson did not respond to a request for comment.
 
 With Nvidia's fiscal first-quarter earnings report less than two weeks away, investors will gain a fuller picture of the portfolio's size and its impact on the company's financials.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

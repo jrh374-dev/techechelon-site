@@ -33,4 +33,4 @@ Investors will be closely watching Wednesday’s earnings call for updates on th
 
 The call is scheduled for 5:30 p.m. ET.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

@@ -25,4 +25,4 @@ This group is linked to Russian intelligence and was responsible for the notable
 
 The disclosures by Microsoft and HPE are in line with new U.S. Securities and Exchange Commission regulations requiring companies to report significant cybersecurity incidents. Following the announcement, HPE's stock remained stable in after-hours trading, priced at $15.76.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

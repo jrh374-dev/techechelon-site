@@ -13,6 +13,8 @@ migratedFromWix: true
 
 Stability AI, the tech company behind the Stable Diffusion image-generating AI model, has announced the introduction of Stable Doodle, a new service transforming sketches into images. This tool uses an updated version of the Stable Diffusion model to interpret sketches and produce artistically appealing renditions, and is now available via the ClipDrop platform, an acquisition from the company's March purchase of Init ML.
 
+![](https://static.wixstatic.com/media/e37254_840588156b1e49869503ab8ffa627bf6~mv2.png)
+
 Stable Doodle is aimed at both professionals and novices, irrespective of their expertise with AI applications. The company asserts that anyone who can sketch and has internet access can use Stable Doodle to create high-quality images swiftly.
 
 While there are many sketch-to-image AI tools available, including open source projects and apps supported by ads, Stability AI argues that Stable Doodle stands apart by offering more accurate control over image generation.

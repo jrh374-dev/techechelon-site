@@ -37,4 +37,4 @@ China's April economic data, released Monday, showed consumption, industrial out
 
 Moe, meanwhile, issued a broader caution on the region's near-term trajectory, warning of a "rude awakening" once energy supply disruptions feed more fully into economies. "I think we could be set up for some kind of correction in the summer months," he said — a signal that, for now, the divergence between North and South Asian markets may face its own test before year-end.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

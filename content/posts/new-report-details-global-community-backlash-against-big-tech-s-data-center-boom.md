@@ -11,7 +11,7 @@ readTime: 3
 migratedFromWix: true
 ---
 
-In their latest report, Where Cloud Meets Cement: A Case Study Analysis of Data Center Development, The Maybe—working in collaboration with public interest firm Computer Says Maybe—has pulled back the curtain on the accelerating global footprint of hyperscale data centers.
+In their latest report, _[Where Cloud Meets Cement: A Case Study Analysis of Data Center Development](https://cdn.prod.website-files.com/680949ac5f1b50bd51e4a964/682e72957dd411556eaeb230_The%20Maybe_Where%20cloud%20meets%20cement-%20a%20case%20study%20analysis%20of%20data%20center%20development.pdf)_, The Maybe—working in collaboration with public interest firm Computer Says Maybe—has pulled back the curtain on the accelerating global footprint of hyperscale data centers.
 
 These massive facilities, which underpin artificial intelligence and cloud computing, are often positioned by tech companies and governments as symbols of innovation and local economic opportunity. But as the report reveals, the reality on the ground tells a more complicated—and often contentious—story.
 

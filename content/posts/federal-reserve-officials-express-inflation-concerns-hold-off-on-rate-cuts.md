@@ -41,4 +41,4 @@ In public comments following the meeting, Fed officials have adopted a cautious 
 
 Market expectations for interest rate cuts have been recalibrated, with futures now showing about a 60% likelihood of a rate cut in September and a slightly better than even chance for a second cut in December. This marks a significant shift from earlier predictions of up to six quarter-point cuts this year.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

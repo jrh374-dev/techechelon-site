@@ -33,4 +33,4 @@ The broader implication is not that AI demand is weakening, but that monetizatio
 
 C3 AI now enters a critical transition period, focused on cost discipline, operational efficiency, and proving that its platform can deliver tangible business outcomes in an increasingly scrutinized AI market.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

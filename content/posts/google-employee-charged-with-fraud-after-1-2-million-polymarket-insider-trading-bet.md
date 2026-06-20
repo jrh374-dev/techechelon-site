@@ -33,4 +33,4 @@ The case is the second high-profile insider trading prosecution tied to Polymark
 
 The back-to-back cases signal that federal authorities are treating prediction market platforms with the same scrutiny applied to conventional financial exchanges — a posture that could reshape how platforms like Polymarket engage with regulators going forward.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

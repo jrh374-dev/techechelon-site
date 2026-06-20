@@ -23,13 +23,13 @@ WedBush's Dan Ives believes generative AI to be as game-changing as the 1995 Wor
 
 Partnerships like Microsoft's with OpenAI, a deal supposedly worth $10 billion, and Google's ChatGPT alternative, Bard, launched in February, underscore the significance of AI. Sundar Pichai, Alphabet's CEO, has affirmed Google's concentrated efforts towards capitalizing on AI's potential. Similarly, Meta, Facebook's parent company, introduced its Llama 2 language model this July.
 
-Tech Job Dynamics Shifting with AI's Rise
+**Tech Job Dynamics Shifting with AI's Rise**
 
 2023 observed significant layoffs in the tech industry, even impacting giants like Google, Meta, and Microsoft, culminating in about 108,000 layoffs in January, based on Trueup.io statistics. However, by August, these figures seemed to stabilize.
 
 With the broader acceptance of generative AI, job openings in this sector have surged, as indicated by Indeed Hiring Lab data. There was a 122% growth in generative AI job ads in July relative to the same month in the prior year, and a whopping 243% increase from two years ago. Conversely, roles in software development and information design have seen a significant decline.
 
-The Future of AI in Job Markets
+**The Future of AI in Job Markets**
 
 Despite AI's promising prospects, its potential to displace jobs remains a concern among policymakers and regulators. 
 

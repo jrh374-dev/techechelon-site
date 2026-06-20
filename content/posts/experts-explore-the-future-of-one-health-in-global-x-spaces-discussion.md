@@ -13,16 +13,16 @@ migratedFromWix: true
 
 In a dynamic and thought-provoking episode of “Apinions” hosted live on X (formerly Twitter Spaces), Michael Dershem, better known as “Dersh,” founder and CEO of Apierion, brought together global experts in veterinary science and biosecurity for a compelling conversation on the evolving role of animal health in shaping the future of human medicine.
 
-This episode of Apinions, titled “Lions, Tigers, and Vets—Oh My! One Health and Data in Action,” explored the intersection of veterinary medicine, human healthcare, and emerging technologies like AI, blockchain and predictive analytics, in what’s known as the “One Health” movement. At the core of One Health is the idea that the health of people, animals, and their environments is inextricably linked.
+This [episode](https://www.youtube.com/watch?v=i6dsRnPAQxU) of Apinions, titled “Lions, Tigers, and Vets—Oh My! One Health and Data in Action,” explored the intersection of veterinary medicine, human healthcare, and emerging technologies like AI, blockchain and predictive analytics, in what’s known as the “One Health” movement. At the core of One Health is the idea that the health of people, animals, and their environments is inextricably linked.
 
 ###### A Global Lens on One Health
 
 Joining Dersh were two prominent voices in the field:
 
-- Dr. Cindy Otto, a professor at the University of Pennsylvania and the founding director of the Penn Vet Working Dog Center.
-- Dr. Jenny Witthoff, a small animal veterinarian and biohazard consultant with three decades of experience, including work with the federal government on biodefense initiatives. She also teaches at Georgetown University.
+- **Dr. Cindy Otto**, a professor at the University of Pennsylvania and the founding director of the Penn Vet Working Dog Center.
+- **Dr. Jenny Witthoff**, a small animal veterinarian and biohazard consultant with three decades of experience, including work with the federal government on biodefense initiatives. She also teaches at Georgetown University.
 
-The conversation kicked off with reflections on the One Health concept itself. Dr. Witthoff explained that One Health is fundamentally about how humans, animals, and the environment interact and how insights from one domain can inform another. She emphasized the potential for animals to act as sentinels of disease, revealing early warning signs of environmental toxins or emerging infections that might soon affect people.
+The conversation kicked off with reflections on the One Health concept itself. Dr. Witthoff explained that One Health is fundamentally about how humans, animals, and the environment interact and how insights from one domain can inform another. She emphasized the potential for animals to act as _sentinels_ of disease, revealing early warning signs of environmental toxins or emerging infections that might soon affect people.
 
 “Animals are often exposed to environmental hazards long before humans are,” Witthoff noted, “because they’re closer to the ground, exposed to more toxicants, and their smaller size allows diseases or toxins to manifest faster.”
 
@@ -64,4 +64,4 @@ For Dersh and the Apinions community, the takeaway was clear: transforming heal
 
 As Dersh closed the episode, he left listeners with a simple yet resonant message:
 
-“We are focused on shifting healthcare to Humancare—and now, to all care. That’s what One Health is really about.”
+“We are focused on shifting healthcare to Humancare—and now, to _all_ care. That’s what One Health is really about.”

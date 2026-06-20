@@ -23,4 +23,4 @@ Market analysts noted the significance of the data. Chris Larkin, managing direc
 
 Federal Reserve Chair Jerome Powell acknowledged that inflation is moving closer to the central bank’s target but emphasized the need for caution amid economic uncertainties. “It’s kind of common-sense thinking that when the path is uncertain, you go a little bit slower,” Powell explained. “It’s not unlike driving on a foggy night or walking into a dark room full of furniture—you just slow down.” Despite some progress, the Fed remains vigilant, adjusting its strategy to address inflation risks while navigating the complex economic landscape.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

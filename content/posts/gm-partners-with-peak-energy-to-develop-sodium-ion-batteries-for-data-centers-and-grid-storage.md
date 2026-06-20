@@ -35,4 +35,4 @@ GM is not alone in pivoting battery capacity toward energy storage. Crosstown ri
 
 With sodium-ion cell availability targeted for after 2028, the commercial viability of GM's bet on the chemistry — and its ability to capture a share of the infrastructure spending tied to AI expansion — remains a question that the next several years of development will determine.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

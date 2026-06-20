@@ -13,6 +13,8 @@ migratedFromWix: true
 
 Alex Foster is a Fintech entrepreneur who is reimagining the future of algorithmic trading by merging institutional-grade technology with broader market accessibility. With a background rooted in trading, technology, and financial services infrastructure, Alex has built a reputation for identifying gaps in traditional finance and using cutting-edge AI solutions to bridge them. Through his latest venture, Vertus, Alex aims to democratize finance—delivering sophisticated trading strategies to investors beyond the walls of elite institutions.
 
+![Alex Foster](https://static.wixstatic.com/media/e37254_a33ff338aa6640c68d30a0bffa22de86~mv2.jpg)
+
 Alex’s journey into finance began with a personal passion for trading and evolved into a series of ventures that refined his understanding of scalable, compliant, tech-driven investment models. From self-financed studies at the London Academy of Trading to founding firms like Alexander William and Vanquish Holdings, Alex consistently pushed against industry norms, embracing both innovation and regulatory rigor. His collaboration with co-founders Michal and Julius brought together complementary expertise in technology and quantitative finance, laying the foundation for Vertus’ high-growth trajectory.
 
 Today, Alex continues to challenge conventional ideas of fund management by emphasizing risk control, transparency, and performance without compromise. In this exclusive Q&A, he shares insights into his entrepreneurial path, the evolving role of technology in finance, and how Vertus is positioned to lead the next wave of disruption in global investment markets.
@@ -79,4 +81,4 @@ We’re focused on expanding our technology, forming new strategic partnerships,
 
 Stay ahead of the curve by constantly evolving with technology. Focus on solving real industry problems while keeping compliance in mind. And most importantly, build the right team—success in Fintech isn’t just about having the best technology, it’s about having the right people to execute your vision with you.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

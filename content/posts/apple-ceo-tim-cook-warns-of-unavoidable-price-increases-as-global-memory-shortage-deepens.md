@@ -37,4 +37,4 @@ Some analysts see a potential competitive opening embedded in the crisis. Becaus
 
 Cook's comments come fewer than three months before he is set to step down as CEO, leaving his successor to navigate both the memory supply crunch and the broader pricing implications of the AI hardware cycle.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

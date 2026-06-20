@@ -23,4 +23,4 @@ In a blog post accompanying the announcement, Jain emphasized that businesses ar
 
 The rapid rise of AI has fueled record-breaking investment levels, with startups in the sector seeing five times the funding compared to the previous year. According to CB Insights, 36 generative AI startups have now achieved unicorn status as valuations soar, with tech giants such as Microsoft, Amazon, Meta, and Google playing significant roles in the investment surge.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

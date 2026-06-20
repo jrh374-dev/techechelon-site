@@ -23,7 +23,7 @@ Its extensive community spans over 300,000 professionals across 160+ countries, 
 
 “With the support of Growth Catalyst Partners, we are poised to supercharge our community’s work, focusing critically on equitable AI and its opportunities for the future world.”
 
-### Advancing Responsible AI Innovation
+### **Advancing Responsible AI Innovation**
 
 The acquisition will integrate InspiredMinds! into GCP’s Data Society Group, a U.S.-based platform dedicated to workforce development through data and AI. InspiredMinds! will continue to operate independently but will collaborate with Data Society Group to expand its reach, with plans to launch U.S.-based AI summits in 2025.
 
@@ -31,16 +31,16 @@ The acquisition will integrate InspiredMinds! into GCP’s Data Society Group, a
 
 Doug Llewellyn, CEO of Data Society Group, praised Porter’s leadership and the strategic impact of InspiredMinds!. “Together, we will empower future leaders to harness AI’s transformative potential across societal sectors,” Llewellyn said.
 
-### Global Reach and Influence
+### **Global Reach and Influence**
 
 InspiredMinds! has established itself as a key advisor to organizations like the United Nations and European Union, influencing global AI policies. Its events, held in major cities such as Amsterdam, London, Doha, and Basel, have drawn top-tier participants driving innovation and regulation in the rapidly evolving AI landscape.
 
 The acquisition reflects GCP’s ongoing strategy to invest in growth sectors and build market-leading companies. “This partnership underscores the pivotal role of InspiredMinds! in advancing responsible AI innovation and fostering global collaboration,” Dawson added.
 
-### A Shared Vision for Equitable AI
+### **A Shared Vision for Equitable AI**
 
 With AI adoption accelerating at an unprecedented pace, the collaboration between GCP, Data Society Group, and InspiredMinds! positions the latter to lead critical conversations about the ethical implications of AI. 
 
 Porter emphasized the importance of these efforts: “This is a critical moment for human-AI collaboration. Our expanded platform will amplify the voices driving transformative innovation and ensure AI serves the greater good.”
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

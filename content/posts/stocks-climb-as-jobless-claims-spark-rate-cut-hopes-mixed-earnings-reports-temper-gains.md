@@ -29,4 +29,4 @@ In related news, UBS predicted a downturn in U.S. inflation, projecting that the
 
 Meanwhile, Barclays highlighted a continued slump in the U.S. electric vehicle (EV) market, dubbing it an "EV winter." The firm adjusted its volume estimates for General Motors downward, despite the auto manufacturer's strong stock performance this year, suggesting possible future reductions in production forecasts.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

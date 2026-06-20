@@ -35,4 +35,4 @@ For the companies present, the summit represents a direct channel to shape the p
 
 Whether those voluntary pledges satisfy governments seeking harder guardrails — particularly as export control disputes strain U.S. relationships with longtime allies — will determine whether this week's summit amounts to a durable policy moment or a well-photographed lunch.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

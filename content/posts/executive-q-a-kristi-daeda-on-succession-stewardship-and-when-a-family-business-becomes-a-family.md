@@ -11,9 +11,11 @@ readTime: 10
 migratedFromWix: true
 ---
 
-As families navigate the complexities of generational transition, particularly as “The Greatest Wealth Transfer in History Is Here” according to the NY Times, the line between a family business and a family enterprise continues to evolve. Who better to seek to understand this challenge than the CEO of a company that consults with more than 3,000 family businesses on topics that include succession planning, conflict resolution and everything in between. 
+As families navigate the complexities of generational transition, particularly as [“The Greatest Wealth Transfer in History Is Here” according to the NY Times](https://www.nytimes.com/2023/05/14/business/economy/wealth-generations.html), the line between a family business and a family enterprise continues to evolve. Who better to seek to understand this challenge than the CEO of a company that consults with more than 3,000 family businesses on topics that include succession planning, conflict resolution and everything in between. 
 
 Kristi Daeda, President and CEO of The Family Business Consulting Group (FBCG), suggests the family business evolution is at a critical juncture where families must thoughtfully address issues of leadership, ownership, and long-term purpose.
+
+![Kristi Daeda, President and CEO of The Family Business Consulting Group.](https://static.wixstatic.com/media/e37254_cc249d38eeac454984572a16281f4f29~mv2.jpg)
 
 Daeda leads a firm focused on helping multigenerational family enterprises build strong businesses and strong families through clarity of vision, aligned energies, and effective family engagement.
 

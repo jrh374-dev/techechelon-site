@@ -33,4 +33,4 @@ GameStop's stock has recently shown signs of revival, increasing 57% in May alon
 
 In late March, GameStop reported a revenue of $1.79 billion for the fiscal fourth quarter, down from $2.23 billion a year earlier.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

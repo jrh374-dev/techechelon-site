@@ -11,7 +11,7 @@ readTime: 3
 migratedFromWix: true
 ---
 
-In the latest episode of the Apinions X Spaces liveshow by Apierion, healthcare economist Dr. Andrea Feigl and global health strategist Michael Lindenmayer joined host Michael “Dersh” Dershem for a high-stakes discussion on the unraveling of global health funding and what comes next.
+In the latest episode of the _Apinions _X Spaces liveshow by [Apierion](https://apierion.com/), healthcare economist Dr. Andrea Feigl and global health strategist Michael Lindenmayer joined host Michael “Dersh” Dershem for a high-stakes discussion on the unraveling of global health funding and what comes next.
 
 The live X Spaces conversation aired on May 13 tackled the growing fallout from the U.S. government’s withdrawal from the World Health Organization (WHO) and slashed USAID support for health systems in developing countries. With development aid in retreat and billionaires hesitant to fill the void, Feigl and Lindenmayer painted a sobering picture of global health on the brink—but not without pathways forward.
 

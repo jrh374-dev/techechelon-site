@@ -13,11 +13,13 @@ migratedFromWix: true
 
 Serial entrepreneur Erica Anenberg has always had a passion for turning ideas into reality. Over the years, she’s applied her talents to renovating properties and office spaces while working with other builders. When the pandemic hit, she transitioned into construction full-time, founding two innovative companies: Girl Flip and BuilderBud. Both businesses reflect her vision to bring inclusivity and streamlined communication to the traditionally complex and male-dominated construction industry.
 
+![](https://static.wixstatic.com/media/e37254_f131756d0dc64eb98ed65ae1b8705117~mv2.jpg)
+
 #### Girl Flip: Bringing Inclusion to Home Renovation
 
 Girl Flip, a home remodeling service focused on inclusivity and collaboration, was born from Anenberg’s observation that women were underrepresented in the construction world. “During the pandemic, I recognized a significant opportunity for women in construction, so I decided to become a female general contractor. This idea grew out of my passion for building and creating, and Girl Flip was born to bring more inclusion and collaboration to the industry,” Anenberg explained.
 
-Girl Flip’s personalized approach to home renovation has already made waves. The company was recently featured on HGTV’s Flipping El Moussa (Season 2), a significant milestone for the company. “One of my favorite memories is getting the news that Girl Flip would be featured on HGTV’s Flipping El Moussa. It’s a huge milestone for us, and I’m incredibly proud of how far we’ve come since launching in 2021,” said Anenberg.
+Girl Flip’s personalized approach to home renovation has already made waves. The company was recently featured on HGTV’s _Flipping El Moussa_ (Season 2), a significant milestone for the company. “One of my favorite memories is getting the news that Girl Flip would be featured on HGTV’s _Flipping El Moussa_. It’s a huge milestone for us, and I’m incredibly proud of how far we’ve come since launching in 2021,” said Anenberg.
 
 #### BuilderBud: Simplifying Construction Project Management
 

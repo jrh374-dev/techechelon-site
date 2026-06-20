@@ -17,7 +17,7 @@ Microsoft’s top AI executive, Mustafa Suleyman, said this week that only biolo
 
 Suleyman, who joined Microsoft in 2024 following its $650 million acquisition of his startup Inflection AI, has become one of the most outspoken figures in Silicon Valley against the notion of “conscious AI.” 
 
-He argues that while large language models can mimic emotion and simulate sentience, they cannot actually feel. “Our physical experience of pain makes us very sad and feel terrible, but the AI doesn’t feel sad when it experiences ‘pain,’” he said. “It’s really just creating the perception of experience and of itself and of consciousness, but that is not what it’s actually experiencing.”
+He argues that while large language models can mimic emotion and simulate sentience, they cannot actually _feel_. “Our physical experience of pain makes us very sad and feel terrible, but the AI doesn’t feel sad when it experiences ‘pain,’” he said. “It’s really just creating the perception of experience and of itself and of consciousness, but that is not what it’s actually experiencing.”
 
 His position echoes a philosophical view known as biological naturalism, proposed by John Searle, which holds that consciousness depends on processes within living brains. “The reason we give people rights today is because they suffer. They have a pain network and preferences that involve avoiding pain,” Suleyman explained. “These models don’t have that. It’s just a simulation.”
 

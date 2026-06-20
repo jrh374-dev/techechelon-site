@@ -27,4 +27,4 @@ Despite the acquisition, Wiz products will continue to support competitor cloud 
 
 The agreement could face regulatory scrutiny; however, Wall Street analysts have indicated optimism that President Donald Trump's administration may adopt a more permissive stance toward tech mergers and acquisitions. Alphabet, Google's parent company, is currently navigating an antitrust lawsuit over its dominance in online search.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

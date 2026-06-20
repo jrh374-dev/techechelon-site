@@ -27,4 +27,4 @@ Interestingly, while some categories like automotive and medical care services e
 
 The Federal Reserve continues to monitor these trends closely, balancing between stimulating economic growth and controlling inflation to maintain economic stability.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

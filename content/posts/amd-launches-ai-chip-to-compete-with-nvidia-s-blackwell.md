@@ -29,7 +29,7 @@ One challenge for AMD is that Nvidia’s chips utilize their proprietary program
 
 AMD is positioning its AI accelerators as particularly competitive in scenarios where AI models are generating content or making predictions. The company highlighted that its MI325 platform offers up to 40% more inference performance on Meta’s Llama AI model compared to Nvidia’s H200.
 
-Expanding in CPUs
+**Expanding in CPUs**
 
 While AI accelerators and GPUs dominate headlines, AMD’s core business remains central processors (CPUs), which power most servers worldwide. AMD reported data center sales of $2.8 billion for the June quarter, with AI chips accounting for $1 billion.
 
@@ -37,4 +37,4 @@ Although AMD holds about 34% of the market for data center CPUs, Intel continues
 
 These new CPUs are designed to work efficiently with AI workloads, providing the data throughput necessary for GPUs to operate effectively. “Today’s AI is really about CPU capability, especially in data analytics,” said Su.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

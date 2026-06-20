@@ -35,4 +35,4 @@ Apple acknowledged supply constraints on both the Mac mini and MacBook Neo, and 
 
 The results underscore a broader dynamic taking shape across the personal computing market: AI workloads — once assumed to require cloud infrastructure or dedicated data center hardware — are increasingly being run at the device level, pulling consumer and enterprise buyers toward higher-powered local machines. Whether Apple can resolve its supply constraints quickly enough to capture that momentum in the quarters ahead remains an open question.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

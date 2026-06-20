@@ -39,4 +39,4 @@ The results come as other digital advertising platforms also reported strong fir
 
 Pinterest's beat and forward guidance signal that AI-driven advertising tools may be providing meaningful insulation against the macro headwinds facing the broader digital ad market, even as retailer spending and geopolitical uncertainty remain variables to watch heading into the second half of 2026.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

@@ -31,4 +31,4 @@ All three major indexes are on track for weekly losses as investors lock in prof
 
 Still, some analysts view Thursday’s reversal as a healthy, even necessary, reset.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

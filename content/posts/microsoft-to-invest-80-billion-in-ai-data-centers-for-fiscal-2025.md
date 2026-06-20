@@ -33,4 +33,4 @@ To counter these moves, Smith urged the U.S. to double down on promoting America
 
 Microsoft’s massive investment signals the growing importance of AI in shaping the future of technology. With plans to bolster U.S. infrastructure and maintain its partnerships with leading AI innovators, the company aims to strengthen its role as a global leader in AI development.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

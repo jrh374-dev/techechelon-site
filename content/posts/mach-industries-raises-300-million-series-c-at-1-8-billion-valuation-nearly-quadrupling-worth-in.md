@@ -31,4 +31,4 @@ That pitch lands at a moment when defense technology is drawing significant vent
 
 With its expanded manufacturing footprint, a growing vehicle portfolio, a new Pentagon contract, and control of a critical propulsion supply chain, Mach enters the second half of 2026 as one of the more closely watched names in the defense startup landscape. How quickly it can move from development to full-scale production will determine whether its valuation trajectory continues.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

@@ -33,4 +33,4 @@ Nvidia did not respond to a request for comment.
 
 With export controls showing no sign of easing and U.S.-China technology competition intensifying, analysts say a meaningful recovery in Nvidia's China sales is not expected in the near term — regardless of the diplomatic tone set in Beijing this week.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

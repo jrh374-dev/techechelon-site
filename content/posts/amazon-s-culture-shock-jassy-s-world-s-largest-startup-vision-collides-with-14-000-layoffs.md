@@ -17,7 +17,7 @@ The company confirmed 14,000 new layoffs last week—its largest cut yet—and i
 
 Jassy has framed the cuts as a cultural reset, not a financial necessity, arguing that Amazon became too slow and layered after years of aggressive hiring. “We’re working hard to flatten our organization,” he told investors, echoing his recurring theme of stripping away bureaucracy to restore early-stage agility. 
 
-Employees say the reality feels far less entrepreneurial. Slack threads and Reddit forums are filled with memes mocking leadership’s “staying nimble” messaging, with one viral post depicting The Matrix’s Neo dodging bullets labeled “reducing layers.”
+Employees say the reality feels far less entrepreneurial. Slack threads and Reddit forums are filled with memes mocking leadership’s “staying nimble” messaging, with one viral post depicting _The Matrix’s_ Neo dodging bullets labeled “reducing layers.”
 
 The company’s stock, which had underperformed major tech peers for much of the year, rebounded 14% following last week’s earnings beat, closing Monday at a record high. But inside Amazon, optimism is scarce. Staff describe growing pressure to deliver faster innovation—especially in AI—while coping with heavier workloads. Some current and former employees say morale has collapsed under the weight of “efficiency drives” that remove people but not responsibilities.
 

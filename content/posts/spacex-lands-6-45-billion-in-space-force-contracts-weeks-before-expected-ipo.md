@@ -29,4 +29,4 @@ The Golden Dome satellite component represents one of the more high-profile elem
 
 With the IPO expected to set records and government contracts now providing a clearer revenue picture, investors will be watching closely to see whether the company's dependence on federal spending is a source of stability or vulnerability in a shifting political environment.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

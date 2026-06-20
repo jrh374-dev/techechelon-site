@@ -21,4 +21,4 @@ AMD also announced a major deal on Tuesday, potentially worth $10 billion, to pr
 
 AMD is set to supply graphics processors and central processors needed for AI servers, while Humain will also be purchasing Nvidia chips. Following the announcement, Bank of America analyst Vivek Arya raised his price target for AMD by $10, setting it at $130 per share.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

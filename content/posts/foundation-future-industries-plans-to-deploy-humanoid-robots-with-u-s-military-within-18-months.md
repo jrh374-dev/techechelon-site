@@ -35,4 +35,4 @@ Ukraine's ongoing conflict with Russia, now in its fifth year, has become a test
 
 The company's push to scale production, close its capability gaps, and satisfy government partners will determine whether military humanoid robotics moves from demonstration to doctrine — and whether Foundation can hold its position as competitors in an increasingly crowded field pursue similar contracts.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

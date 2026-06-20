@@ -13,7 +13,9 @@ migratedFromWix: true
 
 Chris Loeffler built Caliber Wealth Management in 2009 to capitalize on opportunities within the distressed real estate market and underserved middle-market assets, firmly not digital assets. The company’s roots go back to the post-2008 period, when the market was messy, headlines were loud and good deals were available for people who could stay disciplined. 
 
-Today, Caliber (NASDAQ: CWD) operates across multiple real estate strategies, including buying and operating existing income-producing commercial properties, stepping into value-add situations and getting involved in projects that need fresh capital, new structure, or a more active operator mindset. It is not about being flashy. It is about being consistent.
+Today, [Caliber (NASDAQ: CWD)](https://www.caliberco.com/) operates across multiple real estate strategies, including buying and operating existing income-producing commercial properties, stepping into value-add situations and getting involved in projects that need fresh capital, new structure, or a more active operator mindset. It is not about being flashy. It is about being consistent.
+
+![Chris Loeffler, CEO of Caliber (NASDAQ: CWD)](https://static.wixstatic.com/media/e37254_8181c6f91d6c46e4a610b2433b1437e0~mv2.jpg)
 
 That consistency is also how Caliber built to scale. Managing $2.6 billion of assets did not happen from one good year; it came from repeating the basic principles of investing and management, such as sourcing deals others miss, being transparent with investors and building trust across wealth managers, family offices and ultra high-net-worth clients who care more about process than marketing.
 
@@ -27,7 +29,7 @@ It is still a small slice of what Caliber does, but it is a deliberate slice, bu
 
 In the Q&A below, Chris breaks down Caliber’s real estate foundation, why this cycle matters for allocators and why wealth managers and family offices should at least understand DAT as part of what the next decade may look like.
 
-### Q: Chris, for people meeting you for the first time, what is Caliber and why did you decide to build a Digital Asset Treasury strategy?
+### **Q: Chris, for people meeting you for the first time, what is Caliber and why did you decide to build a Digital Asset Treasury strategy?**
 
 Caliber has been in the business of building real assets and alternative investments for a long time. We know what it means to underwrite risk, manage through cycles and stay disciplined when the market gets noisy.
 
@@ -169,4 +171,4 @@ The finance industry has not modernized its core rails in a long time, and this 
 
 You can watch it happen, or you can own a stake in the infrastructure that helps power it.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

@@ -31,4 +31,4 @@ Leo draws a historical parallel to Pope Leo XIII's 1891 encyclical Rerum Novarum
 
 The document's publication signals that major institutional voices outside the technology industry — and outside traditional regulatory bodies — are increasingly willing to stake out specific positions on AI governance, adding pressure on governments and companies that have so far resisted binding international frameworks.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

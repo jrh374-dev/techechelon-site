@@ -11,7 +11,9 @@ readTime: 3
 migratedFromWix: true
 ---
 
-In a groundbreaking development for cybersecurity education, MAD20 Technologies, a recent spin-out from MITRE Engenuity, and CYBER RANGES, a global leader in simulation-based cybersecurity training, announced a strategic partnership aimed at preparing cyber professionals for real-world challenges. This collaboration marks a significant step forward in practical cybersecurity education, integrating MAD20’s unique Living Certifications™ with CYBER RANGES’ advanced simulation capabilities.
+In a groundbreaking development for cybersecurity education, MAD20 Technologies, a recent spin-out from MITRE Engenuity, and CYBER RANGES, a global leader in simulation-based cybersecurity training, [announced a strategic partnership](https://mad20.io/mad20-cyberranges-press-release) aimed at preparing cyber professionals for real-world challenges. This collaboration marks a significant step forward in practical cybersecurity education, integrating MAD20’s unique Living Certifications™ with CYBER RANGES’ advanced simulation capabilities.
+
+![](https://static.wixstatic.com/media/e37254_139b35e076684d75a68c1affe4f42c5e~mv2.jpg)
 
 MAD20 Technologies, emerging from MITRE Engenuity’s robust environment, has established itself as a comprehensive provider of cybersecurity training, focusing on the MITRE ATT&CK framework. The collaboration with CYBER RANGES will leverage their industry-leading simulation and emulation-based training to create a dynamic and comprehensive learning experience for those in the cyber defense sector.
 

@@ -13,10 +13,10 @@ migratedFromWix: true
 
 A recent report by Arthur AI, a prominent machine learning monitoring platform, awarded some of the leading AI models in the tech industry:
 
-- OpenAI’s GPT-4: Best at math.
-- Meta’s Llama 2: Average performer.
-- Anthropic’s Claude 2: Top in recognizing its own limitations.
-- Cohere AI: Most frequent hallucinator and often confidently incorrect.
+- **OpenAI’s GPT-4**: Best at math.
+- **Meta’s Llama 2**: Average performer.
+- **Anthropic’s Claude 2**: Top in recognizing its own limitations.
+- **Cohere AI**: Most frequent hallucinator and often confidently incorrect.
 
 Amid rising concerns over AI-driven misinformation, especially in the wake of the upcoming 2024 U.S. presidential election, this report aims to shed light on the "hallucination rates" of these models. Instead of merely ranking them, the study delves deeper into where these AI models might provide erroneous information. As Adam Wenchel, the CEO of Arthur, puts it, it's about understanding their performance beyond a leaderboard.
 

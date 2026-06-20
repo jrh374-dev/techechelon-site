@@ -33,4 +33,4 @@ The tech industry's influence over the administration's AI posture has been on d
 
 Whether the voluntary participation framework will draw broad industry cooperation — and how the government intends to enforce access timelines without a mandatory mechanism — will likely define the order's practical impact in the months ahead.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

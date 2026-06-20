@@ -35,4 +35,4 @@ AMD also saw major gains in its Client and Gaming segment, which includes chips 
 
 Despite profit pressures, Su expressed confidence in AMD’s AI roadmap and overall product demand, signaling a robust outlook for the remainder of the year.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

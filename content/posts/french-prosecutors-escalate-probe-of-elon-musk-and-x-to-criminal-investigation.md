@@ -31,4 +31,4 @@ The criminal escalation marks a notable turning point in the case, shifting it f
 
 The parallel investigations across multiple jurisdictions, combined with domestic scrutiny from California's attorney general, suggest that regulatory pressure on Musk's AI and social media operations is intensifying globally, even as the American federal government has signaled it will not be a cooperative partner in those efforts.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

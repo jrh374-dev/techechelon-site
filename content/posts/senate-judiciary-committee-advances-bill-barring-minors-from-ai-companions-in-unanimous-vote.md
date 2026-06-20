@@ -33,4 +33,4 @@ In February 2024, 14-year-old Sewell Setzer died by suicide after spending sever
 
 The GUARD Act must still clear a full Senate floor vote and pass the House before it could be signed into law. Its unanimous committee passage signals bipartisan appetite for some form of AI regulation targeting child safety, even as the broader debate over where to draw the line between protection and access remains unresolved.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

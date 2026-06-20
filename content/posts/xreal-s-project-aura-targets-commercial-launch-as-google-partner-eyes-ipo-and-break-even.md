@@ -33,4 +33,4 @@ The broader smart glasses market has seen renewed competition as form factors sh
 
 For now, Xreal's commercial timeline, IPO plans, and break-even target in 2027 will be the clearest indicators of whether the company can translate its Google partnership and hardware progress into a sustainable business.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

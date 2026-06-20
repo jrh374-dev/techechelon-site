@@ -39,4 +39,4 @@ Precious metals also reflected choppy sentiment. Silver — a volatile trade tha
 
 The day’s rally suggests investors may be distinguishing between long-term AI beneficiaries and areas most vulnerable to disruption. Whether the rebound marks a durable turn or just a pause in a broader repricing remains the key question heading into next week.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

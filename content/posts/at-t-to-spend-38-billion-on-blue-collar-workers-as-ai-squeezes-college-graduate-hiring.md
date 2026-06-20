@@ -35,4 +35,4 @@ Economists and technologists caution that the blue-collar hiring surge may itsel
 
 For now, the workers AT&T, Nvidia, and others are most urgently recruiting hold no four-year degree — and the companies say they cannot find enough of them.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

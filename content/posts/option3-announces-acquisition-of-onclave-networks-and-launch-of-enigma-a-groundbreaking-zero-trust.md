@@ -11,7 +11,7 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Option3, a seasoned private equity firm with a focus on cybersecurity, unveiled today its acquisition of Onclave Networks, setting the stage for the launch of ENIGMA, its new platform dedicated exclusively to Zero Trust security technologies.
+[Option3](https://option3.com/), a seasoned private equity firm with a focus on cybersecurity, [unveiled today](https://www.prnewswire.com/news-releases/enigma-launches-its-zero-trust-cybersecurity-platform-with-acquisition-of-onclave-networks-302229790.html) its acquisition of Onclave Networks, setting the stage for the launch of ENIGMA, its new platform dedicated exclusively to Zero Trust security technologies.
 
 Zero Trust, a security concept that assumes breach likelihood and demands stringent verification for every network request, has become critical as traditional security measures fall short against sophisticated cyber threats.
 
@@ -23,4 +23,4 @@ Jim Taylor, CEO of Onclave Networks, shared his enthusiasm about becoming a key 
 
 The need for robust cybersecurity solutions like Zero Trust has been propelled into the spotlight by President Biden’s 2021 mandate requiring all federal agencies to adopt this rigorous security model. ENIGMA aims to meet these demands with a portfolio of purpose-built Zero Trust capabilities that have already been tested extensively in demanding global contexts, with plans for significant rollouts in sectors such as U.S. hospitals and the worldwide automotive industry.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

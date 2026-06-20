@@ -33,4 +33,4 @@ Altman’s remarks suggest that as the technology becomes more powerful, the com
 
 In an industry defined by rapid innovation and enormous capital flows, the relationship between AI developers and the state may ultimately shape how the technology evolves — and who controls it.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

@@ -27,4 +27,4 @@ The previous year marked a pivotal moment for Alibaba as it restructured into si
 
 Furthermore, Alibaba has canceled the planned public listings for its cloud and logistics divisions. As the company navigates these transformations, Ma's recent comments not only serve to uplift Alibaba's workforce but also highlight the leadership's focus on adapting to future technological advancements, particularly in the realm of e-commerce and artificial intelligence.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

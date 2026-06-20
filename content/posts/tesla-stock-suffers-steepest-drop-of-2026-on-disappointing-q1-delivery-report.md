@@ -31,4 +31,4 @@ The broader backdrop for Tesla remains challenging. The company has recorded ann
 
 Tesla's automotive gross margins and supply chain dynamics will be closely scrutinized when the company reports full Q1 earnings on April 22. One notable countertrend: sales of used electric vehicles have increased since the U.S.-Iran war began in late February, as elevated oil prices have pushed some consumers toward electrification — though whether that tailwind is sufficient to move the needle on Tesla's top line remains to be seen.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

@@ -29,4 +29,4 @@ In a further positive development, Super Micro recently announced it would offer
 
 In September, Super Micro received a Nasdaq compliance notice due to its delayed report. According to Nasdaq rules, the company had 60 days to either file the report or present a compliance plan, with the deadline set for Monday.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

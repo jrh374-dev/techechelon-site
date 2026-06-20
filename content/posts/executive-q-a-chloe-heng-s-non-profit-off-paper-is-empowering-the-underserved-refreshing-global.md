@@ -17,7 +17,9 @@ As Off Paper continues to grow, it measures success through community engagement
 
 TechEchelon recently interviewed Off Paper's founder, Chloe Heng, on the organization's critical work.
 
-Q: What inspired the creation of Off Paper, and how did you identify the specific needs it addresses in underserved communities?
+**Q: What inspired the creation of Off Paper, and how did you identify the specific needs it addresses in underserved communities?**
+
+![](https://static.wixstatic.com/media/e37254_4a4ba977e45a45109eb39f278dd74839~mv2.jpg)
 
 Amid the challenges posed by the Covid-19 pandemic, technology emerged as a pivotal force reshaping our work and learning landscape. Initiatives driven by technology, such as online learning, demonstrated their potential to deliver high-quality education to individuals, irrespective of location and time. The genesis of Off Paper can be traced back to my experiences during this transformative period. It became a fertile ground for innovative solutions, presenting opportunities to enhance existing ways of life. Having encountered various digital tools that facilitated quality learning experiences, my goal was to create a product tailored to the needs of underserved children, providing them with similar opportunities.
 
@@ -27,11 +29,11 @@ After developing the curriculum, drawing up low-fidelity wireframes, and creatin
 
 Since 2022, Off Paper has grown from an idea into a registered non-profit organization that transcends borders, effecting tangible change in the physical world through the digital one. Currently, we have established eight hubs across four countries, collectively serving approximately 400 children. Educators and volunteers who have witnessed the efficacy of our application have championed our work among their peers, catalyzing the expansion of our reach across countries and communities. As more communities seek our help and there's a lot of work ahead, we're expanding our team to keep up with the increasing demand. At the same time, we're setting up guidelines to choose the right partners, making sure our resources are used effectively.
 
-Q: Can you share the story behind the name “Off Paper” and how it reflects the mission of your organization?
+**Q: Can you share the story behind the name “Off Paper” and how it reflects the mission of your organization?**
 
 The children we serve come from disadvantaged backgrounds and are first-generation students who are most susceptible to learning poverty. For those with homes, they either reside in at-risk communities such as in the red-light district alongside their mothers, who work there, or in impoverished slums lacking adequate infrastructure and sanitation facilities. While some are fortunate to receive sponsorship from donors enabling them to attend school within low-income communities, others are not as fortunate. Additionally, I've been informed that certain children are not officially registered at birth. The name ‘Off Paper’ finally recognizes these children who are off-the-grid, while embodying our digital approach to tackling inaccessibility to quality education.
 
-Q: What have been the most significant challenges in developing and deploying the Off Paper literacy app in remote communities?
+**Q: What have been the most significant challenges in developing and deploying the Off Paper literacy app in remote communities?**
 
 We encounter the typical challenges faced by most non-profits, foremost among them being the imperative of securing financial sustainability to sustain our mission.
 
@@ -39,7 +41,7 @@ In terms of operational challenges, we had the foresight to create an app that w
 
 Community upskilling poses another significant challenge. Each community comprises distinct student groups with varying needs and abilities, necessitating tailored curriculum guides and training programs for educators. Moreover, fostering a collective commitment among teachers and volunteers to embrace unfamiliar methodologies is crucial. I recall a conversation with a local volunteer who expressed apprehension about potentially damaging resources, leading to a tendency to safeguard rather than utilize them. Establishing collaborative relationships is pivotal; involving volunteers and educators in the solution-building process fosters ownership and engagement. Providing comprehensive knowledge and patient guidance is essential, recognizing that our users may have a steeper learning curve compared to digital natives. They require a thorough understanding of how our resources benefit the community and guidance on maximizing their potential utilization.
 
-Q: How does Off Paper ensure the app remains culturally relevant and sensitive to the diverse backgrounds of its users?
+**Q: How does Off Paper ensure the app remains culturally relevant and sensitive to the diverse backgrounds of its users?**
 
 I reside in Singapore, a melting pot of diverse races and cultures, which has provided me with an understanding of multiculturalism from an early age. As I transitioned into the education sector, I became adept at crafting culturally relevant and sensitive lessons and resources, such as ensuring equitable representation of various racial groups and their cultures.
 
@@ -47,7 +49,7 @@ When entering communities with unfamiliar cultural norms, it is important to eng
 
 In addition, we offer specialized lessons highlighting various cultural celebrations, beliefs, and cuisines from around the world, such as the Cambodian Water Festival and Lunar New Year. Our aim is to broaden the children's worldview and spark curiosity about different cultures, fostering an appreciation for diversity and uniqueness.
 
-Q: What kind of training do teachers and volunteers undergo to effectively utilize the Off Paper app in their teaching?
+**Q: What kind of training do teachers and volunteers undergo to effectively utilize the Off Paper app in their teaching?**
 
 The initial step entails vetting our potential partners. Are their beliefs, goals, and expectations in alignment with ours? It’s not enough that they say it is; there must be a demonstrated track record of concerted efforts and actions reflecting this alignment. When misalignments emerge in these fundamental aspects, the sustainability of the partnership is jeopardized. Additionally, we assess our partners' capacity, ensuring they possess the requisite resources to execute their responsibilities safely, effectively, and sustainably.
 
@@ -55,13 +57,13 @@ Following the qualification of partners, we embark on field visits to observe th
 
 Post-training, we conduct further observations of the implementation plan in action and actively solicit feedback from users. Our approach is dynamic and continually evolving. Whenever new features are introduced, we engage our volunteers through Zoom sessions to familiarize them with the updates and empower them to effectively utilize the platform.
 
-Q: Could you describe a particularly memorable success story that highlights the impact of Off Paper on an individual or community?
+**Q: Could you describe a particularly memorable success story that highlights the impact of Off Paper on an individual or community?**
 
 At our first hub, we had grown from 30 to 50 children, and to 140 now. We also expanded to 8 hubs within a year with over 400 beneficiaries. The growth combined with positive qualitative feedback from locals highlights to me that we are really meeting a need and that our actions as a non-profit have a positive impact on an entire community.
 
 While numerical metrics are undoubtedly significant, it is the intimate anecdotes and personal interactions with the children that truly encapsulate the profound impact of our efforts. Witnessing their enthusiastic engagement and joyous enthusiasm during learning sessions, and the exuberant cheers and smiles upon achieving success in quizzes; that’s what success looks like to me. While we diligently strive to enhance our impact through interrogating numbers and analyzing assessment scores, it is equally crucial that our influence extends beyond the academic sphere to encompass emotional well-being. I want the children to feel seen and valued enough that we would invest our time, energy, and care into their growth and development. I believe that fostering both academic and emotional growth is essential for genuine transformation to occur.
 
-Q: How does Off Paper measure the success and effectiveness of its literacy program in the various communities it serves?
+**Q: How does Off Paper measure the success and effectiveness of its literacy program in the various communities it serves?**
 
  We employ a variety of tools to assess the effectiveness of our initiatives. I have found the Operating Principles for Impact Management and the Social Value International Principles to be invaluable in guiding our efforts. Our journey began with the creation of a roadmap using the Theory of Change framework, which helped us delineate a logical sequence outlining how our activities can culminate in measurable impact while avoiding efforts that yield minimal change. Through this process, we clarified the core issues we aim to address, identified our target audience, narrowed down entry points to reaching them, defined the desired change we want to bring, outlined the measurable effects we can monitor and evaluate, and established wider benefits and long-term goals we want to achieve.
 
@@ -69,7 +71,7 @@ Since then, we have utilized various methods to measure our identified core prob
 
 Engaging stakeholders is integral to evaluating the success and effectiveness of Off Paper's program. As we collect feedback and data, we continuously refine our Theory of Change and adapt to accommodate our evolving trajectory of growth.
 
-Q: With technology constantly evolving, how does Off Paper plan to keep its app and content up-to-date and engaging for children?
+**Q: With technology constantly evolving, how does Off Paper plan to keep its app and content up-to-date and engaging for children?**
 
 Technology moves so fast; just as we begin to grasp the latest developments, the world has already moved on. We are mindful to exercise prudence, avoiding over-consumption and excessive expenditure. Instead of succumbing to the allure of every shiny new technology that emerges, we prioritize evaluating whether new tech features genuinely benefit users within their unique circumstances. We don’t want a product laden with bells and whistles but lacking in real-world usefulness for our users. Our focus remains steadfast on identifying the specific needs we aim to address and seeking out and testing tech that best align with those needs, rather than adopting new tech and attempting to retrofit a need to justify investment. I aim to achieve equilibrium between being caught in a whirlpool of hype and being overly resistant to new methods, which could render our technology obsolete and inefficient.
 
@@ -77,7 +79,7 @@ We've cultivated a great network of professionals specializing in fields such as
 
 Stakeholders on the ground play a pivotal role in informing our decision-making process. Both children and volunteers are provided with feedback mechanisms to share their preferences regarding content and features within the app. Volunteers, in particular, offer valuable insights into potential enhancements to our app's technology. Our approach is holistic; we look at the contextual shifts that are happening at large as well as on the ground, within the communities we serve. Through these different avenues, we educate ourselves and evaluate what serves the best interests of our beneficiaries.
 
-Q: How does the app incorporate character-building and life skills alongside academic learning?
+**Q: How does the app incorporate character-building and life skills alongside academic learning?**
 
 As an organization entrusted with the vital task of educating young minds, we recognize the paramount importance of prioritizing holistic education. It extends beyond mere academic success; we must also emphasize instilling character traits and life skills essential for societal integration. We embed these values into our lessons, ensuring a well-rounded education for our beneficiaries.
 
@@ -87,7 +89,7 @@ Character values are also inculcated in the eBooks, which are complemented by co
 
 Unlike individuals like us, who are often taught essential life skills from a young age by our parents and educators—ranging from packing a school bag to personal hygiene and nutrition—children in these communities lack similar experiences. Recognizing this disparity, we incorporate these vital topics into our application, ensuring that children have the opportunity to acquire essential life skills alongside academic learning.
 
-Q: What are the long-term goals of Off Paper, and how do you envision its role in the broader context of global education?
+**Q: What are the long-term goals of Off Paper, and how do you envision its role in the broader context of global education?**
 
 Real change takes time. Our long-term goal is to ensure that children under our care develop a strong foundation in the English language and an appreciation for life-long learning. This pursuit not only broadens their prospects in terms of employment but also grants them access to a plethora of knowledge, ultimately breaking the cycle of poverty within their generation. Above all, we endeavor to empower these children, often marginalized by conventional systems, to feel acknowledged and deserving of equal opportunities.
 
@@ -97,15 +99,15 @@ To achieve this, we are dedicated to data-driven research to improve the learnin
 
 Acknowledging the economic landscape, I anticipate that fundraising efforts may face greater challenges this year. Nonetheless, our team is tasked with cultivating meaningful relationships with donors, inviting them to become integral members of our tight-knit community. Exploring diverse revenue streams to sustain our initiatives is also on our agenda. Despite the obstacles, I am confident that our team's sincerity, authenticity, and passion will pave the way for success in achieving our objectives.
 
-Q: How can individuals or organizations get involved or contribute to the mission of Off Paper?
+**Q: How can individuals or organizations get involved or contribute to the mission of Off Paper?**
 
 We invite volunteers who possess a genuine passion for making a positive impact to join our team. Running an educational technology non-profit demands more than just expertise in education or technology; it necessitates a multifaceted approach to ensure the success of our endeavors so we really do welcome anyone regardless of skill set who are dedicated to the cause. We are equally eager to collaborate with organizations whose missions align with ours, fostering synergistic partnerships that amplify our collective impact. We greatly appreciate monetary contributions as well, no matter the amount. While my team and I volunteer our time and efforts, financial support remains crucial for ongoing enhancements to our learning application, investment in the physical infrastructure of new hubs, and the training of our volunteers.
 
-Q: In what ways has the feedback from communities shaped the evolution of the Off Paper app and its offerings?
+**Q: In what ways has the feedback from communities shaped the evolution of the Off Paper app and its offerings?**
 
 While I initially grasped the importance of providing quality education to children in these communities, determining what precisely constituted "quality education" for them proved to be challenging. It required a process of trial and error to discover the right approach. Initially, I relied heavily on my educational background from Singapore as a benchmark for designing the curriculum within the application. I prioritized the eight foundational skills of the English language, crafting lessons with the level of rigor and content typical of a national examination. However, upon launching our pilot project in the Philippines, I swiftly realized the curriculum was out of sync with the children's needs. It became evident that the ability to read fluently and communicate effectively were paramount skills for them, with other aspects being less practical. Furthermore, the content was overly complex and required simplification, broken down into more manageable units. Additionally, the children required more assistive features to facilitate autonomous learning. Subsequently, we overhauled the curriculum to address these gaps, resulting in positive feedback from users. It's essential to recognize that the app and its offerings should remain dynamic; continual monitoring and improvement of content and features are imperative. We owe it to the children we serve, even if it entails scraping existing elements and starting anew.
 
-Q: What is Off Paper's strategy to sustain and expand its operations, especially considering the economic challenges nonprofits face?
+**Q: What is Off Paper's strategy to sustain and expand its operations, especially considering the economic challenges nonprofits face?**
 
 Given the current economic climate and donor fatigue resulting from numerous appeals to support various worthy causes, the Off Paper team recognizes the necessity of exploring less traditional fundraising methods to garner support from donors.
 
@@ -113,7 +115,7 @@ Our objective is to transform the transactional nature of the relationship donor
 
 To achieve this, we are delving into more personalized and interactive approaches for individuals to connect with our cause and to bridge the disconnect between donors and beneficiaries. For example, inviting donors to actively participate in the solution-building process and creating avenues for benefactors to witness the tangible impact of their contributions every step of the way through first-hand insight into how their donations positively impact the lives of those we serve. Additionally, we are embarking on meaningful projects aimed at generating alternative sources of income to sustain our efforts.
 
-Q: Can you give us a sneak peek into any upcoming features or projects that Off Paper is excited about in the near future?
+**Q: Can you give us a sneak peek into any upcoming features or projects that Off Paper is excited about in the near future?**
 
 - Cultural Collaboration with other schools
 - Kickstarter to design creative common books
@@ -121,12 +123,12 @@ Q: Can you give us a sneak peek into any upcoming features or projects that Off 
 - New hubs coming soon
 - New AI features to improve the personalized learning experience
 
-Q: How does Off Paper balance the use of technology with the importance of human interaction in learning and development?
+**Q: How does Off Paper balance the use of technology with the importance of human interaction in learning and development?**
 
 We strike a delicate balance between the utilization of technology and the principles of developmental and educational psychology. At the heart of our product design and implementation lie human connection. That’s the best way for children to learn, especially when they are learning a new language. Off Paper goes beyond simply delivering an application for children to use in isolation. We collaborate closely with local leaders, schools, and non-profits to establish safe and nurturing environments led by passionate volunteers. Equipped with devices featuring the Off Paper literacy app, these hubs serve as safe spaces where volunteers and children can gather, connect, and themselves in the world of literacy learning. Off Paper's facilitators actively engage in the learning process alongside the children and children are given the opportunity to work in groups with their peers, acknowledging the ethical significance of balancing technology-driven education with human connection.
 
 Other infrastructure considerations include selecting appropriately sized devices that enable groups of children to collaboratively work on one device, and providing projectors to schools to facilitate learning for entire classes. We are also committed to reflecting these ethical obligations through the content and activities incorporated into the Off Paper application.
 
-Q: Finally, what message would you like to share with the children who are just starting their learning journey with Off Paper?
+**Q: Finally, what message would you like to share with the children who are just starting their learning journey with Off Paper?**
 
 Education unlocks a future where your dreams become your reality. With it, you have the power to change both your narrative and reality for generations to come. We understand that your journey to education is scary; however, at Off Paper, we are here for you every step of the way. We can’t wait to learn with you and your friends.

@@ -37,4 +37,4 @@ The Federal Trade Commission also moved last week, sending warning letters to 12
 
 Critics have noted that the Take It Down Act does not prevent initial sharing and still places the burden on victims to monitor and flag harmful content across platforms, reflecting ongoing debate about the law's practical reach.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

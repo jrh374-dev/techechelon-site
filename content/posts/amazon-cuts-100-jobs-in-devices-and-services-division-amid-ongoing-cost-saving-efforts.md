@@ -25,4 +25,4 @@ In tandem with its return-to-office efforts, Amazon has also aimed to simplify i
 
 The job cuts at Amazon come as other major tech companies continue to adjust their workforce strategies. Microsoft, for instance, announced this week that it would eliminate around 6,000 jobs as part of a broader organizational restructuring.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

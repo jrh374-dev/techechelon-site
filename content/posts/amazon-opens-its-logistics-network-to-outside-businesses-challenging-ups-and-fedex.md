@@ -29,4 +29,4 @@ For Amazon's e-commerce unit, the move opens a new revenue stream at a time when
 
 Whether the new service can meaningfully challenge FedEx and UPS at scale will depend on customer adoption and Amazon's ability to handle the added volume without degrading service quality across its existing network — a threshold that will become clearer as more enterprise clients come online.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

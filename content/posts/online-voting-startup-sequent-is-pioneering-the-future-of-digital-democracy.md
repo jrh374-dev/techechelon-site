@@ -7,11 +7,13 @@ author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-08-28T17:18:15.246Z"
 coverImage: "https://static.wixstatic.com/media/e37254_6907b2db39434d16984e78821f223d80~mv2.jpg"
-readTime: 4
+readTime: 5
 migratedFromWix: true
 ---
 
-Sequent, a pioneering online voting platform, is redefining the democratic process by making it more accessible, secure, and verifiable. Founded by a team with deep roots in cybersecurity, cryptography, and electoral processes, the company is dedicated to ensuring that every vote counts and that every voter can trust the integrity of the electoral process.
+![From left to right, David Ruescas Co-Founder & Head of Research; Eduardo Robles Co-Founder & CTO; Shai Bargil Co-Founder & CEO.](https://static.wixstatic.com/media/e37254_080b74414d174f89800bc55c8a3f0102~mv2.jpg)
+
+[Sequent](https://sequentech.io/), a pioneering online voting platform, is redefining the democratic process by making it more accessible, secure, and verifiable. Founded by a team with deep roots in cybersecurity, cryptography, and electoral processes, the company is dedicated to ensuring that every vote counts and that every voter can trust the integrity of the electoral process.
 
 Democracy faces numerous challenges—from declining voter turnout to growing concerns about election security. Sequent’s mission is to empower citizens and enhance democratic engagement through cryptographic-based technology. At its core, the company offers a three-tiered assurance system that addresses the fundamental needs of modern elections: voter confidentiality, end-to-end vote verifiability, and complete system transparency.
 
@@ -19,7 +21,7 @@ Democracy faces numerous challenges—from declining voter turnout to growing co
 
 Sequent’s approach to digital democracy is rooted in the belief that accessibility is crucial for a thriving democratic system. The company’s platform is designed to be user-friendly and ensure that voters of all backgrounds can participate in elections without technical barriers. This is particularly significant in regions where traditional voting methods tend to limit voter turnout.
 
-Cutting-edge technology at the core
+**_Cutting-edge technology at the core_**
 
 Eduardo Robles, co-founder and CTO of Sequent, emphasizes the technological sophistication that underpins the platform. “Our system leverages state-of-the-art cybersecurity practices and cryptographic protocols to create a secure and transparent voting environment. From ensuring distributed key generation to utilizing zero-knowledge proofs, every component of our technology is designed to safeguard voter privacy and election integrity.”
 
@@ -27,7 +29,7 @@ Sequent’s online voting solution includes several key features designed to opt
 
 The platform’s adaptability and ease of use make it a valuable tool for a variety of organizations, including local and national governments, public organizations, political parties, and election system integrators. In turn, Sequent is helping to bring the confidence of secure online voting to elections of all sizes and complexities.
 
-Proven success in real-world elections
+**_Proven success in real-world elections_**
 
 Sequent’s impact is already evident on a global scale. The platform has been successfully implemented in over 210 elections across various countries and tallied more than 3.2 million votes. Its use has been particularly transformative in regions where traditional voting methods such as mail-in ballots and rural polling stations have posed significant challenges, thereby enhancing participation and making the democratic process more inclusive.
 
@@ -35,7 +37,7 @@ Sequent’s impact is already evident on a global scale. The platform has been s
 
 In another case, Sequent’s technology was used to facilitate a complex electoral process involving hundreds of different ballot styles for a large political party. Despite the logistical challenges, Sequent’s platform ensured the election was conducted smoothly, with full transparency and verifiable results.
 
-Commitment to transparency and collaboration
+**_Commitment to transparency and collaboration_**
 
 Beyond its technological innovations, Sequent is committed to transparency and ethical practices. The company collaborates closely with academic institutions and industry experts to continually refine its offerings and stay ahead of the evolving needs of democracies worldwide. This commitment is reflected in Sequent’s open-source development approach, which allows researchers, technologists, and the public to scrutinize and contribute to the platform’s development.
 
@@ -43,7 +45,7 @@ Beyond its technological innovations, Sequent is committed to transparency and e
 
 This open-source approach not only enhances the platform’s security but also builds public trust. It allows independent audits, continuous peer review, and is able to meet the stringent demands of electoral processes.
 
-The future of online voting
+**_The future of online voting_**
 
 As Sequent continues to expand, its founders remain focused on their mission to redefine the landscape of democratic participation. With ongoing partnerships in both public and private sectors, Sequent is poised to support a future where every vote is not only counted but counted correctly, securely, and transparently.
 

@@ -25,7 +25,7 @@ Current SEC rules mandate quarterly reporting, though guidance is voluntary. Cha
 
 Supporters of quarterly filings say they are critical for transparency and investor confidence. “Having to wait six months for official results would cause more difficulties than it would add benefits,” said Art Hogan, chief market strategist at B. Riley Wealth Management.
 
-Critics, however, argue quarterly cycles encourage short-termism. Warren Buffett and Jamie Dimon made that case in a 2018 Wall Street Journal op-ed, warning that quarterly guidance often prioritizes immediate profits over long-term growth. Norway’s sovereign wealth fund and the Long-Term Stock Exchange have also advocated for less frequent disclosures.
+Critics, however, argue quarterly cycles encourage short-termism. Warren Buffett and Jamie Dimon made that case in a 2018 _Wall Street Journal_ op-ed, warning that quarterly guidance often prioritizes immediate profits over long-term growth. Norway’s sovereign wealth fund and the Long-Term Stock Exchange have also advocated for less frequent disclosures.
 
 ### Global Comparisons
 
@@ -35,4 +35,4 @@ Hogan dismissed comparisons to Europe, noting the unique scale of U.S. markets: 
 
 For now, Trump’s proposal is just that—a proposal. But with the SEC in Republican control, what once seemed a perennial debate about disclosure standards could become a live policy fight.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

@@ -31,4 +31,4 @@ Palo Alto, growing significantly faster than IBM, reported a 19% revenue increas
 
 The deal is expected to close by the end of September, pending regulatory approval and other conditions. Krishna expressed confidence in significantly growing IBM's consulting business through Palo Alto's products, similar to its success with Azure and AWS, and anticipates quickly generating substantial new consulting revenues.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

@@ -21,7 +21,7 @@ Brain-computer interfaces (BCIs) like Neuralink's Telepathy decode neural activi
 
 The functionalities demonstrated by Neuralink are not entirely novel, with Dr. Nader Pouratian of UT Southwestern Medical Center noting that controlling a cursor via brain signals is a decades-old achievement within the field. He underscored the excitement surrounding BCIs but acknowledged the numerous practical obstacles that remain.
 
-Following FDA approval in May 2023, Neuralink initiated its first human trial last fall, with Musk announcing the successful implantation of the device in Arbaugh earlier this year. However, details about the trial's scope and objectives remain sparse, with the study yet to be listed on clinicaltrials.gov, a central repository for research trials.
+Following FDA approval in May 2023, Neuralink initiated its first human trial last fall, with Musk announcing the successful implantation of the device in Arbaugh earlier this year. However, details about the trial's scope and objectives remain sparse, with the study yet to be listed on [clinicaltrials.gov](http://clinicaltrials.gov), a central repository for research trials.
 
 The extent of participation in Neuralink’s trial and its specific goals are currently unclear, with the company needing to clear multiple stages of safety and efficacy evaluations before obtaining final FDA approval.
 

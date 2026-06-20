@@ -25,4 +25,4 @@ Prior to Wednesday’s rally, Apple had been in the midst of its worst four-day 
 
 Apple has yet to release a public statement regarding the tariff developments. CEO Tim Cook is expected to provide more insight during the company’s upcoming earnings call on May 1.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

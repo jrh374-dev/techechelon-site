@@ -31,4 +31,4 @@ Google, for its part, is significantly expanding AI spending. In April, the comp
 
 The SpaceX-Google arrangement places SpaceX in direct competition with so-called neocloud infrastructure providers such as CoreWeave and Nebius, companies that have built businesses around leasing GPU capacity to AI firms. With its IPO on the horizon and two major compute agreements now in place, SpaceX's ability to sustain and expand that revenue stream will be a central test of whether its AI infrastructure bet can offset mounting losses in the segment.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

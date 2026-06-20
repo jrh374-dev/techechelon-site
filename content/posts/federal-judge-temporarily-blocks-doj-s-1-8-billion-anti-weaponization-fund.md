@@ -35,4 +35,4 @@ The DOJ did not immediately respond to a request for comment on Brinkema's order
 
 The June 12 hearing will determine whether the preliminary injunction holds while litigation continues, a timeline that could shape whether any of the fund's resources reach claimants before the legal challenges are resolved.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

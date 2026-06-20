@@ -31,4 +31,4 @@ Uber joins a lengthening list of major employers trimming workforce segments in 
 
 With Hazelbaker's mandate now extending across both corporate affairs and the restructured people function, the coming months will test whether the consolidated leadership structure delivers the operational clarity the company says it is seeking.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

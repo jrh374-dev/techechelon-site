@@ -29,4 +29,4 @@ The new funding will be used to expand SpecterOps’ platform, accelerate resear
 
 This round follows SpecterOps’ Series A funding in 2023, which was extended with an $8.5 million investment from Ballistic Ventures, bringing the total to $33.5 million at the time. With this latest investment, SpecterOps is positioned to scale its solutions and help enterprises stay ahead of modern cyber threats.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

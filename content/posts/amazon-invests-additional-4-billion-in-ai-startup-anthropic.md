@@ -27,4 +27,4 @@ Anthropic has also attracted investment from Google, which committed $2 billion 
 
 As the AI arms race intensifies, Amazon’s growing relationship with Anthropic highlights the company’s strategic focus on generative AI, positioning AWS as a key infrastructure provider for the technology’s future.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

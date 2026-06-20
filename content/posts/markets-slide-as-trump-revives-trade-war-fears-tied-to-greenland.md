@@ -31,4 +31,4 @@ U.S. officials sought to calm markets. Treasury Secretary Scott Bessent urged r
 
 As investors weigh geopolitical risk against earnings and policy uncertainty, markets appear set for elevated volatility—particularly if tariff rhetoric hardens or retaliatory measures materialize.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

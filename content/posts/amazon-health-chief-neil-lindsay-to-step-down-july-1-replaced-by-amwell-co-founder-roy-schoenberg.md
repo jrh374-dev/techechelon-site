@@ -33,4 +33,4 @@ Schoenberg's appointment brings a health-care-native perspective to the division
 
 Whether Schoenberg's clinical and entrepreneurial background accelerates Amazon's ambitions in a sector that has resisted easy disruption remains the central question for the unit heading into the second half of 2026.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

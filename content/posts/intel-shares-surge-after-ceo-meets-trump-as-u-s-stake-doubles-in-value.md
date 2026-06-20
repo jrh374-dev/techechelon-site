@@ -25,4 +25,4 @@ At the time, Intel said its leadership was “deeply committed to advancing U.S.
 
 Tan was appointed CEO in March 2025, stepping into the role amid declining sales and operational instability following the tenure of former CEO Pat Gelsinger. Since then, Intel has positioned itself as a central pillar of the U.S. effort to rebuild domestic semiconductor manufacturing — a strategy now reinforced by both government backing and renewed political support.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

@@ -33,4 +33,4 @@ If Mobileye executes on its five-year scaling target, a fleet of 17,000 vehicles
 
 The 2027 timeline gives Mobileye roughly 18 months to secure regulatory approvals, finalize vehicle partnerships, and select an operating market, all while managing the supplier relationships that remain central to its core business.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

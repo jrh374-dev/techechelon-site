@@ -33,4 +33,4 @@ The Virginia outage comes as scrutiny of data center reliability and geographic 
 
 AWS has not provided a timeline for when all affected systems will be fully restored.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

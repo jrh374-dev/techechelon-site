@@ -33,4 +33,4 @@ Labor market data also remained stable. Initial jobless claims for the week endi
 
 Taken together, the data suggests tariffs are reshaping trade flows while productivity gains are helping stabilize growth — a combination that could prove pivotal as the economy heads into 2026.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

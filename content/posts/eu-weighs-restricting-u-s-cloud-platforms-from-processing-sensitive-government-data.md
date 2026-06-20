@@ -37,4 +37,4 @@ In April, the Commission awarded a 180 million euro tender to four European sove
 
 With the May 27 presentation date approaching, the full scope and binding force of the proposed restrictions remain unsettled, and officials cautioned that talks are ongoing and have not been finalized. How member states receive the package — and whether consensus among all 27 governments can be secured — will determine whether the proposals advance into enforceable regulation.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

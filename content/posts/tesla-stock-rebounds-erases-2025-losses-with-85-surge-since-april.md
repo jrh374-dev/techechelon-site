@@ -31,4 +31,4 @@ Tesla leadership has sought to redirect attention to longer-term bets on robotax
 
 For now, Tesla’s stock surge underscores how quickly sentiment can shift on one of the market’s most closely watched—and polarizing—companies.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

@@ -35,4 +35,4 @@ Separately, White House staff and the traveling press corps discarded all materi
 
 Negotiations over rare earth access are expected to continue well into the summer, with the possibility of a return visit by Xi to the United States in September potentially keeping several of the summit's unresolved issues on the agenda.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

@@ -11,7 +11,7 @@ readTime: 4
 migratedFromWix: true
 ---
 
-In a new episode of Apinions, Michael “Dersh” Dershem, founder and CEO of Apierion, sat down with Hugh Dugan, a career diplomat who spent more than three decades at the State Department advising 11 U.S. ambassadors to the United Nations. The two tried to make sense of a post-UNGA moment that feels less like a policy adjustment and more like a tectonic shift in how the U.S. approaches global health. The central question: if Washington is scaling back multilateral funding, is it walking away from global leadership—or redefining it?
+In a new episode of [Apinions](https://www.youtube.com/watch?si=oefA-kGjb3OuqhO5&v=UNBRruh7tp4&feature=youtu.be), Michael “Dersh” Dershem, founder and CEO of Apierion, sat down with Hugh Dugan, a career diplomat who spent more than three decades at the State Department advising 11 U.S. ambassadors to the United Nations. The two tried to make sense of a post-UNGA moment that feels less like a policy adjustment and more like a tectonic shift in how the U.S. approaches global health. The central question: if Washington is scaling back multilateral funding, is it walking away from global leadership—or redefining it?
 
 Dugan’s answer came without hesitation. Money, he said, doesn’t equal leadership. The United States isn’t retreating; it’s recalibrating—moving from bulky, high-overhead international programs toward leaner, more accountable partnerships. The old system, in his view, rewards process over progress. “Let’s stop with the fluff,” he said. “Show us results on the ground.”
 

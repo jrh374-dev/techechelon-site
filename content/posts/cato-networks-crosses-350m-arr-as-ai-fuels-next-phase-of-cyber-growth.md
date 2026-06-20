@@ -49,4 +49,4 @@ While Cato did not commit to a public listing timeline, Kramer said the company 
 
 For now, the message is clear: while markets debate whether AI disrupts cybersecurity, companies like Cato are betting that AI will expand the category, not shrink it — and that the winners will be those who integrate it fastest into a unified platform.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

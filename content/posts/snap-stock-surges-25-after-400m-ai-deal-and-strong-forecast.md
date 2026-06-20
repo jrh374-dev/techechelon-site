@@ -21,12 +21,12 @@ The company’s most significant announcement was its deal with Perplexity AI, a
 
 “We have a unique opportunity to help distribute AI agents through our chat interface,” CEO Evan Spiegel said, noting that Perplexity will have default placement in Snapchat’s chat inbox. Snap will not sell ads against Perplexity’s chatbot responses, but expects the integration to boost engagement and attract new users.
 
-Snap is also spinning off its augmented reality glasses division, turning its Specs line into a standalone subsidiary to accelerate development with external partners. The next-generation glasses remain slated for a 2026 debut. Spiegel said the change will provide “more optionality” for collaboration and faster innovation.
+Snap is also spinning off its augmented reality glasses division, turning its _Specs_ line into a standalone subsidiary to accelerate development with external partners. The next-generation glasses remain slated for a 2026 debut. Spiegel said the change will provide “more optionality” for collaboration and faster innovation.
 
 Despite the upbeat results, Snap cautioned investors that regulatory headwinds may slow growth. In a letter to shareholders, the company said that new age-verification and child-safety laws in regions like Australia, Utah, and California could reduce daily active users in the near term. 
 
-Australia’s new minimum-age bill, for instance, will soon penalize platforms that allow users under 16. Similar laws in the U.S. will require app stores to verify ages starting next year. Snap also warned that some of its newer monetization efforts, like Snapchat+, could temporarily reduce engagement as they expand globally.
+Australia’s new minimum-age bill, for instance, will soon penalize platforms that allow users under 16. Similar laws in the U.S. will require app stores to verify ages starting next year. Snap also warned that some of its newer monetization efforts, like _Snapchat+_, could temporarily reduce engagement as they expand globally.
 
 After losing 32% of its value earlier this year, Snap’s sharp rebound reflects renewed investor confidence that its AI partnerships, AR ambitions, and improving fundamentals may mark the beginning of a turnaround for the long-challenged social media firm.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

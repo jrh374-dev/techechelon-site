@@ -39,4 +39,4 @@ For now, the semiconductor sector remains relatively insulated from the geopolit
 
 However, analysts say the situation highlights how closely the AI boom is tied to both global energy markets and fragile supply chains, meaning that a prolonged conflict could eventually ripple through one of the world’s most strategically important industries.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

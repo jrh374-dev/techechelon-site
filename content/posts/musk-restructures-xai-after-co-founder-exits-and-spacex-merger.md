@@ -35,4 +35,4 @@ The reorganization suggests a shift from founding-team experimentation to scaled
 
 Whether the overhaul signals internal turbulence or simply growing pains as Musk consolidates his AI ambitions into a trillion-dollar enterprise will likely become clearer as hiring accelerates and the IPO timeline sharpens.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

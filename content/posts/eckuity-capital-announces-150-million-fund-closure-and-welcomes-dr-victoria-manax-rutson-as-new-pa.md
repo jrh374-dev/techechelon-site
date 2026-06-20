@@ -11,7 +11,7 @@ readTime: 2
 migratedFromWix: true
 ---
 
-In a significant move to bolster its leadership and investment prowess, Eckuity Capital, a prominent growth and venture capital investor based in New York and London, announced the appointment of Dr. Victoria Manax Rutson as a new Partner. This strategic appointment coincides with the firm's recent closure of a $150 million fund, dedicated to advancing life science, healthcare, and technology sectors.
+In a significant move to bolster its leadership and investment prowess, Eckuity Capital, a prominent growth and venture capital investor based in New York and London, [announced](https://www.prnewswire.com/news-releases/eckuity-capital-closes-150-million-fund-and-appoints-new-partner---top-clinical-oncologist-dr-victoria-manax-rutson-302086859.html) the appointment of Dr. Victoria Manax Rutson as a new Partner. This strategic appointment coincides with the firm's recent closure of a $150 million fund, dedicated to advancing life science, healthcare, and technology sectors.
 
 Dr. Manax, a renowned clinical oncologist with more than 20 years of experience in the pharmaceutical and biotech industries, brings a wealth of expertise in global drug and device development, nanomedicines, and the commercial launch of groundbreaking medical solutions. Her innovative approach to clinical trial designs has been instrumental in the development and approval of major products, notably transforming the treatment landscape for pancreatic cancer.
 

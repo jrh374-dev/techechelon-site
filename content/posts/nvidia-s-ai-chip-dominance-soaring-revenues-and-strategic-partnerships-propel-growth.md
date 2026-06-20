@@ -45,4 +45,4 @@ A key question for Nvidia is how well the transition to its next generation of A
 
 "To some degree, the setup has shifted," wrote Morgan Stanley analyst Joseph Moore on Monday. "Six months ago, short term expectations were very strong but there was anxiety about durability. Now, fresh on the back of hyperscalers talking up longer-term spending expectations for AI, those longer-term views are more positive, but there is anxiety about a pause in front of Blackwell."
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

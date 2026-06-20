@@ -23,4 +23,4 @@ Airbus, like many in the aviation sector, has faced several security challenges 
 
 In the United States, the Transportation Security Administration (TSA) is implementing new security requirements for airports and aircraft operators. Similarly, in the European Union, the upcoming Implementing Regulation 2023/203 aims to manage information security risks within the aviation industry, expected to be in force between 2025 and 2026. These regulations are likely to accelerate the adoption of cybersecurity measures within the industry, according to Tenenbaum.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

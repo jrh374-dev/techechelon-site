@@ -29,4 +29,4 @@ The startup's founders, who previously sold their security company Adallom to Mi
 
 Despite the setback, Wiz continues to focus on its growth trajectory and upcoming IPO.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

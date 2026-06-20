@@ -37,4 +37,4 @@ In response to the uproar, the White House reiterated its stance, with a spokesp
 
 The spokesperson further affirmed, “Our position has been clear and consistent: we believe tech companies and other private actors should take into account the effects their actions have on the American people, while making independent choices about the information they present.”
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

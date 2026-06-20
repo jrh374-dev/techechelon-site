@@ -35,4 +35,4 @@ In response, OpenAI rotated the code-signing certificates exposed in the inciden
 
 The episode underscores the cascading risks of supply-chain attacks, where a single set of compromised credentials in a widely used package ecosystem can expose multiple organizations simultaneously. With TeamPCP's self-imposed deadline approaching, Mistral and the broader developer community are watching closely to see whether the stolen repositories surface publicly or are quietly sold.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

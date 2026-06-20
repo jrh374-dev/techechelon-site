@@ -31,4 +31,4 @@ Democrats immediately condemned the appointment. Thune's public criticism was no
 
 Whether the Senate will move to confirm a permanent DNI nominee — or whether Pulte will serve in an acting capacity for an extended period — remains an open question, one that lawmakers on both sides of the aisle are now pressing the White House to answer.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

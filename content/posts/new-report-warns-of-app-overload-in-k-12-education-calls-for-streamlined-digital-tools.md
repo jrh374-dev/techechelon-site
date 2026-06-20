@@ -11,7 +11,7 @@ readTime: 2
 migratedFromWix: true
 ---
 
-A new research report highlights the growing challenges associated with the excessive use of educational applications in school districts nationwide. Based on a survey of more than 100 teachers, 125 parents, and 50 district and private school curriculum leaders, the report finds a stark contrast between administrative optimism and the day-to-day struggles faced by educators and families.
+A new [research report](https://cornerstonepr.net/app-overload-how-a-fragmented-digital-landscape-is-failing-k-12-education/) highlights the growing challenges associated with the excessive use of educational applications in school districts nationwide. Based on a survey of more than 100 teachers, 125 parents, and 50 district and private school curriculum leaders, the report finds a stark contrast between administrative optimism and the day-to-day struggles faced by educators and families.
 
 While district leaders express confidence in their chosen suite of digital tools, teachers report increased administrative workloads, and parents voice frustration with juggling multiple apps to monitor their children's progress.
 

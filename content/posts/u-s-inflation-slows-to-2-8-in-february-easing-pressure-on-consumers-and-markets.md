@@ -49,4 +49,4 @@ The Atlanta Fed’s GDPNow tracker projects a 2.4% contraction in first-quarter
 
 With inflation cooling but economic uncertainty rising, the Fed’s next moves will be closely watched by markets and policymakers alike.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

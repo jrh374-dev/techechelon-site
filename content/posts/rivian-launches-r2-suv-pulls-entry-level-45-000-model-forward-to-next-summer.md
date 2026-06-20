@@ -43,4 +43,4 @@ Compact and mid-size SUVs, the segment where the R2 will compete most directly, 
 
 Whether sustained production volumes and the Georgia facility's eventual ramp can deliver the profitability that has eluded Rivian since its founding will be the central question analysts watch as R2 deliveries broaden in the months ahead.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

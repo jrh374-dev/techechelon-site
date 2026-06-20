@@ -39,4 +39,4 @@ Since 2024, Microsoft has openly acknowledged OpenAI as a competitor, while simu
 
 The Musk v. Altman trial, centered on the evolution of OpenAI, has also served as an unexpected window into the pressures Microsoft faced as generative AI reshaped the competitive landscape it had long dominated.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

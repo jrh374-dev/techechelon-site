@@ -27,4 +27,4 @@ The company’s all-in-one platform spans payroll, IT device management, and cor
 
 While Rippling isn’t focused on near-term profitability, the new funding and share buyback program underscore its momentum—and its preference to remain private until market conditions shift.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

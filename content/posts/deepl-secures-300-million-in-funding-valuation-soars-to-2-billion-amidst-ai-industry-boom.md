@@ -37,4 +37,4 @@ DeepL’s ambition is to evolve into a more integral productivity tool for enter
 
 DeepL has intensified its push into the enterprise sector, now serving notable clients like Zendesk, Nikkei, Coursera, and Deutsche Bahn.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

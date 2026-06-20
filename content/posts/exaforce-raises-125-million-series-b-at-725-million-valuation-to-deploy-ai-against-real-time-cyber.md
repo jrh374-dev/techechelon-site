@@ -31,4 +31,4 @@ Exaforce operates in a competitive and rapidly expanding market. Rivals include 
 
 The funding round underscores both the substantial capital requirements for building AI-driven security infrastructure and the scale of the opportunity investors see in the sector — reinforcing a broader pattern of venture money flowing toward companies positioned at the intersection of artificial intelligence and enterprise defense as threat actors deploy the same tools to accelerate attacks.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

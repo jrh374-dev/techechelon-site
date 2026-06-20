@@ -17,21 +17,21 @@ Generative AI is also potentially transformative in business when used in combin
 
 By combining diverse AI functionalities, composite AI can effectively address the individual limitations inherent in standalone systems. As a result, composite AI has the potential to tackle intricate business challenges that would be insurmountable for a single model.
 
-Historical Context and Comparison
+_Historical Context and Comparison_
 
 Before the emergence of generative AI, many enterprises used machine learning to drive innovation, which presented limitations with data storage and reasoning capabilities.
 
 These shortcomings can be supplemented by generative AI via large language models (LLMs) that possess the ability to create synthetic data and articulate complex algorithms in plain language.
 
-Current and Future Applications of Composite AI
+_Current and Future Applications of Composite AI_
 
 Composite AI has already made inroads into various business applications such as customer relationship management and enterprise resource planning systems. Additionally, tools such as help chats, virtual assistants, and digital concierges have enhanced human-AI interactions.
 
-Future use cases are also expanding for composite AI, including workflow automation, simulation tools, and low-code and no-code software development that stands to democratize specialized areas of software development. One company that specializes in cloud infrastructure, Cascadeo, has also launched a platform to help companies manage cloud deployments using composite AI– one among many advanced AI offerings available in a rapidly growing market.
+Future use cases are also expanding for composite AI, including workflow automation, simulation tools, and low-code and no-code software development that stands to democratize specialized areas of software development. One company that specializes in cloud infrastructure, [Cascadeo](https://www.cascadeo.com/), has also launched a platform to help companies manage cloud deployments using composite AI– one among many advanced AI offerings available in a rapidly growing market.
 
 “Composite AI holds significant potential to improve how many businesses operate and interact with their clients or customers,” said Jared Reimer, Co-Founder, President and CTO of Cascadeo in a recent interview. “Equally difficult will be the processes of stringing together otherwise disparate AI systems into one composite whole, a new service we’re digging into and believe will grow significantly in the future.”
 
-Risks and Recommendations
+_Risks and Recommendations_
 
 Despite its benefits, composite AI systems do pose some risks. Analysts note that generative AI can produce erroneous or even totally fabricated outputs. This can include the amplification of inherent biases, plagiarism, and AI “hallucinations” where systems fabricate data that is accurate enough to seem correct, but contains significant problems that render it unusable.
 
@@ -41,7 +41,7 @@ Beyond these general risks, enterprises also face the unique challenge of addres
 
 Given these challenges, experts recommend that businesses approach composite AI with a healthy dose of caution and expertise. As with any process that poses risks, companies are best served by engaging experts, setting clear guidelines, and continuously educating both internal teams and their customer bases.
 
-Ethical and Security Considerations
+_Ethical and Security Considerations_
 
 Moving forward, businesses should also carefully consider the ethical factors of their composite AI integration strategies, experts say.
 
@@ -51,4 +51,4 @@ Additionally, experts also suggest that it’s paramount to ensure that no propr
 
 Generative and composite AI have indisputably marked a significant shift in the business landscape, revolutionizing operations, customer interactions, and approaches to enterprise challenges. Prioritizing transparency, continuous education, and robust ethical and security protocols will play key roles for businesses aiming to responsibly harness the vast potential of composite AI now and in the years to come.
 
-Victoria Barrett serves as Marketing Manager for Cascadeo, and is a veteran writer, editor, English professor, and publishing professional. Her writing has appeared in Washington Post, Salon, and a variety of literary journals.
+_Victoria Barrett serves as Marketing Manager for __[Cascadeo](https://www.cascadeo.com/)__, and is a veteran writer, editor, English professor, and publishing professional. Her writing has appeared in Washington Post, Salon, and a variety of literary journals._

@@ -39,4 +39,4 @@ The broader narrative aligns with a growing trend across industries: AI is not j
 
 For investors, the takeaway is clear: Axon is no longer just a hardware company with software attached. It is becoming an AI-powered public safety platform — and the market is starting to price it that way.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

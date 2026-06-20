@@ -27,4 +27,4 @@ The government's decision to take equity stakes alongside the grants marks a not
 
 The deals remain subject to formal completion. The Commerce Department did not immediately respond to a request for comment.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

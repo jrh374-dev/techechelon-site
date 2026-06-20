@@ -33,4 +33,4 @@ Karayaneva, who grew up in the former Soviet Union and described witnessing gove
 
 With four acquisitions completed and a nine-figure credit line available for further consolidation, Propy's ability to scale its training and integration model across additional title companies will be the central test of whether blockchain-native closings can move from a niche offering to a mainstream alternative in the U.S. residential market.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

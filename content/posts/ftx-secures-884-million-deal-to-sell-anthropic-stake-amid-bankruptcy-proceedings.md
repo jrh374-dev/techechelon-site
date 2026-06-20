@@ -35,4 +35,4 @@ Legal representatives have informed a Delaware court of their confidence in full
 
 Negotiations for a potential relaunch of FTX were ultimately abandoned in January.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

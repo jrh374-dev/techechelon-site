@@ -31,4 +31,4 @@ The ruling reinforces a broader pattern of the current Court narrowing the scope
 
 With the SEC retaining exclusive enforcement authority under this framework, the decision shifts the balance of power away from activist shareholders and toward fund managers in disputes over governance structures, signaling a potentially more challenging environment for hedge funds pursuing bylaw challenges through federal litigation.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

@@ -41,4 +41,4 @@ Apple's board authorized a new $100 billion share repurchase program and declare
 
 With the leadership transition set for September and a Siri update expected before year's end, Apple enters the second half of its fiscal year carrying momentum — and an AI strategy still taking shape under a new executive.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

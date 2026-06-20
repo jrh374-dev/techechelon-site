@@ -35,4 +35,4 @@ Stocks are also poised to close December in positive territory. The Dow is up 1.
 
 The S&P 500 has added 0.7%, also eyeing an eight-month winning run, while the Nasdaq is modestly higher, heading for its eighth positive month in nine.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

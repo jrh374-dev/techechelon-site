@@ -11,7 +11,7 @@ readTime: 2
 migratedFromWix: true
 ---
 
-In a bid to expedite customer data analytics, GrowthLoop unveiled its groundbreaking collaboration with Google Cloud today. This partnership brings forth the 'Easy Button' solution, an innovation designed to revolutionize the way marketing teams access and employ their customer data.
+In a bid to expedite customer data analytics, GrowthLoop [unveiled](https://www.prnewswire.com/news-releases/growthloop-announces-accelerated-customer-data-platform-insights-and-value-with-google-cloud-easy-button-taking-setup-from-months-to-hours-301915203.html) its groundbreaking collaboration with Google Cloud today. This partnership brings forth the 'Easy Button' solution, an innovation designed to revolutionize the way marketing teams access and employ their customer data.
 
 Previously, setting up such platforms could take months. With the 'Easy Button', marketers can deploy and begin to navigate customer segments, design targeted marketing paths, and even tap into generative AI within mere hours. The initiative aims to channel customer data into Google's BigQuery swiftly, opening doors to a comprehensive data layer for teams.
 
@@ -21,11 +21,11 @@ The challenge for many marketing teams has traditionally been in harnessing data
 
 GrowthLoop's 'Easy Button' promises to:
 
-1. Streamline Data Ingestion: Seamlessly connect marketing data sources, including web data, Google Ads, Salesforce, etc., via its integration.
-2. Accelerate Data Modeling: Harness Google Cloud Cortex Framework for rapid data modeling from essential sources like SAP and Salesforce.
-3. Enhance Segmentation: Create audience profiles using a user-friendly interface or via natural language commands, integrated directly with BigQuery.
-4. Boost Activation: Synchronize customer segments across varied marketing tools, and design holistic customer experiences.
-5. Optimize Measurement: Employ Looker's data visualization for in-depth campaign analysis.
+1. **Streamline Data Ingestion**: Seamlessly connect marketing data sources, including web data, Google Ads, Salesforce, etc., via its integration.
+2. **Accelerate Data Modeling**: Harness Google Cloud Cortex Framework for rapid data modeling from essential sources like SAP and Salesforce.
+3. **Enhance Segmentation**: Create audience profiles using a user-friendly interface or via natural language commands, integrated directly with BigQuery.
+4. **Boost Activation**: Synchronize customer segments across varied marketing tools, and design holistic customer experiences.
+5. **Optimize Measurement**: Employ Looker's data visualization for in-depth campaign analysis.
 
 GrowthLoop's co-founder, Chris Sell, commented, "The 'Easy Button' is our response to the burgeoning demand for smarter, data-driven marketing. We envision marketers fully equipped to harness the data cloud and Generative AI, transitioning from months to mere hours for setup."
 

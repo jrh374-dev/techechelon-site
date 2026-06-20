@@ -37,4 +37,4 @@ The keynote was available to stream on YouTube, at apple.com, and through the Ap
 
 How Apple frames its AI roadmap under Cook — and how Ternus positions himself for the transition — will likely shape investor and developer sentiment heading into the fall product cycle.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

@@ -27,4 +27,4 @@ AT&T’s fiber business added 226,000 new subscribers, falling short of the anti
 
 Operating expenses surged by 14% to $28.1 billion, exceeding the $22.31 billion estimate compiled by LSEG. A significant portion of the increased costs was driven by a $4.4 billion non-cash goodwill impairment charge related to AT&T’s business wireline unit, where customers have been moving away from legacy services faster than expected.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

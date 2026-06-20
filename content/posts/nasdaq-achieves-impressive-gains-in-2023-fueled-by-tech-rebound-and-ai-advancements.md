@@ -33,4 +33,4 @@ The tech rally of 2023 was not accompanied by a surge in initial public offering
 
 Byron Lichtenstein of Insight Partners referred to 2023 as "the great reset," indicating that the most promising companies for IPOs might not debut until the latter half of 2024. This period will be used for necessary preparations, such as strengthening governance and improving IT and accounting systems.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

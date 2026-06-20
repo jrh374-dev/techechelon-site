@@ -27,7 +27,7 @@ Advocates say the measure could be transformative.
 
 “With actual, upfront, and accountable prices, patients will be able to shop for the best care with protection from rampant overcharges hiding in the shadows,” said Cynthia Fisher, Founder and Chairman of Patient Rights Advocate. “We urge all senators to support this bill and pass it without delay to protect America’s patients.”
 
-Mark Newman, CEO and co-founder of healthcare platform Nomi Health, said the bill is equally important for employers, who often fund insurance plans without access to the underlying claims data.
+Mark Newman, CEO and co-founder of healthcare platform [Nomi Health](https://www.nomihealth.com/), said the bill is equally important for employers, who often fund insurance plans without access to the underlying claims data.
 
 “For too long, businesses large and small have been forced to navigate healthcare costs without access to the very data that reveals where the money goes, where the care gaps lie, and how to fix them,” he said. “This legislation is a critical step toward empowering employers to partner with third-party experts, bring transparency to opaque systems, and ultimately drive down costs while improving care.”
 

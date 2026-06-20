@@ -31,4 +31,4 @@ Murr described the early traction of x402 as a turning point. "We saw immediate 
 
 With the formal launch of Coinbase for Agents, the company is positioning Base and its payments infrastructure as core rails for a financial internet increasingly mediated by automated systems rather than individual human users.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

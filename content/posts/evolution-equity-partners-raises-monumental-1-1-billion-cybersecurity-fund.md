@@ -11,7 +11,7 @@ readTime: 2
 migratedFromWix: true
 ---
 
-In a landmark achievement for the cybersecurity investment landscape, Evolution Equity Partners announced the final close of its Evolution Technology Fund III, with an impressive $1.1 billion in capital commitments. This fund is now the largest dedicated cybersecurity investment vehicle ever raised, reflecting a significant milestone in the industry.
+In a landmark achievement for the cybersecurity investment landscape, Evolution Equity Partners [announced](https://www.prnewswire.com/news-releases/evolution-equity-partners-closes-on-1-1-billion-for-cybersecurity-investment-in-oversubscribed-fund-raise-302117459.html) the final close of its Evolution Technology Fund III, with an impressive $1.1 billion in capital commitments. This fund is now the largest dedicated cybersecurity investment vehicle ever raised, reflecting a significant milestone in the industry.
 
 The fundraising campaign was markedly successful, exceeding its target and becoming oversubscribed. A diverse group of existing and new limited partners contributed, including leading global institutions, sovereign wealth funds, insurance companies, endowments, foundations, family offices, and high-net-worth individuals. This wide-ranging support underscores the strong market confidence in Evolution Equity Partners' strategic focus and expertise in the cybersecurity sector.
 

@@ -35,4 +35,4 @@ The shift is expected to affect smaller companies and independent developers mos
 
 The pricing change arrives as competition in the AI coding assistant market has intensified, giving developers a growing range of alternatives. How many Copilot users follow through on cancellation threats, and whether Microsoft adjusts its model in response to the backlash, will likely become clear in the weeks following the June 1 rollout.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

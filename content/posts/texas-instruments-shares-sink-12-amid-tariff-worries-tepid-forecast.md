@@ -21,4 +21,4 @@ Despite the sell-off, the company reported solid second-quarter results. Revenue
 
 Texas Instruments, which plays a key role in supplying semiconductors to the automotive and industrial sectors, continues to navigate a complex economic landscape shaped by trade policies and global supply chain shifts.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

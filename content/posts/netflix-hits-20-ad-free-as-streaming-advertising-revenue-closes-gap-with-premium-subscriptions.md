@@ -37,4 +37,4 @@ Premium subscribers still generate more revenue today, analysts note. "The goal 
 
 Whether Netflix can sustain price increases on its ad-free tier while simultaneously driving ad revenue growth will be a central test of the dual-model strategy — and one the broader streaming industry will be watching closely.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

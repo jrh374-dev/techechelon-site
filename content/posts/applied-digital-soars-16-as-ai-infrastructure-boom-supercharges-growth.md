@@ -35,4 +35,4 @@ Applied Digital’s aggressive buildout comes amid an industrywide scramble to s
 
 Analysts surveyed by LSEG expect the company’s momentum to continue into next quarter, forecasting $76 million in revenue and a $0.15 per-share loss, as Applied Digital scales to meet surging AI demand.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

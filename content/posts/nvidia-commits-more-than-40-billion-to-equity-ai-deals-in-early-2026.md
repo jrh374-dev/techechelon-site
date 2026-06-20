@@ -31,4 +31,4 @@ The pace and size of the commitments reflect a broader pattern among large techn
 
 How Nvidia manages potential conflicts of interest between its role as a chip supplier and its growing position as an equity investor in its own customer base is likely to face increased scrutiny as regulators and investors assess the structure of AI-era capital flows.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

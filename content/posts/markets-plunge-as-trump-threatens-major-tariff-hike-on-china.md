@@ -33,4 +33,4 @@ With political gridlock deepening and global trade tensions rising, investors fl
 
 “Expectations for a China trade deal just got swept off the table,” said Jeff Kilburg of KKM Financial. “Profit-takers are out in full force, and traders are reassessing what this means for earnings season ahead.”
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

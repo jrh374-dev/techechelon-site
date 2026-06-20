@@ -25,7 +25,7 @@ U.S. Treasury Secretary Janet Yellen expressed her disapproval of Fitch's decisi
 
 Here's an insight into what this credit rating decision could mean for the economy and personal finances:
 
-Implications for the Economy
+**Implications for the Economy**
 
 Credit rating decisions like Fitch's are essentially based on a country's ability to manage its escalating debt.
 
@@ -39,7 +39,7 @@ The federal government's capacity to fund social welfare initiatives and economy
 
 For now, experts suggest the rating change does not significantly impact the esteemed status of U.S. Treasury bonds, the financial tool that enables the country to borrow money in exchange for an agreement to repay lenders with interest.
 
-Impact on Everyday Finances
+**Impact on Everyday Finances**
 
 The possible financial implications for individuals, like the economic threat, are likely to be more long-term than immediate, experts suggest.
 

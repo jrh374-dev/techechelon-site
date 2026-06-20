@@ -11,7 +11,7 @@ readTime: 3
 migratedFromWix: true
 ---
 
-A recent Apinions interview is spotlighting a fast-growing idea in agritech: soil isn’t just a resource — it’s a patient. 
+A recent [Apinions interview](https://x.com/apierion/status/1981852103061778764) is spotlighting a fast-growing idea in agritech: soil isn’t just a resource — it’s a patient. 
 
 Agronomist Donnie Engelhardt says the path to healthier food, livestock, and people starts with the health of the ground itself. “Soil is the original patient,” he said. “If food is medicine, we need to treat the soil first.”
 

@@ -33,4 +33,4 @@ The May activity underscores how family offices are treating professional and re
 
 With pickleball's infrastructure now capitalized at the nine-figure level and wearable sports technology drawing institutional-style family office backing, the sector is drawing capital from multiple tiers of the private wealth market simultaneously. Whether deal volume sustains through the second half of 2026 will depend in part on how existing positions perform as sports media rights negotiations intensify across multiple leagues.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

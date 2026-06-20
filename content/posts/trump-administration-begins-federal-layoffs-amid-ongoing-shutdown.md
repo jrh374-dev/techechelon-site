@@ -13,15 +13,15 @@ migratedFromWix: true
 
 The Trump administration began issuing permanent layoffs to federal workers on Friday as the U.S. government shutdown entered its tenth day, marking a sharp escalation in the political standoff that has already halted key government operations.
 
-Office of Management and Budget Director Russell Vought confirmed the move on X, writing, “The RIFs have begun,” using the acronym for Reductions in Force. An OMB spokesperson later said the cuts “are substantial” and span multiple agencies, including the Treasury, Health and Human Services, Commerce, Education, Energy, EPA, Homeland Security, HUD, and Interior.
+Office of Management and Budget Director Russell Vought confirmed the move on X, writing, _“The RIFs have begun,”_ using the acronym for _Reductions in Force._ An OMB spokesperson later said the cuts “are substantial” and span multiple agencies, including the Treasury, Health and Human Services, Commerce, Education, Energy, EPA, Homeland Security, HUD, and Interior.
 
 President Donald Trump told reporters in the Oval Office that the number of layoffs would “be a lot,” adding that they would “be Democrat-oriented” — suggesting an effort to eliminate programs his administration views as politically aligned with Democrats.
 
-Unlike furloughs, which are temporary and end once a shutdown is resolved, Reductions in Force are permanent job eliminations. Such actions during a shutdown are extraordinary — and have already triggered legal and political backlash.
+Unlike furloughs, which are temporary and end once a shutdown is resolved, Reductions in Force are permanent job eliminations. Such actions during a shutdown are _extraordinary_ — and have already triggered legal and political backlash.
 
 ### Legal Challenges and Political Fallout
 
-Federal employee unions, including the American Federation of Government Employees (AFGE) and AFL-CIO, immediately announced plans to challenge the layoffs in court. AFGE, which represents 820,000 government workers, wrote on X: “The lawsuit has been filed.”
+Federal employee unions, including the American Federation of Government Employees (AFGE) and AFL-CIO, immediately announced plans to challenge the layoffs in court. AFGE, which represents 820,000 government workers, wrote on X: _“The lawsuit has been filed.”_
 
 Union leaders denounced the layoffs as unlawful and politically motivated. Lee Saunders, president of AFSCME, said the firings “will have devastating effects on the services millions of Americans rely on every day,” citing the potential loss of food inspectors, safety workers, and other public service roles.
 
@@ -31,7 +31,7 @@ Not all Republicans backed the move. Sen. Susan Collins of Maine, who chairs th
 
 ### Administration’s Defense
 
-Officials defended the cuts as part of a broader effort to streamline what they described as an overgrown bureaucracy. An HHS spokesperson, Andrew Nixon, said the agency’s workforce had expanded “by 17% under the Biden administration” and that the reductions would eliminate “wasteful and duplicative entities” inconsistent with the Trump administration’s Make America Healthy Again agenda.
+Officials defended the cuts as part of a broader effort to streamline what they described as an overgrown bureaucracy. An HHS spokesperson, Andrew Nixon, said the agency’s workforce had expanded “by 17% under the Biden administration” and that the reductions would eliminate “wasteful and duplicative entities” inconsistent with the Trump administration’s _Make America Healthy Again_ agenda.
 
 The administration has also frozen billions in funding for projects in states led by Democrats, moves that Vought and others have promoted as cost-cutting measures to “protect taxpayers.”
 

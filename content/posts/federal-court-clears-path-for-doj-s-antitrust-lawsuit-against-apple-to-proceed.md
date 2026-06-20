@@ -27,4 +27,4 @@ The DOJ declined to comment on the court’s decision.
 
 The case is one of several high-profile efforts by the Biden administration’s antitrust regulators to scrutinize the business models of dominant tech firms and reshape the competitive landscape in digital markets.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

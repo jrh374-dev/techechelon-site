@@ -29,4 +29,4 @@ Industry analysts say the agreement represents a turning point in the cloud wars
 
 As Altman put it in his announcement, “This partnership is about ensuring we have the capacity to keep advancing safely and reliably — not just this year, but for many years to come.”
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

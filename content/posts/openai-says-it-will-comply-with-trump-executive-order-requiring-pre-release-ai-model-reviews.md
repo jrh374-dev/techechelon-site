@@ -31,4 +31,4 @@ The move comes as Washington continues to debate how to oversee rapidly advancin
 
 OpenAI's participation could influence whether other major AI developers follow suit, given the company's prominent standing in the industry. No other major AI labs had publicly confirmed compliance with the order as of Friday morning.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

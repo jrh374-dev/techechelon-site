@@ -36,4 +36,4 @@ In the backdrop of these developments, Fed Chair Jerome Powell recently expresse
 The next significant economic indicator will be the nonfarm payrolls report for August, expected to show a job increase of about 175,000, as forecasted by FactSet.
 
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

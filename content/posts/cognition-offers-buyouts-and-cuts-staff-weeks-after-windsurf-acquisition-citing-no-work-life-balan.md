@@ -11,7 +11,7 @@ readTime: 1
 migratedFromWix: true
 ---
 
-Just weeks after acquiring fellow AI startup Windsurf, Cognition is now offering buyout packages to its staff and has already laid off 30 employees, according to a report from The Information.
+Just weeks after acquiring fellow AI startup Windsurf, Cognition is now offering buyout packages to its staff and has already laid off 30 employees, according to a report from _The Information_.
 
 Roughly 200 employees remain, and they’ve been given until August 10 to decide whether to accept a voluntary buyout, which reportedly includes nine months of severance pay. Those who decline will face a demanding work environment: six days in the office per week and workloads exceeding 80 hours — conditions that have increasingly become the norm in the competitive AI landscape.
 
@@ -19,4 +19,4 @@ The development marks another twist in what has been a rocky road for Windsurf�
 
 At the time of the acquisition, Cognition praised Windsurf’s team as “world-class” and promised that all employees would be financially rewarded through the deal. But recent events suggest the company’s core value may have been its intellectual property, not its personnel.
 
-In a message obtained by The Information, Cognition CEO Scott Wu made the company's position clear: “We don’t believe in work-life balance—building the future of software engineering is a mission we all care so deeply about that we couldn’t possibly separate the two.”
+In a message obtained by _The Information_, Cognition CEO Scott Wu made the company's position clear: “We don’t believe in work-life balance—building the future of software engineering is a mission we all care so deeply about that we couldn’t possibly separate the two.”

@@ -29,4 +29,4 @@ The potential fine arrives at a moment of heightened regulatory scrutiny of majo
 
 A penalty at the high end of the triple-digit million euro range would signal that Brussels is prepared to use its enforcement tools forcefully, even as it continues to negotiate structural remedies with the company. The outcome could shape how other designated gatekeepers under the DMA interpret and respond to the Commission's compliance expectations in the months ahead.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

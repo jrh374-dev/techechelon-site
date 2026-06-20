@@ -35,4 +35,4 @@ The company is expanding into new verticals to sustain its growth trajectory. Da
 
 With margins under pressure and a public offering still absent from the roadmap, Databricks faces a test of whether its consumption-driven model can sustain investor confidence at its current valuation as the cost structure of agentic AI continues to evolve.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

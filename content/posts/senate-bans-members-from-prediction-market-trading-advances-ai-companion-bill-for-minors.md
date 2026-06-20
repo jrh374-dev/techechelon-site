@@ -35,4 +35,4 @@ The bill's bipartisan backing — pairing Hawley, a frequent critic of the tech 
 
 Whether either measure advances further before the end of the congressional session remains an open question, though the unanimous votes in both cases suggest at least some political momentum behind each effort.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

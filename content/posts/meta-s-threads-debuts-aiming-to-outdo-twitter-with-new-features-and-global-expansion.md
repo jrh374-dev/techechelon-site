@@ -11,6 +11,9 @@ readTime: 2
 migratedFromWix: true
 ---
 
+![](https://static.wixstatic.com/media/e37254_c1bdbeda765f4adb9fa55a8a3b4e9538~mv2.jpeg)
+
+
 Meta, Facebook and Instagram's parent company, has unveiled a new text-oriented platform named Threads on Thursday, setting it up in direct competition with Twitter, currently managed by Elon Musk, the billionaire founder of Tesla and SpaceX.
 
 Threads, according to Meta's chief product officer, is the company's answer to Twitter, a sentiment reiterated by Meta's CEO, Mark Zuckerberg, who is bullish about the new platform's potential growth and rivalry with Twitter. In response to a query about Threads' potential to outgrow Twitter, Zuckerberg expressed his ambition to create a public conversations platform with over a billion users. While acknowledging that it would take time, he voiced his optimism and noted Twitter's missed opportunity to achieve this feat.

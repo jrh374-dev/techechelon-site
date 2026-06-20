@@ -36,4 +36,4 @@ Details of the deal will be further discussed in a conference call scheduled for
 Advising HPE on the deal are JPMorgan and Qatalyst.
 
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

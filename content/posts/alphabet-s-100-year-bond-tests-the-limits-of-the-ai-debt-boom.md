@@ -53,4 +53,4 @@ The issuance ultimately underscores the scale of the AI infrastructure race. Hyp
 
 Whether Alphabet’s century bond proves to be a savvy locking-in of cheap long-term funding — or a high-water mark in AI-driven credit exuberance — will depend less on today’s order book and more on whether the returns on AI infrastructure justify the borrowing decades into the future.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

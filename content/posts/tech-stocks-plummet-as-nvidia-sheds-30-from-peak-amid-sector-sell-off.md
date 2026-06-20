@@ -27,4 +27,4 @@ The VanEck Semiconductor ETF has plunged 16% since the inauguration, with Monday
 
 As investors brace for more volatility, Wall Street remains cautious about the near-term outlook for tech stocks, with many watching for policy shifts that could stabilize the sector.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

@@ -11,9 +11,9 @@ readTime: 2
 migratedFromWix: true
 ---
 
-A new report from the Coalition for Independent Technology Research (CITR) warns that independent researchers studying the societal impacts of technology are encountering increasing financial, legal, and security obstacles—threatening the public’s ability to understand the influence of powerful digital platforms.
+A new [report](https://independenttechresearch.org/citr-report-2025/) from the Coalition for Independent Technology Research (CITR) warns that independent researchers studying the societal impacts of technology are encountering increasing financial, legal, and security obstacles—threatening the public’s ability to understand the influence of powerful digital platforms.
 
-The study, titled The State of Independent Technology Research 2025: Power in Numbers, draws on input from more than 470 scholars, journalists, technologists, and civil society researchers in 45 countries. It concludes that funding for independent research is drying up, access to essential data is being restricted, and personal risks for those pursuing this work are on the rise.
+The study, titled _The State of Independent Technology Research 2025: Power in Numbers_, draws on input from more than 470 scholars, journalists, technologists, and civil society researchers in 45 countries. It concludes that funding for independent research is drying up, access to essential data is being restricted, and personal risks for those pursuing this work are on the rise.
 
 According to the findings, 60 percent of researchers surveyed reported barriers to accessing the data needed for their studies, while 85 percent identified funding shortages as their greatest challenge. Nearly 70 percent said they had experienced threats to their safety or security—an issue that has escalated sharply in recent years.
 

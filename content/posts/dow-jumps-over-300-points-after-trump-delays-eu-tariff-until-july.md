@@ -25,4 +25,4 @@ The rebound follows a rough week for markets, during which the Dow, S&P 500, and
 
 Traders are now eyeing corporate earnings, with Okta reporting after Tuesday’s close. Reports from Nvidia, Macy’s, and Costco are expected later in the week. So far, more than 95% of S&P 500 companies have reported quarterly results, with nearly 78% exceeding analyst expectations, according to FactSet.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

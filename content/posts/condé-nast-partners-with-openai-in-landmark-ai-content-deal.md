@@ -25,4 +25,4 @@ Condé Nast, which owns iconic media brands like Vanity Fair, The New Yorker, Vo
 
 In recent months, companies like News Corp, Vox, and Reddit have announced similar deals with OpenAI. Meanwhile, The New York Times and other newspapers have taken a different route, filing lawsuits against Microsoft and OpenAI, alleging copyright infringement through the use of their content to train AI systems.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

@@ -29,4 +29,4 @@ Still, the results come amid an ongoing valuation debate. Palantir shares have r
 
 While some skeptics have warned about lofty multiples, management maintains that demand for AI systems capable of delivering real-world outcomes is only beginning.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

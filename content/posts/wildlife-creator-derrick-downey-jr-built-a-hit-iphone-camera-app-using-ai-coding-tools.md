@@ -35,4 +35,4 @@ Downey said his wildlife content — and the squirrels themselves — remains a 
 
 The app's rise underscores a broader pattern in consumer software: AI-assisted development tools are lowering the barrier to entry for non-engineers, enabling individuals with domain expertise but no formal coding training to ship functional, commercially viable products.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

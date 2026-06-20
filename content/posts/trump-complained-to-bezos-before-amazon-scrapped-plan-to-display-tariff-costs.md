@@ -15,7 +15,7 @@ President Donald Trump personally called Amazon founder Jeff Bezos on Tuesday to
 
 Shortly after the call, Amazon publicly downplayed the scope of its plan — and later announced it had been scrapped entirely.
 
-The pressure on Bezos came after Punchbowl News reported that Amazon planned to show how much of an item’s cost was due to tariffs, displaying the surcharge next to the total price.
+The pressure on Bezos came after _Punchbowl News_ reported that Amazon planned to show how much of an item’s cost was due to tariffs, displaying the surcharge next to the total price.
 
 White House press secretary Karoline Leavitt responded sharply, calling Amazon’s move “a hostile and political act” during a press briefing.
 
@@ -39,7 +39,7 @@ The Trump administration’s confrontation with Amazon comes as Bezos has notabl
 
 After years of tension, Bezos expressed optimism in December about Trump’s second term, suggesting the president had grown calmer and more confident. Amazon later contributed $1 million to Trump’s inaugural fund, and Bezos personally attended the inauguration.
 
-Further fueling speculation of a closer relationship, Bezos directed The Washington Post, which he owns, to narrow its editorial focus to themes of “personal liberties and free markets.”
+Further fueling speculation of a closer relationship, Bezos directed _The Washington Post_, which he owns, to narrow its editorial focus to themes of “personal liberties and free markets.”
 
 However, Amazon’s operations have been under increasing strain due to Trump's aggressive tariff policies, particularly a 145% duty on goods from China, where an estimated 70% of Amazon's inventory is sourced, according to Wedbush Securities.
 

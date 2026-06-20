@@ -17,7 +17,7 @@ These models, referred to as "open-weight," allow developers full access to thei
 
 "What makes these models especially compelling is that they can be deployed locally, behind your own firewall," said Greg Brockman, OpenAI’s co-founder, during a press event. This setup gives businesses and individual users more control over data privacy and customization.
 
-The release represents OpenAI’s first open-model initiative since GPT-2, which debuted six years ago. The new models — gpt-oss-120b and gpt-oss-20b — are optimized for performance at smaller scale. The former can operate on a single GPU, while the latter is compact enough to run directly on a laptop.
+The release represents OpenAI’s first open-model initiative since GPT-2, which debuted six years ago. The new models — _gpt-oss-120b_ and _gpt-oss-20b_ — are optimized for performance at smaller scale. The former can operate on a single GPU, while the latter is compact enough to run directly on a laptop.
 
 According to the company, they achieve performance on par with OpenAI’s o3-mini and o4-mini proprietary models, especially in areas like software development, competitive mathematics, and healthcare queries.
 

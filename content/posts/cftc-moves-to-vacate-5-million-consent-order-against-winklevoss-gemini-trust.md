@@ -35,4 +35,4 @@ The vacatur request now awaits a ruling from the federal judge overseeing the ca
 
 The episode is likely to intensify debate over the degree to which enforcement priorities at independent financial regulators shift under new political leadership — and whether past settlements reached under one administration can be unwound by the next.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

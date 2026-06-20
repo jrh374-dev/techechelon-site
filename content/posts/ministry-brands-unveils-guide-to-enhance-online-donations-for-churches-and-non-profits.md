@@ -21,13 +21,13 @@ The guide distills key strategies and insights derived from extensive data analy
 
 Key strategies from the report include:
 
-1. Streamlining the Donation Process: The guide advocates for reducing the complexity of online donations, suggesting a direct, one-click pathway to contribute.
-2. Enhancing the Online Interface: It urges organizations to revamp their websites, ensuring they are user-friendly on both desktop and mobile platforms.
-3. Communicating Value Clearly: The report emphasizes the necessity of a compelling value proposition to motivate donors.
-4. Reducing Online Clutter: A focus is placed on creating a singular, focused call to action and minimizing distractions that might dissuade potential donors.
-5. Bolstering Security Measures: The guide advises displaying full, secure forms upfront, incorporating symbols of security to reassure donors.
-6. Promoting Recurring Donations: It suggests prioritizing options for regular donations, highlighting how sustained giving can more effectively support their causes.
-7. Personalized Outreach: Customized communication strategies are recommended to nurture a more engaged donor base.
+1. **Streamlining the Donation Process**: The guide advocates for reducing the complexity of online donations, suggesting a direct, one-click pathway to contribute.
+2. **Enhancing the Online Interface**: It urges organizations to revamp their websites, ensuring they are user-friendly on both desktop and mobile platforms.
+3. **Communicating Value Clearly**: The report emphasizes the necessity of a compelling value proposition to motivate donors.
+4. **Reducing Online Clutter**: A focus is placed on creating a singular, focused call to action and minimizing distractions that might dissuade potential donors.
+5. **Bolstering Security Measures**: The guide advises displaying full, secure forms upfront, incorporating symbols of security to reassure donors.
+6. **Promoting Recurring Donations**: It suggests prioritizing options for regular donations, highlighting how sustained giving can more effectively support their causes.
+7. **Personalized Outreach**: Customized communication strategies are recommended to nurture a more engaged donor base.
 
 Chris Bacon, COO at Ministry Brands, commented on the release, stating, “Our goal is to empower non-profits with not just advanced technology but also the insights needed to thrive in a digital landscape. This guide is a testament to our dedication to helping our clients expand their reach and impact.”
 

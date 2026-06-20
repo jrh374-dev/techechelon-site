@@ -27,4 +27,4 @@ This strategy positions Anthropic as a direct competitor to OpenAI, which has it
 
 Murphy expressed confidence in the unique position of the Anthology Fund to align strategic partnerships and cultivate a community of innovative entrepreneurs focused on groundbreaking developments in AI.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

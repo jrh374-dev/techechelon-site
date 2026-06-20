@@ -35,4 +35,4 @@ Umesh Ramakrishnan, chief strategy officer at executive search firm Kingsley Gat
 
 How Meta navigates simultaneous workforce reduction and a capital expenditure surge of this scale will be closely watched, particularly as the company's AI strategy — overseen by AI chief Alexandr Wang — continues to take shape amid internal skepticism from long-tenured employees.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

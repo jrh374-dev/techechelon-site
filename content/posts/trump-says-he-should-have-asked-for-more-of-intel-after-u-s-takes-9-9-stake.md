@@ -31,4 +31,4 @@ Recent business developments have further lifted the company's profile. Earlier 
 
 Trump's remarks signal that the government's unconventional entry into a semiconductor company's equity structure may be viewed as one of the administration's most financially consequential decisions to date — and, in the president's own telling, one that could have been negotiated more aggressively.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

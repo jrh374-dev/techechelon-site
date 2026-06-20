@@ -13,17 +13,19 @@ migratedFromWix: true
 
 Woody Sessoms is a distinguished figure in the technology and telecommunications sectors, renowned for his strategic vision and leadership in driving business innovation through IT. As a former senior executive at Cisco and the current driving force behind Graphiant, Woody brings a wealth of experience and insight into the transformative role of technology in business. His tenure at Cisco saw him at the forefront of numerous initiatives that leveraged technology to enhance business performance, market differentiation, and operational efficiency.
 
+![](https://static.wixstatic.com/media/e37254_b7e2efd5d83c4785aacc33d30955ca00~mv2.png)
+
 Now at Graphiant, Woody applies his deep understanding of IT's strategic role to spearhead solutions that not only enhance service provider capabilities but also streamline operations and secure customer brands across various industries. Under his leadership, Graphiant is positioned as a key player in adapting IT infrastructure to meet contemporary challenges, focusing on real-time decision-making support, data accessibility, and security.
 
 In this exclusive interview, Woody discusses the strategic importance of IT in modern business, the evolution of Graphiant, and his perspectives on future technology trends that will shape the corporate landscape.
 
-Q: Can you describe the strategic role of IT in driving business innovation and how this aligns with Graphiant's mission?
+**Q: Can you describe the strategic role of IT in driving business innovation and how this aligns with Graphiant's mission?**
 
 At Graphiant, we believe, along with our entire leadership team, that information technology (IT) plays a crucial role in enhancing business performance. IT should not only drive top line revenues but also improve speed to market and enhance business agility. It should simplify and streamline business processes, reduce costs and complexities, and mitigate risks associated with business and investments. IT is fundamental—it leverages and strategizes information across all business processes, playing a key role in differentiating products in the market and protecting brand identity.
 
 Our solutions are specifically designed to increase revenue for service providers while reducing operational costs and complexities for service providers, enterprises, and governments. Additionally, our security measures protect our customers' brands. We approach the market with use cases supported by solid business cases that demonstrate the financial value of our technology. We will discuss more about this later, providing further details on the specific benefits.
 
-Q: How can IT departments leverage technology to not just support but lead in the differentiation of their businesses in competitive markets?
+**Q: How can IT departments leverage technology to not just support but lead in the differentiation of their businesses in competitive markets?**
 
 Reflecting on my experience at Cisco, where I was integral to running the business, it’s clear that IT departments are crucial not only in product development and marketing but also in managing the business aspect.
 
@@ -31,7 +33,7 @@ Leveraging data is essential—it acts as a strategic enabler across all busines
 
 By making data timely and easy to interpret, and by ensuring its integrity, IT can lead in differentiating a business in competitive markets. This starts with robust data management strategies that ensure data is effectively analyzed and not just collected, establishing a foundation for informed decision-making.
 
-Q: Given your extensive experience at Cisco and now at Graphiant, what key trends do you see shaping the future of business through technology?
+**Q: Given your extensive experience at Cisco and now at Graphiant, what key trends do you see shaping the future of business through technology?**
 
 The most significant shift I've observed in the industry is the use of data for real-time decision-making. Unlike the traditional approach of analyzing data and then acting, the emphasis now is on accessing actionable data instantly. This trend is propelled by advancements in IoT and AI, and it has been gaining momentum for some time.
 
@@ -39,13 +41,13 @@ To support real-time decision-making, data must be universally accessible—anyt
 
 With the overwhelming increase in data volume, it's crucial that data be boiled down to be easily consumable. Here, AI holds significant promise, especially in the near term, by making data immediately analyzable and actionable, which greatly enhances its utility before we even consider more complex applications like autonomous machine-to-machine interactions.
 
-Q: You mentioned challenges associated with unstructured data. Could you elaborate on how this affects data collection and processing?
+**Q: You mentioned challenges associated with unstructured data. Could you elaborate on how this affects data collection and processing?**
 
 Handling unstructured data presents several challenges, particularly regarding its collection and subsequent processing. After collecting unstructured data, the next step is deciding where to process it. For instance, data generated by a machine might need immediate action directly at the source, influencing machine operations in real-time. Conversely, other types of data, like historical trends, may need to be sent to a data center for aggregation with data from multiple sources, providing a broader, macroscopic view.
 
 At Graphiant, we've observed a common issue in data handling: data hairpinning, where data is unnecessarily sent to and from a central location, like a data center, before being used where it was initially collected. To streamline operations and reduce inefficiencies, it's more practical to process data relevant to its origin directly on-site, sending only archival or analytical data to the data center. Direct transmission of specific data to relevant partners like Siemens or Honeywell can also be more efficient than routing it through a data center. This approach saves time, costs, and effort, enhancing overall data utility and processing efficiency.
 
-Q: In the context of Graphiant’s successful project with the South Carolina municipality, how do you approach identifying and solving unique challenges through technological innovation?
+**Q: In the context of Graphiant’s ****[successful project with the South Carolina municipality](https://www.youtube.com/watch?v=B3oOeak2pRw)****, how do you approach identifying and solving unique challenges through technological innovation?**
 
 Our approach at Graphiant is centered around use cases. I often compare this method to baking using a Betty Crocker mix. Just as following the recipe ensures that anyone can bake edible brownies, we simplify the sales process and ensure that solutions meet customers' needs by focusing on specific outcomes.
 
@@ -55,7 +57,7 @@ In the early stages of Graphiant, my colleagues and I mapped out which industrie
 
 While the core value of our use cases applies broadly across these industries—covering about 75 to 80% of their fundamental needs—we customize the final touches for specific sectors like law enforcement or public safety to ensure relevance and effectiveness. This tailored approach helps us tackle unique challenges through technological innovation effectively.
 
-Q: How does Graphiant enable organizations, especially in sectors like law enforcement, to achieve operational efficiencies and enhance safety through innovation?
+**Q: How does Graphiant enable organizations, especially in sectors like law enforcement, to achieve operational efficiencies and enhance safety through innovation?**
 
 Graphiant prioritizes cost-effectiveness and low deployment risk, which are critical considerations for organizations, including those in law enforcement. We focus on making our solutions financially accessible so that organizations can adopt them without significant financial risk. Historically, enterprise resource planning (ERP) systems could cost tens to hundreds of millions of dollars and take years to deliver returns. In contrast, our approach is to provide cost-effective solutions from the outset, keeping operational costs low and making the technology easy to integrate and maintain.
 
@@ -65,7 +67,7 @@ Our architecture and engineering approach enables rapid deployment without the n
 
 Additionally, we use common x86 software and hardware from well-known suppliers like Dell, and plan to incorporate Broadcom platforms in the future. This use of widely available technology ensures that our supply chain remains agile and not tied to proprietary systems, making our software solutions both accessible and adaptable.
 
-Q: Graphiant’s project in South Carolina involved significant improvements in data handling and security for law enforcement. Can you share other examples where Graphiant's technology has been pivotal in advancing human safety through innovation?
+Q: **[Graphiant’s project in South Carolina](https://www.youtube.com/watch?v=B3oOeak2pRw)**** involved significant improvements in data handling and security for law enforcement. Can you share other examples where Graphiant's technology has been pivotal in advancing human safety through innovation?**
 
 The success of our project in South Carolina has been quite influential, serving as a robust use case for enhancing public safety across various municipalities. As you might have seen from the YouTube video, the application of our technology in these settings is highly replicable and can benefit a wide range of public safety entities.
 
@@ -75,7 +77,7 @@ Our strategy involves consolidating our efforts around this successful use case,
 
 Given that our product only launched at the end of September, we are still in the early stages of deployment. Our immediate goal is to ensure that this initial application is as de-risked as possible before moving on to scale and replicate our successes in other contexts. This cautious yet focused approach is intended to maximize both the efficacy and the reach of our solutions in enhancing human safety through innovation.
 
-Q: Executives often face challenges in quantifying the impact of IT investments on financial outcomes. How can IT leaders better communicate the value of their projects to the executive suite?
+**Q: Executives often face challenges in quantifying the impact of IT investments on financial outcomes. How can IT leaders better communicate the value of their projects to the executive suite?**
 
 Certainly, one of the perennial challenges for IT leaders is demonstrating the financial impact of their investments. While most technologists are passionate about their work, it's crucial for IT professionals to articulate the value of their projects in terms of tangible outcomes, such as financial gains, business differentiation, market share increase, or brand protection.
 
@@ -89,7 +91,7 @@ For organizations where this capability is not yet developed, I recommend starti
 
 This approach not only helps in justifying current expenditures but also paves the way for future investment by showcasing the direct linkage between IT initiatives and business success.
 
-Q: With the rapid pace of technological change, how can businesses ensure they are adopting innovations that truly have the potential to transform their operations and market position?
+**Q: With the rapid pace of technological change, how can businesses ensure they are adopting innovations that truly have the potential to transform their operations and market position?**
 
 In today's rapidly evolving technological landscape, it's imperative for leaders across all business areas—not just IT—to understand and engage with emerging technological trends and innovations. The old model of delegating all technology-related decisions to the CIO or tech department is no longer sufficient for organizations that aim to truly capitalize on new opportunities.
 
@@ -97,7 +99,7 @@ To effectively integrate innovative technologies like AI into their operations, 
 
 Leaders should not only be familiar with what technologies can do but also be prepared to envision the possibilities these tools offer. Then, they can work collaboratively with technologists who can handle the implementation details. This proactive approach ensures that organizations can adopt innovations that are not just technologically advanced but also strategically advantageous, driving significant transformation and improvement in their market positions.
 
-Q: Collaboration between IT and other business units is crucial for innovation. How does Graphiant facilitate this collaboration to ensure technology solutions meet broader business objectives?
+**Q: Collaboration between IT and other business units is crucial for innovation. How does Graphiant facilitate this collaboration to ensure technology solutions meet broader business objectives?**
 
 At Graphiant, we believe in the importance of collaboration between IT and other business units to drive innovation that aligns with broader business objectives. A best practice that we implement—and one that may not always be popular with our sales team—is requiring a senior executive sponsor for each engagement, particularly when conducting proofs of concept.
 
@@ -107,7 +109,7 @@ This executive sponsor must have the authority to create budgets and allocate re
 
 By involving an executive sponsor who understands and champions the business impact of the solution, we ensure that the technology aligns with and supports the company's overall strategic goals, avoiding wasted effort and resources.
 
-Q: Security is a major concern for all businesses, especially with the rise of remote work and digital transformation. How does Graphiant ensure that its solutions not only enhance efficiency but also maintain the highest levels of security?
+**Q: Security is a major concern for all businesses, especially with the rise of remote work and digital transformation. How does Graphiant ensure that its solutions not only enhance efficiency but also maintain the highest levels of security?**
 
 At Graphiant, security is integral to our architecture, which is a significant advantage of building our solutions from the ground up as a new company. Unlike many existing solutions where security might be a later addition or an afterthought, we designed our products with security embedded from the inception.
 
@@ -117,7 +119,7 @@ Additionally, we utilize a patented quantum encryption scheme with symmetrical k
 
 By integrating these advanced security measures into the core architecture of our solutions, Graphiant ensures that its products not only enhance operational efficiency but also maintain the highest levels of security, which is crucial in today's environment of widespread remote work and digital transformation.
 
-Q: Looking forward, what emerging technologies or trends do you believe will be most influential in shaping the way businesses operate and compete?
+**Q: Looking forward, what emerging technologies or trends do you believe will be most influential in shaping the way businesses operate and compete?**
 
 Looking to the future, I firmly believe that Artificial Intelligence (AI) will continue to be a transformative force in how businesses operate and compete. AI isn't just a trend; it represents a pivotal shift—a 'mic drop' moment—in technology application across industries.
 
@@ -127,7 +129,7 @@ At Graphiant, we recognize that while there's considerable discussion about AI c
 
 We dedicate significant resources to developing a network that supports these demands with ultra-low latency, ensuring it is AI-ready. This approach is fundamental to enabling businesses to leverage AI effectively and maintain a competitive edge in their respective markets.
 
-Q: The agility offered by Graphiant's solutions appears to be a key advantage for your clients. Can you explain how this agility translates into competitive advantage and financial performance for them?
+**Q: The agility offered by Graphiant's solutions appears to be a key advantage for your clients. Can you explain how this agility translates into competitive advantage and financial performance for them?**
 
 The agility of Graphiant's solutions stems fundamentally from our innovative network architecture, which provides a significant competitive advantage and positively impacts the financial performance of our clients. By designing our networking devices to be stateless—acting merely as forwarding engines with minimal configuration requirements—we've made our networks much easier and faster to deploy than traditional networks.
 
@@ -135,7 +137,7 @@ This streamlined architecture reduces the likelihood of downtime and outages cau
 
 While the initial acquisition cost is important, the operational expenses over the life of the equipment are typically four times higher. Our architecture, therefore, focuses on minimizing these long-term costs, offering our clients a more economical, efficient, and agile networking solution that enhances their competitive position in the market. This comprehensive view of the lifecycle of our solutions and their reduced complexity leads to tangible financial benefits for our clients.
 
-Q: In driving innovation, how important is the scalability of solutions like those offered by Graphiant, and how do you ensure that your solutions remain scalable across diverse business needs and sizes?
+**Q: In driving innovation, how important is the scalability of solutions like those offered by Graphiant, and how do you ensure that your solutions remain scalable across diverse business needs and sizes?**
 
 Scalability is a foundational element of Graphiant's approach to innovation, driven by the original vision to address the immense data and traffic proliferation at the edge brought about by AI, machine learning, IoT, and augmented/virtual reality. Traditional network architectures, designed in a hub-and-spoke model, are not equipped to handle the exponential increase in data traffic that these technologies generate.
 
@@ -145,7 +147,7 @@ Our aim is to bring the efficiencies and scalability of hyperscale technologies 
 
 As AI continues to advance and both data processing and storage become more decentralized, the importance of scalable solutions becomes even more critical. We've designed our systems to not just meet current needs but to accommodate the future growth associated with emerging concepts like the metaverse, ensuring that businesses won't hit scalability limits as their data demands evolve. This forward-thinking approach ensures that our clients can scale their operations effectively, no matter how their needs expand or change.
 
-Q: Finally, for businesses looking to embark on significant IT projects with the potential to transform their operations, what advice would you offer to ensure the success of these projects and the realization of their intended business impacts?
+**Q: Finally, for businesses looking to embark on significant IT projects with the potential to transform their operations, what advice would you offer to ensure the success of these projects and the realization of their intended business impacts?**
 
 For businesses embarking on significant IT projects with transformative potential, my primary advice is to focus not only on solving today's challenges but also on planning for future needs. The approach should never be to settle for 'good enough'; instead, it is crucial to aim for solutions that offer flexibility and future-proofing capabilities.
 

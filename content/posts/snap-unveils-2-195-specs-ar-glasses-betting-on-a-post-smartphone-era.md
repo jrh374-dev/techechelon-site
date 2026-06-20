@@ -37,4 +37,4 @@ On child safety, Spiegel said the company plans to release parental controls lat
 
 With the consumer AR market still in its formative stages, the reception to Specs will serve as an early test of whether see-through computing can find a foothold outside developer communities and early adopters willing to pay a premium price in a challenging economic environment.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

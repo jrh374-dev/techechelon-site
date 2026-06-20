@@ -29,4 +29,4 @@ While the minutes do not specify the identities or the exact count of officials 
 
 Since this meeting, Fed officials have continued to promote a cautious approach, focusing on real-time data over projections. Following a recent event in Portugal, Chair Jerome Powell noted that the balance between the risks of reducing rates too early—which could reignite inflation—and delaying cuts, which could harm economic growth, is becoming clearer. Previously, the emphasis was on not prematurely easing efforts against inflation.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

@@ -35,4 +35,4 @@ Democrats were uniformly critical. House Minority Whip Katherine Clark (D-Mass.)
 
 Arrington suggested the guardrails Republicans are demanding could be addressed through the next congressional reconciliation package or through a separate agreement. Whether either path can unify a Republican caucus that is openly divided on the fund's legitimacy remains the central question heading into next week.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

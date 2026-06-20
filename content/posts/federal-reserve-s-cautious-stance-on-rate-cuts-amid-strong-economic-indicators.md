@@ -29,4 +29,4 @@ Conversely, some experts still support the Federal Reserve's March indication of
 
 Goldman Sachs’ Chief Economist Jan Hatzius remains optimistic about potential rate cuts within the year, contingent on forthcoming economic data and Federal Reserve reactions, aligning with the institution's earlier communications.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

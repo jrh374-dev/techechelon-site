@@ -31,4 +31,4 @@ Companies that sell or broker the sale of advanced AI chips will likely need to 
 
 How aggressively Commerce enforces the updated guidance, and whether additional clarifications follow, will be closely watched by chipmakers, distributors, and legal counsel across the industry in the weeks ahead.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

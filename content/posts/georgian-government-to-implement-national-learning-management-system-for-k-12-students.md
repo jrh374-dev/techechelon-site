@@ -11,7 +11,7 @@ readTime: 2
 migratedFromWix: true
 ---
 
-Edsby, a leading K-12 education software provider, has been selected by the Ministry of Education, Science, and Youth of Georgia to spearhead the implementation of a national learning management system (LMS). This initiative aims to enhance the educational experience for the country’s 600,000 K-12 students as part of the Georgian government’s broader educational reforms under the I2Q (Innovations in Education for Quality Learning) initiative, which is supported by the World Bank.
+[Edsby](https://www.edsby.com/), a leading K-12 education software provider, has been selected by the Ministry of Education, Science, and Youth of Georgia to spearhead the implementation of a national learning management system (LMS). This initiative aims to enhance the educational experience for the country’s 600,000 K-12 students as part of the Georgian government’s broader educational reforms under the I2Q (Innovations in Education for Quality Learning) initiative, which is supported by the World Bank.
 
 Edsby was awarded the contract following an extensive international Quality-Based Selection (QBS) process. The Canadian company will collaborate with local Georgian technology integrator, Orient Logic, to deploy the system, which is expected to modernize the country’s education sector through advanced digital learning tools.
 

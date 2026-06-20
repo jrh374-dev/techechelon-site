@@ -24,4 +24,4 @@ This inflation report has significant implications for Federal Reserve policies.
 The report's release comes after Fed Chair Jerome Powell indicated to the Senate Banking Committee that the central bank is not in a rush to adjust rates, considering ongoing evaluations of inflation progress and forthcoming tariff policies. President Donald Trump has advocated for lower rates to complement his tariff strategy, adding complexity to the Fed's decisions on monetary policy. This inflation surge has effectively negated recent gains in average hourly earnings, highlighting the direct impact on American workers' paychecks.
 
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

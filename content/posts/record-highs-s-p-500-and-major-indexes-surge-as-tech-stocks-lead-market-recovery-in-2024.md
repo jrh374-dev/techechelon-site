@@ -27,4 +27,4 @@ In individual stock news, insurance company Travelers saw its shares rise by mor
 
 In the medical technology sector, Inspire Medical Systems experienced a notable boost. Shares of the company, which sells a device for treating obstructive sleep apnea, have risen more than 36% from a 52-week low set in mid-November. Analysts at Jefferies anticipate over 26% potential growth for the stock, having initiated it at a buy with a price target of $245. This optimism is based on the company's continued performance and growing awareness of its product, coupled with diminishing concerns over the impact of anti-obesity medications like Ozempic on its market. Inspire's shares were up more than 2% in Friday's trading.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

@@ -33,4 +33,4 @@ SpaceX submitted its initial prospectus to the SEC late last month, disclosing b
 
 Speculation has also intensified around a longer-term combination between SpaceX and Tesla. Musk has discussed the possibility of folding the two companies together with colleagues, and a current Tesla employee told reporters that the topic is openly discussed within the company. Tesla and SpaceX have spent years sharing personnel and resources.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

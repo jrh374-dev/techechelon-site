@@ -29,4 +29,4 @@ Several senators and industry experts have indicated the bill can still be modif
 
 The May 14 vote marks the first formal legislative test for what would be the first major federal regulatory framework governing stablecoins, underscoring the growing urgency in Washington to establish rules for the digital asset industry.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

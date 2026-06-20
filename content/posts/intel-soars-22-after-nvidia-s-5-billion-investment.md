@@ -27,4 +27,4 @@ Intel shares had fallen to their lowest level in more than a decade earlier this
 
 Intel will build x86 CPUs for Nvidia’s AI infrastructure and PC system-on-chips using Nvidia’s RTX GPUs, according to the release.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)

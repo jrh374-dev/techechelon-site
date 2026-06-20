@@ -21,4 +21,4 @@ Intel's acquisition of Mobileye was first declared in 2017 for over $15 billion,
 
 Until this recent development, Mobileye's shares were performing robustly, trading well above their initial public offering (IPO) price. Despite Thursday's setback, investors from the IPO are still seeing an approximate 12% gain.
 
-Disclaimer
+[Disclaimer](https://www.techechelon.com/disclaimer)
