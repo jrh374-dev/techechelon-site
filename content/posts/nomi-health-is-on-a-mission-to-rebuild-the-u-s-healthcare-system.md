@@ -18,7 +18,7 @@ Founded in 2019, [Nomi Health](https://www.nomihealth.com/) has rapidly emerged 
 
 At its core, Nomi Health challenges the status quo with a direct healthcare model that bypasses traditional insurance structures. By directly connecting employers, governments, and providers through its integrated infrastructure, encompassing analytics, payments, pharmacy management services, and a provider network; Nomi assists clients cut healthcare costs by up to 30% with no out-of-pocket expenses for members.
 
-### ** **
+###  
 
 ##### Tackling the Root Problems
 
@@ -26,13 +26,13 @@ Nomi Health’s strategy operates on the a fundamental belief that many of the c
 
 To counteract this, Nomi built what it calls the “operating system for self-insured employers.” The platform integrates four key capabilities: analytics to understand spending, payment tools that ensure providers are paid-in-full in days, direct contracts for care delivery, and member-centric experiences that eliminate copays and deductibles.
 
-### ** **
+###  
 
 ##### Real-World Impact
 
 Nomi Health's model is already producing results. In states like Michigan, employers working with Nomi report 15-40% reductions in healthcare costs compared to legacy insurance providers. At the same time, providers benefit from promptly getting paid in full, allowing them to focus on care rather than collections.
 
-### ** **
+###  
 
 ##### A Platform, Not a Point Solution
 
@@ -40,7 +40,7 @@ Unlike many health tech startups that tackle narrow issues, Nomi Health provides
 
 The company is targeting the $1 trillion self-insured market as its beachhead, with future plans to expand into Medicaid and Medicare.
 
-### ** **
+###  
 
 ##### Looking Ahead
 

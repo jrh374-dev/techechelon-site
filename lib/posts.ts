@@ -54,11 +54,18 @@ export function getPostBySlug(slug: string): Post | null {
   return all.find((p) => p.slug === slug) ?? null;
 }
 
-// Title prefixes used historically on TechEchelon for opinion pieces.
+// Title prefixes used historically on TechEchelon for opinion-style pieces.
+// Both standalone OPINION pieces and Executive Q&A interviews are surfaced
+// under the Opinion section.
 const OPINION_PREFIX = /^\s*opinion\s*[:|—\-]/i;
+const QA_PREFIX = /^\s*executive\s+q\s*&\s*a/i;
 
 export function isOpinion(p: Post): boolean {
-  return p.category === "opinion" || OPINION_PREFIX.test(p.title);
+  return (
+    p.category === "opinion" ||
+    OPINION_PREFIX.test(p.title) ||
+    QA_PREFIX.test(p.title)
+  );
 }
 
 export function getPostsByCategory(category: Category): Post[] {
@@ -66,9 +73,12 @@ export function getPostsByCategory(category: Category): Post[] {
   if (category === "opinion") {
     return all.filter(isOpinion);
   }
-  // Exclude OPINION-prefixed pieces from other category feeds so they appear
-  // only under Opinion.
-  return all.filter((p) => p.category === category && !OPINION_PREFIX.test(p.title));
+  return all.filter(
+    (p) =>
+      p.category === category &&
+      !OPINION_PREFIX.test(p.title) &&
+      !QA_PREFIX.test(p.title),
+  );
 }
 
 export function getPostsByAuthor(authorSlug: string): Post[] {

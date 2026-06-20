@@ -13,10 +13,10 @@ export default function MastheadPage() {
     >
       <h2>Editor in Chief</h2>
       <p>
-        <strong><a href="/author/sara-montes-de-oca">Sara Montes de Oca</a></strong> &mdash; Editor in Chief. Sara founded TechEchelon and leads editorial across markets, AI, policy, and security.
+        <strong><a href="/author/sara-montes-de-oca">Sara Montes de Oca</a></strong>
       </p>
       <p>
-        <em>Sara&apos;s full bio will be added here — share the verbatim copy from the existing site whenever convenient and we&apos;ll paste it in.</em>
+        Sara Montes de Oca is the Editor in Chief of TechEchelon and an accomplished journalist and correspondent known for her work focusing on business, finance, and politics. Previously, Sara worked as a correspondent and producer in Washington, D.C., contributing to fast-paced political and news programming, with experience in editing, scriptwriting, and live broadcast production.
       </p>
       <h2>Bureaus</h2>
       <p>

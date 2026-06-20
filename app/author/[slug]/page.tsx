@@ -19,11 +19,14 @@ export function generateStaticParams() {
 
 const AUTHOR_NAMES: Record<string, string> = {
   "sara-montes-de-oca": "Sara Montes de Oca",
+  "guest-contributor": "Guest Contributor",
 };
 
 const AUTHOR_BIOS: Record<string, string> = {
   "sara-montes-de-oca":
-    "Editor in Chief. Sara founded TechEchelon and leads the newsroom across markets, AI, policy, and security coverage.",
+    "Editor in Chief of TechEchelon and an accomplished journalist and correspondent known for her work focusing on business, finance, and politics. Previously, Sara worked as a correspondent and producer in Washington, D.C., contributing to fast-paced political and news programming, with experience in editing, scriptwriting, and live broadcast production.",
+  "guest-contributor":
+    "Opinion pieces in TechEchelon are written by outside contributors. Each contributor's full bio appears at the foot of their article.",
 };
 
 export default function AuthorPage({ params }: { params: { slug: string } }) {

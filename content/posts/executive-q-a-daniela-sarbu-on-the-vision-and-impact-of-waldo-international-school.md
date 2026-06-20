@@ -39,8 +39,6 @@ Beyond academic achievement, Waldo School is committed to nurturing the whole ch
 
 I believe that this individualized learning approach is crucial for student development because it recognizes and honors the unique strengths, interests, and learning styles of each student. By providing a supportive and flexible environment where students can pursue their passions, overcome challenges, and take ownership of their learning, Waldo School empowers them to reach their full potential and become lifelong learners and critical thinkers. This personalized approach not only fosters academic success but also cultivates self-confidence, independence, and a love for learning that extends far beyond the classroom.
 
-** **
-
 **Q: With a focus on small class sizes and critical research skills, how does Waldo School ensure that each student receives the attention they need to thrive academically?**
 
 At Waldo International School education is not one size fits all. Our commitment to small class sizes and the development of critical research skills is central to ensuring that each student receives the personalized attention they need to excel academically and socially. At Waldo School, we recognize the importance of equipping students with the skills they need to navigate an increasingly complex and ever changing world. That's why we place a strong emphasis on developing critical research skills, including information literacy, analytical thinking, and effective communication. Through hands-on projects, inquiry-based learning experiences, and guided research assignments, students learn how to evaluate sources, analyze data, and construct well-reasoned arguments. We aim for our students to develop into confident, independent learners prepared for success in highschool, college and beyond.
@@ -73,8 +71,6 @@ Strengthening our ties with the local community and fostering meaningful partner
 
 Investing in the professional development of our faculty and staff is essential to maintaining the highest standards of excellence in education at Waldo School. We are committed to providing ongoing training, mentorship, and support to empower educators to innovate, collaborate, and continuously improve their teaching practices. By fostering a culture of professional growth and learning, we ensure that our dedicated team remains at the forefront of educational innovation and best practices.
 
-** **
-
 **Q: With the ethical integration of Artificial Intelligence into the curriculum, what are your goals for incorporating AI, and how do you envision it enhancing the learning experience for students?**
 
 Incorporating Artificial Intelligence into the curriculum at Waldo School represents a significant opportunity to enhance the learning experience for students and staff alike, while also ensuring ethical and responsible use of technology.
@@ -106,8 +102,6 @@ Our long-term aspiration is to continue offering personalized learning experienc
 We aspire to build a strong school community where every student feels valued, supported, and connected. Through collaborative partnerships with families, educators, and community organizations, we aim to create a culture of belonging and mutual respect that fosters student success and well-being.
 
 By staying true to these aspirations and continuously striving for excellence, we are confident that we can fulfill our mission of empowering students to become lifelong learners, critical thinkers, and compassionate global citizens.
-
-** **
 
 **Q: For prospective parents and students considering Waldo School, what message do you want to convey about the value and experience of joining the Waldo School community?**
 

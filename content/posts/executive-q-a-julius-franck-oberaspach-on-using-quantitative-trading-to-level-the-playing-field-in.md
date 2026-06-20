@@ -104,8 +104,6 @@ Inefficiency, on the other hand, suggests non-random asset returns and persisten
 
 From our observations, markets are in a constant shift between inefficiency, and efficiency, leaving room to navigate given enough high-quality data and models.
 
-** **
-
 **Q: How do you attract top engineering and data science talent in such a competitive market?**
 
 By offering a stimulating environment with challenging and exciting tasks. Hard problems attract smart people by design. The problem of solving the financial markets has somehow always been like a magnet to elite talent. While the competition for talent is fierce, our company stand out with its nimble, small but elite team, and by offering hands-on experience with nearly all areas of the business, which many quant jobs lack. We also foster a culture that encourages experimentation, learning from other fields, and working across domains qualities that resonate deeply with the kind of people we want on board.

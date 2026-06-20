@@ -22,7 +22,7 @@ Bravo Nieto, who officially joined Invidia this past summer, brings a strong bac
 
 “At Goldman, I worked exclusively in healthcare, where I gained an understanding of the industry’s complexity and the value of providing companies with strategic capital and operational support,” he says. “Joining Invidia was a natural progression for me because it allows me to continue working in healthcare and to seek to apply a sharper focus on innovation and growth in the middle market.”
 
-### ** **
+###  
 
 ### **A Foundation of Experience and Vision**
 
@@ -30,7 +30,7 @@ Jo Natauri’s experience, including her prior role as the Global Head of Privat
 
 By leveraging a network of distinguished healthcare executives and industry experts, Invidia believes that it offers portfolio companies both financial and operational support, creating a robust ecosystem for growth.
 
-### ** **
+###  
 
 ### **Core Values Driving a Patient-Centric Mission**
 
@@ -44,7 +44,7 @@ Invidia’s focus on collaboration extends beyond its team of investment profess
 
 Despite its recent entry into the private equity landscape, Invidia has already made strides. Building a seasoned team, developing a clear investment thesis, and signing on leading healthcare executives as advisors are among its foundational achievements. “We believe that one of our biggest milestones has been establishing a cohesive team with deep industry expertise,” says Bravo Nieto. “We believe we have an excellent balance of investment professionals and seasoned healthcare executive advisors.”
 
-### ** **
+###  
 
 ### **The Road Ahead: Goals and Vision for the Future**
 

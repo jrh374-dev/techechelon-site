@@ -58,8 +58,6 @@ I realized, too, how I had the privilege of working alongside like-minded medica
 
 I have a phenomenal team that has expanded and sharpened the way I interact with others who think differently. I was used to viewing problems with a narrow scope, but in business, the ways in which you can solve a problem are infinite. It feels amazing to be able to solve a problem for a client, and not be strapped down with so much red tape that it strangles how we care for patients.
 
-** **
-
 **Q: How do you balance the science of medicine with the art of storytelling in your content?**
 
 Hold space for both facts and feelings - precision and humanity. Science is our foundation: diagnosis, physiology, treatment plans, labs. Storytelling is how I connect with people, make them feel seen, heard, and understood. When you can marry medicine and marketing to tell a story, it’s engaging and inspiring.

@@ -34,13 +34,9 @@ The U.S. healthcare industry is spending an estimated $2.8 billion on clinical d
 
 Clinical data is healthcare’s most valuable asset, but only if it is accurate, consistent, and complete. This has always been important for patient care, but it’s becoming even more important as healthcare organizations rely more and more on using clinical data to train AI. Q-Centrix understands this and leverages a risk-based, dynamic approach to ensure the industry’s highest data integrity throughout the entire data lifecycle. We understand that the highest quality data comes when people and technology work hand-in-hand. We spend over 10,000 hours a month on quality checks. We also take data security very seriously. We’ve established strict policies and protocols to ensure data security, and we’re proud to be SOC2 + HITRUST compliant.
 
-** **
-
 **Q: Q-Apps® is designed to help hospitals and health systems harness the full potential of their clinical data. Could you describe the main features and benefits of Q-Apps® for healthcare organizations?**
 
 Q-Apps, our AI-enabled, cloud-based clinical data information system, is a comprehensive solution that centralizes clinical data management activities. Through one login, hospitals and health systems have actionable, high-fidelity data at their fingertips, to guide decision-making, improve patient care, and improve participation in clinical research. 
-
-** **
 
 **Q: With over 1,200 hospital partners, how does Q-Centrix leverage its extensive network to continuously improve its data curation and management solutions?**
 
@@ -59,8 +55,6 @@ As healthcare data breaches continue to make headlines, the industry is seeing o
 You’d be surprised just how many healthcare organizations lack a centralized approach to clinical data management. Our Enterprise Clinical Data Management (eCDM) approach consolidates an otherwise fragmented system through a combination of market-leading technology, clinical expertise, data integrity, and analytics. At its core, eCDM enables hospitals and health systems to customize their data sets and use their data to drive more performance improvement, improved patient care, and more effective clinical research.
 
 **Q: A ****[white paper](https://www.q-centrix.com/insights/detail/elevating-operational-quality-with-the-power-of-artificial-intelligence/)**** from the company mentions the power of artificial intelligence in elevating operational quality. Could you provide examples of how AI has been utilized in Q-Centrix’s solutions to drive performance and efficiency?**
-
-** **
 
 Q-Centrix has the benefit of the most efficient and refined model in the market that produces the highest fidelity data. That gives us the flexibility to focus on identifying where automation will offer the greatest—and most accurate—benefit to our partners.
 

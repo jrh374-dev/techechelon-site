@@ -3,8 +3,8 @@ title: "OPINION: If You Want to Regulate AI — Be Careful What You Ask For"
 slug: opinion-if-you-want-to-regulate-ai-be-careful-what-you-ask-for
 excerpt: "Milton Friedman, the famed American economist and the 1976 winner of the Nobel Memorial Prize in Economic Sciences, made a point about..."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Guest Contributor"
+authorInitials: "GC"
 publishedAt: "2023-10-02T22:11:55.735Z"
 coverImage: "https://static.wixstatic.com/media/e37254_eaede21228e6489ca118bc82d8a21d05~mv2.jpeg"
 readTime: 4
