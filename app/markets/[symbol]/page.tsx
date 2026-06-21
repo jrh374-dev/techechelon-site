@@ -13,6 +13,7 @@ import {
   getQuote,
   isConfigured,
 } from "@/lib/finnhub";
+import { getDailySeries, tdSymbolFor, isConfigured as tdConfigured } from "@/lib/twelvedata";
 import { getAllPosts, relativeTime, categoryLabel } from "@/lib/posts";
 
 export function generateStaticParams() {
@@ -133,8 +134,12 @@ export default async function MarketPage({ params }: { params: { symbol: string 
   const sym = getSymbol(params.symbol);
   if (!sym) notFound();
 
-  const live = await liveFor(sym);
-  const news = await newsFor(sym);
+  const [live, news, series] = await Promise.all([
+    liveFor(sym),
+    newsFor(sym),
+    tdConfigured() ? getDailySeries(tdSymbolFor(sym.slug, sym.symbol)) : Promise.resolve(null),
+  ]);
+  const chartData = series?.map((b) => b.c);
 
   const price = live?.price ?? sym.price;
   const change = live?.change ?? sym.change;
@@ -226,15 +231,17 @@ export default async function MarketPage({ params }: { params: { symbol: string 
         <div className="max-w-[1320px] mx-auto px-5 md:px-7 py-7 md:py-9">
           <div className="flex flex-wrap items-baseline gap-2 md:gap-4 mb-4 md:mb-5">
             <h2 className="font-display text-[18px] md:text-[22px] font-extrabold tracking-[-0.022em] text-navy leading-none">
-              Price · last 3 months
+              Price · last {chartData ? `${chartData.length} trading days` : "3 months"}
             </h2>
             <span className="font-mono text-[9.5px] md:text-[10.5px] tracking-[0.08em] uppercase font-semibold text-sand">
-              INDICATIVE · NOT FOR TRADING
+              {chartData ? "DAILY CLOSES · VIA TWELVE DATA" : "INDICATIVE · NOT FOR TRADING"}
             </span>
           </div>
-          <MarketChart slug={sym.slug} direction={direction} />
+          <MarketChart slug={sym.slug} direction={direction} data={chartData} />
           <p className="font-mono text-[10px] tracking-[0.06em] uppercase text-sand mt-4">
-            Snapshot chart shown above. Live time-series data for charts requires a Twelve Data API key (free tier).
+            {chartData
+              ? "Daily closing prices. Chart not intended for trading decisions."
+              : "Snapshot chart shown above. Add a Twelve Data API key to render live time-series."}
           </p>
         </div>
       </section>

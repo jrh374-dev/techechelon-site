@@ -1,5 +1,6 @@
-// Generates a deterministic, realistic-looking sparkline for a market symbol
-// using the symbol's slug as a seed. Swap to live time-series data later.
+// SVG sparkline chart. Accepts real close-price bars when available; falls
+// back to a deterministic, slug-seeded placeholder series so the visual
+// shape remains stable when live data is unavailable.
 
 function seedFromSlug(slug: string): number {
   let h = 0;
@@ -17,35 +18,39 @@ function lcg(seed: number) {
   };
 }
 
+function placeholderValues(slug: string, direction: "up" | "down" | "flat", n: number): number[] {
+  const rng = lcg(seedFromSlug(slug));
+  const drift = direction === "up" ? 0.12 : direction === "down" ? -0.10 : 0.0;
+  const out: number[] = [];
+  let v = 100;
+  for (let i = 0; i < n; i++) {
+    v += drift + (rng() - 0.5) * 1.6;
+    out.push(v);
+  }
+  return out;
+}
+
 export function MarketChart({
   slug,
   direction,
+  data,
   width = 760,
   height = 220,
 }: {
   slug: string;
   direction: "up" | "down" | "flat";
+  data?: number[];
   width?: number;
   height?: number;
 }) {
-  const points = 78; // ~3 months of daily closes
-  const rng = lcg(seedFromSlug(slug));
-  const drift =
-    direction === "up" ? 0.12 : direction === "down" ? -0.10 : 0.0;
-
-  const values: number[] = [];
-  let v = 100;
-  for (let i = 0; i < points; i++) {
-    const wobble = (rng() - 0.5) * 1.6;
-    v += drift + wobble;
-    values.push(v);
-  }
+  const points = 78;
+  const values = data && data.length > 5 ? data : placeholderValues(slug, direction, points);
 
   const min = Math.min(...values);
   const max = Math.max(...values);
   const pad = 18;
-  const xStep = (width - pad * 2) / (points - 1);
-  const yScale = (height - pad * 2) / (max - min || 1);
+  const xStep = (width - pad * 2) / Math.max(1, values.length - 1);
+  const yScale = (height - pad * 2) / Math.max(0.01, max - min);
 
   const xy = values.map((val, i) => {
     const x = pad + i * xStep;
@@ -63,7 +68,6 @@ export function MarketChart({
 
   const stroke = direction === "down" ? "#C9402A" : "#15264D";
   const fill = direction === "down" ? "rgba(232,90,44,0.10)" : "rgba(21,38,77,0.10)";
-
   const gridY = [pad, height / 2, height - pad];
 
   return (
@@ -71,7 +75,7 @@ export function MarketChart({
       viewBox={`0 0 ${width} ${height}`}
       width="100%"
       role="img"
-      aria-label={`Sparkline chart for ${slug}`}
+      aria-label={`Chart for ${slug}`}
     >
       {gridY.map((y, i) => (
         <line
