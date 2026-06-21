@@ -1,7 +1,7 @@
 ---
 title: "Rivian shares surge following announcement of access to Tesla's fast-charging network"
 slug: rivian-shares-surge-following-announcement-of-access-to-tesla-s-fast-charging-network
-excerpt: "Rivian Automotive Inc.'s stock price experienced an upward swing of over 2% on Tuesday, making it one of the few automaker shares to..."
+excerpt: "Rivian disclosed plans for the release of an adapter to facilitate charging of its EVs on Tesla’s fast-charging network, anticipated by spring 2024. Furthermore, the company plans to integrate Tesla’s North American Charging Standard (NACS) charge ports into its cars by 2025."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

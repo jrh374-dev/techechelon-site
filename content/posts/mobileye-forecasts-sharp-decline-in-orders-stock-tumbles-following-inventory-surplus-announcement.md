@@ -1,7 +1,7 @@
 ---
 title: "Mobileye Forecasts Sharp Decline in Orders, Stock Tumbles Following Inventory Surplus Announcement"
 slug: mobileye-forecasts-sharp-decline-in-orders-stock-tumbles-following-inventory-surplus-announcement
-excerpt: "Mobileye, a self-driving tech firm under Intel's majority ownership, issued a cautionary statement on Thursday, anticipating a..."
+excerpt: "The company disclosed in its preliminary annual report that its clients currently hold excessive inventories. Post global supply chain disruptions, these automakers had procured large quantities of Mobileye's chips to mitigate any future scarcity of parts."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

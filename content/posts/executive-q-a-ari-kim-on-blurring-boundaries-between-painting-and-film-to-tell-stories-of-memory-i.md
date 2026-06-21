@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Ari Kim on Blurring Boundaries Between Painting and Film to Tell Stories of Memory, Identity, and Culture"
 slug: executive-q-a-ari-kim-on-blurring-boundaries-between-painting-and-film-to-tell-stories-of-memory-i
-excerpt: "Ari Kim is a multidisciplinary artist and filmmaker whose work navigates the fluid intersection of visual storytelling, personal memory,..."
+excerpt: "Born with an innate drive to express through visuals, Ari's artistic journey began in childhood, where drawing and painting became her first language. This early passion led her to New York, where she studied at NYU and immersed herself in the city's thriving art and film community."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

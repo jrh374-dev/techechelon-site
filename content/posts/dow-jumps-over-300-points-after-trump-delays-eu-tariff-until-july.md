@@ -1,7 +1,7 @@
 ---
 title: "Dow Jumps Over 300 Points After Trump Delays EU Tariff Until July"
 slug: dow-jumps-over-300-points-after-trump-delays-eu-tariff-until-july
-excerpt: "U.S. stocks climbed on Tuesday after President Donald Trump announced a delay in imposing a 50% tariff on European Union imports. The Dow..."
+excerpt: "The Dow Jones Industrial Average rose 318 points, or 0.8%. The S&P 500 added 1%, while the Nasdaq Composite advanced 1.2%."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

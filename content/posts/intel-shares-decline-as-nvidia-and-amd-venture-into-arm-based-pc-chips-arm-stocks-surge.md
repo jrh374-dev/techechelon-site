@@ -1,7 +1,7 @@
 ---
 title: "Intel Shares Decline as Nvidia and AMD Venture into Arm-based PC Chips; Arm Stocks Surge"
 slug: intel-shares-decline-as-nvidia-and-amd-venture-into-arm-based-pc-chips-arm-stocks-surge
-excerpt: "Intel shares fell by over 3% in Monday's trading session following a Reuters report which suggested that Nvidia and AMD are developing PC..."
+excerpt: "At present, Intel dominates the PC chip market, with AMD trailing behind. Over half of Intel's revenue from the quarter ending in June was from PC chip sales."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

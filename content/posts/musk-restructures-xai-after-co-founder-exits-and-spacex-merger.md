@@ -1,7 +1,7 @@
 ---
 title: "Musk Restructures xAI After Co-Founder Exits and SpaceX Merger"
 slug: musk-restructures-xai-after-co-founder-exits-and-spacex-merger
-excerpt: "Elon Musk announced Wednesday that his artificial intelligence venture xAI has undergone a reorganization following the departure of multiple co-founders and just days after its merger with SpaceX. The restructuring, Musk said in a post on X, was designed “to improve speed of execution” and required “parting ways with some people.” He did not specify how many employees were let go or which exits were voluntary. Musk added that the company is now “hiring aggressively.” Earlier this week, xAI..."
+excerpt: "The restructuring, Musk said in a post on X, was designed “to improve speed of execution” and required “parting ways with some people.” He did not specify how many employees were let go or which exits were voluntary. Musk added that the company is now “hiring aggressively.”"
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

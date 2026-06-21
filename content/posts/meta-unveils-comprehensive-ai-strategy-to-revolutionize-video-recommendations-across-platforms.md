@@ -1,7 +1,7 @@
 ---
 title: "Meta Unveils Comprehensive AI Strategy to Revolutionize Video Recommendations Across Platforms"
 slug: meta-unveils-comprehensive-ai-strategy-to-revolutionize-video-recommendations-across-platforms
-excerpt: "Meta, the parent company of Facebook, is actively developing an advanced artificial intelligence (AI) model aimed at enhancing its video..."
+excerpt: "Tom Alison, Facebook's chief, highlighted during the Morgan Stanley tech event in San Francisco that this initiative is a key component of Meta's technological strategy extending through 2026."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

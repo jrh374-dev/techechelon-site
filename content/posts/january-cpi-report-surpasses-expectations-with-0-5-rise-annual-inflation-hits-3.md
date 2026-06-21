@@ -1,7 +1,7 @@
 ---
 title: "January CPI Report Surpasses Expectations with 0.5% Rise, Annual Inflation Hits 3%"
 slug: january-cpi-report-surpasses-expectations-with-0-5-rise-annual-inflation-hits-3
-excerpt: "Consumer prices increased by 0.5% in January, surpassing expectations, as the yearly inflation rate climbed to 3%, according to data..."
+excerpt: "Housing costs were a significant factor driving the increase, with a monthly rise of 0.4%. This category accounted for nearly 30% of the total inflation increase. Notably, homeowners' equivalent rent, a measure reflecting potential rental income from homeownership, increased by 0.3% monthly and 4.6% annually."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Cristiano Lima-Strong on Why Tech Policy Reporting Matters More Than Ever"
 slug: executive-q-a-cristiano-lima-strong-on-why-tech-policy-reporting-matters-more-than-ever
-excerpt: "As the battle over how to regulate Big Tech plays out in courtrooms, legislatures, and the public square, one journalist is helping..."
+excerpt: "At a time when artificial intelligence, platform accountability, and data privacy are dominating headlines — but still often misunderstood — Lima-Strong is working to close the gap between dense policymaking and public understanding."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

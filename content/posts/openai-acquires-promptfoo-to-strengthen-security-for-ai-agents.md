@@ -1,7 +1,7 @@
 ---
 title: "OpenAI Acquires Promptfoo to Strengthen Security for AI Agents"
 slug: openai-acquires-promptfoo-to-strengthen-security-for-ai-agents
-excerpt: "OpenAI is acquiring cybersecurity startup Promptfoo as part of a broader push to strengthen safeguards around the rapidly expanding ecosystem of AI agents. Financial terms of the deal were not disclosed, but Promptfoo’s team will join OpenAI and its technology will be integrated into the company’s Frontier platform, which is designed to power autonomous AI agents operating across real-world systems. Promptfoo specializes in tools that allow developers to test, validate, and secure complex AI..."
+excerpt: "Promptfoo specializes in tools that allow developers to test, validate, and secure complex AI systems before they are deployed."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Markets Retreat as Tech Rally Fizzles, Ending S&P 500's Six-Day Winning Streak"
 slug: markets-retreat-as-tech-rally-fizzles-ending-s-p-500-s-six-day-winning-streak
-excerpt: "Stocks pulled back Tuesday as enthusiasm around big tech stocks faded, halting the S&P 500’s six-day climb—its longest winning streak in..."
+excerpt: "The S&P 500 slipped 0.39% to close at 5,940.46, while the Nasdaq Composite fell 0.38% to 19,142.71. The Dow Jones Industrial Average declined by 114.83 points, or 0.27%, finishing the session at 42,677.24."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

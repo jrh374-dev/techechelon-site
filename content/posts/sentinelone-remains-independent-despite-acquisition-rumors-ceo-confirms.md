@@ -1,7 +1,7 @@
 ---
 title: "SentinelOne Remains Independent Despite Acquisition Rumors, CEO Confirms"
 slug: sentinelone-remains-independent-despite-acquisition-rumors-ceo-confirms
-excerpt: "SentinelOne's CEO and co-founder, Tomer Weingarten, made it clear in a recent CNBC interview the cybersecurity firm, which went public in..."
+excerpt: "This announcement comes in the wake of a Reuters report that alluded to the company potentially being up for sale. Moreover, there was buzz about the security startup, Wiz, showing interest in acquiring SentinelOne, following statements from a representative of Wiz."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

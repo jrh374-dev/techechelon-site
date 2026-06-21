@@ -1,7 +1,7 @@
 ---
 title: "Meta and Google Face Mounting Legal Pressure as Court Cases Chip Away at Section 230"
 slug: meta-and-google-face-mounting-legal-pressure-as-court-cases-chip-away-at-section-230
-excerpt: "For three decades, Section 230 of the Communications Decency Act has served as the bedrock legal protection for internet platforms, shielding companies like Meta and Google from liability over content posted by their users. That protection is now being tested in courtrooms across the country, as plaintiffs' attorneys have developed targeted legal theories specifically designed to circumvent it — and in several high-profile cases, they are winning. In a landmark verdict last week in Los..."
+excerpt: "That protection is now being tested in courtrooms across the country, as plaintiffs' attorneys have developed targeted legal theories specifically designed to circumvent it — and in several high-profile cases, they are winning."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

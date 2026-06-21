@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Insights and Strategies from GitGuardian's Eric Fourrier on Securing Codebases"
 slug: executive-q-a-insights-and-strategies-from-gitguardian-s-eric-fourrier-on-securing-codebases
-excerpt: "Eric Fourrier, the innovative mind behind GitGuardian, is at the forefront of tackling one of the most pressing issues in software..."
+excerpt: "Eric Fourrier, the innovative mind behind GitGuardian, is at the forefront of tackling one of the most pressing issues in software development today: secrets management."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

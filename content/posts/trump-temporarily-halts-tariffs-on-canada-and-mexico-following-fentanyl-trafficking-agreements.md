@@ -1,7 +1,7 @@
 ---
 title: "Trump Temporarily Halts Tariffs on Canada and Mexico Following Fentanyl Trafficking Agreements"
 slug: trump-temporarily-halts-tariffs-on-canada-and-mexico-following-fentanyl-trafficking-agreements
-excerpt: "President Donald Trump has agreed to temporarily halt the imposition of new tariffs on Canadian imports, extending a similar concession..."
+excerpt: "On Saturday, Trump had announced a 25% tariff on goods from both Mexico and Canada, with an additional 10% on Chinese imports. He also had plans to introduce a 10% tariff on Canadian energy resources. In response, Trudeau had threatened to impose a retaliatory tariff of 25% on $155 billion worth of U.S. goods."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

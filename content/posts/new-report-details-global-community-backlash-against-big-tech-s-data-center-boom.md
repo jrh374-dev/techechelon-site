@@ -1,7 +1,7 @@
 ---
 title: "New Report Details Global Community Backlash Against Big Tech's Data Center Boom"
 slug: new-report-details-global-community-backlash-against-big-tech-s-data-center-boom
-excerpt: "In their latest report, Where Cloud Meets Cement: A Case Study Analysis of Data Center Development , The Maybe—working in collaboration..."
+excerpt: "In their latest report, _Where Cloud Meets Cement: A Case Study Analysis of Data Center Development_, The Maybe—working in collaboration with public interest firm Computer Says Maybe—has pulled back the curtain on the accelerating global footprint of hyperscale data centers."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

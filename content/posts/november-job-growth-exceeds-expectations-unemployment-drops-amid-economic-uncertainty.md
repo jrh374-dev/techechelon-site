@@ -1,7 +1,7 @@
 ---
 title: "November Job Growth Exceeds Expectations, Unemployment Drops Amid Economic Uncertainty"
 slug: november-job-growth-exceeds-expectations-unemployment-drops-amid-economic-uncertainty
-excerpt: "November's job growth surpassed expectations, with nonfarm payrolls increasing by 199,000, outpacing the Dow Jones estimate of 190,000...."
+excerpt: "Government hiring and returning workers from the auto and entertainment sectors contributed to this growth. The unemployment rate dropped to 3.7%, lower than the anticipated 3.9%, as more people joined the workforce, pushing the participation rate to 62.8%."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

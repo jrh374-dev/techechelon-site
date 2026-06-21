@@ -1,7 +1,7 @@
 ---
 title: "Online Voting Startup Sequent is Pioneering the Future of Digital Democracy"
 slug: online-voting-startup-sequent-is-pioneering-the-future-of-digital-democracy
-excerpt: "Sequent , a pioneering online voting platform, is redefining the democratic process by making it more accessible, secure, and verifiable...."
+excerpt: "*From left to right, David Ruescas Co-Founder & Head of Research; Eduardo Robles Co-Founder & CTO; Shai Bargil Co-Founder & CEO.*"
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

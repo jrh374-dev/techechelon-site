@@ -1,7 +1,7 @@
 ---
 title: "Tesla Shares Take a Dive amid Uncertainty Over Cybertruck Production and Diminishing Profit Margins"
 slug: tesla-shares-take-a-dive-amid-uncertainty-over-cybertruck-production-and-diminishing-profit-margins
-excerpt: "Tesla's stock plunged by over 7% on Thursday following unclear remarks from CEO Elon Musk and other top executives regarding the..."
+excerpt: "Musk hinted at potential production hiccups in the third quarter, noting \"we've got summer shutdowns\" for several \"factory upgrades.\" However, he affirmed the company's goal to hit 1.8 million vehicle deliveries for the year."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

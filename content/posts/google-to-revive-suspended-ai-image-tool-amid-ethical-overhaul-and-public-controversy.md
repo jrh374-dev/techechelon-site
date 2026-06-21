@@ -1,7 +1,7 @@
 ---
 title: "Google to Revive Suspended AI Image Tool Amid Ethical Overhaul and Public Controversy"
 slug: google-to-revive-suspended-ai-image-tool-amid-ethical-overhaul-and-public-controversy
-excerpt: "Google has announced plans to relaunch its AI-driven image creation feature, which was temporarily suspended last Thursday amid..."
+excerpt: "Demis Hassabis, CEO of Google DeepMind, revealed at the Mobile World Congress in Barcelona that the tool, part of Google's Gemini suite of AI models, is undergoing fixes to address these issues, with hopes of it being back online within a few weeks."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Google to Acquire Cloud Security Startup Wiz for Record-Breaking $32 Billion"
 slug: google-to-acquire-cloud-security-startup-wiz-for-record-breaking-32-billion
-excerpt: "Google announced on Tuesday that it has reached a definitive agreement to acquire the New York-based cloud security startup Wiz for $32..."
+excerpt: "With this deal, Wiz will become a part of Google's cloud division, significantly bolstering Google's security offerings in response to growing cybersecurity threats and rapid advancements in artificial intelligence. Google expects the acquisition to be completed by 2026."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Tech IPOs Return to the Spotlight After 20-Month Hiatus"
 slug: tech-ipos-return-to-the-spotlight-after-20-month-hiatus
-excerpt: "Silicon Valley has been buzzing with anticipation for the next big tech Initial Public Offering (IPO), with a noticeable void spanning 20..."
+excerpt: "Earlier, Arm, the chip designer under the SoftBank umbrella of Japan, announced its intention to list on the Nasdaq. It comes seven years after its $32 billion acquisition and privatization."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

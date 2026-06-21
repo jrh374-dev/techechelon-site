@@ -1,7 +1,7 @@
 ---
 title: "Utah Takes Legal Action Against TikTok Over Child Safety Concerns"
 slug: utah-takes-legal-action-against-tiktok-over-child-safety-concerns
-excerpt: "Utah has initiated a lawsuit against TikTok, accusing the platform of promoting harmful social media habits to children. This move by..."
+excerpt: "This move by Utah claims that TikTok lures children into extended usage, conceals the true nature of its safety measures, and misrepresents its autonomy from its parent company in China, ByteDance, as informed by The Associated Press."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

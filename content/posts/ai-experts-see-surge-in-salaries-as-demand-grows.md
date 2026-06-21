@@ -1,7 +1,7 @@
 ---
 title: "AI Experts See Surge in Salaries as Demand Grows"
 slug: ai-experts-see-surge-in-salaries-as-demand-grows
-excerpt: "Companies are ramping up salaries to attract professionals with expertise in artificial intelligence (AI). Netflix, recently under the..."
+excerpt: "For a data scientist role in LA's advertising sector, the compensation ranges from $390,000 to $900,000. Netflix elaborated on its website, \"Our team's objective is to harness machine learning in order to provide our members with a plethora of choices and enhance their viewing experience.\""
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

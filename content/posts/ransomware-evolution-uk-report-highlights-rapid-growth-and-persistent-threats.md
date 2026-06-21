@@ -1,7 +1,7 @@
 ---
 title: "Ransomware Evolution: UK Report Highlights Rapid Growth and Persistent Threats"
 slug: ransomware-evolution-uk-report-highlights-rapid-growth-and-persistent-threats
-excerpt: "Ransomware has matured into a complex industry, often circumventing Western governments and putting vulnerable businesses in peril,..."
+excerpt: "A decade since the initiation of the Cryptolocker attack, lax online security has allowed the ransomware trade to flourish. Criminals have developed an ecosystem where they can exchange software vulnerabilities, initiate franchises for newcomers, and establish platforms for trading access to compromised enterprises."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

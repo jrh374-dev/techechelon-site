@@ -1,7 +1,7 @@
 ---
 title: "Trump Unleashes Sweeping Tariffs, Shaking Markets and Global Trade Alliances"
 slug: trump-unleashes-sweeping-tariffs-shaking-markets-and-global-trade-alliances
-excerpt: "President Donald Trump escalated global trade tensions on Thursday by signing an aggressive and far-reaching \"reciprocal tariff\" policy..."
+excerpt: "The newly announced tariffs establish a 10% baseline tariff on imports across the board, with significantly higher rates imposed on key trading partners, including 34% on China, 20% on the European Union, 46% on Vietnam, and 32% on Taiwan."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

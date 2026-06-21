@@ -1,7 +1,7 @@
 ---
 title: "Apple Soars 15% After 90-Day Pause on U.S. Tariffs, Marking Best Day Since 1998"
 slug: apple-soars-15-after-90-day-pause-on-u-s-tariffs-marking-best-day-since-1998
-excerpt: "Apple shares surged 15% on Wednesday after President Donald Trump announced a 90-day pause on new “reciprocal tariffs,” a move that..."
+excerpt: "The one-day rally added more than $400 billion to Apple’s market capitalization, bringing its valuation to just under $3 trillion. It was Apple’s strongest single-day performance since January 1998, when Steve Jobs had returned as interim CEO, years before the debut of the first iPod."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

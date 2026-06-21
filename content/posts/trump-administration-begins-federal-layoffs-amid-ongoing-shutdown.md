@@ -1,7 +1,7 @@
 ---
 title: "Trump Administration Begins Federal Layoffs Amid Ongoing Shutdown"
 slug: trump-administration-begins-federal-layoffs-amid-ongoing-shutdown
-excerpt: "The Trump administration began issuing permanent layoffs to federal workers on Friday as the U.S. government shutdown entered its tenth..."
+excerpt: "Office of Management and Budget Director Russell Vought confirmed the move on X, writing, “The RIFs have begun,” using the acronym for Reductions in Force."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

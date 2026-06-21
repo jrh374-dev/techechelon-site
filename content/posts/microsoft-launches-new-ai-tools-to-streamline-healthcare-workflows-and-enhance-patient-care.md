@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Launches New AI Tools to Streamline Healthcare Workflows and Enhance Patient Care"
 slug: microsoft-launches-new-ai-tools-to-streamline-healthcare-workflows-and-enhance-patient-care
-excerpt: "Microsoft has unveiled a range of new artificial intelligence (AI) tools designed to enhance the operations of health care organizations...."
+excerpt: "One of the key innovations is an AI imaging tool developed in collaboration with partners like Providence and Paige.ai. This tool allows health care organizations to integrate and analyze various data types, including medical images, clinical records, and genomic data."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

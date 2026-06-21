@@ -1,7 +1,7 @@
 ---
 title: "Former FDA Commissioner Scott Gottlieb Foresees AI Taking Over Medical Tasks"
 slug: former-fda-commissioner-scott-gottlieb-foresees-ai-taking-over-medical-tasks
-excerpt: "In an opinion piece published by CNBC, Scott Gottlieb, the former Commissioner of the Food and Drug Administration (FDA), opined that..."
+excerpt: "Gottlieb emphasized that the not-so-distant future of medicine might witness AI systems performing duties typically carried out by medical practitioners."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

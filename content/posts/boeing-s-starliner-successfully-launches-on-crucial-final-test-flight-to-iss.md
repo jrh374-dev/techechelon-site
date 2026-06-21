@@ -1,7 +1,7 @@
 ---
 title: "Boeing's Starliner Successfully Launches on Crucial Final Test Flight to ISS"
 slug: boeing-s-starliner-successfully-launches-on-crucial-final-test-flight-to-iss
-excerpt: "Boeing launched its first Starliner flight with astronauts on Wednesday, beginning a crucial final flight test of the long-delayed..."
+excerpt: "The launch took off at 10:52 a.m. ET from Cape Canaveral, Florida with two NASA astronauts aboard. Starliner is carried by United Launch Alliance’s Atlas V rocket and bound for the International Space Station."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

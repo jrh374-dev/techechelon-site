@@ -1,7 +1,7 @@
 ---
 title: "Unexpected Surge in Wholesale Prices in April Challenges Hopes for Interest Rate Cuts"
 slug: unexpected-surge-in-wholesale-prices-in-april-challenges-hopes-for-interest-rate-cuts
-excerpt: "In April, wholesale prices surged unexpectedly, suggesting that interest rate reductions might not be on the horizon. The producer price..."
+excerpt: "In April, wholesale prices surged unexpectedly, suggesting that interest rate reductions might not be on the horizon."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

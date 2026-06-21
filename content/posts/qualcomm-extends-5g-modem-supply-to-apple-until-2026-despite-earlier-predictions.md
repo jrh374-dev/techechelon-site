@@ -1,7 +1,7 @@
 ---
 title: "Qualcomm Extends 5G Modem Supply to Apple Until 2026 Despite Earlier Predictions"
 slug: qualcomm-extends-5g-modem-supply-to-apple-until-2026-despite-earlier-predictions
-excerpt: "On Monday, Qualcomm announced it will provide Apple with 5G modems for their smartphones until 2026. This comes despite earlier..."
+excerpt: "Qualcomm's continued collaboration with Apple is set to enhance its handset business, which recorded sales of $5.26 billion in the quarter ending in June. Given that roughly 21% of Qualcomm’s $44."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Nvidia Crushes Earnings as AI Demand Hits Another Gear"
 slug: nvidia-crushes-earnings-as-ai-demand-hits-another-gear
-excerpt: "Nvidia once again reset expectations for the AI era, delivering a blowout quarter that underscores just how dominant the company has become at the center of global compute demand. The chip giant reported fiscal fourth-quarter results well ahead of Wall Street estimates, with revenue surging 73% year-over-year to $68.13 billion and adjusted earnings per share of $1.62, topping expectations. Shares moved higher in extended trading, continuing Nvidia’s outperformance relative to other megacap..."
+excerpt: "The chip giant reported fiscal fourth-quarter results well ahead of Wall Street estimates, with revenue surging 73% year-over-year to $68.13 billion and adjusted earnings per share of $1.62, topping expectations."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

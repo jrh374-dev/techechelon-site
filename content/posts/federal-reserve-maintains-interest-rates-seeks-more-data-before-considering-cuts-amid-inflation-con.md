@@ -1,7 +1,7 @@
 ---
 title: "Federal Reserve Maintains Interest Rates, Seeks More Data Before Considering Cuts Amid Inflation Concerns"
 slug: federal-reserve-maintains-interest-rates-seeks-more-data-before-considering-cuts-amid-inflation-con
-excerpt: "Federal Reserve representatives noted during their June gathering that while inflation trends are heading towards the desired direction,..."
+excerpt: "The minutes revealed that the policymakers require more convincing data to be confident that inflation is steadily approaching the 2% target."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Modest Job Growth in July Signals Slower Economic Expansion: Labor Department Report"
 slug: modest-job-growth-in-july-signals-slower-economic-expansion-labor-department-report
-excerpt: "The Labor Department reported on Friday that job growth in July didn't meet expectations, suggesting a deceleration in U.S. economic..."
+excerpt: "Despite predictions that the unemployment rate would remain at 3.6%, it dipped to 3.5%, which is marginally higher than the lowest level since late 1969."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

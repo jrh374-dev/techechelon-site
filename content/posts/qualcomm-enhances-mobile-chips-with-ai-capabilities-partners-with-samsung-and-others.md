@@ -1,7 +1,7 @@
 ---
 title: "Qualcomm Enhances Mobile Chips with AI Capabilities, Partners with Samsung and Others"
 slug: qualcomm-enhances-mobile-chips-with-ai-capabilities-partners-with-samsung-and-others
-excerpt: "Qualcomm has announced a significant update to its mobile phone chips, integrating technology initially developed for its laptop..."
+excerpt: "The San Diego-based company, a leading provider of mobile phone chips, had previously expanded its business in 2021 by hiring a team of former Apple engineers to design laptop chips."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

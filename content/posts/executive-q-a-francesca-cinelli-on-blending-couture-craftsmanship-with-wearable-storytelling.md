@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Francesca Cinelli on Blending Couture Craftsmanship with Wearable Storytelling"
 slug: executive-q-a-francesca-cinelli-on-blending-couture-craftsmanship-with-wearable-storytelling
-excerpt: "Francesca Cinelli is an artist whose work defies easy categorization—merging the worlds of fine art, couture craftsmanship, and cultural..."
+excerpt: "*Francesca Cinelli*"
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

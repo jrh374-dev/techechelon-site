@@ -1,7 +1,7 @@
 ---
 title: "White House Adviser Urges Stronger Cybersecurity in Wake of Iranian Hacker Attacks"
 slug: white-house-adviser-urges-stronger-cybersecurity-in-wake-of-iranian-hacker-attacks
-excerpt: "In a recent statement, Anne Neuberger, the Deputy National Security Adviser for the White House, highlighted the urgency for enhanced..."
+excerpt: "These incidents, though relatively unsophisticated and with limited operational impact, signal ongoing threats from hostile nations and criminal entities."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

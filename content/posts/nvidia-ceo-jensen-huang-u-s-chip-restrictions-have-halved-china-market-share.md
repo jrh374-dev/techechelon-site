@@ -1,7 +1,7 @@
 ---
 title: "Nvidia CEO Jensen Huang: U.S. Chip Restrictions Have Halved China Market Share"
 slug: nvidia-ceo-jensen-huang-u-s-chip-restrictions-have-halved-china-market-share
-excerpt: "Nvidia CEO Jensen Huang has sharply criticized U.S. chip export controls, calling them a “failure” that have severely hurt American..."
+excerpt: "Speaking at the Computex tech conference in Taiwan, Huang said the restrictions have slashed Nvidia’s market share in China from 95% to 50%. He warned that if U.S."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

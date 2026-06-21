@@ -1,7 +1,7 @@
 ---
 title: "Buy Build Fund is Pioneering Growth and Innovation in the SME Sector"
 slug: buy-build-fund-is-pioneering-growth-and-innovation-in-the-sme-sector
-excerpt: "In the vibrant heart of Westport, Connecticut, a unique investment firm is redefining the landscape of the lower middle market with its..."
+excerpt: "Established with the vision to bridge the gap between untapped market opportunities and strategic growth, Buy Build Fund has quickly become a beacon for companies seeking to elevate their business to new heights."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

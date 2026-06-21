@@ -1,7 +1,7 @@
 ---
 title: "Amazon Invests Additional $4 Billion in AI Startup Anthropic"
 slug: amazon-invests-additional-4-billion-in-ai-startup-anthropic
-excerpt: "Amazon has announced a $4 billion investment in Anthropic, the San Francisco-based AI startup founded by former OpenAI research..."
+excerpt: "As part of the expanded partnership, Amazon Web Services (AWS) will now serve as Anthropic’s primary cloud and training partner. Anthropic will utilize AWS Trainium and Inferentia chips to train and deploy its advanced AI models."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

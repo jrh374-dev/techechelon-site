@@ -1,7 +1,7 @@
 ---
 title: "Evolution Equity Partners Raises Monumental $1.1 Billion Cybersecurity Fund"
 slug: evolution-equity-partners-raises-monumental-1-1-billion-cybersecurity-fund
-excerpt: "In a landmark achievement for the cybersecurity investment landscape, Evolution Equity Partners announced the final close of its..."
+excerpt: "In a landmark achievement for the cybersecurity investment landscape, Evolution Equity Partners announced the final close of its Evolution Technology Fund III, with an impressive $1.1 billion in capital commitments."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

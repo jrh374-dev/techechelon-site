@@ -1,7 +1,7 @@
 ---
 title: "Emerging AI technology raises questions about safeguarding intellectual property"
 slug: emerging-ai-technology-raises-questions-about-safeguarding-intellectual-property
-excerpt: "Emerging AI technology, particularly generative artificial intelligence, presents new quandaries in the arena of intellectual property..."
+excerpt: "Lawmakers and legal experts are grappling with the implications of this rapidly advancing field for copyright protection while aiming to retain America's competitive edge globally. As patent law comes into focus, strategies for sensible regulation are being deliberated in Congress."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

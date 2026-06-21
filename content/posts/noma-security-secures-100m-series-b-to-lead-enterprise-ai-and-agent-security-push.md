@@ -1,7 +1,7 @@
 ---
 title: "Noma Security Secures $100M Series B to Lead Enterprise AI and Agent Security Push"
 slug: noma-security-secures-100m-series-b-to-lead-enterprise-ai-and-agent-security-push
-excerpt: "Noma Security, a rapidly emerging leader in AI security, has raised $100 million in a Series B funding round to accelerate adoption of..."
+excerpt: "The round was led by Evolution Equity Partners with continued backing from Ballistic Ventures and Glilot Capital. The fresh capital comes less than a year after Noma Security’s previous funding round and cements the company’s status as one of the fastest-growing firms in the AI security space."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

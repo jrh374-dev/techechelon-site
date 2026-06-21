@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Kristi Daeda on Succession, Stewardship, and When a Family Business Becomes a Family Office"
 slug: executive-q-a-kristi-daeda-on-succession-stewardship-and-when-a-family-business-becomes-a-family
-excerpt: "As families navigate the complexities of generational transition, particularly as “The Greatest Wealth Transfer in History Is Here” according to the NY Times , the line between a family business and a family enterprise continues to evolve. Who better to seek to understand this challenge than the CEO of a company that consults with more than 3,000 family businesses on topics that include succession planning, conflict resolution and everything in between. Kristi Daeda, President and CEO of The..."
+excerpt: "As families navigate the complexities of generational transition, particularly as “The Greatest Wealth Transfer in History Is Here” according to the NY Times, the line between a family business and a family enterprise continues to evolve."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

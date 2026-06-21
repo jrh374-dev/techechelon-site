@@ -1,7 +1,7 @@
 ---
 title: "AI Chatbots Vulnerable to New Forms of 'Jailbreak' Attacks: Carnegie Mellon Study"
 slug: ai-chatbots-vulnerable-to-new-forms-of-jailbreak-attacks-carnegie-mellon-study
-excerpt: "New findings from Carnegie Mellon University highlight an unforeseen challenge in prohibiting artificial intelligence (AI) chatbots from..."
+excerpt: "Famous AI services such as ChatGPT and Bard, which generate useful responses based on user input, span various fields from script creation and brainstorming to writing full pieces of text."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

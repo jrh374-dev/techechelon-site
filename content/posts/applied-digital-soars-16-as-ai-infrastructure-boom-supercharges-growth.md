@@ -1,7 +1,7 @@
 ---
 title: "Applied Digital Soars 16% as AI Infrastructure Boom Supercharges Growth"
 slug: applied-digital-soars-16-as-ai-infrastructure-boom-supercharges-growth
-excerpt: "Applied Digital (NASDAQ: APLD) extended its blistering 2025 rally on Friday, with shares jumping 16% after the company reported..."
+excerpt: "The stock is now up more than 340% year to date, underscoring investor enthusiasm for the companies powering the AI buildout."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

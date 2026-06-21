@@ -1,7 +1,7 @@
 ---
 title: "House Oversight Committee Republicans Initiate Probe into Federal Data Breaches"
 slug: house-oversight-committee-republicans-initiate-probe-into-federal-data-breaches
-excerpt: "The House Oversight and Accountability Committee's Republican members initiated an inquiry on Wednesday into recent email data breaches..."
+excerpt: "In letters addressed to Antony Blinken, Secretary of State, and Gina Raimondo, Secretary of Commerce, the GOP members of the Oversight Committee requested a briefing from each department within the following week."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

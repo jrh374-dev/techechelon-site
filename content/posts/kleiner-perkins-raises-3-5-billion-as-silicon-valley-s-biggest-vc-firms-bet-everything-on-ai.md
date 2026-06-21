@@ -1,7 +1,7 @@
 ---
 title: "Kleiner Perkins Raises $3.5 Billion as Silicon Valley's Biggest VC Firms Bet Everything on AI"
 slug: kleiner-perkins-raises-3-5-billion-as-silicon-valley-s-biggest-vc-firms-bet-everything-on-ai
-excerpt: "Kleiner Perkins has closed $3.5 billion in fresh capital across two funds, marking one of the firm's largest fundraises in its five-decade history and signaling a decisive shift in how legacy venture capital firms are repositioning themselves for the AI era. The firm raised $1 billion for its 22nd early-stage venture fund and an additional $2.5 billion for a separate vehicle focused on late-stage growth investments — nearly double the $2 billion it raised less than two years ago. The outsized..."
+excerpt: "The outsized raise reflects the firm's growing confidence in its AI portfolio. Kleiner Perkins holds early stakes in Together AI, Harvey, and OpenEvidence, and is an investor in both Anthropic and SpaceX — two companies widely expected to pursue IPOs this year."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

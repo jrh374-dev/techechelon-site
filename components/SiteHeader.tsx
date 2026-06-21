@@ -65,8 +65,7 @@ export function SiteHeader() {
             Independent reporting on technology, markets &amp; policy
           </div>
           <Link href="/" className="flex items-center gap-2.5 md:gap-4 text-navy">
-            <TechEchelonMark size={36} className="md:hidden" />
-            <TechEchelonMark size={52} className="hidden md:block" />
+            <TechEchelonMark className="w-9 h-9 md:w-[52px] md:h-[52px] flex-shrink-0" />
             <div className="font-display text-[36px] md:text-[60px] font-extrabold tracking-[-0.03em] leading-none text-navy">
               TechEchelon
             </div>

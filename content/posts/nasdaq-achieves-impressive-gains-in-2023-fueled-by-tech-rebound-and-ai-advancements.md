@@ -1,7 +1,7 @@
 ---
 title: "Nasdaq Achieves Impressive Gains in 2023 Fueled by Tech Rebound and AI Advancements"
 slug: nasdaq-achieves-impressive-gains-in-2023-fueled-by-tech-rebound-and-ai-advancements
-excerpt: "In 2023, technology stocks saw a remarkable recovery, propelling the Nasdaq to one of its best performances in the last twenty years...."
+excerpt: "This rebound places 2023 just behind the gains seen in 2009, with these two years being the only ones with higher increases since the aftermath of the dot-com bubble in 2003."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

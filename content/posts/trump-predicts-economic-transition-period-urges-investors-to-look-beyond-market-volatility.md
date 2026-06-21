@@ -1,7 +1,7 @@
 ---
 title: "Trump Predicts Economic ‘Transition Period,’ Urges Investors to Look Beyond Market Volatility"
 slug: trump-predicts-economic-transition-period-urges-investors-to-look-beyond-market-volatility
-excerpt: "President Donald Trump and his administration are preparing Americans for potential short-term economic turbulence, emphasizing that any..."
+excerpt: "Amid growing concerns over tariffs, a cooling labor market, and signs of slowing growth, Trump reassured the public that these disruptions are temporary and necessary for long-term prosperity."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

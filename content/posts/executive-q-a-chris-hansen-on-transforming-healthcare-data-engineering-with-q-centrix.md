@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Chris Hansen on Transforming Healthcare Data Engineering with Q-Centrix"
 slug: executive-q-a-chris-hansen-on-transforming-healthcare-data-engineering-with-q-centrix
-excerpt: "Chris Hansen is a visionary leader in healthcare data engineering, analytics, and warehousing, leveraging his deep expertise to transform..."
+excerpt: "*Chris Hansen, Head of Data Engineering at Q-Centrix.*"
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

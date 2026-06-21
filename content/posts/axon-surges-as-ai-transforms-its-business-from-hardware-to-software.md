@@ -1,7 +1,7 @@
 ---
 title: "Axon Surges as AI Transforms Its Business From Hardware to Software"
 slug: axon-surges-as-ai-transforms-its-business-from-hardware-to-software
-excerpt: "Shares of Axon Enterprise jumped more than 18% Wednesday after the company delivered a strong earnings beat and signaled that artificial intelligence is rapidly reshaping its business model. The maker of Tasers, body cameras, and drones reported adjusted earnings of $2.15 per share on $797 million in revenue, well ahead of analyst expectations of $1.60 per share and $755 million in revenue. The company also issued bullish 2026 guidance, forecasting 27% to 30% revenue growth, above consensus..."
+excerpt: "The maker of Tasers, body cameras, and drones reported adjusted earnings of $2.15 per share on $797 million in revenue, well ahead of analyst expectations of $1.60 per share and $755 million in revenue. The company also issued bullish 2026 guidance, forecasting 27% to 30% revenue growth, above consensus estimates."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

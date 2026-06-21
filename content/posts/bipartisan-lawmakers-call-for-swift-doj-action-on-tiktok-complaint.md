@@ -1,7 +1,7 @@
 ---
 title: "Bipartisan lawmakers call for swift DOJ action on TikTok complaint"
 slug: bipartisan-lawmakers-call-for-swift-doj-action-on-tiktok-complaint
-excerpt: "On March 14, 2024, an FTC investigation revealed potential breaches by TikTok of the Children’s Online Privacy Protection Act (COPPA),..."
+excerpt: "Senators Ed Markey (D-Mass.) and Bill Cassidy (R-La.) alongside Representatives Tim Walberg (R-Mich.) and Kathy Castor (D-Fla.) emphasized the urgency in a letter sent Tuesday, citing past violations by TikTok and the overarching importance of safeguarding children's online privacy."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

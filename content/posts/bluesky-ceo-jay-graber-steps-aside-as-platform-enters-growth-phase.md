@@ -1,7 +1,7 @@
 ---
 title: "Bluesky CEO Jay Graber Steps Aside as Platform Enters Growth Phase"
 slug: bluesky-ceo-jay-graber-steps-aside-as-platform-enters-growth-phase
-excerpt: "Bluesky CEO Jay Graber announced Monday that she will transition from her role as chief executive to become the company’s Chief Innovation Officer, signaling a leadership shift as the decentralized social network moves into its next stage of growth. Graber said the change reflects Bluesky’s evolving needs as the platform scales. In a post announcing the transition, she explained that the company now requires “a seasoned operator focused on scaling and execution,” while she intends to focus..."
+excerpt: "Graber said the change reflects Bluesky’s evolving needs as the platform scales. In a post announcing the transition, she explained that the company now requires “a seasoned operator focused on scaling and execution,” while she intends to focus more directly on product development and experimentation."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

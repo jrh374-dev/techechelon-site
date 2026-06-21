@@ -1,7 +1,7 @@
 ---
 title: "Top AI Talks to Watch at HIMSS25: How Artificial Intelligence is Reshaping Healthcare"
 slug: top-ai-talks-to-watch-at-himss25-how-artificial-intelligence-is-reshaping-healthcare
-excerpt: "The HIMSS25 Global Health Conference & Exhibition is set to take place from March 3-6, 2025, in Las Vegas, Nevada, bringing together healthcare professionals, IT experts, government officials, and industry leaders to explore the latest innovations in health information and technology. Among the most anticipated discussions at this year's event are those focusing on the transformative role of artificial intelligence (AI) in healthcare. From interoperability to cybersecurity and..."
+excerpt: "With an exhibition hall featuring over 1,000 leading healthcare companies and innovative startups, attendees will have access to the latest technologies revolutionizing the field. Among the conference's standout AI-focused presentations, these are the top sessions healthcare leaders should watch at HIMSS25:"
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Intel Soars 22% After Nvidia’s $5 Billion Investment"
 slug: intel-soars-22-after-nvidia-s-5-billion-investment
-excerpt: "Intel shares jumped 22.8% on Thursday after Nvidia announced a $5 billion investment in the chipmaker, marking Intel’s best trading day..."
+excerpt: "Nvidia said it will purchase shares at $23.28 each as part of an agreement to co-develop data center and PC chips with Intel. The deal does not include the manufacturing of Nvidia chips in Intel’s foundries."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

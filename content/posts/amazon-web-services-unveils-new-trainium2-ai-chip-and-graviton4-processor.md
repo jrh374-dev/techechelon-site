@@ -1,7 +1,7 @@
 ---
 title: "Amazon Web Services Unveils New Trainium2 AI Chip and Graviton4 Processor"
 slug: amazon-web-services-unveils-new-trainium2-ai-chip-and-graviton4-processor
-excerpt: "Amazon's cloud division, Amazon Web Services (AWS), unveiled its latest AI chip, Trainium2, and a new general-purpose processor,..."
+excerpt: "This strategy mirrors Microsoft's recent move in the cloud sector, where it introduced its first AI chip, Maia 100, and also plans to incorporate Nvidia H200 GPUs in its Azure cloud service."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

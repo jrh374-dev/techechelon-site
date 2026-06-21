@@ -1,7 +1,7 @@
 ---
 title: "DHS Shakes Up Advisory Committees, Casting Doubt on Cyber Safety Review Board's Future"
 slug: dhs-shakes-up-advisory-committees-casting-doubt-on-cyber-safety-review-board-s-future
-excerpt: "The Department of Homeland Security (DHS) has dissolved the current memberships of all its advisory committees, casting doubt on the..."
+excerpt: "The directive, issued by Acting DHS Secretary Benjamin Huffman, mandates the immediate cessation of all existing advisory committee memberships as part of a broader effort to reallocate resources and focus on national security concerns."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

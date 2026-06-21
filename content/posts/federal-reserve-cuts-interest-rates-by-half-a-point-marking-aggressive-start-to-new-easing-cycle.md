@@ -1,7 +1,7 @@
 ---
 title: "Federal Reserve Cuts Interest Rates by Half a Point, Marking Aggressive Start to New Easing Cycle"
 slug: federal-reserve-cuts-interest-rates-by-half-a-point-marking-aggressive-start-to-new-easing-cycle
-excerpt: "On Wednesday, the Federal Reserve made its first interest rate cut since the early stages of the Covid-19 pandemic, lowering its key..."
+excerpt: "The Federal Open Market Committee (FOMC) reduced the overnight borrowing rate by 50 basis points, meeting market expectations which had shifted from predictions of a smaller cut. The last time the Fed made a half-point cut, aside from emergency Covid measures, was during the 2008 global financial crisis."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

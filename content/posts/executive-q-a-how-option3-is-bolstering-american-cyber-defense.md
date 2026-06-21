@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: How Option3 is Bolstering American Cyber Defense"
 slug: executive-q-a-how-option3-is-bolstering-american-cyber-defense
-excerpt: "Option3 is a is a specialist cybersecurity private equity firm based in New York and Reston, Virginia that combines experience from the..."
+excerpt: "TechEchelon recently interviewed Option3’s newest partner, Mike Moen, on the firm’s current work in the area of zero trust and what to expect in the months ahead."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

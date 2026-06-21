@@ -1,7 +1,7 @@
 ---
 title: "Meta CEO Zuckerberg Expresses Regret Over Government Pressure on COVID-19 Content, Pledges Neutrality in Future Elections"
 slug: meta-ceo-zuckerberg-expresses-regret-over-government-pressure-on-covid-19-content-pledges-neutralit
-excerpt: "In a recent communication to the House Judiciary Committee, Meta CEO Mark Zuckerberg expressed regret over his previous reluctance to..."
+excerpt: "Zuckerberg disclosed that in 2021, high-level officials from the Biden administration exerted significant pressure on Meta, the conglomerate behind Facebook and Instagram, to suppress certain content."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

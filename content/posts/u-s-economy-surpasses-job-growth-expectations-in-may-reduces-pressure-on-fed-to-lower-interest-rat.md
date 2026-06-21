@@ -1,7 +1,7 @@
 ---
 title: "U.S. Economy Surpasses Job Growth Expectations in May, Reduces Pressure on Fed to Lower Interest Rates"
 slug: u-s-economy-surpasses-job-growth-expectations-in-may-reduces-pressure-on-fed-to-lower-interest-rat
-excerpt: "The U.S. economy added significantly more jobs than anticipated in May, countering concerns of a labor market slowdown and likely..."
+excerpt: "Nonfarm payrolls increased by 272,000 for the month, up from 165,000 in April and far exceeding the Dow Jones consensus estimate of 190,000."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

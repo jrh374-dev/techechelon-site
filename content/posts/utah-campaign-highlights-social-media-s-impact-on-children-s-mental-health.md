@@ -1,7 +1,7 @@
 ---
 title: "Utah Campaign Highlights Social Media's Impact on Children's Mental Health"
 slug: utah-campaign-highlights-social-media-s-impact-on-children-s-mental-health
-excerpt: "Utah Governor Spencer Cox rolled out a new initiative on Friday, focusing on the potential drawbacks of excessive social media use in..."
+excerpt: "The campaign points out the extensive usage of the internet and social media by children, emphasizing its potential adverse effects on their psychological well-being."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

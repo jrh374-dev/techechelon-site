@@ -1,7 +1,7 @@
 ---
 title: "Nvidia's AI Chip Dominance: Soaring Revenues and Strategic Partnerships Propel Growth"
 slug: nvidia-s-ai-chip-dominance-soaring-revenues-and-strategic-partnerships-propel-growth
-excerpt: "At the start of last week, OpenAI’s technology chief personally thanked Nvidia CEO Jensen Huang for providing the advanced chips..."
+excerpt: "A day later, at Google’s annual developer conference, Alphabet CEO Sundar Pichai emphasized his company’s long-standing partnership with Nvidia and noted that Google Cloud will utilize the chipmaker’s Blackwell graphics processing units (GPUs) in early 2025."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

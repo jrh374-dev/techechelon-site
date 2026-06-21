@@ -1,7 +1,7 @@
 ---
 title: "Cyberattack Disrupts Operations at 15,000 U.S. Car Dealerships, CDK Global Systems Temporarily Shut Down"
 slug: cyberattack-disrupts-operations-at-15-000-u-s-car-dealerships-cdk-global-systems-temporarily-shut
-excerpt: "CDK Global, a leading provider of automotive dealership software in the U.S., has experienced a cyberattack that led to the shutdown of..."
+excerpt: "Notable clients impacted include General Motors dealerships, Group 1 Automotive, and Holman, which operates across eight states."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

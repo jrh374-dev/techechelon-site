@@ -1,7 +1,7 @@
 ---
 title: "Experts Debate AI's Impact on Disinformation and Democracy Amid Election Season"
 slug: experts-debate-ai-s-impact-on-disinformation-and-democracy-amid-election-season
-excerpt: "Cybersecurity specialists are concerned that AI-created content could skew our understanding of reality, an especially pressing issue..."
+excerpt: "However, Martin Lee, the technical lead at Cisco's Talos security intelligence and research group, believes that the perceived threat from deepfakes to democracy might be exaggerated."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

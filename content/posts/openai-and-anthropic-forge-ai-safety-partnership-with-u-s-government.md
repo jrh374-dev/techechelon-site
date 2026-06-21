@@ -1,7 +1,7 @@
 ---
 title: "OpenAI and Anthropic Forge AI Safety Partnership with U.S. Government"
 slug: openai-and-anthropic-forge-ai-safety-partnership-with-u-s-government
-excerpt: "OpenAI and Anthropic, prominent players in the AI sector, have entered into agreements with the U.S. government to permit the use of..."
+excerpt: "Under these agreements, the U.S. AI Safety Institute will have early access to the companies’ significant new models both before and after their public release, according to a NIST press release."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

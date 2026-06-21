@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Eric Crites on Revolutionizing Clinical Data Management with Q-Centrix"
 slug: executive-q-a-eric-crites-on-revolutionizing-clinical-data-management-with-q-centrix
-excerpt: "Eric Crites is a dynamic leader in the healthcare data management space, leveraging his extensive expertise to drive innovation in..."
+excerpt: "Q-Centrix is at the forefront of revolutionizing clinical data management, with its groundbreaking Enterprise Clinical Data Management (eCDM™) platform and industry-leading team of clinical experts."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

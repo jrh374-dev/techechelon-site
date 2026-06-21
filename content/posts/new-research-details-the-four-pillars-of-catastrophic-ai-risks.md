@@ -1,7 +1,7 @@
 ---
 title: "New Research Details the Four Pillars of Catastrophic AI Risks"
 slug: new-research-details-the-four-pillars-of-catastrophic-ai-risks
-excerpt: "The concerns that unchecked artificial intelligence (AI) could potentially jeopardize humanity are not new, and have been voiced by tech..."
+excerpt: "In a paper entitled \"An Overview of Catastrophic AI Risks\", researchers from CAIS noted that we currently live in a world that would be unrecognizable to people from a few centuries or even decades ago."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

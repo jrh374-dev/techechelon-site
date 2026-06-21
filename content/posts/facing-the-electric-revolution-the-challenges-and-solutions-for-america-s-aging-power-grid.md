@@ -1,7 +1,7 @@
 ---
 title: "Facing the Electric Revolution: The Challenges and Solutions for America's Aging Power Grid"
 slug: facing-the-electric-revolution-the-challenges-and-solutions-for-america-s-aging-power-grid
-excerpt: "By 2030, it's projected that over 50% of all new cars sold in the U.S. will be electric vehicles (EVs), which could heavily tax our..."
+excerpt: "Domestic electricity demand, expected to have risen by up to 18% in 2022, is forecasted to further increase by up to 38% by 2035, as per the Rapid Energy Policy Evaluation and Analysis Toolkit (REPEAT) study at Princeton University. This is a considerable shift from the 5% increase seen in the previous decade."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

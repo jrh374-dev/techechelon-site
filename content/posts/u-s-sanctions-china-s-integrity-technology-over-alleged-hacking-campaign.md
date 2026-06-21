@@ -1,7 +1,7 @@
 ---
 title: "U.S. Sanctions China's Integrity Technology Over Alleged Hacking Campaign"
 slug: u-s-sanctions-china-s-integrity-technology-over-alleged-hacking-campaign
-excerpt: "The United States has imposed sanctions on China’s Integrity Technology Group, accusing the company of orchestrating cyberattacks through..."
+excerpt: "In a statement, the State Department described Integrity Technology as a major government contractor with close ties to China’s Ministry of State Security. The department alleged that hackers under Integrity’s direction targeted critical infrastructure in the U.S."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Graphiant Transforms the Networking Landscape and Becomes a Shining Star in Silicon Valley"
 slug: graphiant-transforms-the-networking-landscape-and-becomes-a-shining-star-in-silicon-valley
-excerpt: "Graphiant is a Silicon Valley-based trailblazer in next-generation Edge services, which is pushing boundaries in network solutions to..."
+excerpt: "Graphiant is a Silicon Valley-based trailblazer in next-generation Edge services, which is pushing boundaries in network solutions to meet the evolving needs of today’s fast-paced business environment."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

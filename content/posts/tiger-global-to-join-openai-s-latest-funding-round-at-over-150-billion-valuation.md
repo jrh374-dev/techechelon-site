@@ -1,7 +1,7 @@
 ---
 title: "Tiger Global to Join OpenAI's Latest Funding Round at Over $150 Billion Valuation"
 slug: tiger-global-to-join-openai-s-latest-funding-round-at-over-150-billion-valuation
-excerpt: "Tiger Global is set to participate in OpenAI’s highly anticipated new funding round, which would value the artificial intelligence leader..."
+excerpt: "Thrive Capital is spearheading the round with a $1 billion investment, while major tech players like Microsoft, Nvidia, and Apple are also reportedly in discussions to join."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

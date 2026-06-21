@@ -1,7 +1,7 @@
 ---
 title: "Hewlett Packard Enterprise Discloses Cybersecurity Breach by Russian State-Sponsored Hackers"
 slug: hewlett-packard-enterprise-discloses-cybersecurity-breach-by-russian-state-sponsored-hackers
-excerpt: "Hewlett Packard Enterprise (HPE) announced on Wednesday that it experienced a cybersecurity breach involving its cloud-based email..."
+excerpt: "According to a regulatory filing by HPE, the breach was first identified in December 2023 and involved unauthorized access and data extraction from a small number of HPE email accounts since May 2023. These accounts belonged to employees across various departments including cybersecurity and business segments."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

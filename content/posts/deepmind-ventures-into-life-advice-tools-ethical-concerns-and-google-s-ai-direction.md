@@ -1,7 +1,7 @@
 ---
 title: "DeepMind Ventures into Life Advice Tools: Ethical Concerns and Google's AI Direction"
 slug: deepmind-ventures-into-life-advice-tools-ethical-concerns-and-google-s-ai-direction
-excerpt: "Google's AI division, DeepMind, is venturing into creating 21 unique tools aimed at delivering life advice, guidance, and tutoring...."
+excerpt: "An internal presentation by Google's AI safety specialists last December revealed that users might face a decline in well-being and a loss of personal empowerment due to such AI-driven guidance."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

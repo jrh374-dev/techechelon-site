@@ -1,7 +1,7 @@
 ---
 title: "Trump Pauses Most New Tariffs for 90 Days, Spares China in Escalation"
 slug: trump-pauses-most-new-tariffs-for-90-days-spares-china-in-escalation
-excerpt: "President Donald Trump on Wednesday announced a 90-day pause on the implementation of new “reciprocal” tariffs—except for those targeting..."
+excerpt: "The decision marks a significant shift in Trump’s trade policy as global economic uncertainty mounts. Under the new directive, tariffs on Chinese imports will be raised to at least 125%, while other countries will receive temporary reprieve from new levies."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

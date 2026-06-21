@@ -1,7 +1,7 @@
 ---
 title: "Congressman Ro Khanna Advocates for Worker Empowerment in AI Era, Calls for Inclusive Federal Policies"
 slug: congressman-ro-khanna-advocates-for-worker-empowerment-in-ai-era-calls-for-inclusive-federal-polici
-excerpt: "In a recent opinion piece for The New York Times, Congressman Ro Khanna from California emphasized the need for policies that empower..."
+excerpt: "Representing a district in the heart of Silicon Valley, Khanna acknowledged the potential benefits of AI to the economy but stressed the importance of prioritizing the welfare and economic stability of the working class amidst these technological shifts."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

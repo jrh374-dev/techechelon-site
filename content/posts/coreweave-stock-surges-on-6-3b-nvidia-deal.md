@@ -1,7 +1,7 @@
 ---
 title: "CoreWeave Stock Surges on $6.3B Nvidia Deal"
 slug: coreweave-stock-surges-on-6-3b-nvidia-deal
-excerpt: "CoreWeave’s stock jumped Monday after the AI cloud infrastructure company revealed a massive order from Nvidia worth at least $6.3..."
+excerpt: "The disclosure, made in a regulatory filing, outlined that Nvidia will be obligated to purchase CoreWeave’s residual unsold GPU capacity through April 2032. A copy of the agreement will be released with the company’s third-quarter financial results."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Sam Altman Envisions an Era of Abundant, Affordable Intelligence as AI Transforms the Global Economy"
 slug: sam-altman-envisions-an-era-of-abundant-affordable-intelligence-as-ai-transforms-the-global-economy
-excerpt: "OpenAI CEO Sam Altman painted a bold picture of artificial intelligence’s future during a wide-ranging conversation with Federal Reserve..."
+excerpt: "Speaking at the Federal Reserve’s Integrated Review of the Capital Framework for Large Banks Conference, Altman emphasized the extraordinary pace at which AI capabilities and adoption have evolved since the debut of ChatGPT in late 2022."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

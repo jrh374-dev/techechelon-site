@@ -1,7 +1,7 @@
 ---
 title: "Microsoft CTO Offers to Match Salaries for OpenAI Staff Amid Leadership Turmoil, Resignation Threats"
 slug: microsoft-cto-offers-to-match-salaries-for-openai-staff-amid-leadership-turmoil-resignation-threats
-excerpt: "Microsoft's Chief Technology Officer Kevin Scott publicly offered to match the salaries of OpenAI employees considering resignation after..."
+excerpt: "In a message on X (formerly Twitter), Scott extended an invitation to these employees to join Microsoft's new AI Research Lab, promising equivalent compensation and a shared mission."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

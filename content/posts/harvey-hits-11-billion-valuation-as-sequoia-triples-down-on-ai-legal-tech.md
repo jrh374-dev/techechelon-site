@@ -1,7 +1,7 @@
 ---
 title: "Harvey Hits $11 Billion Valuation as Sequoia Triples Down on AI Legal Tech"
 slug: harvey-hits-11-billion-valuation-as-sequoia-triples-down-on-ai-legal-tech
-excerpt: "Legal AI startup Harvey has confirmed a new funding round that values the company at $11 billion, cementing its position as one of the most highly valued AI startups in the enterprise technology market. The round, which raised $200 million, was co-led by Singapore's GIC and Sequoia Capital, with additional participation from Andreessen Horowitz, Coatue, Conviction Partners, Elad Gil, Evantic, and Kleiner Perkins. The raise brings Harvey's total funding to more than $1 billion and marks a..."
+excerpt: "The raise brings Harvey's total funding to more than $1 billion and marks a valuation jump of more than 3.5 times in a single year. The company was last valued at $8 billion following a December round led by Andreessen Horowitz, and before that at $5 billion in a June raise led by Kleiner Perkins and Coatue."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Palo Alto Networks' Shares Surge Amid Robust Q4 Results, Quelling Previous Analyst Concerns"
 slug: palo-alto-networks-shares-surge-amid-robust-q4-results-quelling-previous-analyst-concerns
-excerpt: "Shares of Palo Alto Networks surged over 14% on Monday morning, extending gains from last week after the cybersecurity firm unveiled..."
+excerpt: "Palo Alto announced an adjusted earnings per share of $1.44, outperforming Refinitiv analysts' projection of $1.28. Despite narrowly missing the revenue consensus estimate by $10 million — reporting $1.95 billion as opposed to the anticipated $1."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "U.S. Surpasses Growth Expectations in 2023, Easing Inflation Concerns"
 slug: u-s-surpasses-growth-expectations-in-2023-easing-inflation-concerns
-excerpt: "In the last quarter of 2023, the U.S. economy experienced a stronger-than-anticipated growth, defying previous recession predictions,..."
+excerpt: "There was also notable progress in controlling inflation. Core personal consumption expenditures (PCE) prices, a key inflation metric favored by the Federal Reserve, increased by 2%, with the overall rate at 1.7% for the quarter. Yearly, the PCE price index grew 2.7%, a reduction from the previous year’s 5."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

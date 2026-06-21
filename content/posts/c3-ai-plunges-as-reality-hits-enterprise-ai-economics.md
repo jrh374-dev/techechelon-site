@@ -1,7 +1,7 @@
 ---
 title: "C3 AI Plunges as Reality Hits Enterprise AI Economics"
 slug: c3-ai-plunges-as-reality-hits-enterprise-ai-economics
-excerpt: "C3 AI is facing a sharp market reset, with shares dropping roughly 17% after the company reported disappointing third-quarter results and announced a sweeping restructuring that will eliminate more than a quarter of its workforce. The move underscores a growing divide in the AI market between companies benefiting from infrastructure-driven demand and those struggling to translate AI momentum into durable enterprise revenue. C3 AI reported $53 million in third-quarter revenue, well below..."
+excerpt: "The move underscores a growing divide in the AI market between companies benefiting from infrastructure-driven demand and those struggling to translate AI momentum into durable enterprise revenue."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

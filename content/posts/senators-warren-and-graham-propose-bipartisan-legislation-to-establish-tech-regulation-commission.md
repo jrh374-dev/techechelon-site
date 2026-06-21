@@ -1,7 +1,7 @@
 ---
 title: "Senators Warren and Graham Propose Bipartisan Legislation to Establish Tech Regulation Commission"
 slug: senators-warren-and-graham-propose-bipartisan-legislation-to-establish-tech-regulation-commission
-excerpt: "Senators Elizabeth Warren, a Democrat from Massachusetts, and Lindsey Graham, a Republican from South Carolina, are joining forces to..."
+excerpt: "This legislation, known as the Digital Consumer Protection Commission Act, was presented on Thursday, proposing the establishment of a new agency responsible for supervising tech powerhouses like Meta, Google, Amazon, and others."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

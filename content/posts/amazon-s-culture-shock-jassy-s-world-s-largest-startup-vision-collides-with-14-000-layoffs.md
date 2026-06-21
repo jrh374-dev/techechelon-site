@@ -1,7 +1,7 @@
 ---
 title: "Amazon’s Culture Shock: Jassy’s “World’s Largest Startup” Vision Collides With 14,000 Layoffs"
 slug: amazon-s-culture-shock-jassy-s-world-s-largest-startup-vision-collides-with-14-000-layoffs
-excerpt: "Amazon’s latest corporate overhaul has shaken morale across the company, as CEO Andy Jassy continues his push to remake the tech giant into what he calls “the world’s largest startup.” The company confirmed 14,000 new layoffs last week—its largest cut yet—and insiders say another wave is planned for January after the annual re:Invent cloud conference. The reductions follow more than 27,000 job eliminations since 2022 and are expected to hit retail, human resources, and AWS divisions hardest...."
+excerpt: "The company confirmed 14,000 new layoffs last week—its largest cut yet—and insiders say another wave is planned for January after the annual re:Invent cloud conference. The reductions follow more than 27,000 job eliminations since 2022 and are expected to hit retail, human resources, and AWS divisions hardest."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

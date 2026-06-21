@@ -1,7 +1,7 @@
 ---
 title: "U.S. Offers $10 Million Reward for Information on Hive Ransomware Leaders Amid Crackdown on Cybercrime"
 slug: u-s-offers-10-million-reward-for-information-on-hive-ransomware-leaders-amid-crackdown-on-cybercri
-excerpt: "The U.S. State Department has announced a reward of up to $10 million for any information that can help identify or locate the leaders of..."
+excerpt: "Additionally, the department is offering a reward of up to $5 million for details that lead to the arrest or conviction of individuals associated with Hive."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

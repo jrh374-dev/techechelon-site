@@ -1,7 +1,7 @@
 ---
 title: "Major federal agencies and corporations hit in global hacking operation"
 slug: major-federal-agencies-and-corporations-hit-in-global-hacking-operation
-excerpt: "On June 15, a major hacking operation impacted several US federal agencies, including the Department of Energy (DOE), exploiting a..."
+excerpt: "The cyberattack led to a data breach at two DOE divisions, the DOE contractor Oak Ridge Associated Universities and the New Mexico-based Waste Isolation Pilot Plant, a defense-related nuclear waste disposal facility. This occurred when hackers manipulated a security loophole in MOVEit Transfer, as stated by the DOE."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

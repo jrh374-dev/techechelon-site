@@ -1,7 +1,7 @@
 ---
 title: "U.S. Economy Surges 4.3% in Q3, Far Exceeding Expectations"
 slug: u-s-economy-surges-4-3-in-q3-far-exceeding-expectations
-excerpt: "The U.S. economy expanded at a far faster pace than anticipated in the third quarter, driven primarily by resilient consumer spending, according to a delayed government report released Tuesday. Gross domestic product rose at an annualized rate of 4.3% from July through September, well above the 3.2% increase economists had forecast, the Commerce Department said in its initial estimate of third-quarter growth. Consumer spending — the backbone of the U.S. economy — accelerated sharply, rising..."
+excerpt: "Gross domestic product rose at an annualized rate of 4.3% from July through September, well above the 3.2% increase economists had forecast, the Commerce Department said in its initial estimate of third-quarter growth."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

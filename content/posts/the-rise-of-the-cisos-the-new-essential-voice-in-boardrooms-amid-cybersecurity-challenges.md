@@ -1,7 +1,7 @@
 ---
 title: "The Rise of the CISOs: The New Essential Voice in Boardrooms Amid Cybersecurity Challenges"
 slug: the-rise-of-the-cisos-the-new-essential-voice-in-boardrooms-amid-cybersecurity-challenges
-excerpt: "The growing importance of robust cybersecurity strategies in contemporary business operations is prompting companies to integrate..."
+excerpt: "According to Chris Steffen, research director at Enterprise Management Associates (EMA), it's becoming a common practice to promote Chief Information Security Officers (CISOs) to board positions. This shift recognizes that cybersecurity should not be a subordinate aspect of a company's tech priorities."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

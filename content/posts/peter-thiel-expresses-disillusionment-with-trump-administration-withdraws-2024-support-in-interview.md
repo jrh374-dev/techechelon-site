@@ -1,7 +1,7 @@
 ---
 title: "Peter Thiel Expresses Disillusionment with Trump Administration, Withdraws 2024 Support in Interview"
 slug: peter-thiel-expresses-disillusionment-with-trump-administration-withdraws-2024-support-in-interview
-excerpt: "In a recent interview with The Atlantic, tech billionaire and PayPal co-founder Peter Thiel expressed his disillusionment with the Trump..."
+excerpt: "Thiel, who has been a prominent supporter and donor to Trump, stated that he will not be contributing financially to Trump or any other candidate in the upcoming 2024 presidential campaign."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

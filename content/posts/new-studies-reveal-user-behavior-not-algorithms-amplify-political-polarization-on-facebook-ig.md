@@ -1,7 +1,7 @@
 ---
 title: "New Studies Reveal User Behavior, Not Algorithms, Amplify Political Polarization on Facebook, IG"
 slug: new-studies-reveal-user-behavior-not-algorithms-amplify-political-polarization-on-facebook-ig
-excerpt: "Research papers unveiled on Thursday indicate that Facebook and Instagram's algorithms aren't solely responsible for the political..."
+excerpt: "The findings, taken in totality, suggest that Facebook users tend to gravitate towards content that resonates with their existing views. The emergence of \"echo-chambers\" further enables political factions to depend on and consume information and misinformation from differing sources."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

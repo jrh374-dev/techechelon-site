@@ -1,7 +1,7 @@
 ---
 title: "China Dominates Global Generative AI Patent Race, Outpacing U.S. and Global Competitors"
 slug: china-dominates-global-generative-ai-patent-race-outpacing-u-s-and-global-competitors
-excerpt: "China's recent surge in generative AI (GenAI) patents highlights the nation's strategic push to lead in technological innovation and..."
+excerpt: "From 2014 to 2023, China filed a staggering 38,210 GenAI patents, significantly outpacing other countries. The U.S. registered 6,276 patents, followed by the Republic of Korea, Japan, and India."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

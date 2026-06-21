@@ -1,7 +1,7 @@
 ---
 title: "Google Launches Gemini, Its Most Advanced AI Model Suite to Revolutionize Technology"
 slug: google-launches-gemini-its-most-advanced-ai-model-suite-to-revolutionize-technology
-excerpt: "Google has announced the release of Gemini, its most advanced artificial intelligence model, amid growing interest in AI's commercial..."
+excerpt: "Gemini will initially be available through Google Cloud licensing, allowing customers to incorporate it into their applications. Starting December 13, developers and enterprises can access Gemini Pro via Google's AI interfaces. Gemini Nano will be available for Android developers."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

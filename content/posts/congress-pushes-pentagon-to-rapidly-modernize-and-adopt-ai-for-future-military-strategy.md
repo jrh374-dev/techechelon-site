@@ -1,7 +1,7 @@
 ---
 title: "Congress Pushes Pentagon to Rapidly Modernize and Adopt AI for Future Military Strategy"
 slug: congress-pushes-pentagon-to-rapidly-modernize-and-adopt-ai-for-future-military-strategy
-excerpt: "As Russia intensifies its use of military drones in Ukraine and China incorporates advanced artificial intelligence (AI) into its global..."
+excerpt: "Experts widely agree that the US military's future competitiveness hinges on its speed in acquiring and deploying AI and other state-of-the-art technologies. These tools are crucial to enhancing intelligence gathering, operating autonomous weapons, improving surveillance platforms, and advancing robotic vehicles."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

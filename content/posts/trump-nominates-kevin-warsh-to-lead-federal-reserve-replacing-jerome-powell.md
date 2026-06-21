@@ -1,7 +1,7 @@
 ---
 title: "Trump Nominates Kevin Warsh to Lead Federal Reserve, Replacing Jerome Powell"
 slug: trump-nominates-kevin-warsh-to-lead-federal-reserve-replacing-jerome-powell
-excerpt: "President Donald Trump on Friday nominated Kevin Warsh to succeed Jerome Powell as chair of the Federal Reserve, ending a months-long selection process marked by unusual political pressure on the central bank. In a post on Truth Social, Trump praised Warsh as a long-time confidant and predicted he would become “one of the GREAT Fed Chairmen.” Warsh, 55, previously served as a Federal Reserve governor and is widely viewed on Wall Street as an experienced policymaker unlikely to simply follow..."
+excerpt: "In a post on Truth Social, Trump praised Warsh as a long-time confidant and predicted he would become “one of the GREAT Fed Chairmen.” Warsh, 55, previously served as a Federal Reserve governor and is widely viewed on Wall Street as an experienced policymaker unlikely to simply follow White House directives."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

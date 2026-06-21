@@ -1,7 +1,7 @@
 ---
 title: "Tech Giants Google, Amazon, and Cloudflare Defend Against Record-Breaking Cyber Attack"
 slug: tech-giants-google-amazon-and-cloudflare-defend-against-record-breaking-cyber-attack
-excerpt: "Leading internet giants, including Google, Amazon, and Cloudflare, recently withstood the largest ever recorded denial of service attack...."
+excerpt: "Google, a subsidiary of Alphabet Inc (GOOGL.O), mentioned in a Tuesday blog post that its cloud services successfully fended off malicious traffic that exceeded the volume of the previous largest attack by more than seven times."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

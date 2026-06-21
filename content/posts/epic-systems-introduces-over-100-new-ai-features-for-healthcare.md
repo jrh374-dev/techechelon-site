@@ -1,7 +1,7 @@
 ---
 title: "Epic Systems Introduces Over 100 New AI Features for Healthcare"
 slug: epic-systems-introduces-over-100-new-ai-features-for-healthcare
-excerpt: "Epic Systems, a leading healthcare software company, is unveiling more than 100 new artificial intelligence (AI) features designed to..."
+excerpt: "This week, thousands of industry leaders gathered at Epic’s headquarters in Verona, Wisconsin, to explore the company’s latest products and updates."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

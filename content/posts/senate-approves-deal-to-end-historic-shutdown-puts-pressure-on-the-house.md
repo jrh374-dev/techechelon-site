@@ -1,7 +1,7 @@
 ---
 title: "Senate Approves Deal to End Historic Shutdown, Puts Pressure on the House"
 slug: senate-approves-deal-to-end-historic-shutdown-puts-pressure-on-the-house
-excerpt: "The Senate has passed a long-awaited bill to reopen the federal government, ending the longest shutdown in U.S. history and setting up a consequential vote in the House later this week. The funding measure — approved 60–40 with support from nearly all Republicans and a small group of centrist Democrats — would keep the government operating through January. It now heads to the House, where Speaker Mike Johnson has instructed members to return to Washington for a vote as early as Wednesday..."
+excerpt: "The funding measure — approved 60–40 with support from nearly all Republicans and a small group of centrist Democrats — would keep the government operating through January."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

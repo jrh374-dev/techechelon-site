@@ -1,7 +1,7 @@
 ---
 title: "SAP CEO Warns Against AI Overregulation, Cautions Europe on Falling Behind U.S. and China"
 slug: sap-ceo-warns-against-ai-overregulation-cautions-europe-on-falling-behind-u-s-and-china
-excerpt: "Christian Klein, the CEO of German software giant SAP, has raised concerns that Europe risks falling behind the U.S. and China if it over..."
+excerpt: "“If we only regulate AI in Europe, how can our startups compete with those in the U.S. and China?” Klein questioned. He suggested that focusing on controlling the outcomes AI delivers, rather than regulating the technology itself, would be a more effective approach."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

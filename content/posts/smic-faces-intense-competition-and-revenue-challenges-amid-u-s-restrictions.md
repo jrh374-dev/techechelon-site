@@ -1,7 +1,7 @@
 ---
 title: "SMIC Faces Intense Competition and Revenue Challenges Amid U.S. Restrictions"
 slug: smic-faces-intense-competition-and-revenue-challenges-amid-u-s-restrictions
-excerpt: "Semiconductor Manufacturing International Corporation (SMIC) expressed concerns about heightened competition in the chip sector on Friday..."
+excerpt: "During its earnings call, SMIC stated, \"There is increasing competition in the industry, and pricing for commodity products generally aligns with market trends.\""
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

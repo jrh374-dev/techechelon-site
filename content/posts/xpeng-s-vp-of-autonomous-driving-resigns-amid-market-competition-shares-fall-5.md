@@ -1,7 +1,7 @@
 ---
 title: "Xpeng's VP of Autonomous Driving Resigns Amid Market Competition; Shares Fall 5%"
 slug: xpeng-s-vp-of-autonomous-driving-resigns-amid-market-competition-shares-fall-5
-excerpt: "Chinese electric vehicle firm Xpeng experienced a 5% drop in shares on Wednesday after it revealed that Xinzhou Wu, its Vice President of..."
+excerpt: "Wu, who played a significant role in Xpeng's autonomous driving efforts, has decided to leave the company for personal and familial reasons, as stated by Xpeng. In his stead, Liyun Li, the senior director of Xpeng's autonomous driving team, will assume his role."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

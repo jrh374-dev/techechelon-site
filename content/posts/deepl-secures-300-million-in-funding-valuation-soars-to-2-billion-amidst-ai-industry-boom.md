@@ -1,7 +1,7 @@
 ---
 title: "DeepL Secures $300 Million in Funding, Valuation Soars to $2 Billion Amidst AI Industry Boom"
 slug: deepl-secures-300-million-in-funding-valuation-soars-to-2-billion-amidst-ai-industry-boom
-excerpt: "DeepL, an AI-powered translation platform, announced on Wednesday that it secured $300 million in new funding, demonstrating robust..."
+excerpt: "The investment round, led by venture capital firm Index Ventures, elevated DeepL’s valuation to $2 billion."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

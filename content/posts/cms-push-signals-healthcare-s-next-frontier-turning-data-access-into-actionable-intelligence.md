@@ -1,7 +1,7 @@
 ---
 title: "CMS Push Signals Healthcare’s Next Frontier: Turning Data Access Into Actionable Intelligence"
 slug: cms-push-signals-healthcare-s-next-frontier-turning-data-access-into-actionable-intelligence
-excerpt: "As healthcare continues moving toward broader interoperability, the conversation is beginning to shift. This week, CMS’s “Kill the Clipboard” initiative  again drew attention to one of the industry’s most visible pain points: the administrative friction created by paper intake forms, fragmented records, and disconnected systems. CMS has positioned the effort around digital check-in and patient-controlled data sharing, part of a wider push toward a more connected health technology ecosystem...."
+excerpt: "As healthcare continues moving toward broader interoperability, the conversation is beginning to shift."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

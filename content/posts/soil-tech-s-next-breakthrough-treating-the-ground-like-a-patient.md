@@ -1,7 +1,7 @@
 ---
 title: "Soil Tech’s Next Breakthrough: Treating the Ground Like a Patient"
 slug: soil-tech-s-next-breakthrough-treating-the-ground-like-a-patient
-excerpt: "A recent Apinions interview  is spotlighting a fast-growing idea in agritech: soil isn’t just a resource — it’s a patient. Agronomist Donnie Engelhardt says the path to healthier food, livestock, and people starts with the health of the ground itself. “Soil is the original patient,” he said. “If food is medicine, we need to treat the soil first.” A Clinical Approach to Agriculture Engelhardt’s philosophy began years ago in grain country, where he noticed certain farmers consistently delivered..."
+excerpt: "A recent Apinions interview is spotlighting a fast-growing idea in agritech: soil isn’t just a resource — it’s a patient."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

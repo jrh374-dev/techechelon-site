@@ -1,7 +1,7 @@
 ---
 title: "ENIGMA Expands Zero Trust Cybersecurity Platform with Acquisition of Dellfer Inc."
 slug: enigma-expands-zero-trust-cybersecurity-platform-with-acquisition-of-dellfer-inc
-excerpt: "ENIGMA, a next-generation cybersecurity platform backed by Option3, has announced its agreement to acquire Dellfer Inc., a leading..."
+excerpt: "Dellfer's shareholders, including DENSO Corporation—a global leader in advanced mobility technologies and an early backer of Dellfer—will become major stakeholders in ENIGMA."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

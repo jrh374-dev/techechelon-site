@@ -1,7 +1,7 @@
 ---
 title: "FBI alerts public about 'deepfakes' in cybersex blackmailing schemes"
 slug: fbi-alerts-public-about-deepfakes-in-cybersex-blackmailing-schemes
-excerpt: "The FBI has issued a public caution concerning the malicious use of “deepfakes” to produce counterfeit explicit content for harassment or..."
+excerpt: "The statement released by the agency on Monday underlined how technological advances in artificial intelligence (AI) have amplified the quality, versatility, and accessibility of AI-generated content. Reports indicate that victims have found their images or videos manipulated into explicit content."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

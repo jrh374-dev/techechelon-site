@@ -1,7 +1,7 @@
 ---
 title: "AMD Misses Profit Targets Despite Beating Revenue Expectations"
 slug: amd-misses-profit-targets-despite-beating-revenue-expectations
-excerpt: "Advanced Micro Devices (AMD) released its second-quarter financial results on Tuesday, showing stronger-than-expected revenue but falling..."
+excerpt: "The semiconductor giant reported adjusted earnings of 48 cents per share, just shy of the 49 cents anticipated by analysts. However, revenue reached $7.69 billion, outpacing the expected $7.42 billion."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

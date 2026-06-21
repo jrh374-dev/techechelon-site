@@ -1,7 +1,7 @@
 ---
 title: "Fitch Downgrades U.S. Credit Rating: Implications for the Economy and Personal Finances"
 slug: fitch-downgrades-u-s-credit-rating-implications-for-the-economy-and-personal-finances
-excerpt: "For the second time in U.S. history, Fitch Ratings has downgraded the nation's credit rating, signaling potential repercussions for both..."
+excerpt: "The credit rating of the U.S. has been reduced to AA+ from AAA by Fitch Ratings, prompted by the growing U.S. debt and a perceived weakening of governance. Furthermore, Fitch anticipates the U.S. may face a recession later this year."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

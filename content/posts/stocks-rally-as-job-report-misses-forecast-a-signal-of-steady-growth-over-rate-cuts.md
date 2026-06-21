@@ -1,7 +1,7 @@
 ---
 title: "Stocks Rally as Job Report Misses Forecast: A Signal of Steady Growth Over Rate Cuts"
 slug: stocks-rally-as-job-report-misses-forecast-a-signal-of-steady-growth-over-rate-cuts
-excerpt: "On Friday, the stock market experienced a notable upswing in response to the release of the October jobs report, a phenomenon driven by..."
+excerpt: "The surge in stocks came as the Department of Labor reported that nonfarm payrolls had increased by 150,000 in October, missing the mark by 20,000 jobs. However, this shortfall was largely ascribed to the auto sector strikes, which have now concluded."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

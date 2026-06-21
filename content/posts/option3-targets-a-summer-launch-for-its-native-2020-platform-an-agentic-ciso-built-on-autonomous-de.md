@@ -1,7 +1,7 @@
 ---
 title: "EXCLUSIVE: Option3 Targets a Summer Launch for its Native 2020 Platform, an Agentic CISO Built on Autonomous AI Decision-Making"
 slug: option3-targets-a-summer-launch-for-its-native-2020-platform-an-agentic-ciso-built-on-autonomous-de
-excerpt: "Purpose-built AI-native security model proactively hunts for breaches, combining autonomous AI responses with human oversight when required. It reflects Option3’s Zero Trust heritage through identity-based access decisions that adapt to evolving contexts across networks and endpoints. Cybersecurity investment specialist Option3 is preparing to bring its next-generation platform to market, targeting a summer launch for what it now calls Native 2020. The platform is designed to provide..."
+excerpt: "Cybersecurity investment specialist Option3 is preparing to bring its next-generation platform to market, targeting a summer launch for what it now calls Native 2020."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "The Rising Influence of AI in the Job Market"
 slug: the-rising-influence-of-ai-in-the-job-market
-excerpt: "Technological advancements continuously redefine the job market landscape, as evident from the impact of automation and robotics,..."
+excerpt: "Similarly, the relatively new and rapidly evolving artificial intelligence (AI) is poised to have significant impacts on the job market, according to experts. However, the difference lies in the areas of workforce that it is likely to affect."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

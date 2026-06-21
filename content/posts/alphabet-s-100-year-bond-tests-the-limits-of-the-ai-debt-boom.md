@@ -1,7 +1,7 @@
 ---
 title: "Alphabet’s 100-Year Bond Tests the Limits of the AI Debt Boom"
 slug: alphabet-s-100-year-bond-tests-the-limits-of-the-ai-debt-boom
-excerpt: "Alphabet has entered rare territory in global credit markets, issuing a 100-year sterling bond as part of a broader $20 billion, multi-currency debt raise — a move that some strategists say reflects growing exuberance around the AI infrastructure boom. The century bond, Alphabet’s debut issuance in British pounds, drew nearly 10 times demand for the £1 billion ($1.37 billion) offering, according to Bloomberg. The coupon priced at 120 basis points above 10-year gilts, signaling strong appetite..."
+excerpt: "The century bond, Alphabet’s debut issuance in British pounds, drew nearly 10 times demand for the £1 billion ($1.37 billion) offering, according to Bloomberg."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

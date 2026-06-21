@@ -1,7 +1,7 @@
 ---
 title: "Nvidia Unveils New AI Chips 'Blackwell Ultra' and 'Vera Rubin' at GTC 2025"
 slug: nvidia-unveils-new-ai-chips-blackwell-ultra-and-vera-rubin-at-gtc-2025
-excerpt: "Nvidia announced its latest generation of chips designed for artificial intelligence at its annual GPU Technology Conference (GTC) on..."
+excerpt: "CEO Jensen Huang introduced \"Blackwell Ultra,\" a new family of AI-focused chips set to ship later this year, and previewed \"Vera Rubin,\" the next generation of GPUs expected to debut in 2026. These launches mark a strategic shift for Nvidia, moving toward an annual release cycle from its previous biennial schedule."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

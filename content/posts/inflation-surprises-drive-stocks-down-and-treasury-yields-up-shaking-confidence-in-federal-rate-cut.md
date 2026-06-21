@@ -1,7 +1,7 @@
 ---
 title: "Inflation Surprises Drive Stocks Down and Treasury Yields Up, Shaking Confidence in Federal Rate Cuts"
 slug: inflation-surprises-drive-stocks-down-and-treasury-yields-up-shaking-confidence-in-federal-rate-cut
-excerpt: "On Tuesday, stock markets experienced a decline following the release of inflation data for January that exceeded forecasts, causing a..."
+excerpt: "The Dow Jones Industrial Average dropped by 443 points or 1.2%, having earlier fallen over 500 points or 1.4%, marking its most significant decline since March 2023, when it decreased by 1.63%. Similarly, the S&P 500 and the Nasdaq Composite both saw declines of 1.2% and 1.4%, respectively."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

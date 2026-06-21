@@ -1,7 +1,7 @@
 ---
 title: "Cato Networks Crosses $350M ARR as AI Fuels Next Phase of Cyber Growth"
 slug: cato-networks-crosses-350m-arr-as-ai-fuels-next-phase-of-cyber-growth
-excerpt: "Cato Networks has surpassed $350 million in annual recurring revenue (ARR), marking a key milestone as artificial intelligence reshapes demand across the cybersecurity landscape. The cloud-based network security provider said the figure represents 43% year-over-year growth, building on momentum from just months ago when the company crossed the $300 million ARR mark. The acceleration underscores how enterprises are increasingly re-architecting their security stacks to accommodate AI-driven..."
+excerpt: "The cloud-based network security provider said the figure represents 43% year-over-year growth, building on momentum from just months ago when the company crossed the $300 million ARR mark."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

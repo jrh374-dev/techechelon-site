@@ -1,7 +1,7 @@
 ---
 title: "TSMC Revenue Surges 35% as AI Chip Demand Continues to Drive Growth"
 slug: tsmc-revenue-surges-35-as-ai-chip-demand-continues-to-drive-growth
-excerpt: "Taiwan Semiconductor Manufacturing Company (TSMC) reported another record-breaking quarter, underscoring the sustained strength of the AI-driven semiconductor boom. The world’s largest contract chipmaker posted first-quarter revenue of 1.13 trillion New Taiwan dollars ($35.6 billion), marking a 35% year-over-year increase and slightly exceeding analyst expectations. The results reinforce TSMC’s position at the center of the global AI supply chain. The company manufactures advanced..."
+excerpt: "The world’s largest contract chipmaker posted first-quarter revenue of 1.13 trillion New Taiwan dollars ($35.6 billion), marking a 35% year-over-year increase and slightly exceeding analyst expectations."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

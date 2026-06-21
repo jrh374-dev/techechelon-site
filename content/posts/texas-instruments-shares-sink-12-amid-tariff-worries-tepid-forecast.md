@@ -1,7 +1,7 @@
 ---
 title: "Texas Instruments Shares Sink 12% Amid Tariff Worries, Tepid Forecast"
 slug: texas-instruments-shares-sink-12-amid-tariff-worries-tepid-forecast
-excerpt: "Texas Instruments shares tumbled 12% on Wednesday after the chipmaker issued a cautious outlook and flagged persistent concerns over..."
+excerpt: "The company projected third-quarter earnings between $1.36 and $1.60 per share, with a midpoint of $1.48—coming in just under analysts’ consensus estimate of $1.50, according to data from LSEG. Revenue guidance for the quarter landed between $4.45 billion and $4.48 billion, with the midpoint slightly ahead of the $4."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

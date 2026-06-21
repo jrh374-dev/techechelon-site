@@ -1,7 +1,7 @@
 ---
 title: "CrowdStrike to Acquire Identity Security Startup SGNL for $740 Million"
 slug: crowdstrike-to-acquire-identity-security-startup-sgnl-for-740-million
-excerpt: "CrowdStrike announced Thursday that it will acquire identity security startup SGNL in a deal valued at nearly $740 million, underscoring the company’s push to expand its platform amid a surge in AI-driven cyber threats. The acquisition is expected to close in the first quarter of CrowdStrike’s fiscal 2027. Once completed, SGNL’s technology will be integrated into CrowdStrike’s flagship Falcon platform, enhancing customers’ ability to manage both human and AI identity access requests while..."
+excerpt: "The acquisition is expected to close in the first quarter of CrowdStrike’s fiscal 2027. Once completed, SGNL’s technology will be integrated into CrowdStrike’s flagship Falcon platform, enhancing customers’ ability to manage both human and AI identity access requests while monitoring real-time risk."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

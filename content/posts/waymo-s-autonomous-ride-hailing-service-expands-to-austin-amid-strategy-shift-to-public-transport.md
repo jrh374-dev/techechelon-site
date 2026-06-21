@@ -1,7 +1,7 @@
 ---
 title: "Waymo's Autonomous Ride-Hailing Service Expands to Austin Amid Strategy Shift To Public Transport"
 slug: waymo-s-autonomous-ride-hailing-service-expands-to-austin-amid-strategy-shift-to-public-transport
-excerpt: "Alphabet's self-driving car unit, Waymo, has officially announced its expansion into Austin, Texas, marking the city as the latest..."
+excerpt: "The \"initial phase of operations\" in Austin is scheduled to commence this fall with a full deployment of autonomous vehicles. However, Waymo plans to delay providing services to the general public until a few months after this initial rollout."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

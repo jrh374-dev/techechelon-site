@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Kurt Smith on Modernizing Legal Practice and Bringing Discipline to the Bench"
 slug: executive-q-a-kurt-smith-on-modernizing-legal-practice-and-bringing-discipline-to-the-bench
-excerpt: "In a legal landscape often shaped by legacy systems and opaque processes, Kurt Smith has built a practice grounded in clarity, discipline, and strategic thinking. As Founder and Lead Trial Attorney of Smith Legal Group , Smith has spent years advising clients through some of the most complex and emotionally charged legal challenges—spanning family law, criminal defense, and estate planning—while quietly modernizing how a law firm can operate in today’s environment.   Drawing on a background..."
+excerpt: "Drawing on a background that includes civil litigation, insurance, and project management at IBM Global Services, Smith brings a distinctly analytical, systems-driven approach to the practice of law."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

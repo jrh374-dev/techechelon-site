@@ -1,7 +1,7 @@
 ---
 title: "Condé Nast Partners with OpenAI in Landmark AI Content Deal"
 slug: condé-nast-partners-with-openai-in-landmark-ai-content-deal
-excerpt: "Condé Nast, the global media giant, has entered into a significant partnership with OpenAI, granting the artificial intelligence company..."
+excerpt: "In a memo to staff on Tuesday, Condé Nast CEO Roger Lynch described the multiyear agreement as a critical step in adapting to evolving technological landscapes."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Arm Holdings Sees a 25% Surge in Market Debut"
 slug: arm-holdings-sees-a-25-surge-in-market-debut
-excerpt: "SoftBank-owned chip design firm, Arm Holdings, witnessed an impressive 25% hike in its share prices on its debut trading day after its..."
+excerpt: "Upon opening, Arm's valuation soared to a near $60 billion. Trading with the “ARM” ticker symbol, the firm offloaded approximately 95.5 million shares. Notably, 90% of the company's outstanding shares remain under SoftBank’s purview, which had privatized the firm in 2016."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

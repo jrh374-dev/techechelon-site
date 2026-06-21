@@ -1,7 +1,7 @@
 ---
 title: "Court Ruling Raises Concerns about Disinformation Risk for 2024 Election"
 slug: court-ruling-raises-concerns-about-disinformation-risk-for-2024-election
-excerpt: "A judicial order restricting communication between social media companies and specific agencies of the Biden administration may escalate..."
+excerpt: "On Tuesday, a GOP-backed argument that claimed efforts to tackle disinformation infringe on protected speech led a federal judge to limit the interaction between the Biden administration and social media platforms. Experts fear this decision may suppress attempts to regulate false information on the internet."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

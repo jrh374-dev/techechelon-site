@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Alex Foster on Redefining Algorithmic Trading and Democratizing Institutional Finance"
 slug: executive-q-a-alex-foster-on-redefining-algorithmic-trading-and-democratizing-institutional-finance
-excerpt: "Alex Foster is a Fintech entrepreneur who is reimagining the future of algorithmic trading by merging institutional-grade technology with..."
+excerpt: "*Alex Foster*"
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

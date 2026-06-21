@@ -1,7 +1,7 @@
 ---
 title: "Elon Musk's xAI Unveils Grok: A Maverick AI with a Sense of Humor Set to Shake Up the Industry"
 slug: elon-musk-s-xai-unveils-grok-a-maverick-ai-with-a-sense-of-humor-set-to-shake-up-the-industry
-excerpt: "Introducing Grok, Elon Musk's debut venture from his latest endeavor, xAI. Taking inspiration from \"The Hitchhiker's Guide to the..."
+excerpt: "Introducing Grok, Elon Musk's debut venture from his latest endeavor, xAI."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

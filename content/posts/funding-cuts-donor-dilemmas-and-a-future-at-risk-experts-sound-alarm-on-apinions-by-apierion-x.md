@@ -1,14 +1,16 @@
 ---
 title: "Funding Cuts, Donor Dilemmas, and a Future at Risk: Experts Sound Alarm on “Apinions by Apierion” X Spaces"
 slug: funding-cuts-donor-dilemmas-and-a-future-at-risk-experts-sound-alarm-on-apinions-by-apierion-x
-excerpt: "In the latest episode of the Apinions X Spaces liveshow by Apierion , healthcare economist Dr. Andrea Feigl and global health strategist..."
+excerpt: "In the latest episode of the _Apinions _X Spaces liveshow by Apierion, healthcare economist Dr. Andrea Feigl and global health strategist Michael Lindenmayer joined host Michael “Dersh” Dershem for a high-stakes discussion on the unraveling of global health funding and what comes next."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-05-28T18:55:37.578Z"
-coverImage: "https://static.wixstatic.com/media/e37254_3714cb6f748e43c2a99babb3c565136e~mv2.png"
 readTime: 3
 migratedFromWix: true
+coverImage: "https://images.unsplash.com/photo-1591522810850-58128c5fb089?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Mzc2NzZ8MHwxfHNlYXJjaHwxfHxmdW5kaW5nJTIwY3V0cyUyMGRvbm9yJTIwZGlsZW1tYXN8ZW58MXwwfHx8MTc4MjAxMzUwNHww&ixlib=rb-4.1.0&q=80&w=1080"
+coverCredit: "Photo by Markus Winkler on Unsplash"
+coverCreditUrl: "https://unsplash.com/@markuswinkler"
 ---
 
 In the latest episode of the _Apinions _X Spaces liveshow by [Apierion](https://apierion.com/), healthcare economist Dr. Andrea Feigl and global health strategist Michael Lindenmayer joined host Michael “Dersh” Dershem for a high-stakes discussion on the unraveling of global health funding and what comes next.

@@ -1,7 +1,7 @@
 ---
 title: "June Inflation Hits Two-Year Low, Offering Respite to Federal Reserve Amidst Surging Costs"
 slug: june-inflation-hits-two-year-low-offering-respite-to-federal-reserve-amidst-surging-costs
-excerpt: "June saw inflation drop to its lowest yearly rate in over two years due to a slowdown in cost acceleration and the comparison to a period..."
+excerpt: "The consumer price index saw a year-on-year increase of 3%, the smallest rise since March 2021. The index, which assesses a wide range of goods and services prices, climbed by 0.2% on a monthly basis. These figures contrast with Dow Jones estimates predicting 3.1% and 0.3% increases, respectively."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

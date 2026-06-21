@@ -1,7 +1,7 @@
 ---
 title: "Intel Shares Surge After CEO Meets Trump as U.S. Stake Doubles in Value"
 slug: intel-shares-surge-after-ceo-meets-trump-as-u-s-stake-doubles-in-value
-excerpt: "Shares of Intel jumped roughly 10% Friday after CEO Lip-Bu Tan met with Donald Trump, extending a rally that has seen the stock more than double since the U.S. government took a major equity stake in the chipmaker last summer. Following the meeting, Trump praised both Tan and the company in a post on Truth Social, writing that “the United States Government is proud to be a Shareholder of Intel.” He also highlighted the company’s latest processor as being “designed, built, and packaged right..."
+excerpt: "Following the meeting, Trump praised both Tan and the company in a post on Truth Social, writing that “the United States Government is proud to be a Shareholder of Intel.” He also highlighted the company’s latest processor as being “designed, built, and packaged right here in the U.S.A.”"
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

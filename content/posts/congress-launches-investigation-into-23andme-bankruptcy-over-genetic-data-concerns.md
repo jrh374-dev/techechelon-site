@@ -1,7 +1,7 @@
 ---
 title: "Congress Launches Investigation into 23andMe Bankruptcy Over Genetic Data Concerns"
 slug: congress-launches-investigation-into-23andme-bankruptcy-over-genetic-data-concerns
-excerpt: "The House Committee on Energy and Commerce has opened an investigation into 23andMe’s Chapter 11 bankruptcy, raising alarms over the..."
+excerpt: "In a letter sent Thursday to interim CEO Joe Selsavage, Republican Reps. Brett Guthrie (Ky.), Gus Bilirakis (Fla.), and Gary Palmer (Ala.) demanded answers about the company’s data handling and privacy practices by May 1."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

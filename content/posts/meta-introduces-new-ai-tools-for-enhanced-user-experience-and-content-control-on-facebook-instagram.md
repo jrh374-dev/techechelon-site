@@ -1,7 +1,7 @@
 ---
 title: "Meta Introduces New AI Tools for Enhanced User Experience and Content Control on Facebook, Instagram"
 slug: meta-introduces-new-ai-tools-for-enhanced-user-experience-and-content-control-on-facebook-instagram
-excerpt: "Meta, Facebook's parent company, unveiled on Thursday a suite of new tools and resources to enhance the use of artificial intelligence..."
+excerpt: "In a press statement, Meta introduced twenty-four system cards centered on various features for both Facebook and Instagram. This tool shares insights on the way its AI systems rank and select content of the most relevance for its users."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "GUEST COLUMN: Composite AI Stands to Transform Business Operations"
 slug: guest-column-composite-ai-stands-to-transform-business-operations
-excerpt: "Generative AI provides capabilities that are tangibly changing the way businesses operate. It excels at generating text, crafting basic..."
+excerpt: "Generative AI is also potentially transformative in business when used in combination with other tools, especially traditional AI and machine learning (ML) models."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

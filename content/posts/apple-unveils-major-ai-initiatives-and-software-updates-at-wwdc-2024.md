@@ -1,7 +1,7 @@
 ---
 title: "Apple Unveils Major AI Initiatives and Software Updates at WWDC 2024"
 slug: apple-unveils-major-ai-initiatives-and-software-updates-at-wwdc-2024
-excerpt: "Apple's annual Worldwide Developers Conference recently concluded, unveiling significant updates and new features. At the forefront of..."
+excerpt: "Highlights from the conference include the integration of OpenAI's ChatGPT with Siri, enhancements across Apple's software platforms, and various updates to hardware."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

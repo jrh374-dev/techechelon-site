@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Rohan Shivakumar on How Trees Might Help Predict Wildfires Before They Start"
 slug: executive-q-a-rohan-shivakumar-on-how-trees-might-help-predict-wildfires-before-they-start
-excerpt: "When it comes to battling wildfires, every second counts. But what if we could know days in advance where a blaze might spread—because..."
+excerpt: "That’s the groundbreaking idea behind the research of Rohan Shivakumar, a student and environmental science researcher whose latest study is in the process of being published."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

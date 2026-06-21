@@ -1,7 +1,7 @@
 ---
 title: "Amazon Cuts 100 Jobs in Devices and Services Division Amid Ongoing Cost-Saving Efforts"
 slug: amazon-cuts-100-jobs-in-devices-and-services-division-amid-ongoing-cost-saving-efforts
-excerpt: "Amazon has laid off approximately 100 employees from its devices and services division, the company confirmed Wednesday. The unit spans..."
+excerpt: "The unit spans several well-known product lines and services, including the Alexa voice assistant, Echo smart speakers, Ring security devices, and the Zoox autonomous vehicle business."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

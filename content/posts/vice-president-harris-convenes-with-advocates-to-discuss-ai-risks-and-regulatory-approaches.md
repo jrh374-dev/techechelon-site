@@ -1,7 +1,7 @@
 ---
 title: "Vice President Harris Convenes with Advocates to Discuss AI Risks and Regulatory Approaches"
 slug: vice-president-harris-convenes-with-advocates-to-discuss-ai-risks-and-regulatory-approaches
-excerpt: "Vice President Harris convened a meeting on Wednesday with advocates from civil rights and consumer protection organizations to discuss..."
+excerpt: "She further stressed the necessity to approach the issue urgently and collaboratively involving a spectrum of sectors including private, public, nonprofits, and government. \"Our goal is to act in the best interest of the health, safety, and overall well-being of our citizens,\" she added."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

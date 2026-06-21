@@ -1,7 +1,7 @@
 ---
 title: "CoreWeave Shares Jump After Nvidia Invests $2B to Expand AI Data Center Capacity"
 slug: coreweave-shares-jump-after-nvidia-invests-2b-to-expand-ai-data-center-capacity
-excerpt: "Shares of CoreWeave surged on Monday after Nvidia announced a $2 billion equity investment aimed at accelerating the buildout of large-scale AI data center capacity. Nvidia purchased CoreWeave Class A common stock at $87.20 per share, according to the companies, a discount to Friday’s close of $92.98. The deal values the investment as a strategic vote of confidence and sent CoreWeave shares up as much as 12% in early trading. The capital will help CoreWeave speed its plan to deploy 5..."
+excerpt: "Nvidia purchased CoreWeave Class A common stock at $87.20 per share, according to the companies, a discount to Friday’s close of $92.98. The deal values the investment as a strategic vote of confidence and sent CoreWeave shares up as much as 12% in early trading."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

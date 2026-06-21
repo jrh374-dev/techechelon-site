@@ -1,7 +1,7 @@
 ---
 title: "Nvidia Pushes Back on TPU Threat, Says Its GPUs Remain ‘a Generation Ahead’"
 slug: nvidia-pushes-back-on-tpu-threat-says-its-gpus-remain-a-generation-ahead
-excerpt: "Nvidia moved to reassure investors Tuesday after its stock fell 3% on reports that Meta may shift part of its data center buildout to Google’s in-house AI chips. In a post on X, the company said its GPUs remain “a generation ahead of the industry” and emphasized that Nvidia is the only platform that runs every major AI model across all computing environments. The response follows rising chatter that Google’s tensor processing units (TPUs) — custom ASIC chips used to train the new Gemini 3..."
+excerpt: "In a post on X, the company said its GPUs remain “a generation ahead of the industry” and emphasized that Nvidia is the only platform that runs every major AI model across all computing environments."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

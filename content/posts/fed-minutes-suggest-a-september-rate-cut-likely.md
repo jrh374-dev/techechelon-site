@@ -1,7 +1,7 @@
 ---
 title: "Fed Minutes Suggest a September Rate Cut Likely"
 slug: fed-minutes-suggest-a-september-rate-cut-likely
-excerpt: "The Federal Reserve appears poised for a long-anticipated interest rate reduction in September, according to the minutes from their July..."
+excerpt: "During the July 30-31 meeting, a significant majority of Fed officials indicated that if economic data continues to meet expectations, easing monetary policy at the September meeting would be appropriate."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

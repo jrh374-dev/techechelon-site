@@ -1,7 +1,7 @@
 ---
 title: "Trump Revives Push to Scrap Quarterly Earnings Reports"
 slug: trump-revives-push-to-scrap-quarterly-earnings-reports
-excerpt: "President Donald Trump is once again challenging one of Wall Street’s longest-standing practices: the quarterly earnings report. In a..."
+excerpt: "The move, he argued, would “save money, and allow managers to focus on properly running their companies,” while helping executives take a longer-term view. Trump cited China’s 50-to-100 year corporate planning horizon as a counterpoint to America’s quarterly-driven culture."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

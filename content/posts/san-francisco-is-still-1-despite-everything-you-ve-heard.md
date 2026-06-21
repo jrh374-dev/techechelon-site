@@ -1,7 +1,7 @@
 ---
 title: "San Francisco is Still #1 Despite Everything You’ve Heard"
 slug: san-francisco-is-still-1-despite-everything-you-ve-heard
-excerpt: "San Francisco, CA. For years, the dominant story in tech has been geographic dispersal. Talent left coastal cities, startups followed, and capital became more distributed. San Francisco, New York, and Los Angeles were framed as legacy hubs struggling to stay relevant in a remote-first world. That narrative no longer holds up. According to Multipolitan ’s 2026 Start-Up Friendly Cities Index , San Francisco ranks #1 globally, with New York at #5 and Los Angeles at #6. These three U.S. cities..."
+excerpt: "*San Francisco, CA.*"
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

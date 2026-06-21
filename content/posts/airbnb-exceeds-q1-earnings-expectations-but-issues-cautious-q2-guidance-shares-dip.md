@@ -1,7 +1,7 @@
 ---
 title: "Airbnb Exceeds Q1 Earnings Expectations but Issues Cautious Q2 Guidance, Shares Dip"
 slug: airbnb-exceeds-q1-earnings-expectations-but-issues-cautious-q2-guidance-shares-dip
-excerpt: "Airbnb announced its first-quarter earnings on Wednesday, surpassing analysts' expectations but providing a forecast that fell short of..."
+excerpt: "The company's financials exceeded consensus estimates from LSEG as follows:"
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Snap Stock Surges 25% After $400M AI Deal and Strong Forecast"
 slug: snap-stock-surges-25-after-400m-ai-deal-and-strong-forecast
-excerpt: "Snap is making a comeback. The social media company’s shares jumped as much as 25% on Wednesday after it reported stronger-than-expected quarterly earnings, announced a $500 million stock buyback, and revealed a landmark $400 million partnership with AI search startup Perplexity. For the third quarter, Snap posted revenue of $1.51 billion, slightly above Wall Street’s $1.49 billion estimate, and a net loss of $104 million, down from $153 million a year earlier. Global daily active users rose..."
+excerpt: "For the third quarter, Snap posted revenue of $1.51 billion, slightly above Wall Street’s $1.49 billion estimate, and a net loss of $104 million, down from $153 million a year earlier."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

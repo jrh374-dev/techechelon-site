@@ -1,7 +1,7 @@
 ---
 title: "Generative AI Fuels Tech Industry Revival Amidst Economic Slump"
 slug: generative-ai-fuels-tech-industry-revival-amidst-economic-slump
-excerpt: "After a stagnation period earlier this year, the tech industry is experiencing a revival, thanks to the rise of generative artificial..."
+excerpt: "According to Ali Javaheri from PitchBook, there was a noticeable dip in both venture capital funding and startup valuations. This decline, he says, resulted largely from the interest rate increase and a subsequent reduction in liquidity."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

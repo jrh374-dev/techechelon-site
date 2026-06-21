@@ -1,7 +1,7 @@
 ---
 title: "Biden Administration Pledges Up to $6.6 Billion to Boost TSMC's Semiconductor Production in Arizona"
 slug: biden-administration-pledges-up-to-6-6-billion-to-boost-tsmc-s-semiconductor-production-in-arizona
-excerpt: "Under a preliminary deal announced by the Biden administration on Monday, the Arizona branch of TSMC is poised to receive as much as $6.6..."
+excerpt: "In addition, the company might access approximately $5 billion in loans proposed under the same Act, illustrating the U.S. government's commitment to revitalizing its semiconductor production capabilities."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

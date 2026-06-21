@@ -1,7 +1,7 @@
 ---
 title: "Engagement Surge for State Media on Platform X Post the Removal of 'State-Affiliated' Labels"
 slug: engagement-surge-for-state-media-on-platform-x-post-the-removal-of-state-affiliated-labels
-excerpt: "Several state media outlets from Russia, China, and Iran have experienced a significant 70% rise in user interaction on the platform X,..."
+excerpt: "NewsGuard's in-depth analysis of media patterns and misinformation highlighted that 12 state media accounts from the mentioned countries observed an increase in likes and reposts of their content, escalating from 2.93 million to 4.98 million in the subsequent 90 days post the removal of the labeling."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

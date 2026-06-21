@@ -1,7 +1,7 @@
 ---
 title: "Political opposition stalls U.S. digital dollar as Europe forges ahead with digital Euro"
 slug: political-opposition-stalls-u-s-digital-dollar-as-europe-forges-ahead-with-digital-euro
-excerpt: "Europe's advancement toward a central bank digital currency (CBDC) is moving forward, while increasing political opposition hinders the..."
+excerpt: "While a potential U.S. CBDC remains a subject of governmental discussion, there is a widespread convergence of mainstream Republicans, Silicon Valley libertarians, and anti-establishment leftists opposing this idea, fueled by worries over privacy and increased government control."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

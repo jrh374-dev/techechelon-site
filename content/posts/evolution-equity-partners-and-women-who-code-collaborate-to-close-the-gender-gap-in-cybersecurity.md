@@ -1,7 +1,7 @@
 ---
 title: "Evolution Equity Partners and Women Who Code Collaborate to Close the Gender Gap in Cybersecurity"
 slug: evolution-equity-partners-and-women-who-code-collaborate-to-close-the-gender-gap-in-cybersecurity
-excerpt: "In a decisive move to address gender disparity in the cybersecurity sector, Evolution Equity Partners has announced a strategic..."
+excerpt: "This collaboration was inaugurated with Evolution Equity Partners making a significant donation to Women Who Code."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

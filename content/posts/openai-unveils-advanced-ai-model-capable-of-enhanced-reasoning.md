@@ -1,7 +1,7 @@
 ---
 title: "OpenAI Unveils Advanced AI Model Capable of Enhanced Reasoning"
 slug: openai-unveils-advanced-ai-model-capable-of-enhanced-reasoning
-excerpt: "OpenAI, the company behind ChatGPT, introduced a new artificial intelligence model on Thursday, claiming it can \"reason through complex..."
+excerpt: "The new model, named OpenAI o1, is part of a fresh series and has been shown to perform at a level similar to Ph.D. students in rigorous tests for physics, chemistry, and biology, according to a company blog post."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Super Micro Shares Surge 31% Following Appointment of New Auditor to Maintain Nasdaq Listing"
 slug: super-micro-shares-surge-31-following-appointment-of-new-auditor-to-maintain-nasdaq-listing
-excerpt: "Super Micro shares skyrocketed by 31% on Tuesday after the company announced it had appointed BDO as its new independent auditor and..."
+excerpt: "The stock, which had experienced a steep decline since its peak in March, has surged more than 50% over the past two trading days amid investor optimism about the company's potential to maintain its Nasdaq status."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

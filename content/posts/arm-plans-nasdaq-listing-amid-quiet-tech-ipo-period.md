@@ -1,7 +1,7 @@
 ---
 title: "Arm Plans Nasdaq Listing Amid Quiet Tech IPO Period"
 slug: arm-plans-nasdaq-listing-amid-quiet-tech-ipo-period
-excerpt: "Arm, a leading chip design firm under the ownership of Japan's SoftBank, has announced its intention to list on Nasdaq. This comes at a..."
+excerpt: "For the fiscal year ending March 2023, the company reported revenues of $2.68 billion and a net income of $524 million. This marks a slight decrease from its 2022 revenues of $2.7 billion."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

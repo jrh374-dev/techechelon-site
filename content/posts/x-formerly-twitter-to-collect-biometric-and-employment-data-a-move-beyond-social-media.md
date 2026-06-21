@@ -1,7 +1,7 @@
 ---
 title: "X, Formerly Twitter, to Collect Biometric and Employment Data"
 slug: x-formerly-twitter-to-collect-biometric-and-employment-data-a-move-beyond-social-media
-excerpt: "The social media giant, X, previously known as Twitter, announced in its latest privacy policy update on Thursday that it will begin..."
+excerpt: "While the policy revisions have yet to be activated, they are scheduled to come into force on September 29."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

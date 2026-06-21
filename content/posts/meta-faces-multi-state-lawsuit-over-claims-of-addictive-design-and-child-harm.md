@@ -1,7 +1,7 @@
 ---
 title: "Meta Faces Multi-State Lawsuit Over Claims of Addictive Design and Child Harm"
 slug: meta-faces-multi-state-lawsuit-over-claims-of-addictive-design-and-child-harm
-excerpt: "Thirty-three states have taken legal action against Meta, the company behind Facebook and Instagram, accusing them of creating addictive..."
+excerpt: "The collective lawsuit, led by California Attorney General Rob Bonta, was launched in San Francisco's federal court on Tuesday."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

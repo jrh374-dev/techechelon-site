@@ -1,7 +1,7 @@
 ---
 title: "Shield AI Reaches $12.7 Billion Valuation After U.S. Air Force Selects Its Hivemind Software for Next-Gen Drone Program"
 slug: shield-ai-reaches-12-7-billion-valuation-after-u-s-air-force-selects-its-hivemind-software-for-nex
-excerpt: "Autonomous military aircraft startup Shield AI has closed a $1.5 billion Series G funding round at a $12.7 billion post-money valuation — a jump of 140 percent from the $5.3 billion valuation it carried just twelve months ago. The round was led by private equity firm Advent International, which has committed $1 billion specifically to defense technology investments, and a JPMorganChase investment group. In addition, Shield AI sold $500 million of preferred shares to funds managed by..."
+excerpt: "The capital will also fund Shield AI's acquisition of Aechelon Technology, a maker of flight simulation software used to train U.S. military pilots. Financial terms of the acquisition were not disclosed."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

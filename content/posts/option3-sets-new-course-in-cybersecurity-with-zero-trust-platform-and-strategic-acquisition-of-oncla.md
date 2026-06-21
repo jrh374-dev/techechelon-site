@@ -1,7 +1,7 @@
 ---
 title: "Option3 Sets New Course in Cybersecurity with Zero Trust Platform and Strategic Acquisition of Onclave Networks"
 slug: option3-sets-new-course-in-cybersecurity-with-zero-trust-platform-and-strategic-acquisition-of-oncla
-excerpt: "In a significant move towards strengthening national cybersecurity, Option3, a private equity firm with a focus on cybersecurity,..."
+excerpt: "The company anticipates this will be the first in a series of acquisitions, with the total investment expected to surpass $100 million in the coming year, aimed at integrating a comprehensive suite of Zero Trust capabilities onto a singular platform."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

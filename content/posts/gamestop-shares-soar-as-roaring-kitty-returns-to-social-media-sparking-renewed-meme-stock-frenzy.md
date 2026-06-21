@@ -1,7 +1,7 @@
 ---
 title: "GameStop Shares Soar as 'Roaring Kitty' Returns to Social Media, Sparking Renewed Meme Stock Frenzy"
 slug: gamestop-shares-soar-as-roaring-kitty-returns-to-social-media-sparking-renewed-meme-stock-frenzy
-excerpt: "Shares of GameStop surged significantly on Monday, fueled by a post from \"Roaring Kitty,\" the figure central to the 2021 short squeeze..."
+excerpt: "The post featured an image on X (formerly Twitter) depicting a video gamer intently leaning forward, signaling serious gameplay. This was Roaring Kitty's inaugural post on the platform since his hiatus began in 2021, quickly attracting 63,000 likes within 13 hours."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

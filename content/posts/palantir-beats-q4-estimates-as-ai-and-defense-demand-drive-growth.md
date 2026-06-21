@@ -1,7 +1,7 @@
 ---
 title: "Palantir Beats Q4 Estimates as AI and Defense Demand Drive Growth"
 slug: palantir-beats-q4-estimates-as-ai-and-defense-demand-drive-growth
-excerpt: "Palantir Technologies delivered a strong fourth-quarter beat on Monday, fueled by accelerating adoption of its AI platforms across U.S. government agencies and commercial customers, sending shares up roughly 7% in after-hours trading. The software analytics firm reported adjusted earnings of 25 cents per share, topping expectations of 23 cents, while revenue reached $1.41 billion, ahead of the $1.33 billion consensus estimate. Revenue climbed 70% year over year, underscoring the scale of..."
+excerpt: "The software analytics firm reported adjusted earnings of 25 cents per share, topping expectations of 23 cents, while revenue reached $1.41 billion, ahead of the $1.33 billion consensus estimate. Revenue climbed 70% year over year, underscoring the scale of demand for AI-enabled decision software."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

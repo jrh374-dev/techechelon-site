@@ -1,7 +1,7 @@
 ---
 title: "Apple's AI Revolution: What to Expect at WWDC 2024"
 slug: apple-s-ai-revolution-what-to-expect-at-wwdc-2024
-excerpt: "For years, Apple avoided using the acronym AI when discussing its products. Not anymore. The boom in generative artificial intelligence,..."
+excerpt: "For years, Apple avoided using the acronym AI when discussing its products. Not anymore."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

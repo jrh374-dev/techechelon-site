@@ -1,7 +1,7 @@
 ---
 title: "Markets Slide as Trump Revives Trade War Fears Tied to Greenland"
 slug: markets-slide-as-trump-revives-trade-war-fears-tied-to-greenland
-excerpt: "Global markets sold off sharply Tuesday after Donald Trump reignited fears of a widening trade war, tying new tariff threats to U.S. efforts to secure control of Greenland. The escalation sparked a broad “sell America” move, pressuring U.S. stocks and bonds while pushing safe-haven assets to record highs. U.S. equities suffered their worst session since October. The S&P 500 fell about 2.1%, the Nasdaq Composite dropped more than 2.4%, and the Dow Jones Industrial Average slid roughly 870..."
+excerpt: "U.S. equities suffered their worst session since October. The S&P 500 fell about 2.1%, the Nasdaq Composite dropped more than 2.4%, and the Dow Jones Industrial Average slid roughly 870 points. The S&P 500’s decline erased its gains for the year, while the Nasdaq moved more than 1% lower for 2026."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

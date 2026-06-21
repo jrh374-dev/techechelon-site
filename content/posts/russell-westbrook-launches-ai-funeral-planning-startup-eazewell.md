@@ -1,7 +1,7 @@
 ---
 title: "Russell Westbrook Launches AI Funeral Planning Startup Eazewell"
 slug: russell-westbrook-launches-ai-funeral-planning-startup-eazewell
-excerpt: "NBA superstar Russell Westbrook is stepping into the startup world with the launch of Eazewell , a new company aimed at transforming..."
+excerpt: "NBA superstar Russell Westbrook is stepping into the startup world with the launch of _Eazewell_, a new company aimed at transforming funeral planning through artificial intelligence."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

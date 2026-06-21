@@ -1,7 +1,7 @@
 ---
 title: "AI Cybersecurity Startup Kai Raises $125 Million to Combat AI-Driven Threats"
 slug: ai-cybersecurity-startup-kai-raises-125-million-to-combat-ai-driven-threats
-excerpt: "A fast-growing wave of investment into AI-powered cybersecurity startups continues to accelerate as Kai announced it has raised $125 million in a combined seed and Series A funding round, positioning the young company to expand its AI-driven cyber defense platform. The funding round was led by Evolution Equity Partners and included participation from venture capital firm N47 and other investors. The San Jose-based startup said the new capital will be used to scale operations, expand into new..."
+excerpt: "The funding round was led by Evolution Equity Partners and included participation from venture capital firm N47 and other investors."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

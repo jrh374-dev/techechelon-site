@@ -1,7 +1,7 @@
 ---
 title: "Twitter Introduces Temporary Tweet Viewing Limits, CEO Elon Musk Cites 'Extreme Data Scraping'"
 slug: twitter-introduces-temporary-tweet-viewing-limits-ceo-elon-musk-cites-extreme-data-scraping
-excerpt: "On Saturday, Twitter CEO Elon Musk announced temporary restrictions on the number of tweets users can view daily. Verified users can now..."
+excerpt: "These \"temporary limits,\" as Musk described them, are a response to \"extreme levels of data scraping and system manipulation.\" The time frame for when these restrictions would be lifted remains unspecified."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

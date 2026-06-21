@@ -1,7 +1,7 @@
 ---
 title: "September Sees Strong U.S. Job Growth"
 slug: september-sees-strong-u-s-job-growth
-excerpt: "September exhibited robust job growth, defying expectations and indicating resilience in the U.S. economy amidst rising interest rates..."
+excerpt: "The Labor Department reported a substantial 336,000 increase in nonfarm payrolls for the month, far surpassing the Dow Jones prediction of 170,000. This jump was significantly larger than the previous month's figures. The unemployment rate stood at 3.8%, a slight deviation from the anticipated 3.7%."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

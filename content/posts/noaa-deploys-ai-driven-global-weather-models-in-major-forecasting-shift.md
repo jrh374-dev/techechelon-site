@@ -1,7 +1,7 @@
 ---
 title: "NOAA Deploys AI-Driven Global Weather Models in Major Forecasting Shift"
 slug: noaa-deploys-ai-driven-global-weather-models-in-major-forecasting-shift
-excerpt: "The National Oceanic and Atmospheric Administration (NOAA) has launched a new generation of operational, artificial intelligence–driven global weather models, marking a significant shift in how forecasts are produced, delivered, and scaled. The agency says the new systems dramatically improve speed and efficiency while maintaining—or in some cases improving—forecast accuracy. “NOAA’s strategic application of AI is a significant leap forward in American weather model innovation,” said NOAA..."
+excerpt: "“NOAA’s strategic application of AI is a significant leap forward in American weather model innovation,” said NOAA Administrator Neil Jacobs. “These models represent a new paradigm, delivering improved large-scale and tropical track forecasts faster and at far lower computational cost.”"
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

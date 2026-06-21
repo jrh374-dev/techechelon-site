@@ -1,7 +1,7 @@
 ---
 title: "SoloHomes Founder Austin Trees is Bringing Real Estate into the Digital Age in Austin, Texas"
 slug: solohomes-founder-austin-trees-is-bringing-real-estate-into-the-digital-age-in-austin-texas
-excerpt: "In the heart of Austin’s booming housing market, SoloHomes  is making waves by offering a fresh, tech-forward approach to real estate...."
+excerpt: "In the heart of Austin’s booming housing market, SoloHomes is making waves by offering a fresh, tech-forward approach to real estate."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

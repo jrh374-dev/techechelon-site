@@ -1,7 +1,7 @@
 ---
 title: "Federal Layoffs Add Pressure to Cooling Job Market Ahead of June Employment Report"
 slug: federal-layoffs-add-pressure-to-cooling-job-market-ahead-of-june-employment-report
-excerpt: "As anticipation builds for the upcoming June employment report, a new source of strain is emerging in the U.S. labor market: mass layoffs..."
+excerpt: "The Department of Government Efficiency (DOGE), a newly formed agency under President Donald Trump’s administration, has driven aggressive cuts to the federal workforce—an effort that has already eliminated more than 280,000 positions, according to figures from Challenger, Gray & Christmas."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

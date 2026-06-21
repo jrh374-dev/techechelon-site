@@ -1,7 +1,7 @@
 ---
 title: "Shelter and Service Costs Challenge Federal Reserve's 2% Inflation Target"
 slug: shelter-and-service-costs-challenge-federal-reserve-s-2-inflation-target
-excerpt: "In aiming for the Federal Reserve's 2% inflation target, the focus primarily falls on services and shelter costs. Although other sectors..."
+excerpt: "Steven Blitz, Chief U.S. Economist at GlobalData TS Lombard, suggests the possibility of needing a recession to regain control over escalating rents and medical services costs, implying that the 2% target might not be achievable without drastic measures. September's consumer price index (CPI) saw a drop to 3."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

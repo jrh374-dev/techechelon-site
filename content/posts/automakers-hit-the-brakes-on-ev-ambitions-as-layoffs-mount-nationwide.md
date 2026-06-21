@@ -1,7 +1,7 @@
 ---
 title: "Automakers Hit the Brakes on EV Ambitions as Layoffs Mount Nationwide"
 slug: automakers-hit-the-brakes-on-ev-ambitions-as-layoffs-mount-nationwide
-excerpt: "The electric vehicle boom is losing momentum. Over the past several weeks, major automakers and battery manufacturers have announced sweeping job cuts and plant slowdowns as demand cools and federal incentives disappear. The retrenchment follows passage of the Republicans’ One Big Beautiful Bill Act , which repealed key consumer tax credits for electric cars — including a $7,500 federal rebate that expired in September. The end of those incentives, once a cornerstone of the EV market’s..."
+excerpt: "The retrenchment follows passage of the Republicans’ _One Big Beautiful Bill Act_, which repealed key consumer tax credits for electric cars — including a $7,500 federal rebate that expired in September."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

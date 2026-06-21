@@ -1,7 +1,7 @@
 ---
 title: "Google Invests Over $1 Billion in AI Startup Anthropic"
 slug: google-invests-over-1-billion-in-ai-startup-anthropic
-excerpt: "Google has committed to a new investment exceeding $1 billion in Anthropic, a leading generative AI startup, a source familiar with the..."
+excerpt: "Anthropic, known for its Claude AI chatbot, continues to solidify its position in Silicon Valley’s AI arms race. The company is reportedly in advanced talks to raise $2 billion in a funding round led by Lightspeed Venture Partners, targeting a $60 billion valuation, as previously reported by CNBC."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

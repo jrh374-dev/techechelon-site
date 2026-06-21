@@ -1,7 +1,7 @@
 ---
 title: "MGM Resorts and Caesars Entertainment Under Siege Following Cyberattacks"
 slug: mgm-resorts-and-caesars-entertainment-under-siege-following-cyberattacks
-excerpt: "MGM Resorts International is grappling with the aftermath of a cyberattack which took place five days ago, impacting its landmark Las..."
+excerpt: "MGM Resorts was attacked by hackers last Sunday, leading to a disruption in its daily operations. Access to rooms, functioning of slot and ATM machines, and the company's website were all compromised."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

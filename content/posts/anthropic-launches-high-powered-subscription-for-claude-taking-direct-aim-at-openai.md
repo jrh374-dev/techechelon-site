@@ -1,7 +1,7 @@
 ---
 title: "Anthropic Launches High-Powered Subscription for Claude, Taking Direct Aim at OpenAI"
 slug: anthropic-launches-high-powered-subscription-for-claude-taking-direct-aim-at-openai
-excerpt: "Anthropic is turning up the heat in the AI race. On Wednesday, the Amazon-backed startup unveiled Claude’s Max plan, a premium..."
+excerpt: "The Max plan offers two pricing options:"
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

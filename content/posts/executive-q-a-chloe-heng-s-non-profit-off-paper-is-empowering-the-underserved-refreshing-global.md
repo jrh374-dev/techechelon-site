@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Chloe Heng's Non-Profit \"Off Paper\" is Empowering the Underserved, Refreshing Global Education"
 slug: executive-q-a-chloe-heng-s-non-profit-off-paper-is-empowering-the-underserved-refreshing-global
-excerpt: "Off Paper emerged in response to educational disparities amplified by the Covid-19 pandemic, aiming to provide quality education to..."
+excerpt: "As Off Paper continues to grow, it measures success through community engagement and the effectiveness of its programs, while planning for technological updates and character-building features."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Mnuchin Eyes TikTok Acquisition and Technology Rebuild Amid New U.S. Regulations"
 slug: mnuchin-eyes-tiktok-acquisition-and-technology-rebuild-amid-new-u-s-regulations
-excerpt: "Former Treasury Secretary Steven Mnuchin expressed ongoing interest in acquiring TikTok during an interview with Bloomberg Television on..."
+excerpt: "Mnuchin outlined a strategy for the acquisition, aiming to redevelop TikTok's technology under American leadership, ensuring it is independent from ByteDance and enhancing its security."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

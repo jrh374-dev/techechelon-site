@@ -1,7 +1,7 @@
 ---
 title: "Eckuity Capital Announces $150 Million Fund Closure and Welcomes Dr. Victoria Manax Rutson as New Partner"
 slug: eckuity-capital-announces-150-million-fund-closure-and-welcomes-dr-victoria-manax-rutson-as-new-pa
-excerpt: "In a significant move to bolster its leadership and investment prowess, Eckuity Capital, a prominent growth and venture capital investor..."
+excerpt: "Dr. Manax, a renowned clinical oncologist with more than 20 years of experience in the pharmaceutical and biotech industries, brings a wealth of expertise in global drug and device development, nanomedicines, and the commercial launch of groundbreaking medical solutions."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

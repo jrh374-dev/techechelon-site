@@ -1,7 +1,7 @@
 ---
 title: "Jamie Dimon's Annual Letter Warns of Geopolitical Risk, AI Disruption, and Private Market Fragility"
 slug: jamie-dimon-s-annual-letter-warns-of-geopolitical-risk-ai-disruption-and-private-market-fragility
-excerpt: "JPMorgan Chase CEO Jamie Dimon used his annual letter to shareholders on Monday to issue a broad call for a recommitment to American values, while laying out one of the most comprehensive surveys of systemic risk the world's largest bank by market cap has published in recent memory. Spanning geopolitical conflict, trade policy upheaval, artificial intelligence, private market fragility, and bank regulation, the letter offers an unvarnished look at how the most influential banker in the world..."
+excerpt: "Spanning geopolitical conflict, trade policy upheaval, artificial intelligence, private market fragility, and bank regulation, the letter offers an unvarnished look at how the most influential banker in the world sees the current environment."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

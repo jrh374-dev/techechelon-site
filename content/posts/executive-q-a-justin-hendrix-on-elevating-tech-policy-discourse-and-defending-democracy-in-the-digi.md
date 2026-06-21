@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Justin Hendrix on Elevating Tech Policy Discourse and Defending Democracy in the Digital Age"
 slug: executive-q-a-justin-hendrix-on-elevating-tech-policy-discourse-and-defending-democracy-in-the-digi
-excerpt: "Justin Hendrix is a leading voice at the crossroads of technology, democracy, and civil society. As the CEO and Editor of Tech Policy..."
+excerpt: "What began as a side project born from post-2016 anxieties about democracy has grown into a vital nonprofit publication. Under Justin’s leadership, Tech Policy Press serves as a bridge between expert discourse and public understanding—offering nonpartisan analysis and elevating diverse voices from around the globe."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

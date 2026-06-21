@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Chris Loeffler on Bridging Real Estate and Digital Asset Infrastructure at Caliber"
 slug: executive-q-a-chris-loeffler-on-bridging-real-estate-and-digital-asset-infrastructure-at-caliber
-excerpt: "Chris Loeffler built Caliber Wealth Management in 2009 to capitalize on opportunities within the distressed real estate market and underserved middle-market assets, firmly not digital assets. The company’s roots go back to the post-2008 period, when the market was messy, headlines were loud and good deals were available for people who could stay disciplined. Today, Caliber (NASDAQ: CWD)  operates across multiple real estate strategies, including buying and operating existing income-producing..."
+excerpt: "Today, Caliber (NASDAQ: CWD) operates across multiple real estate strategies, including buying and operating existing income-producing commercial properties, stepping into value-add situations and getting involved in projects that need fresh capital, new structure, or a more active operator mindset."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

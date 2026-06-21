@@ -1,7 +1,7 @@
 ---
 title: "Nomi Health is on a Mission to Rebuild the U.S. Healthcare System"
 slug: nomi-health-is-on-a-mission-to-rebuild-the-u-s-healthcare-system
-excerpt: "Founded in 2019, Nomi Health has rapidly emerged as one of the most disruptive forces in American healthcare. Based in Orem, Utah, the..."
+excerpt: "Founded in 2019, Nomi Health has rapidly emerged as one of the most disruptive forces in American healthcare. Based in Orem, Utah, the company was born out of a deeply personal encounter with the healthcare system by its founder, Mark Newman, and has grown into a solution that now touches over 30 million lives across the United States."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

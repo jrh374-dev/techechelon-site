@@ -1,7 +1,7 @@
 ---
 title: "Microsoft CEO Discusses the Need for Governance Changes at OpenAI"
 slug: microsoft-ceo-discusses-the-need-for-governance-changes-at-openai
-excerpt: "In a recent interview, Microsoft CEO Satya Nadella discussed the need for governance changes at OpenAI, following the unexpected removal..."
+excerpt: "Nadella also mentioned the possibility of Sam Altman, Greg Brockman (former OpenAI chairman), and their team joining Microsoft in a new AI research group. This development followed the appointment of ex-Twitch CEO Emmett Shear as OpenAI's interim head."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

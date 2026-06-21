@@ -1,7 +1,7 @@
 ---
 title: "AI Revolutionizes Political Campaign Fundraising"
 slug: ai-revolutionizes-political-campaign-fundraising
-excerpt: "As the realm of politics starts to embrace artificial intelligence (AI), a pioneering company has stepped in to utilize AI for drafting..."
+excerpt: "Creating campaign fundraising emails has often been a draining and lengthy task. This has further contributed to fatigue among political workers in an already volatile job sector."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

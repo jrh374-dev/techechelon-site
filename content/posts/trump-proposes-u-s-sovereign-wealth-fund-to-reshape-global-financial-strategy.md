@@ -1,7 +1,7 @@
 ---
 title: "Trump Proposes U.S. Sovereign Wealth Fund to Reshape Global Financial Strategy"
 slug: trump-proposes-u-s-sovereign-wealth-fund-to-reshape-global-financial-strategy
-excerpt: "President Donald Trump is charting a new course for America's financial strategy with a bold move to reshape the nation’s investment..."
+excerpt: "Sovereign wealth funds are not a new concept globally. Managed by national governments, these funds handle substantial amounts of money, often accruing from surplus revenues or the exploitation of natural resources."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

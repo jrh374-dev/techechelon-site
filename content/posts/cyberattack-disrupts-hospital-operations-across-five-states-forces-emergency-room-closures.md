@@ -1,7 +1,7 @@
 ---
 title: "Cyberattack Disrupts Hospital Operations Across Five States, Forces Emergency Room Closures"
 slug: cyberattack-disrupts-hospital-operations-across-five-states-forces-emergency-room-closures
-excerpt: "A cyberattack on Thursday has caused disruptions to hospitals and clinics in five states, leading to the closure of several emergency..."
+excerpt: "Prospect Medical Holdings, which operates the affected facilities, reported the cyberattack across their locations in California, Texas, Connecticut, Rhode Island, and Pennsylvania."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

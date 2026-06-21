@@ -1,7 +1,7 @@
 ---
 title: "OpenAI Acquires Tech Podcast TBPN in Unconventional Media Play"
 slug: openai-acquires-tech-podcast-tbpn-in-unconventional-media-play
-excerpt: "OpenAI has acquired TBPN, a daily technology news podcast hosted by John Coogan and Jordi Hays, in a move that reflects the company's growing interest in shaping public discourse around artificial intelligence — and in the broader shift in how audiences consume media. The Wall Street Journal first reported the deal; terms were not disclosed. TBPN launched in 2025 and has grown rapidly despite its modest subscriber base of around 58,000 on YouTube. The show has attracted high-profile guests..."
+excerpt: "TBPN launched in 2025 and has grown rapidly despite its modest subscriber base of around 58,000 on YouTube. The show has attracted high-profile guests including Meta CEO Mark Zuckerberg, Microsoft CEO Satya Nadella, and OpenAI co-founder and CEO Sam Altman — who is also a recurring presence on the program."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Federal Court Clears Path for DOJ's Antitrust Lawsuit Against Apple to Proceed"
 slug: federal-court-clears-path-for-doj-s-antitrust-lawsuit-against-apple-to-proceed
-excerpt: "A major antitrust case targeting Apple will move forward, following a federal judge’s decision Monday to deny the company’s attempt to..."
+excerpt: "U.S. District Judge Julien Xavier Neals ruled against Apple’s motion to dismiss, rejecting the company’s claims that the DOJ had failed to adequately define its allegations."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "MGM Resorts Faces Cybersecurity Challenges; Systems Across US Affected"
 slug: mgm-resorts-faces-cybersecurity-challenges-systems-across-us-affected
-excerpt: "A cybersecurity concern prompted the temporary shutdown of several computer systems in MGM Resorts International casinos and hotels..."
+excerpt: "The disturbance commenced on Sunday. The impact on booking systems and gaming areas in various states, such as New York, Ohio, Maryland, Michigan, Mississippi, Massachusetts, New Jersey, and notably in Las Vegas, remains uncertain, according to company representative Brian Ahern."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

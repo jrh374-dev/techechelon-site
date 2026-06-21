@@ -1,7 +1,7 @@
 ---
 title: "Strategists Convene to Tackle Anticipated Surge of AI-Driven Fake Content in 2024 Elections"
 slug: strategists-convene-to-tackle-anticipated-surge-of-ai-driven-fake-content-in-2024-elections
-excerpt: "On Wednesday, a unique meeting was held over Zoom, involving a group of Democratic strategists aiming to tackle the anticipated surge of..."
+excerpt: "Pat Dennis, president of the Democratic-led opposition research group American Bridge 21st Century, expressed his concerns over the impending situation, emphasizing the ease with which unscrupulous players could use AI to spread disinformation at an unprecedented rate."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

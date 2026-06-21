@@ -1,7 +1,7 @@
 ---
 title: "U.S. Imposes Unprecedented Sanctions on Greek Spyware Firm Intellexa for Targeting Officials and Activists"
 slug: u-s-imposes-unprecedented-sanctions-on-greek-spyware-firm-intellexa-for-targeting-officials-and-act
-excerpt: "The U.S. Treasury Department announced sanctions against the Greece-based spyware company Intellexa, along with its executive leadership,..."
+excerpt: "The sanctions, announced on Tuesday, are against two key figures and five associated organizations linked to Intellexa. These parties were involved in the development, management, and distribution of spyware tools, which have been used to compromise the privacy of journalists, activists, and government personnel."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

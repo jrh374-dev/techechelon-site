@@ -1,7 +1,7 @@
 ---
 title: "U.S. Inflation Slows to 2.8% in February, Easing Pressure on Consumers and Markets"
 slug: u-s-inflation-slows-to-2-8-in-february-easing-pressure-on-consumers-and-markets
-excerpt: "Inflation in the U.S. cooled more than expected in February, providing some relief to consumers and businesses amid ongoing concerns over..."
+excerpt: "The consumer price index (CPI)—a key measure of inflation tracking the cost of goods and services—rose 0.2% for the month, bringing the annual inflation rate to 2.8%, according to data released by the Bureau of Labor Statistics (BLS) on Wednesday. The increase came in slightly below Wall Street expectations of 2."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "AI Drive-Thru Technology Gains Traction Amid Challenges"
 slug: ai-drive-thru-technology-gains-traction-amid-challenges
-excerpt: "Restaurants are increasingly turning to artificial intelligence to handle drive-thru orders as a strategy to reduce labor costs, although..."
+excerpt: "As of this year, 16% of restaurant operators intend to invest in AI technologies like voice recognition, spurred by escalating labor costs and a shift towards drive-thru service exacerbated by the pandemic and recent wage increases, according to a National Restaurant Association survey."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

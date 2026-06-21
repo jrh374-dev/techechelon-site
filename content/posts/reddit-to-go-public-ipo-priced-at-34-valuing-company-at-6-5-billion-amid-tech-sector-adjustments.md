@@ -1,7 +1,7 @@
 ---
 title: "Reddit to Go Public: IPO Priced at $34, Valuing Company at $6.5 Billion Amid Tech Sector Adjustments"
 slug: reddit-to-go-public-ipo-priced-at-34-valuing-company-at-6-5-billion-amid-tech-sector-adjustments
-excerpt: "Reddit, a platform that hosts myriad online communities and is 19 years old, set its initial public offering (IPO) price at $34 per share..."
+excerpt: "This pricing effort generated $519 million, as stated in a company press release, and positioned Reddit's market value at approximately $6.5 billion. The company initially aimed for a share price between $31 and $34."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

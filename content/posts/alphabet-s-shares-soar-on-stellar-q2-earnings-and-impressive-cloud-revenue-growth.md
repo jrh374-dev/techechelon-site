@@ -1,7 +1,7 @@
 ---
 title: "Alphabet's Shares Soar on Stellar Q2 Earnings and Impressive Cloud Revenue Growth"
 slug: alphabet-s-shares-soar-on-stellar-q2-earnings-and-impressive-cloud-revenue-growth
-excerpt: "Alphabet Inc.'s shares jumped almost 7% early Wednesday, fueled by robust second-quarter earnings that exceeded predictions, and a..."
+excerpt: "On Tuesday, the tech giant reported adjusted earnings per share at $1.44, surpassing the anticipated $1.34 according to a Refinitiv analyst survey. Additionally, the company posted revenue of $74.6 billion for the second quarter, outperforming the estimated consensus of $72.82 billion."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

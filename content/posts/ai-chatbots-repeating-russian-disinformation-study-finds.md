@@ -1,7 +1,7 @@
 ---
 title: "AI Chatbots Repeating Russian Disinformation, Study Finds"
 slug: ai-chatbots-repeating-russian-disinformation-study-finds
-excerpt: "A new study reveals that some of the world’s most widely used artificial intelligence (AI) chatbots are spreading Russian disinformation,..."
+excerpt: "According to research by NewsGuard, a news monitoring service, a Moscow-based disinformation network known as Pravda—which translates to “truth” in Russian—has been injecting false narratives into online spaces. These misleading stories, in turn, influence AI chatbots by shaping the information they generate for users."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Palo Alto Networks Unveils AI Agents to Automate Cyber Defense"
 slug: palo-alto-networks-unveils-ai-agents-to-automate-cyber-defense
-excerpt: "Palo Alto Networks is launching a new generation of artificial intelligence agents designed to help companies automatically detect and respond to cyber threats as attacks grow more complex and relentless. The cybersecurity giant unveiled its new system, Cortex AgentiX, on Tuesday. The AI agents can autonomously handle investigations, respond to email breaches, and coordinate threat intelligence across multiple security vendors. The tools are available immediately through Palo Alto’s existing..."
+excerpt: "The cybersecurity giant unveiled its new system, Cortex AgentiX, on Tuesday. The AI agents can autonomously handle investigations, respond to email breaches, and coordinate threat intelligence across multiple security vendors."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

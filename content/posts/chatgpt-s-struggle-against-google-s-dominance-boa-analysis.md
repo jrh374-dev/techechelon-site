@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT's Struggle Against Google's Dominance: BoA Analysis"
 slug: chatgpt-s-struggle-against-google-s-dominance-boa-analysis
-excerpt: "Despite the growing popularity of AI, OpenAI's ChatGPT does not seem to be a significant threat to Google's standing as the leader in..."
+excerpt: "The analysts highlighted that the number of downloads for both ChatGPT and Microsoft's Bing have been declining in recent weeks, based on data from Sensor Tower. Justin Post, a BofA analyst, confirmed this in a recent note."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Sam Altman Signals OpenAI’s Alignment With Government as AI Rivalry Intensifies"
 slug: sam-altman-signals-openai-s-alignment-with-government-as-ai-rivalry-intensifies
-excerpt: "Sam Altman, the CEO of OpenAI, made clear this week that he believes governments — not technology companies — should ultimately hold the upper hand in the emerging artificial intelligence era. Speaking at the Morgan Stanley Technology, Media & Telecom Conference, Altman said that “government is supposed to be more powerful than private companies,” warning that it would be “bad for society” if technology firms began abandoning democratic institutions simply because they disagreed with..."
+excerpt: "Speaking at the Morgan Stanley Technology, Media & Telecom Conference, Altman said that “government is supposed to be more powerful than private companies,” warning that it would be “bad for society” if technology firms began abandoning democratic institutions simply because they disagreed with political leadership."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

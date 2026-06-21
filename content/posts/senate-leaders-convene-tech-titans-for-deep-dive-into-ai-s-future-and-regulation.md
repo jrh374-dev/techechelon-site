@@ -1,7 +1,7 @@
 ---
 title: "Senate Leaders Convene Tech Titans for Deep Dive into AI's Future and Regulation"
 slug: senate-leaders-convene-tech-titans-for-deep-dive-into-ai-s-future-and-regulation
-excerpt: "Tech experts and proponents are scheduled to meet Senate leaders on Capitol Hill this Tuesday to discuss the challenges and opportunities..."
+excerpt: "Key attendees for the upcoming AI Insights Forum, hosted by Senate Majority Leader Chuck Schumer, D-N.Y., include venture capitalists Marc Andreessen of Andreessen Horowitz and John Doerr from Kleiner Perkins, among a total of 21 participants, as confirmed by Schumer's spokesperson."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

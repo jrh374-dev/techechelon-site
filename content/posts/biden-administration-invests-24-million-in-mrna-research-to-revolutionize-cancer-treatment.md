@@ -1,7 +1,7 @@
 ---
 title: "Biden Administration Invests $24 Million in mRNA Research to Revolutionize Cancer Treatment"
 slug: biden-administration-invests-24-million-in-mrna-research-to-revolutionize-cancer-treatment
-excerpt: "On Wednesday, the Biden administration's newly-formed biomedical research agency announced an investment of up to $24 million for the..."
+excerpt: "Leading the research will be a team from Emory University, based in Atlanta. The funds for this project will come from the Advanced Research Projects Agency for Health (ARPA-H), an initiative created to support groundbreaking and high-potential research."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

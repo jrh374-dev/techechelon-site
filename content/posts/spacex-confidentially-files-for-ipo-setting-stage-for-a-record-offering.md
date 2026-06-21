@@ -1,7 +1,7 @@
 ---
 title: "SpaceX Confidentially Files for IPO, Setting Stage for a Record Offering"
 slug: spacex-confidentially-files-for-ipo-setting-stage-for-a-record-offering
-excerpt: "Elon Musk's SpaceX has confidentially filed for an initial public offering with the Securities and Exchange Commission, bringing the rocket company one step closer to what is shaping up to be the largest public market debut in U.S. history. According to sources cited by CNBC and Bloomberg, SpaceX could seek a valuation of $1.75 trillion when it lists, with a target timeline around June of this year. The confidential filing allows SpaceX to submit its financials to the SEC for regulatory..."
+excerpt: "The confidential filing allows SpaceX to submit its financials to the SEC for regulatory review before making them public."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

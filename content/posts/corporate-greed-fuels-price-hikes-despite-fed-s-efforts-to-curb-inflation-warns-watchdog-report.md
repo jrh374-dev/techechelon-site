@@ -1,7 +1,7 @@
 ---
 title: "Corporate Greed Fuels Price Hikes Despite Fed's Efforts to Curb Inflation, Warns Watchdog Report"
 slug: corporate-greed-fuels-price-hikes-despite-fed-s-efforts-to-curb-inflation-warns-watchdog-report
-excerpt: "According to a recent report by the watchdog organization, Accountable.US, significant S&P 500 consumer goods corporations have been..."
+excerpt: "Despite earning billions in additional net income and allocating over a trillion dollars to affluent investors, large food industry corporations within the S&P have continued to increase consumer prices, revealed Liz Zelnick, the director of economic security and corporate power at Accountable.US."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

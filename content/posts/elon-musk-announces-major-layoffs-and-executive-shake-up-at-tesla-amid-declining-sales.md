@@ -1,7 +1,7 @@
 ---
 title: "Elon Musk Announces Major Layoffs and Executive Shake-Up at Tesla Amid Declining Sales"
 slug: elon-musk-announces-major-layoffs-and-executive-shake-up-at-tesla-amid-declining-sales
-excerpt: "Elon Musk has terminated the employment of two senior Tesla executives and announced plans for extensive layoffs due to dissatisfaction..."
+excerpt: "The report, based on an email from Musk to senior managers, named Rebecca Tinucci, the senior director of Tesla's Supercharger business, and Daniel Ho, head of the new vehicles program, as those dismissed effective Tuesday morning."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "August 2023 Sees Unemployment Spike But Economic Indicators Remain Mixed"
 slug: august-2023-sees-unemployment-spike-but-economic-indicators-remain-mixed
-excerpt: "The U.S. job market experienced a setback in August 2023 as unemployment figures spiked. The month witnessed a growth in nonfarm..."
+excerpt: "The U.S. job market experienced a setback in August 2023 as unemployment figures spiked."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

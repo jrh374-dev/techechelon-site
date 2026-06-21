@@ -1,7 +1,7 @@
 ---
 title: "Nvidia Chief Embraces Trump as Chipmaker Reaches Record Heights"
 slug: nvidia-chief-embraces-trump-as-chipmaker-reaches-record-heights
-excerpt: "Nvidia CEO Jensen Huang is deepening his relationship with President Donald Trump as the company cements its dominance in the global AI race and navigates escalating U.S.–China trade tensions. The alliance has become a defining feature of Trump’s second term, offering mutual political and economic benefits as both men champion America’s technological supremacy. The partnership was on full display this week at Nvidia’s GPU Technology Conference in Washington, D.C.—often dubbed the “Super Bowl..."
+excerpt: "The partnership was on full display this week at Nvidia’s GPU Technology Conference in Washington, D.C.—often dubbed the “Super Bowl of AI."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

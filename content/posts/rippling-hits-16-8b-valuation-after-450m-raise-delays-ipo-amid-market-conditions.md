@@ -1,7 +1,7 @@
 ---
 title: "Rippling Hits $16.8B Valuation After $450M Raise, Delays IPO Amid Market Conditions"
 slug: rippling-hits-16-8b-valuation-after-450m-raise-delays-ipo-amid-market-conditions
-excerpt: "HR software startup Rippling has reached a $16.8 billion valuation following a $450 million funding round, a jump from its $13.5 billion..."
+excerpt: "The round had no designated lead investor, though it included participation from Baillie Gifford, Elad Gil, and Goldman Sachs Growth, among others."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

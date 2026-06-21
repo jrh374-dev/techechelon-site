@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Haley Lickstein’s Journey to Boost Women and Youth Voting Engagement"
 slug: executive-q-a-haley-lickstein-s-journey-to-boost-women-and-youth-voting-engagement
-excerpt: "Haley is a dynamic political influencer focused on engaging young women and youth in the voting process. Sparked into action by the 2022..."
+excerpt: "TechEchelon recently interviewed Haley on her current work and vision for the future."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

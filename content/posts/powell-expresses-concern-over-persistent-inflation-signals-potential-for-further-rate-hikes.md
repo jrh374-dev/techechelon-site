@@ -1,7 +1,7 @@
 ---
 title: "Powell Expresses Concern Over Persistent Inflation, Signals Potential for Further Rate Hikes"
 slug: powell-expresses-concern-over-persistent-inflation-signals-potential-for-further-rate-hikes
-excerpt: "Federal Reserve Chair Jerome Powell expressed concerns on Friday regarding ongoing inflation and suggested that there may be more..."
+excerpt: "Even though Powell recognized advancements in addressing inflation, he emphasized that it's still higher than the desired threshold. He signaled that the Federal Reserve won't rush into any decisions, but he didn't indicate a willingness to relax their stance in the immediate future."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

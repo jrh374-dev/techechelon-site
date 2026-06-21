@@ -1,7 +1,7 @@
 ---
 title: "Arnold Schwarzenegger Relates Today's AI to the Tech in 'Terminator 2'"
 slug: arnold-schwarzenegger-relates-today-s-ai-to-the-tech-in-terminator-2
-excerpt: "Arnold Schwarzenegger, the star of the 1991 blockbuster \"Terminator 2: Judgment Day\", finds the film's once-imaginary storyline..."
+excerpt: "\"Back in those days, we merely touched upon the concept of AI, artificial intelligence. Just think about it,\" Schwarzenegger said to an enraptured audience at the Academy Museum of Motion Pictures in Los Angeles."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

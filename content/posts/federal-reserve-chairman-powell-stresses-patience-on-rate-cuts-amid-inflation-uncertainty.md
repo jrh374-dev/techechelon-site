@@ -1,7 +1,7 @@
 ---
 title: "Federal Reserve Chairman Powell Stresses Patience on Rate Cuts Amid Inflation Uncertainty"
 slug: federal-reserve-chairman-powell-stresses-patience-on-rate-cuts-amid-inflation-uncertainty
-excerpt: "Jerome Powell, the Chairman of the Federal Reserve, indicated in a recent address that determining the future path of inflation will..."
+excerpt: "Addressing the issue of unexpectedly high inflation at the beginning of the year, Powell emphasized that there is no urgency to modify the current monetary stance."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

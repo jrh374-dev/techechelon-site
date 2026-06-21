@@ -1,7 +1,7 @@
 ---
 title: "Chinese Hackers Breach U.S. Government Agencies' Email Security Prior to Sec. Blinken Visit"
 slug: chinese-hackers-breach-u-s-government-agencies-email-security-prior-to-sec-blinken-visit
-excerpt: "Chinese hackers with alleged state support successfully breached Microsoft's cloud-based security systems last month, hacking into the..."
+excerpt: "The hack was a focused and strategic espionage effort that allowed access to a handful of email accounts across an unspecified number of U.S. agencies. The discovery was made in mid-June by the U.S."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

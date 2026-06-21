@@ -1,7 +1,7 @@
 ---
 title: "Option3 Announces Acquisition of Onclave Networks and Launch of ENIGMA, a Groundbreaking Zero Trust Cybersecurity Platform"
 slug: option3-announces-acquisition-of-onclave-networks-and-launch-of-enigma-a-groundbreaking-zero-trust
-excerpt: "Option3 , a seasoned private equity firm with a focus on cybersecurity, unveiled today  its acquisition of Onclave Networks, setting the..."
+excerpt: "Option3, a seasoned private equity firm with a focus on cybersecurity, unveiled today its acquisition of Onclave Networks, setting the stage for the launch of ENIGMA, its new platform dedicated exclusively to Zero Trust security technologies."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Alibaba Opens Access to its AI Model, Tongyi Qianwen, Posing Potential Competition to Meta, OpenAI"
 slug: alibaba-opens-access-to-its-ai-model-tongyi-qianwen-posing-potential-competition-to-meta-openai
-excerpt: "In a bid to boost the adoption of its product and establish itself as a technology leader, Alibaba announced on Thursday that it is..."
+excerpt: "Alibaba introduced its own large language model (LLM) dubbed Tongyi Qianwen in April. An LLM is an AI model that's been trained on extensive data and serves as the foundation for generative AI applications like ChatGPT, which produce human-like responses to user inputs."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

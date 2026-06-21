@@ -1,7 +1,7 @@
 ---
 title: "Pentagon Pressures Anthropic to Loosen AI Safeguards Amid Contract Dispute"
 slug: pentagon-pressures-anthropic-to-loosen-ai-safeguards-amid-contract-dispute
-excerpt: "The U.S. Department of Defense is threatening to cancel a major contract with Anthropic if the company does not agree to revised terms governing how its AI models can be used in military operations. According to officials, the Pentagon has given Anthropic until Friday to comply. At the center of the dispute are the company’s usage restrictions on its Claude model, which prohibit applications involving mass surveillance or autonomous weapons without human oversight. Defense Secretary Pete..."
+excerpt: "According to officials, the Pentagon has given Anthropic until Friday to comply. At the center of the dispute are the company’s usage restrictions on its Claude model, which prohibit applications involving mass surveillance or autonomous weapons without human oversight."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "US-Israeli Wiz Considers Acquisition of SentinelOne"
 slug: us-israeli-wiz-considers-acquisition-of-sentinelone
-excerpt: "US-Israeli cloud security company Wiz is contemplating acquiring Israeli-origin cybersecurity enterprise SentinelOne, valued near $5..."
+excerpt: "The spokesperson mentioned, “We're always on the lookout for opportunities to further our growth and solidify our industry-leading position. SentinelOne's robust cybersecurity offerings have caught our attention, and we've been monitoring their progress over the years.”"
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

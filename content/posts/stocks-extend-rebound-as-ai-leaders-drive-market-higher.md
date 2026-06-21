@@ -1,7 +1,7 @@
 ---
 title: "Stocks Extend Rebound as AI Leaders Drive Market Higher"
 slug: stocks-extend-rebound-as-ai-leaders-drive-market-higher
-excerpt: "U.S. equities moved higher on Wednesday, building on the prior session’s rebound as investors cautiously rotated back into technology — led by gains in Nvidia and Oracle. The S&P 500 rose 0.5%, while the Nasdaq Composite climbed 1%, reflecting renewed strength in growth and AI-linked names. The Dow Jones Industrial Average added a more modest 0.2%, highlighting a tech-led recovery rather than a broad-based rally. AI Earnings in Focus Much of the market’s direction is now tied to upcoming..."
+excerpt: "The S&P 500 rose 0.5%, while the Nasdaq Composite climbed 1%, reflecting renewed strength in growth and AI-linked names. The Dow Jones Industrial Average added a more modest 0.2%, highlighting a tech-led recovery rather than a broad-based rally."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

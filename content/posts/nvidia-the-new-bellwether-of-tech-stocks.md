@@ -1,7 +1,7 @@
 ---
 title: "Nvidia: The New Bellwether of Tech Stocks"
 slug: nvidia-the-new-bellwether-of-tech-stocks
-excerpt: "Amid rising volatility and heightened expectations, Nvidia is now considered the \"most important stock in the world\" according to..."
+excerpt: "This sentiment stems from Nvidia's consistent triple-digit revenue growth over the past year, driven by robust demand for its AI processors from major cloud providers."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

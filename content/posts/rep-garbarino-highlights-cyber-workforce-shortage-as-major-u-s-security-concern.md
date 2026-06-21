@@ -1,7 +1,7 @@
 ---
 title: "Rep. Garbarino Highlights Cyber Workforce Shortage as Major U.S. Security Concern"
 slug: rep-garbarino-highlights-cyber-workforce-shortage-as-major-u-s-security-concern
-excerpt: "During a recent event, Rep. Andrew Garbarino (R-N.Y.) expressed concerns about labor shortfalls in the cyber industry, highlighting it as..."
+excerpt: "\"If we don't address this workforce issue within the next five years, it will likely be our largest obstacle in cybersecurity,\" commented Garbarino."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

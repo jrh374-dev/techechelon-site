@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Dr. Danielle Kelvas on Elevating Health Content with Clinical Credibility and Storytelling"
 slug: executive-q-a-dr-danielle-kelvas-on-elevating-health-content-with-clinical-credibility-and-storyte
-excerpt: "Dr. Danielle Kelvas stands at the rare intersection of clinical expertise and narrative precision. As the Founder and CEO of DKMD..."
+excerpt: "With more than a decade of clinical experience, Dr. Kelvas recognized a growing disconnect between the innovations in medical technology and the way those advancements were being communicated to providers and patients."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

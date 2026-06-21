@@ -1,7 +1,7 @@
 ---
 title: "ICBC's U.S. Division Hit by Ransomware Attack, Disrupting Treasury Trading Operations"
 slug: icbc-s-u-s-division-hit-by-ransomware-attack-disrupting-treasury-trading-operations
-excerpt: "The U.S. division of ICBC, a major Chinese bank, recently faced a ransomware cyberattack, impacting its Treasury trading operations. ICBC..."
+excerpt: "Ransomware attacks, where hackers seize control of systems and demand payment for release, have become increasingly common. The identity of the attackers remains undisclosed, but ICBC is conducting a thorough investigation with the aid of information security experts and coordinating with law enforcement."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

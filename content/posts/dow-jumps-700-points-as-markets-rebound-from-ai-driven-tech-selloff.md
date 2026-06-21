@@ -1,7 +1,7 @@
 ---
 title: "Dow Jumps 700 Points as Markets Rebound From AI-Driven Tech Selloff"
 slug: dow-jumps-700-points-as-markets-rebound-from-ai-driven-tech-selloff
-excerpt: "U.S. stocks surged Friday as investors stepped back into equities following a bruising week dominated by fears that artificial intelligence could upend the traditional software business model. The Dow Jones Industrial Average climbed more than 700 points, or about 1.6%, led by strength in industrial and financial shares. The S&P 500 rose roughly 1%, while the Nasdaq Composite added about 0.7%, marking a tentative recovery after days of heavy selling in technology stocks. Despite Friday’s..."
+excerpt: "The Dow Jones Industrial Average climbed more than 700 points, or about 1.6%, led by strength in industrial and financial shares. The S&P 500 rose roughly 1%, while the Nasdaq Composite added about 0.7%, marking a tentative recovery after days of heavy selling in technology stocks."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

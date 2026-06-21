@@ -1,7 +1,7 @@
 ---
 title: "Twitter's data security and privacy practices under scrutiny following executive resignations"
 slug: twitter-s-data-security-and-privacy-practices-under-scrutiny-following-executive-resignations
-excerpt: "Privacy experts and legislators are expressing concerns over Twitter's data security and privacy measures following the exit of key..."
+excerpt: "A letter addressing these apprehensions was recently sent to Twitter by a group of Democratic senators. They voiced worries that the recent resignation of senior data security executives might jeopardize user data security and privacy, and possibly infringe upon a 2022 agreement with the Federal Trade Commission (FTC)."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

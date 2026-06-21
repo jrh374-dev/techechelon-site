@@ -1,7 +1,7 @@
 ---
 title: "GrowthLoop Teams Up with Google Cloud to Supercharge Customer Data Insights"
 slug: growthloop-teams-up-with-google-cloud-to-supercharge-customer-data-insights
-excerpt: "In a bid to expedite customer data analytics, GrowthLoop unveiled its groundbreaking collaboration with Google Cloud today. This..."
+excerpt: "In a bid to expedite customer data analytics, GrowthLoop unveiled its groundbreaking collaboration with Google Cloud today. This partnership brings forth the 'Easy Button' solution, an innovation designed to revolutionize the way marketing teams access and employ their customer data."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Julius Franck-Oberaspach on Using Quantitative Trading to Level the Playing Field in Finance"
 slug: executive-q-a-julius-franck-oberaspach-on-using-quantitative-trading-to-level-the-playing-field-in
-excerpt: "In an industry where institutional giants dominate the trading landscape, Julius Franck-Oberaspach is working to rewrite the rules. As..."
+excerpt: "With a background in quantitative finance and a deep understanding of market inefficiencies, Franck-Oberaspach and his team are developing adaptive systems that prioritize resilience over speed—and transparency over opacity. The goal?"
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

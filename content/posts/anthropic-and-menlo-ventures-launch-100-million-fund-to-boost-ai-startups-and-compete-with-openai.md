@@ -1,7 +1,7 @@
 ---
 title: "Anthropic and Menlo Ventures Launch $100 Million Fund to Boost AI Startups and Compete with OpenAI"
 slug: anthropic-and-menlo-ventures-launch-100-million-fund-to-boost-ai-startups-and-compete-with-openai
-excerpt: "Anthropic, in collaboration with Menlo Ventures, has announced the creation of the Anthology Fund, a $100 million initiative aimed at..."
+excerpt: "This new fund seeks to replicate the success of the iFund, a joint effort by Apple and Kleiner Perkins launched in 2008 to aid developers on Apple's mobile platforms."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

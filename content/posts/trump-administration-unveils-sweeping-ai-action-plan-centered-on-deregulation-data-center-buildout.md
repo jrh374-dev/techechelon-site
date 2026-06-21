@@ -1,7 +1,7 @@
 ---
 title: "Trump Administration Unveils Sweeping AI Action Plan Centered on Deregulation, Data Center Buildout, and Global Tech Reach"
 slug: trump-administration-unveils-sweeping-ai-action-plan-centered-on-deregulation-data-center-buildout
-excerpt: "The Trump administration on Wednesday released a 28-page “AI Action Plan” outlining more than 90 policy steps it wants federal agencies..."
+excerpt: "David Sacks, the White House’s AI and crypto lead, framed the moment as a high-stakes competition with national security implications, saying the administration’s goal is to ensure the United States “wins” in AI."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

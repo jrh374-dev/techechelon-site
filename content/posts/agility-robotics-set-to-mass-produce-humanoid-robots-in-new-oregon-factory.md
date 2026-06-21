@@ -1,7 +1,7 @@
 ---
 title: "Agility Robotics Set to Mass-Produce Humanoid Robots in New Oregon Factory"
 slug: agility-robotics-set-to-mass-produce-humanoid-robots-in-new-oregon-factory
-excerpt: "Agility Robotics has nearly completed its new manufacturing facility, situated in Salem, Oregon, dedicated to producing their latest..."
+excerpt: "The company's new 70,000 square-foot plant, dubbed “RoboFab”, stands as a pioneer in its field. Agility Robotics' CEO and co-founder, Damion Shelton, attests to its unparalleled nature."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

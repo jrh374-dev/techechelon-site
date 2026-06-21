@@ -1,7 +1,7 @@
 ---
 title: "Palo Alto Networks to Acquire IBM’s Cloud Security Assets, Boosting Cybersecurity Capabilities and Market Reach"
 slug: palo-alto-networks-to-acquire-ibm-s-cloud-security-assets-boosting-cybersecurity-capabilities-and-m
-excerpt: "Palo Alto Networks is acquiring cloud security software assets from IBM, enhancing their collaboration by expanding Palo Alto's..."
+excerpt: "According to a joint statement, Palo Alto Networks will purchase IBM’s QRadar cloud software for an unspecified amount, transitioning current users to its Cortex Xsiam platform, a process that Palo Alto's CEO, Nikesh Arora, estimates will take between one to three months."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

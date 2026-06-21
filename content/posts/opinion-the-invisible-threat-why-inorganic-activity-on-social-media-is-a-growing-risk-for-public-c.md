@@ -1,7 +1,7 @@
 ---
 title: "OPINION: The Invisible Threat: Why Inorganic Activity on Social Media Is a Growing Risk for Public Companies and Their Investors"
 slug: opinion-the-invisible-threat-why-inorganic-activity-on-social-media-is-a-growing-risk-for-public-c
-excerpt: "In November 2022, a fake tweet claiming Eli Lilly would begin giving away insulin for free went viral on Twitter . The tweet wasn’t from the company’s official account, but it was convincing enough and amplified quickly enough that it caused Eli Lilly’s stock to plunge and triggered chaos across the pharmaceutical sector. Much of that virality was not organic; it was driven (at least in part) by inorganic users and coordinated inauthentic behavior – accounts that don’t represent real behavior..."
+excerpt: "In November 2022, a fake tweet claiming Eli Lilly would begin giving away insulin for free went viral on Twitter. The tweet wasn’t from the company’s official account, but it was convincing enough and amplified quickly enough that it caused Eli Lilly’s stock to plunge and triggered chaos across the pharmaceutical sector."
 category: business
 author: "Guest Contributor"
 authorInitials: "GC"

@@ -1,7 +1,7 @@
 ---
 title: "GUDEA Launches “The ABCs of Influence” to Reveal Who Drives Online Conversations"
 slug: gudea-launches-the-abcs-of-influence-to-reveal-who-drives-online-conversations
-excerpt: "GUDEA , the AI-powered narrative intelligence company, has unveiled The ABCs of Influence , a new behavioral analytics feature that classifies audience behavior to show who (and how) users shape online narratives in real time. The new capability expands GUDEA’s core analytics engine beyond content analysis to reveal the behavioral patterns behind influence. By classifying audience engagement across five archetypes, The ABCs of Influence  helps organizations distinguish authentic participation..."
+excerpt: "GUDEA, the AI-powered narrative intelligence company, has unveiled _The ABCs of Influence_, a new behavioral analytics feature that classifies audience behavior to show who (and how) users shape online narratives in real time."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

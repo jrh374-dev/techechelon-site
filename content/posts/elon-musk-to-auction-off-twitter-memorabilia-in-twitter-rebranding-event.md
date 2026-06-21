@@ -1,7 +1,7 @@
 ---
 title: "Elon Musk to Auction Off Twitter Memorabilia in \"Twitter Rebranding\" Event"
 slug: elon-musk-to-auction-off-twitter-memorabilia-in-twitter-rebranding-event
-excerpt: "Elon Musk, the owner of X, is set to auction off various Twitter memorabilia in an upcoming event named \"Twitter Rebranding: Online..."
+excerpt: "Among the 584 items to be auctioned are iconic blue bird logo signs, office furniture, and an array of musical instruments."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

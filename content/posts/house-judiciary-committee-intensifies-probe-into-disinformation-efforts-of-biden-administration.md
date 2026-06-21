@@ -1,7 +1,7 @@
 ---
 title: "House Judiciary Committee Intensifies Probe Into Disinformation Efforts of Biden Administration"
 slug: house-judiciary-committee-intensifies-probe-into-disinformation-efforts-of-biden-administration
-excerpt: "The House Judiciary Committee has ramped up its investigation into the Biden administration's methods to tackle disinformation. The..."
+excerpt: "Chairman Jim Jordan (R-Ohio) emphasized the need to understand the perceived collusion and coercion between the executive branch and companies."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

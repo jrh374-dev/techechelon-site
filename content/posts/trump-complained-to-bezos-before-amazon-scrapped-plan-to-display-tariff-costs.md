@@ -1,7 +1,7 @@
 ---
 title: "Trump Complained to Bezos Before Amazon Scrapped Plan to Display Tariff Costs"
 slug: trump-complained-to-bezos-before-amazon-scrapped-plan-to-display-tariff-costs
-excerpt: "President Donald Trump personally called Amazon founder Jeff Bezos on Tuesday to complain about a report that the online retail giant was..."
+excerpt: "Shortly after the call, Amazon publicly downplayed the scope of its plan — and later announced it had been scrapped entirely."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

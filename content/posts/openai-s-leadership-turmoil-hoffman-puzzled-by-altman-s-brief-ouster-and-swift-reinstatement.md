@@ -1,7 +1,7 @@
 ---
 title: "OpenAI's Leadership Turmoil: Hoffman Puzzled by Altman's Brief Ouster and Swift Reinstatement"
 slug: openai-s-leadership-turmoil-hoffman-puzzled-by-altman-s-brief-ouster-and-swift-reinstatement
-excerpt: "Three weeks following a sudden decision by OpenAI's board to remove CEO Sam Altman, Reid Hoffman, former director and co-founder of..."
+excerpt: "Altman was reinstated after intervention from major investors and concerns of a staff exodus. Changes to the board are underway, including the departure of several longstanding members, but details about the initial upheaval remain unclear."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Democratic Senators Call for GAO Review of Generative AI's Potential Risks"
 slug: democratic-senators-call-for-gao-review-of-generative-ai-s-potential-risks
-excerpt: "Senators Ed Markey of Massachusetts and Gary Peters of Michigan, both Democrats, have called on the Government Accountability Office..."
+excerpt: "The senators urged the impartial government body in their letter dispatched on Friday to perform an exhaustive technological analysis of the hazards associated with generative AI tools, as well as strategies to lessen these risks."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "S&P 500 Ends 2025 With 17% Gain"
 slug: s-p-500-ends-2025-with-17-gain
-excerpt: "U.S. stocks traded narrowly Wednesday as Wall Street headed toward the final stretch of 2025, capping another strong year for equities despite a recent bout of mild selling. The S&P 500 hovered near flat in early trading and remains on track to finish the year up roughly 17%, marking its third consecutive year of double-digit gains. The Nasdaq Composite has climbed about 21% in 2025, fueled largely by continued enthusiasm around artificial intelligence, while the Dow Jones Industrial..."
+excerpt: "The S&P 500 hovered near flat in early trading and remains on track to finish the year up roughly 17%, marking its third consecutive year of double-digit gains."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Federal Reserve Adjusts Interest Rate Cut Forecast and Raises Inflation Expectations for 2024"
 slug: federal-reserve-adjusts-interest-rate-cut-forecast-and-raises-inflation-expectations-for-2024
-excerpt: "The Federal Reserve has adjusted its forecast to include just one interest rate reduction of 0.25 percent this year, a shift from its..."
+excerpt: "For 2024, the Fed has raised its expected annual inflation rate to 2.6 percent from an earlier forecast of 2.4 percent. This adjustment is partly due to an increase in the core inflation rate—from 2.6 percent to 2.8 percent—which excludes the typically more volatile food and energy sectors."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

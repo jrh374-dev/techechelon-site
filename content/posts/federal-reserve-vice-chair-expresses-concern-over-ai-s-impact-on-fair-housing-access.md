@@ -1,7 +1,7 @@
 ---
 title: "Federal Reserve Vice Chair Expresses Concern Over AI's Impact on Fair Housing Access"
 slug: federal-reserve-vice-chair-expresses-concern-over-ai-s-impact-on-fair-housing-access
-excerpt: "On Tuesday, the Federal Reserve's chief banking overseer, Michael S. Barr, expressed concern about the possible impact of artificial..."
+excerpt: "Barr, who serves as the Vice Chair for Supervision at the Fed, acknowledged that AI has the capacity to enable individuals, who might otherwise struggle to secure credit, to gain access to it."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

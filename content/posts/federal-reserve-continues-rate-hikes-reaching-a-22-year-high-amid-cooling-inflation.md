@@ -1,7 +1,7 @@
 ---
 title: "Federal Reserve Continues Rate Hikes, Reaching a 22-Year High Amid Cooling Inflation"
 slug: federal-reserve-continues-rate-hikes-reaching-a-22-year-high-amid-cooling-inflation
-excerpt: "The Federal Reserve continues its series of interest rate hikes, marking another 0.25 percentage point increase and hitting a 22-year..."
+excerpt: "This move elevates the overnight federal funds rate to a band of 5.25%-5.5%, as part of the Fed's ongoing initiative to combat skyrocketing prices, despite recent signs of receding inflation."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

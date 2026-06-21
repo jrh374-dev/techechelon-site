@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Warns of Advanced Chinese Disinformation Campaigns Targeting U.S. Social Media"
 slug: microsoft-warns-of-advanced-chinese-disinformation-campaigns-targeting-u-s-social-media
-excerpt: "Microsoft has issued a warning about advanced disinformation activities linked to Chinese state-aligned forces. These campaigns are now..."
+excerpt: "According to a recent threat analysis report by the tech giant, “Digital threats from East Asia have escalated, with CCP-related concealed influence tactics showing heightened engagement with their target demographics on social platforms than ever before.”"
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

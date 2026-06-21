@@ -1,7 +1,7 @@
 ---
 title: "U.K. to Host Pioneering AI Safety Summit at Historic Bletchley Park"
 slug: u-k-to-host-pioneering-ai-safety-summit-at-historic-bletchley-park
-excerpt: "The British government has announced plans to hold the world's inaugural summit focusing on AI safety at Bletchley Park, famous for its..."
+excerpt: "Set for November 1-2, this groundbreaking summit aims to unite AI titans, research specialists, and governments globally. The summit's core theme will revolve around examining AI risks, particularly at its evolving forefront, and brainstorming international strategies to address these concerns."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

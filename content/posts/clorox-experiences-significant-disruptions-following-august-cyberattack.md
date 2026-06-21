@@ -1,7 +1,7 @@
 ---
 title: "Clorox Experiences Significant Disruptions Following August Cyberattack"
 slug: clorox-experiences-significant-disruptions-following-august-cyberattack
-excerpt: "The Clorox Company, famed for products like sanitizing wipes, PineSol, FreshStep cat litter, and Hidden Valley Ranch, reported..."
+excerpt: "The security filing released on Monday highlighted the unauthorized activities detected on their IT systems on Aug. 14. As a response, the company took several systems offline for remediation."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

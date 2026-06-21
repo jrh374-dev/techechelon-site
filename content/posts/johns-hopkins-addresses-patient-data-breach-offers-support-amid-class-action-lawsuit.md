@@ -1,7 +1,7 @@
 ---
 title: "Johns Hopkins Addresses Patient Data Breach, Offers Support Amid Class Action Lawsuit"
 slug: johns-hopkins-addresses-patient-data-breach-offers-support-amid-class-action-lawsuit
-excerpt: "Johns Hopkins Health System confirmed on Monday that it is currently reaching out to patients affected by a cyber breach that took place..."
+excerpt: "The hacking incident involved the widespread file transfer software, MOVEit, which enabled the unauthorized access and downloading of documents from a server, as confirmed by Johns Hopkins."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

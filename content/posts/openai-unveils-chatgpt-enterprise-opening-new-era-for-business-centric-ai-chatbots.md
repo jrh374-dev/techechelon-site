@@ -1,7 +1,7 @@
 ---
 title: "OpenAI Unveils ChatGPT Enterprise, Opening New Era for Business-centric AI Chatbots"
 slug: openai-unveils-chatgpt-enterprise-opening-new-era-for-business-centric-ai-chatbots
-excerpt: "OpenAI revealed on Monday the latest development since the introduction of ChatGPT: the unveiling of ChatGPT Enterprise, a business-grade..."
+excerpt: "This business-centric tool, which took less than a year to develop, was fostered with input from over 20 diverse companies."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "April Inflation Eases Slightly but Remains Above Target, Posing Challenges for Rate Cuts"
 slug: april-inflation-eases-slightly-but-remains-above-target-posing-challenges-for-rate-cuts
-excerpt: "Inflation showed a slight decrease in April, offering some relief to consumers, although it remains too high to anticipate any immediate..."
+excerpt: "The Consumer Price Index (CPI), which gauges the average change over time in the prices paid by consumers for goods and services, rose by 0.3% from March, according to the Labor Department’s Bureau of Labor Services. This increase was marginally lower than the 0.4% predicted by Dow Jones."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

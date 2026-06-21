@@ -1,7 +1,7 @@
 ---
 title: "Cognition Offers Buyouts and Cuts Staff Weeks After Windsurf Acquisition, Citing “No Work-Life Balance” Mission"
 slug: cognition-offers-buyouts-and-cuts-staff-weeks-after-windsurf-acquisition-citing-no-work-life-balan
-excerpt: "Just weeks after acquiring fellow AI startup Windsurf, Cognition is now offering buyout packages to its staff and has already laid off 30..."
+excerpt: "Roughly 200 employees remain, and they’ve been given until August 10 to decide whether to accept a voluntary buyout, which reportedly includes nine months of severance pay."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

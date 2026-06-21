@@ -1,7 +1,7 @@
 ---
 title: "EU Investigates Meta Over Potentially Addictive Effects of Facebook and Instagram on Children"
 slug: eu-investigates-meta-over-potentially-addictive-effects-of-facebook-and-instagram-on-children
-excerpt: "The European Union is investigating Meta, the parent company of Facebook and Instagram, for the potentially addictive effects of its..."
+excerpt: "The European Commission, the bloc’s executive arm, opened formal proceedings against Meta on Thursday to determine if the company violated the Digital Services Act (DSA) protections for minors."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

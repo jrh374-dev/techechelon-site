@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Dr. Shmona Simpson on Building Paritii and the Urgent Need for Tech-Driven Equity"
 slug: executive-q-a-dr-shmona-simpson-on-building-paritii-and-the-urgent-need-for-tech-driven-equity
-excerpt: "When Dr. Shmona Simpson founded Paritii  in 2020, the world was in upheaval. The murder of George Floyd had reignited critical..."
+excerpt: "When Dr. Shmona Simpson founded Paritii in 2020, the world was in upheaval. The murder of George Floyd had reignited critical conversations about racial and economic inequality, and the COVID-19 pandemic was exposing—and exacerbating—gaps in access to healthcare, technology, and resources."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

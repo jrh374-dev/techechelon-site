@@ -1,14 +1,16 @@
 ---
 title: "U.S. Payrolls Add 151,000 Jobs in February, Falling Short of Expectations"
 slug: u-s-payrolls-add-151-000-jobs-in-february-falling-short-of-expectations
-excerpt: "U.S. employers added 151,000 jobs in February, missing analyst expectations amid ongoing efforts to streamline federal government..."
+excerpt: "The Labor Department’s Bureau of Labor Statistics reported Friday that payroll growth increased from a revised 125,000 in January but still fell short of the 170,000 forecast by Dow Jones economists. The unemployment rate edged slightly upward to 4.1%."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2025-03-07T14:10:21.370Z"
-coverImage: "https://static.wixstatic.com/media/e37254_a33d6ca78b2d49ebbc68a3132c9824b6~mv2.jpeg"
 readTime: 1
 migratedFromWix: true
+coverImage: "https://images.unsplash.com/photo-1598630954879-48da4eefc11e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Mzc2NzZ8MHwxfHNlYXJjaHwxfHxwYXlyb2xscyUyMGpvYnMlMjBmZWJydWFyeSUyMGZhbGxpbmd8ZW58MXwwfHx8MTc4MjAxMzUwMXww&ixlib=rb-4.1.0&q=80&w=1080"
+coverCredit: "Photo by visuals on Unsplash"
+coverCreditUrl: "https://unsplash.com/@visuals"
 ---
 
 The Labor Department’s Bureau of Labor Statistics reported Friday that payroll growth increased from a revised 125,000 in January but still fell short of the 170,000 forecast by Dow Jones economists. The unemployment rate edged slightly upward to 4.1%.

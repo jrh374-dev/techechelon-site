@@ -1,7 +1,7 @@
 ---
 title: "Microsoft’s AI Chief Says Only Biological Beings Can Be Conscious"
 slug: microsoft-s-ai-chief-says-only-biological-beings-can-be-conscious
-excerpt: "Microsoft’s top AI executive, Mustafa Suleyman, said this week that only biological beings are capable of consciousness and warned that researchers should stop pursuing artificial intelligence designed to appear self-aware. “I don’t think that is work that people should be doing,” Suleyman told CNBC at the AfroTech Conference in Houston, where he was a keynote speaker. “If you ask the wrong question, you end up with the wrong answer. I think it’s totally the wrong question.” Suleyman, who..."
+excerpt: "“I don’t think that is work that people should be doing,” Suleyman told CNBC at the AfroTech Conference in Houston, where he was a keynote speaker. “If you ask the wrong question, you end up with the wrong answer. I think it’s totally the wrong question.”"
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

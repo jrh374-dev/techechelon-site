@@ -1,7 +1,7 @@
 ---
 title: "NIST Expands AI Security Playbook With New Cybersecurity Framework Profile"
 slug: nist-expands-ai-security-playbook-with-new-cybersecurity-framework-profile
-excerpt: "The National Institute of Standards and Technology (NIST) is extending its influence over how organizations secure artificial intelligence, releasing a draft companion to its widely adopted Cybersecurity Framework (CSF) that directly addresses AI-related risks and defenses. The new Cybersecurity Framework Profile for Artificial Intelligence, published Tuesday, is designed to help organizations map AI-specific security considerations onto the CSF, one of the most commonly used cybersecurity..."
+excerpt: "The new Cybersecurity Framework Profile for Artificial Intelligence, published Tuesday, is designed to help organizations map AI-specific security considerations onto the CSF, one of the most commonly used cybersecurity blueprints across government and industry."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

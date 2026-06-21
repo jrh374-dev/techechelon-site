@@ -1,7 +1,7 @@
 ---
 title: "xCures is Changing Healthcare Data"
 slug: xcures-is-changing-healthcare-data
-excerpt: "Launched in 20 18, xCures  has  been at the forefront of transforming how healthcare data impacts patient outcomes. What began as a mission to tackle the overwhelming complexity of managing large-scale advanced cancer patient data has evolved into a comprehensive platform that now extends its capabilities to all health conditions and medical records. As xCures expands its reach, it is poised to make an even more significant impact on the healthcare industry by empowering insights for clinical..."
+excerpt: "Launched in 2018, xCures has been at the forefront of transforming how healthcare data impacts patient outcomes. What began as a mission to tackle the overwhelming complexity of managing large-scale advanced cancer patient data has evolved into a comprehensive platform that now extends its capabilities to all health conditions and medical records."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

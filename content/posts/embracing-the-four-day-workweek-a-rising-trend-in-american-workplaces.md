@@ -1,7 +1,7 @@
 ---
 title: "Embracing the four-day workweek: A rising trend in American workplaces"
 slug: embracing-the-four-day-workweek-a-rising-trend-in-american-workplaces
-excerpt: "According to a recent survey by ResumeBuilder.com, more than 50% of American employers either already offer or are planning to initiate a..."
+excerpt: "Over the years, American businesses have tested the concept of a four-day workweek, typically in response to economic downturns. However, the idea has become more popular recently."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

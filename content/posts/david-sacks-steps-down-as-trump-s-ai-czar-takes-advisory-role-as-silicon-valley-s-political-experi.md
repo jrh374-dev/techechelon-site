@@ -1,7 +1,7 @@
 ---
 title: "David Sacks Steps Down as Trump's AI Czar,  Takes Advisory Role as Silicon Valley's Political Experiment Evolves"
 slug: david-sacks-steps-down-as-trump-s-ai-czar-takes-advisory-role-as-silicon-valley-s-political-experi
-excerpt: "David Sacks has concluded his 130-day run as Donald Trump's AI and crypto czar, officially stepping back from one of the most unconventional government appointments in recent memory. The longtime entrepreneur, investor, and \"All In\" podcast host confirmed that he is transitioning to co-chair the President's Council of Advisors on Science and Technology, known as PCAST, alongside senior White House technology adviser Michael Kratsios. The move represents a meaningful shift in Sacks' proximity..."
+excerpt: "The move represents a meaningful shift in Sacks' proximity to power. As AI czar, he operated as a special government employee with a direct line to the president and a hand in shaping federal policy on artificial intelligence and digital assets."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

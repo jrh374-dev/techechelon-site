@@ -1,7 +1,7 @@
 ---
 title: "Top Health Tech Companies to Watch at HIMSS26"
 slug: top-health-tech-companies-to-watch-at-himss26
-excerpt: "The HIMSS Global Health Conference & Exhibition returns to Las Vegas in 2026, bringing together healthcare executives, clinicians, researchers, and technology companies from around the world to explore the future of digital health. With more than a thousand exhibitors across the conference’s expansive exhibition floor, HIMSS has become one of the most important venues for unveiling the technologies shaping healthcare’s digital transformation. This year’s show reflects a major shift underway..."
+excerpt: "With more than a thousand exhibitors across the conference’s expansive exhibition floor, HIMSS has become one of the most important venues for unveiling the technologies shaping healthcare’s digital transformation."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

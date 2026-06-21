@@ -1,7 +1,7 @@
 ---
 title: "Amazon Pharmacy Unveils Drone Delivery for Medications in College Station, Texas"
 slug: amazon-pharmacy-unveils-drone-delivery-for-medications-in-college-station-texas
-excerpt: "Amazon Pharmacy has introduced drone deliveries for prescription medications in College Station, Texas, as per a recent company blog..."
+excerpt: "Despite Amazon's stock experiencing a slight dip of around 1% on Wednesday, its Pharmacy division continues to grow. Originating from Amazon's 2018 purchase of PillPack, Amazon Pharmacy debuted in 2020, offering a comprehensive online pharmacy platform."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

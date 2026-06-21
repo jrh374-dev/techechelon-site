@@ -1,7 +1,7 @@
 ---
 title: "Cascadeo Achieves Recognition in the 2023 Gartner Midmarket Magic Quadrant"
 slug: cascadeo-achieves-recognition-in-the-2023-gartner-midmarket-magic-quadrant
-excerpt: "Leading cloud IT transformation provider, Cascadeo, announced its third consecutive inclusion in the esteemed 2023 Gartner Midmarket..."
+excerpt: "Leading cloud IT transformation provider, Cascadeo, announced its third consecutive inclusion in the esteemed 2023 Gartner Midmarket Context: Magic Quadrant for Public Cloud IT Transformation Services."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

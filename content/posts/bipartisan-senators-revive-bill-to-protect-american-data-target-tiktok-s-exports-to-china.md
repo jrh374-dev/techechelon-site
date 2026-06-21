@@ -1,7 +1,7 @@
 ---
 title: "Bipartisan Senators Revive Bill to Protect American Data, Target TikTok's Exports to China"
 slug: bipartisan-senators-revive-bill-to-protect-american-data-target-tiktok-s-exports-to-china
-excerpt: "A legislative proposal aimed at preventing Chinese social media giant TikTok from transferring user data to China has been re-proposed by..."
+excerpt: "The proposed bill, named the \"Protecting Americans’ Data From Foreign Surveillance Act of 2023\", was initially introduced in 2022 and has now been updated with various new provisions."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

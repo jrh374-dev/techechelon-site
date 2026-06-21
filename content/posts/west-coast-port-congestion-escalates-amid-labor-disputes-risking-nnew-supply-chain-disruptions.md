@@ -1,7 +1,7 @@
 ---
 title: "West Coast port congestion escalates amid labor disputes, risking new supply chain disruptions"
 slug: west-coast-port-congestion-escalates-amid-labor-disputes-risking-nnew-supply-chain-disruptions
-excerpt: "Labor disputes at West Coast ports are causing congestion and increased commercial shipping prices, raising fears of new supply chain..."
+excerpt: "According to data from Go Comet, median delay times are on the rise in several key West Coast ports, including Los Angeles, Seattle, and Long Beach, with Seattle wait times now exceeding one week. Experts analysing the data report a rapid surge in shipping container rates on the West Coast."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

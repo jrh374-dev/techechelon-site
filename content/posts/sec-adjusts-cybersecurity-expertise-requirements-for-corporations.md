@@ -1,7 +1,7 @@
 ---
 title: "SEC Adjusts Cybersecurity Expertise Requirements for Corporations"
 slug: sec-adjusts-cybersecurity-expertise-requirements-for-corporations
-excerpt: "The U.S. Securities and Exchange Commission (SEC) has recently withdrawn its initial proposal of mandating corporations to disclose the..."
+excerpt: "Originally, the SEC's March 2022 proposition mandated businesses to publicly announce a cybersecurity specialist within both their management and board of directors. Now, while they've retreated from the board expert necessity, they maintain the requirement for management-level cybersecurity proficiency."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

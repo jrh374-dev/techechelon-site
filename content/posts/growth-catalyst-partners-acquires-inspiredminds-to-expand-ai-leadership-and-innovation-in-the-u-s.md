@@ -1,7 +1,7 @@
 ---
 title: "Growth Catalyst Partners Acquires InspiredMinds! to Expand AI Leadership and Innovation in the U.S."
 slug: growth-catalyst-partners-acquires-inspiredminds-to-expand-ai-leadership-and-innovation-in-the-u-s
-excerpt: "Growth Catalyst Partners (GCP), a U.S.-based private equity firm specializing in information, marketing, and tech-enabled services, has..."
+excerpt: "The move marks a significant milestone for both organizations, as InspiredMinds! prepares to scale its influential AI summits and robust community into the U.S. market."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

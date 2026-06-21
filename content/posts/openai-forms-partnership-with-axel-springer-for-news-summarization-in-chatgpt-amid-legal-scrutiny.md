@@ -1,7 +1,7 @@
 ---
 title: "OpenAI Forms Partnership with Axel Springer for News Summarization in ChatGPT, Amid Legal Scrutiny"
 slug: openai-forms-partnership-with-axel-springer-for-news-summarization-in-chatgpt-amid-legal-scrutiny
-excerpt: "OpenAI has partnered with global news publisher Axel Springer, enabling ChatGPT to summarize articles from sources like Politico and..."
+excerpt: "This announcement arrives amidst a growing trend of legal considerations by creators and technologists regarding the use of their work as training material for AI tools, such as chatbots and image generators."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

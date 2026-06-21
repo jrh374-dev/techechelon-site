@@ -1,7 +1,7 @@
 ---
 title: "The New York Times Updates its Terms Against Content Scraping"
 slug: the-new-york-times-updates-its-terms-against-content-scraping
-excerpt: "The New York Times has taken a step against AI by updating its terms of service on August 3, preventing the scraping of its content for..."
+excerpt: "In addition to this, the revised terms restrict website crawlers — tools that index web pages for search results — from using this content to instruct LLMs or AI tools. A breach of these guidelines could lead to penalties, although the exact nature remains ambiguous."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

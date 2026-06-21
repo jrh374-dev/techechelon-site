@@ -1,7 +1,7 @@
 ---
 title: "OPINION: If You Want to Regulate AI — Be Careful What You Ask For"
 slug: opinion-if-you-want-to-regulate-ai-be-careful-what-you-ask-for
-excerpt: "Milton Friedman, the famed American economist and the 1976 winner of the Nobel Memorial Prize in Economic Sciences, made a point about..."
+excerpt: "“If you put the federal government in charge of the Sahara Desert, in five years there'd be a shortage of sand.”"
 category: ai
 author: "Guest Contributor"
 authorInitials: "GC"

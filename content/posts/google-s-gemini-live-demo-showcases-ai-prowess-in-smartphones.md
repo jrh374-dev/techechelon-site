@@ -1,7 +1,7 @@
 ---
 title: "Google’s Gemini Live Demo Showcases AI Prowess in Smartphones"
 slug: google-s-gemini-live-demo-showcases-ai-prowess-in-smartphones
-excerpt: "In a recent showcase, Google demonstrated its advancements in artificial intelligence with the launch of Gemini, its new AI assistant for..."
+excerpt: "During the event held at Google's Bay View campus in Mountain View, California, a product director named David Citron experienced a momentary hiccup when a live demo temporarily froze."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

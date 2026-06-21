@@ -1,7 +1,7 @@
 ---
 title: "FTX Secures $884 Million Deal to Sell Anthropic Stake Amid Bankruptcy Proceedings"
 slug: ftx-secures-884-million-deal-to-sell-anthropic-stake-amid-bankruptcy-proceedings
-excerpt: "The defunct cryptocurrency exchange FTX has reached an agreement to sell a significant portion of its shares in the AI company Anthropic..."
+excerpt: "The filing, dated March 22, names a diverse group of purchasers, with the lion's share of the transaction involving ATIC Third International Investment Co., linked to the Mubadala sovereign wealth fund of the United Arab Emirates, acquiring Anthropic shares worth close to $500 million."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

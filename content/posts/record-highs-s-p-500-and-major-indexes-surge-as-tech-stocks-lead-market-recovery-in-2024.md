@@ -1,7 +1,7 @@
 ---
 title: "Record Highs: S&P 500 and Major Indexes Surge as Tech Stocks Lead Market Recovery in 2024"
 slug: record-highs-s-p-500-and-major-indexes-surge-as-tech-stocks-lead-market-recovery-in-2024
-excerpt: "On Friday, the S&P 500 Index achieved a new record high, signaling a robust rebound in investor confidence and a vigorous return to..."
+excerpt: "Concurrently, the Dow Jones Industrial Average, which had reached a record high at the end of the previous year, climbed by 360 points, or 1%. The Nasdaq Composite also advanced by 1.1%, and the Nasdaq-100, known for its focus on smaller, tech-centric companies, increased by 1.4%, reaching a new record as well."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

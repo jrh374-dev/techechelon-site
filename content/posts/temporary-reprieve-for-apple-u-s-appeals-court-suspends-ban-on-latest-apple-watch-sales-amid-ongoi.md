@@ -1,7 +1,7 @@
 ---
 title: "Temporary Reprieve for Apple: U.S. Appeals Court Suspends Ban on Latest Apple Watch Sales Amid Ongoing Patent Dispute"
 slug: temporary-reprieve-for-apple-u-s-appeals-court-suspends-ban-on-latest-apple-watch-sales-amid-ongoi
-excerpt: "The U.S. Federal Appeals Court has provisionally halted the execution of an International Trade Commission (ITC) ruling that prevented..."
+excerpt: "Apple had submitted an urgent request to the appeals court on Tuesday, just after the prohibition on imports became effective."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

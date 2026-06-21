@@ -1,7 +1,7 @@
 ---
 title: "Robinhood Stock Tops $100 as Company Pushes Bold Crypto Vision in Europe"
 slug: robinhood-stock-tops-100-as-company-pushes-bold-crypto-vision-in-europe
-excerpt: "Robinhood shares broke the $100 mark for the first time this week, continuing a surge that has lifted the stock more than 30% in the days..."
+excerpt: "The rally coincides with a major strategic shift overseas. At an event in a Belle Époque mansion on the French Riviera, Robinhood unveiled plans to bring traditional financial assets fully on-chain — including tokenized stocks, ETFs, and private equity offerings."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Databricks Raises $5B at $134B Valuation as AI Data Stack Race Intensifies"
 slug: databricks-raises-5b-at-134b-valuation-as-ai-data-stack-race-intensifies
-excerpt: "Databricks has secured $5 billion in new equity financing alongside $2 billion in additional debt capacity, valuing the private data and AI infrastructure firm at $134 billion and reinforcing its position near the top of the enterprise software hierarchy. The company also reported that annualized revenue exceeded $5.4 billion for the January quarter, representing 65% year-over-year growth, while generating positive free cash flow over the past year — a combination that is increasingly rare..."
+excerpt: "The company also reported that annualized revenue exceeded $5.4 billion for the January quarter, representing 65% year-over-year growth, while generating positive free cash flow over the past year — a combination that is increasingly rare among high-growth AI infrastructure companies."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

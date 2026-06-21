@@ -1,7 +1,7 @@
 ---
 title: "Markets Rebound as Trump Tempers Tariff Talk, Dow Rises Nearly 500 Points"
 slug: markets-rebound-as-trump-tempers-tariff-talk-dow-rises-nearly-500-points
-excerpt: "U.S. stocks surged Monday, clawing back much of Friday’s steep losses after President Donald Trump signaled that tensions with China may not escalate as sharply as investors feared. The Dow Jones Industrial Average jumped 491 points, or 1.1%, while the S&P 500 climbed 1.5% and the Nasdaq Composite rose 2%, powered by a rebound in beaten-down tech stocks. The rally helped recoup roughly 40% of Friday’s losses, which had erased about $2 trillion in market value amid fears of a renewed trade..."
+excerpt: "The Dow Jones Industrial Average jumped 491 points, or 1.1%, while the S&P 500 climbed 1.5% and the Nasdaq Composite rose 2%, powered by a rebound in beaten-down tech stocks. The rally helped recoup roughly 40% of Friday’s losses, which had erased about $2 trillion in market value amid fears of a renewed trade war."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

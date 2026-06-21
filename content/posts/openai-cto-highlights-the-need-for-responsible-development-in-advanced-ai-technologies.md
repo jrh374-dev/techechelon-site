@@ -1,7 +1,7 @@
 ---
 title: "OpenAI CTO Highlights the Need for Responsible Development in Advanced AI Technologies"
 slug: openai-cto-highlights-the-need-for-responsible-development-in-advanced-ai-technologies
-excerpt: "Mira Murati, OpenAI's Chief Technology Officer, emphasized the crucial need for intensive research on the consequences of advancing..."
+excerpt: "Murati, a pivotal executive of the company responsible for the renowned ChatGPT AI tool, expressed concern over AI’s potential to become “even more addictive” as it evolves beyond the current systems available today."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

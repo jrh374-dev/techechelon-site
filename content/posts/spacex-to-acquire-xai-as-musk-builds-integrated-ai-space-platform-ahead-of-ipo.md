@@ -1,7 +1,7 @@
 ---
 title: "SpaceX to Acquire xAI as Musk Builds Integrated AI–Space Platform Ahead of IPO"
 slug: spacex-to-acquire-xai-as-musk-builds-integrated-ai-space-platform-ahead-of-ipo
-excerpt: "Elon Musk is combining SpaceX with his artificial intelligence startup xAI, creating a vertically integrated entity spanning rockets, satellites, AI models, data centers, and social media as the company prepares for a potential blockbuster public offering. Musk announced the transaction Monday in a blog post, describing the merged company as “the most ambitious, vertically integrated innovation engine on (and off) Earth,” uniting AI, launch services, space-based internet, and the X social..."
+excerpt: "Musk announced the transaction Monday in a blog post, describing the merged company as “the most ambitious, vertically integrated innovation engine on (and off) Earth,” uniting AI, launch services, space-based internet, and the X social platform. Public filings with Nevada list Space Exploration Technologies Corp."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

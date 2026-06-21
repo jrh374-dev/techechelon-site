@@ -1,7 +1,7 @@
 ---
 title: "Airbus in Talks to Acquire Atos' Cybersecurity Division Amid Growing Need for Specialized Aviation Security Solutions"
 slug: airbus-in-talks-to-acquire-atos-cybersecurity-division-amid-growing-need-for-specialized-aviation-s
-excerpt: "Airbus, a leading aerospace company, and Atos, a prominent French IT firm, have begun preliminary talks regarding the potential..."
+excerpt: "The news, first leaked in December and confirmed in a recent market update by Atos, notes that Airbus is considering purchasing the entire division for an estimated €1.5 to 1.8 billion (approximately $1.65 to $2 billion). This proposal, however, is not yet final."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

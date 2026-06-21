@@ -1,14 +1,16 @@
 ---
 title: "Meta Launches Latest AI Model, Llama 3.1, in Collaboration with Nvidia"
 slug: meta-launches-latest-ai-model-llama-3-1-in-collaboration-with-nvidia
-excerpt: "Meta has unveiled Llama 3.1, the latest iteration of its Llama artificial intelligence series. This release introduces three new model..."
+excerpt: "This announcement underlines the deepening ties between Meta and Nvidia. Nvidia plays a crucial role, supplying Meta with GPUs essential for training these expansive AI models."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2024-07-23T17:17:51.214Z"
-coverImage: "https://static.wixstatic.com/media/e37254_241dd2ff51634179b5ed65f6f0e7281b~mv2.jpeg"
 readTime: 2
 migratedFromWix: true
+coverImage: "https://images.unsplash.com/photo-1689439518156-3659596b5c6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Mzc2NzZ8MHwxfHNlYXJjaHwxfHxtZXRhJTIwbGF1bmNoZXMlMjBsYXRlc3QlMjBtb2RlbHxlbnwxfDB8fHwxNzgyMDEzNTAyfDA&ixlib=rb-4.1.0&q=80&w=1080"
+coverCredit: "Photo by Julio Lopez on Unsplash"
+coverCreditUrl: "https://unsplash.com/@juliolopez"
 ---
 
 This announcement underlines the deepening ties between Meta and Nvidia. Nvidia plays a crucial role, supplying Meta with GPUs essential for training these expansive AI models.

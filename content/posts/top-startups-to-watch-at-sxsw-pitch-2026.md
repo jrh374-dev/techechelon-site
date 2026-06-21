@@ -1,7 +1,7 @@
 ---
 title: "Top Startups to Watch at SXSW Pitch 2026"
 slug: top-startups-to-watch-at-sxsw-pitch-2026
-excerpt: "The SXSW Pitch competition  returns to Austin this week, bringing together hundreds of early-stage startups and emerging technology companies competing for recognition across a wide range of industries. Each year, the SXSW Pitch Advisory Board reviews hundreds of submissions to identify a small group of finalists representing some of the most promising emerging technologies. These companies present their innovations live to investors, media, and industry leaders attending the conference. The..."
+excerpt: "The SXSW Pitch competition returns to Austin this week, bringing together hundreds of early-stage startups and emerging technology companies competing for recognition across a wide range of industries."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

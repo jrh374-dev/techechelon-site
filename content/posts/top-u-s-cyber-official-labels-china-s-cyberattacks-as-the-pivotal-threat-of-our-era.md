@@ -1,7 +1,7 @@
 ---
 title: "Top U.S. cyber official labels China's cyberattacks as the 'pivotal threat' of our era"
 slug: top-u-s-cyber-official-labels-china-s-cyberattacks-as-the-pivotal-threat-of-our-era
-excerpt: "Potential Chinese cyber offensives pose a serious risk to vital pipelines and transportation systems in the face of open conflict, warns..."
+excerpt: "Chinese hackers had managed to breach critical U.S. military and private sector infrastructure earlier this year. The U.S. chief cybersecurity official characterized China's cyber espionage and sabotage skills as a \"defining threat of our era."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

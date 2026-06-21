@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Eric Olson on Unlocking Expert Knowledge for All with Consensus"
 slug: executive-q-a-eric-olson-on-unlocking-expert-knowledge-for-all-with-consensus
-excerpt: "Eric Olson is an innovator at the intersection of technology and knowledge accessibility. As the founder and CEO of Consensus, Eric has..."
+excerpt: "Eric Olson is an innovator at the intersection of technology and knowledge accessibility. As the founder and CEO of Consensus, Eric has channeled his deep-seated passion for scientific exploration and expert discourse into creating a platform that democratizes access to specialized knowledge."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "AT&T Exceeds Wireless Subscriber Estimates Amid Demand for Premium Plans"
 slug: at-t-exceeds-wireless-subscriber-estimates-amid-demand-for-premium-plans
-excerpt: "AT&T outperformed expectations for wireless subscriber growth in the third quarter, fueled by strong demand for its premium unlimited..."
+excerpt: "The U.S. telecom giant reported an addition of 403,000 net monthly bill-paying wireless subscribers during the July-September period, surpassing analyst estimates from Visible Alpha, which forecast 393,430 additions."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

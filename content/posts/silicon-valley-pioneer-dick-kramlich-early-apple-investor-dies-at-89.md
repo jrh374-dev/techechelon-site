@@ -1,7 +1,7 @@
 ---
 title: "Silicon Valley Pioneer Dick Kramlich, Early Apple Investor, Dies at 89"
 slug: silicon-valley-pioneer-dick-kramlich-early-apple-investor-dies-at-89
-excerpt: "Dick Kramlich, a pioneering figure in Silicon Valley's venture capital scene and an early investor in Apple, passed away at the age of 89..."
+excerpt: "Kramlich co-founded New Enterprise Associates (NEA) in 1977, making astute early investments in tech companies that would go on to become giants in computer networking."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "PRODUCT REVIEW: Eve – The Compassionate Virtual Companion Transforming Elderly Care"
 slug: product-review-eve-the-compassionate-virtual-companion-transforming-elderly-care
-excerpt: "AI has many uses, and one of them now includes serving as a compassionate companion for the elderly who live alone. In my detailed trial..."
+excerpt: "Unboxing and Setup"
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

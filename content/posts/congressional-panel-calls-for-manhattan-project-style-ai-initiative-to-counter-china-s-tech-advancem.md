@@ -1,7 +1,7 @@
 ---
 title: "Congressional Panel Calls for Manhattan Project-Style AI Initiative to Counter China’s Tech Advancements"
 slug: congressional-panel-calls-for-manhattan-project-style-ai-initiative-to-counter-china-s-tech-advancem
-excerpt: "A congressional commission has proposed a \"Manhattan Project-style\" initiative to fund the development of artificial intelligence (AI),..."
+excerpt: "The recommendation was part of a report released on Tuesday by the bipartisan U.S.-China Economic and Security Review Commission (USCC), which called on Congress to grant extensive multiyear contracting authority to support AI, cloud computing, and data center innovations."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Tech IPOs Regain Momentum as Market Adjusts to Tariff Shock"
 slug: tech-ipos-regain-momentum-as-market-adjusts-to-tariff-shock
-excerpt: "After more than two years of stagnation, the tech IPO market is beginning to stir back to life, offering a glimmer of hope for investors..."
+excerpt: "This week, stock brokerage platform eToro made a strong public market debut, with shares jumping nearly 29% after pricing above the expected range."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

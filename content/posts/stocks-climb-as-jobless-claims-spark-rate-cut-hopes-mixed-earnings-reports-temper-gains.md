@@ -1,7 +1,7 @@
 ---
 title: "Stocks Climb as Jobless Claims Spark Rate Cut Hopes; Mixed Earnings Reports Temper Gains"
 slug: stocks-climb-as-jobless-claims-spark-rate-cut-hopes-mixed-earnings-reports-temper-gains
-excerpt: "Stocks surged on Thursday, with the Dow Jones Industrial Average marking a seventh consecutive day of gains, buoyed by fresh jobless..."
+excerpt: "The Dow advanced 331.37 points or 0.85%, closing at 39,387.76, its longest rally since December's nine-day stretch. The S&P 500 rose by 0.51% to end at 5,214.08, while the Nasdaq Composite increased by 0.27% to finish at 16,346.26."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

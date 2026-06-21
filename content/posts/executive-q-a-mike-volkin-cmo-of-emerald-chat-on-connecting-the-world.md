@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Mike Volkin, CMO of Emerald Chat, on Connecting the World"
 slug: executive-q-a-mike-volkin-cmo-of-emerald-chat-on-connecting-the-world
-excerpt: "Mike Volkin is an innovative leader in the online communication space, leveraging his extensive background in marketing and technology to..."
+excerpt: "As the Chief Marketing Officer of Emerald Chat, Mike has played a pivotal role in transforming the platform into a vibrant community where individuals can meet and chat based on shared interests."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

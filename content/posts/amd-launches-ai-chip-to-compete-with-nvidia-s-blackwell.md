@@ -1,7 +1,7 @@
 ---
 title: "AMD Launches AI Chip to Compete with Nvidia’s Blackwell"
 slug: amd-launches-ai-chip-to-compete-with-nvidia-s-blackwell
-excerpt: "AMD introduced a new artificial intelligence chip on Thursday, targeting Nvidia’s dominance in the data center graphics processor market...."
+excerpt: "If AMD’s AI chips are recognized by developers and cloud providers as viable alternatives to Nvidia's, this could lead to pricing pressure on Nvidia, which has maintained high margins due to the demand for its GPUs."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

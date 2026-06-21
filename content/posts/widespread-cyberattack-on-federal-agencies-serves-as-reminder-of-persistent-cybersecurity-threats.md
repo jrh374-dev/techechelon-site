@@ -1,7 +1,7 @@
 ---
 title: "Widespread Cyberattack on Federal Agencies Serves as Reminder of Persistent Cybersecurity Threats"
 slug: widespread-cyberattack-on-federal-agencies-serves-as-reminder-of-persistent-cybersecurity-threats
-excerpt: "The recent large-scale cyberattack against numerous federal agencies serves as a stark reminder of the persistent cyber threat facing..."
+excerpt: "An IBM report indicates that each data breach could cost governmental agencies an average of $2.07 million. In 2018 alone, the U.S. government spent a staggering $13.7 billion due to cyberattacks, as per Security Intelligence."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Daniela Sarbu on the Vision and Impact of Waldo International School"
 slug: executive-q-a-daniela-sarbu-on-the-vision-and-impact-of-waldo-international-school
-excerpt: "Daniela Sarbu is a dedicated educational leader, whose profound personal journey inspired the establishment of Waldo International..."
+excerpt: "Under Daniela's leadership, Waldo International School has become a beacon for progressive education, where the focus is on nurturing not just academic abilities but also critical thinking and personal growth."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

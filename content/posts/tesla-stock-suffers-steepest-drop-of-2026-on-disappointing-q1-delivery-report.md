@@ -1,7 +1,7 @@
 ---
 title: "Tesla Stock Suffers Steepest Drop of 2026 on Disappointing Q1 Delivery Report"
 slug: tesla-stock-suffers-steepest-drop-of-2026-on-disappointing-q1-delivery-report
-excerpt: "Tesla shares slid more than 5% on Thursday — their worst single-day decline of the year — after the company's first-quarter delivery and production report came in below analyst expectations, adding another chapter to what has been a prolonged period of underperformance for the electric vehicle maker. Tesla delivered 358,023 vehicles in Q1 2026, falling short of the analyst consensus estimate of 370,000 deliveries and the company's own internal estimate of 365,645. Production for the quarter..."
+excerpt: "Tesla delivered 358,023 vehicles in Q1 2026, falling short of the analyst consensus estimate of 370,000 deliveries and the company's own internal estimate of 365,645. Production for the quarter came in at 408,386 vehicles."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

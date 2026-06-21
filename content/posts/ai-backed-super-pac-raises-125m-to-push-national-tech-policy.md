@@ -1,7 +1,7 @@
 ---
 title: "AI-Backed Super PAC Raises $125M to Push National Tech Policy"
 slug: ai-backed-super-pac-raises-125m-to-push-national-tech-policy
-excerpt: "A super PAC backed by prominent figures and firms in the artificial intelligence industry raised $125 million in 2025, positioning itself as a major force in shaping U.S. technology policy ahead of the 2026 election cycle. The group, Leading the Future, said it ended the year with $70 million in cash on hand, according to an announcement released ahead of its first formal campaign finance filing. The PAC was formed last summer and is focused on backing candidates who favor federal AI..."
+excerpt: "The group, Leading the Future, said it ended the year with $70 million in cash on hand, according to an announcement released ahead of its first formal campaign finance filing."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

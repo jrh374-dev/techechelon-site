@@ -1,7 +1,7 @@
 ---
 title: "February Sees Modest Job Growth: Private Sector Adds 140,000 Positions, Slightly Below Expectations"
 slug: february-sees-modest-job-growth-private-sector-adds-140-000-positions-slightly-below-expectations
-excerpt: "In February, the private sector's employment figures saw an increase with 140,000 new jobs added, according to the payroll company ADP...."
+excerpt: "The leisure and hospitality industry led the way with 41,000 new positions, followed by construction with 28,000 and trade, transportation, and utilities adding 24,000 jobs."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

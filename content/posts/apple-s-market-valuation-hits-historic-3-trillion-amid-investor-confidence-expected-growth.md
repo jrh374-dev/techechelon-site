@@ -1,7 +1,7 @@
 ---
 title: "Apple's Market Valuation Hits Historic $3 Trillion Amid Investor Confidence, Expected Growth"
 slug: apple-s-market-valuation-hits-historic-3-trillion-amid-investor-confidence-expected-growth
-excerpt: "Apple's market value soared to $3 trillion this past Friday as the tech giant's stock price surged by 1%, surpassing the necessary..."
+excerpt: "While the company managed to touch the $3 trillion valuation during a trading session in January 2022, it did not retain this peak by market close. Apple will have another opportunity to do so this coming Friday."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

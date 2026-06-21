@@ -1,7 +1,7 @@
 ---
 title: "SpecterOps Secures $75M in Series B Funding to Combat Identity-Based Cyber Threats"
 slug: specterops-secures-75m-in-series-b-funding-to-combat-identity-based-cyber-threats
-excerpt: "Cybersecurity startup SpecterOps has raised $75 million in a Series B funding round to expand its BloodHound Enterprise platform, which..."
+excerpt: "The funding round was led by Insight Partners and included participation from Cisco Investments, Ansa Capital, M12, Ballistic Ventures, and Decibel."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Mark Ang of GoBolt on Solving the Industry’s Biggest Fulfillment Challenges"
 slug: executive-q-a-mark-ang-of-gobolt-on-solving-the-industry-s-biggest-fulfillment-challenges
-excerpt: "As brands face growing pressure to deliver faster, cheaper, and more sustainably, the logistics sector is entering a pivotal period of..."
+excerpt: "GoBolt, a tech-enabled 3PL and last-mile logistics provider, recently released its 2025 _State of Logistics Report_—a data-rich look at the key challenges and priorities shaping the year ahead for retail and DTC brands."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

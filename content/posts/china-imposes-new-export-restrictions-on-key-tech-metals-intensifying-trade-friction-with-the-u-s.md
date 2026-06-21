@@ -1,7 +1,7 @@
 ---
 title: "China Imposes New Export Restrictions on Key Tech Metals, Intensifying Trade Friction with the U.S."
 slug: china-imposes-new-export-restrictions-on-key-tech-metals-intensifying-trade-friction-with-the-u-s
-excerpt: "The Chinese government revealed new restrictions on the export of two rare metals crucial for manufacturing semiconductors and electric..."
+excerpt: "Starting from August 1, the country's Ministry of Commerce declared that exports of germanium and gallium would only be permitted if the necessary licenses are obtained from the ministry. It justified this decision as crucial to \"safeguard national security and interests.\""
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

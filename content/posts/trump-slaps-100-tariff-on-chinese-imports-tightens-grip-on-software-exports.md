@@ -1,7 +1,7 @@
 ---
 title: "Trump Slaps 100% Tariff on Chinese Imports, Tightens Grip on Software Exports"
 slug: trump-slaps-100-tariff-on-chinese-imports-tightens-grip-on-software-exports
-excerpt: "President Donald Trump announced Friday that the U.S. will impose a sweeping 100% tariff on all imports from China, doubling existing..."
+excerpt: "The White House framed the decision as retaliation for China’s latest export restrictions on rare earth minerals—materials essential to high-tech manufacturing, including electric vehicles, defense systems, and semiconductors."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

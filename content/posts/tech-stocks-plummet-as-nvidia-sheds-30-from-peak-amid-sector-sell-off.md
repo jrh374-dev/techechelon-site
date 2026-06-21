@@ -1,7 +1,7 @@
 ---
 title: "Tech Stocks Plummet as Nvidia Sheds 30% from Peak Amid Sector Sell-Off"
 slug: tech-stocks-plummet-as-nvidia-sheds-30-from-peak-amid-sector-sell-off
-excerpt: "Nvidia’s stock has tumbled nearly 30% from its all-time high, reflecting broader turmoil in the technology sector as market-wide..."
+excerpt: "The sharp downturn in Nvidia’s stock follows its meteoric rise to a peak of $153.13 per share on January 7. Since then, the artificial intelligence and semiconductor leader has lost roughly a fifth of its market capitalization, particularly as economic uncertainty looms following President Donald Trump’s inauguration."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

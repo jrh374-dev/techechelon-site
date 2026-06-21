@@ -1,7 +1,7 @@
 ---
 title: "OpenAI Raises $110 Billion, Cementing Its Position at the Center of the AI Economy"
 slug: openai-raises-110-billion-cementing-its-position-at-the-center-of-the-ai-economy
-excerpt: "OpenAI has raised an unprecedented $110 billion funding round, marking the largest private capital raise in history and pushing the company to a staggering $730 billion valuation. The round is led by Amazon ($50B), Nvidia ($30B), and SoftBank ($30B), underscoring the extent to which hyperscalers and infrastructure players are consolidating around the AI leader. The scale of the financing signals a clear shift in the market: AI is no longer a speculative frontier—it is now a capital-intensive..."
+excerpt: "The scale of the financing signals a clear shift in the market: AI is no longer a speculative frontier—it is now a capital-intensive infrastructure race. CEO Sam Altman framed the moment bluntly, noting that AI is transforming the entire economy and will require massive amounts of compute to meet global demand."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

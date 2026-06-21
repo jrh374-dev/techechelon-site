@@ -1,7 +1,7 @@
 ---
 title: "Markets Plunge as Trump Threatens Major Tariff Hike on China"
 slug: markets-plunge-as-trump-threatens-major-tariff-hike-on-china
-excerpt: "U.S. markets nosedived Friday after President Donald Trump threatened sweeping new tariffs on Chinese imports, escalating tensions over..."
+excerpt: "The Dow Jones Industrial Average sank 878 points (1.9%) to close at 45,479.60, while the S&P 500 dropped 2.7% to 6,552.51, marking its steepest one-day decline since April. The Nasdaq Composite was hit hardest, plunging 3.6% to 22,204.43 after briefly touching a record high earlier in the session."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

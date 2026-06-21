@@ -1,7 +1,7 @@
 ---
 title: "OpenAI Launches GPT-4o with Enhanced Features and Desktop Version, Expanding Accessibility and Developer Options"
 slug: openai-launches-gpt-4o-with-enhanced-features-and-desktop-version-expanding-accessibility-and-devel
-excerpt: "OpenAI introduced a new AI model and a desktop version of ChatGPT with a revamped interface on Monday. During a live-streamed event,..."
+excerpt: "OpenAI introduced a new AI model and a desktop version of ChatGPT with a revamped interface on Monday."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

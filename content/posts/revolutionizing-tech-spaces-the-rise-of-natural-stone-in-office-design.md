@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Tech Spaces: The Rise of Natural Stone in Office Design"
 slug: revolutionizing-tech-spaces-the-rise-of-natural-stone-in-office-design
-excerpt: "In the bustling world of technology, where innovation and creativity are paramount, tech companies are constantly searching for ways to..."
+excerpt: "From the heart of Silicon Valley, where start-ups and tech giants coexist, to the nexus of technology companies in Reston, Virginia, the shift towards natural stone is evident."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

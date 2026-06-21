@@ -1,7 +1,7 @@
 ---
 title: "Lendbuzz Targets $1.5B Valuation in Planned IPO"
 slug: lendbuzz-targets-1-5b-valuation-in-planned-ipo
-excerpt: "Lendbuzz, a Boston-based auto finance fintech, is preparing to go public with an IPO filing expected as soon as Friday, according to..."
+excerpt: "Founded a decade ago, Lendbuzz specializes in serving borrowers with limited credit history by using alternative data and machine learning to assess risk."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

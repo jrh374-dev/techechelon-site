@@ -1,7 +1,7 @@
 ---
 title: "Federal Reserve Chair Emphasizes Flexibility in Economic Forecasting Amid Unpredictable Economy"
 slug: federal-reserve-chair-emphasizes-flexibility-in-economic-forecasting-amid-unpredictable-economy
-excerpt: "In a recent address, Jerome Powell, the Chair of the Federal Reserve, highlighted the importance of adaptability in economic forecasting,..."
+excerpt: "Speaking at a conference marking the 100th anniversary of the Federal Reserve's Research and Statistics Division, Powell praised the division's rigorous approach but stressed the need for flexibility and innovative thinking beyond conventional models."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

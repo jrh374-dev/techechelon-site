@@ -1,7 +1,7 @@
 ---
 title: "Hacker Groups Launch Cyberattacks Amid Israel-Gaza Conflict"
 slug: hacker-groups-launch-cyberattacks-amid-israel-gaza-conflict
-excerpt: "Several hacker groups, some linked to nations like Iran and Russia, have targeted Israel with cyberattacks in the past week, possibly..."
+excerpt: "On the messaging platform Telegram, these groups claimed to have infiltrated various Israeli systems, including websites, the national electric grid, a rocket alert application, and even the Iron Dome missile defense mechanism."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

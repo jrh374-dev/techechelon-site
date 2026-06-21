@@ -1,7 +1,7 @@
 ---
 title: "Federal Reserve's Preferred Inflation Gauge Rose Slightly in July, Meeting Expectations"
 slug: federal-reserve-s-preferred-inflation-gauge-rose-slightly-in-july-meeting-expectations
-excerpt: "The Federal Reserve's favored inflation measure, the personal consumption expenditures (PCE) price index, recorded a modest rise of 0.2%..."
+excerpt: "The increase reflected a steady inflation rate of 2.5% compared to the same month last year, which met the forecasts set by Dow Jones."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

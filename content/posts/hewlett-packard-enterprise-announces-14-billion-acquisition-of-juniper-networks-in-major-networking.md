@@ -1,7 +1,7 @@
 ---
 title: "Hewlett Packard Enterprise Announces $14 Billion Acquisition of Juniper Networks in Major Networking Expansion"
 slug: hewlett-packard-enterprise-announces-14-billion-acquisition-of-juniper-networks-in-major-networking
-excerpt: "Hewlett Packard Enterprise (HPE) announced its intention to acquire Juniper Networks, a prominent networking equipment manufacturer, for..."
+excerpt: "The completion of this transaction is expected towards the end of this year or early 2025, as per HPE's statement. This news follows a recent report by the Wall Street Journal about advanced discussions between the two companies."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

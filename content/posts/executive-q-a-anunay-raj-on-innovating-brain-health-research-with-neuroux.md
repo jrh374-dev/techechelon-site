@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Anunay Raj on Innovating Brain Health Research with NeuroUX"
 slug: executive-q-a-anunay-raj-on-innovating-brain-health-research-with-neuroux
-excerpt: "Anunay Raj is a forward-thinking leader in the digital health space, utilizing his engineering expertise to push the boundaries of brain..."
+excerpt: "As the co-founder of NeuroUX, Anunay has been instrumental in developing a cutting-edge platform that empowers researchers to conduct meaningful studies across diverse clinical conditions."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

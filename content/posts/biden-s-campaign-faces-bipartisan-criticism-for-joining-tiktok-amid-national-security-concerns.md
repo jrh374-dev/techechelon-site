@@ -1,7 +1,7 @@
 ---
 title: "Biden's Campaign Faces Bipartisan Criticism for Joining TikTok Amid National Security Concerns"
 slug: biden-s-campaign-faces-bipartisan-criticism-for-joining-tiktok-amid-national-security-concerns
-excerpt: "President Biden's reelection campaign has sparked controversy among politicians from both parties by establishing a presence on TikTok...."
+excerpt: "Criticism has been particularly vocal from Republican senators, who have raised concerns about TikTok's data privacy and the national security implications of its ties to ByteDance, its parent company based in Beijing."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

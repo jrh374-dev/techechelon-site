@@ -1,7 +1,7 @@
 ---
 title: "Grapevine Technologies Revolutionizes Healthcare Supply Chain, Boosting Revenue by $20M"
 slug: grapevine-technologies-revolutionizes-healthcare-supply-chain-boosting-revenue-by-20m
-excerpt: "Grapevine Technologies, a groundbreaking software solution built by distributors for healthcare facilities, has announced remarkable..."
+excerpt: "In its current iteration as Grapevine Technologies, the company is already valued at $10 million."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

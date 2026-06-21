@@ -1,7 +1,7 @@
 ---
 title: "AI's Role in Misinformation Raises Concerns Ahead of 2024 Election"
 slug: ai-s-role-in-misinformation-raises-concerns-ahead-of-2024-election
-excerpt: "Over half of Americans predict that AI-driven misinformation will influence the results of the 2024 presidential election, according to a..."
+excerpt: "2020's Trump supporters were twice as prone to express decreased trust in the election results due to AI as compared to Biden voters. Breaking down the numbers, 47% of those concerned about AI misinformation were Trump voters, while 27% supported Biden."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Airbus Ventures Unveils $155 Million Fund to Propel Deep Tech and Space Innovation"
 slug: airbus-ventures-unveils-155-million-fund-to-propel-deep-tech-and-space-innovation
-excerpt: "Airbus Ventures, a leading investor in space startups, has raised a $155 million fund aimed at advancing the rapidly growing space sector..."
+excerpt: "The new fund comes as venture capital investment in space is recovering after two challenging years. Airbus Ventures plans to channel its new capital into early-stage deep tech startups that push the boundaries of scientific and engineering innovation."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "U.S. Growth Slows Sharply as Inflation Remains Elevated"
 slug: u-s-growth-slows-sharply-as-inflation-remains-elevated
-excerpt: "The U.S. economy slowed significantly in the final months of 2025 while inflation remained stubbornly elevated at the start of 2026, according to new data released by the U.S. Department of Commerce. Revised figures from the government show that gross domestic product grew at an annualized rate of just 0.7% in the fourth quarter, sharply lower than the previous estimate of 1.4% and well below economists’ expectations of roughly 1.5%. The slowdown marks a steep drop from the 4.4% growth rate..."
+excerpt: "Revised figures from the government show that gross domestic product grew at an annualized rate of just 0.7% in the fourth quarter, sharply lower than the previous estimate of 1.4% and well below economists’ expectations of roughly 1.5%. The slowdown marks a steep drop from the 4."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "OpenAI Signs $38 Billion Compute Deal with Amazon, Breaking From Microsoft Exclusivity"
 slug: openai-signs-38-billion-compute-deal-with-amazon-breaking-from-microsoft-exclusivity
-excerpt: "OpenAI has signed a massive $38 billion deal with Amazon Web Services, marking its first-ever partnership with the cloud leader and one of its most significant moves away from Microsoft. The agreement gives OpenAI access to hundreds of thousands of Nvidia GPUs hosted in AWS data centers across the U.S., with capacity expansions planned through 2026 and beyond. Shares of Amazon jumped roughly 5% Monday after the announcement, underscoring the significance of the partnership for both companies...."
+excerpt: "Shares of Amazon jumped roughly 5% Monday after the announcement, underscoring the significance of the partnership for both companies. The deal immediately allows OpenAI to run workloads on AWS infrastructure while Amazon builds additional dedicated capacity for the ChatGPT maker."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "BlackBerry Announces Split of IoT and Cybersecurity Divisions"
 slug: blackberry-announces-split-of-iot-and-cybersecurity-divisions
-excerpt: "On Wednesday, Canadian tech firm BlackBerry (BB) unveiled plans to divide its Internet of Things (IoT) and cybersecurity segments. They..."
+excerpt: "This move follows a trend where businesses are seeking a streamlined corporate model, allowing investors to more accurately assess distinct segments. For instance, earlier this week, the company once known as Kellogg Co. finalized its spinoff."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

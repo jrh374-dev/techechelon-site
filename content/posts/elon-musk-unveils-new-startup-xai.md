@@ -1,7 +1,7 @@
 ---
 title: "Elon Musk Unveils New Startup xAI"
 slug: elon-musk-unveils-new-startup-xai
-excerpt: "Elon Musk, the mastermind behind Tesla, SpaceX, and now Twitter, revealed on Wednesday his latest venture, an AI firm named xAI, with the..."
+excerpt: "The team forming xAI comprises veterans from esteemed organizations such as DeepMind, OpenAI, Google Research, Microsoft Research, and Tesla."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

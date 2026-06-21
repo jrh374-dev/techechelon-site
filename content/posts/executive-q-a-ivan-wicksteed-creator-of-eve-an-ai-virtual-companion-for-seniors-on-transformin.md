@@ -1,7 +1,7 @@
 ---
 title: "Executive Q&A: Ivan Wicksteed, Creator of \"Eve,\" an AI Virtual Companion for Seniors, on Transforming Elderly Care"
 slug: executive-q-a-ivan-wicksteed-creator-of-eve-an-ai-virtual-companion-for-seniors-on-transformin
-excerpt: "Ivan Wicksteed is a pioneer in creating technology-driven solutions for elderly care, blending personal experiences with cutting-edge..."
+excerpt: "His journey into this space was profoundly influenced by personal tragedy, leading him to address a widespread societal issue with empathy and technological prowess."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "FCC Fines Major US Mobile Carriers $200 Million for Illegally Sharing Customer Location Data"
 slug: fcc-fines-major-us-mobile-carriers-200-million-for-illegally-sharing-customer-location-data
-excerpt: "The Federal Communications Commission (FCC) has imposed fines totaling $200 million on the four largest mobile carriers in the U.S. for..."
+excerpt: "T-Mobile received the heaviest fine of $80 million, in addition to a $12 million penalty for its subsidiary, Sprint, which it acquired in 2020. AT&T was fined more than $57 million, while Verizon received a fine of almost $7 million."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "UK Government Weighs Stricter Internet Safety Laws Following Riots and Musk's Comments"
 slug: uk-government-weighs-stricter-internet-safety-laws-following-riots-and-musk-s-comments
-excerpt: "The Labour government in the United Kingdom is reportedly considering a review of the Online Safety Act, a significant piece of..."
+excerpt: "According to industry insiders, the government is exploring ways to strengthen the Online Safety Act, particularly in relation to disinformation, hate speech, and the incitement of violence."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

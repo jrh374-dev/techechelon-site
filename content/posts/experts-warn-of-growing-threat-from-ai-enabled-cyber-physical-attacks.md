@@ -1,7 +1,7 @@
 ---
 title: "Experts Warn of Growing Threat from AI-Enabled Cyber-Physical Attacks"
 slug: experts-warn-of-growing-threat-from-ai-enabled-cyber-physical-attacks
-excerpt: "In an era increasingly dominated by artificial intelligence (AI), security experts are raising alarms about a new kind of threat: the..."
+excerpt: "FBI Director Christopher Wray recently informed Congress about the persistent efforts of Chinese government-backed hackers. Their targets include essential U.S. systems such as water treatment facilities, the electrical grid, and transportation networks."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

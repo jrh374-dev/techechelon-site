@@ -1,7 +1,7 @@
 ---
 title: "Independent Tech Researchers Face Growing Barriers, Report Warns"
 slug: independent-tech-researchers-face-growing-barriers-report-warns
-excerpt: "A new report  from the Coalition for Independent Technology Research (CITR) warns that independent researchers studying the societal..."
+excerpt: "A new report from the Coalition for Independent Technology Research (CITR) warns that independent researchers studying the societal impacts of technology are encountering increasing financial, legal, and security obstacles—threatening the public’s ability to understand the influence of powerful digital platforms."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

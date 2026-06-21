@@ -1,7 +1,7 @@
 ---
 title: "The hidden impact of AI on workers' mental wellbeing"
 slug: the-hidden-impact-of-ai-on-workers-mental-wellbeing
-excerpt: "As artificial intelligence continues to evolve, the individuals behind the technology are increasingly grappling with loneliness,..."
+excerpt: "The study, revealed by the American Psychological Association on Monday, highlights an escalating concern over the mental and emotional wellbeing of AI researchers, resulting from their isolated work environment."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

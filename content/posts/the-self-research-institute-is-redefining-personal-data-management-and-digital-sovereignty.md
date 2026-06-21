@@ -1,7 +1,7 @@
 ---
 title: "The Self Research Institute is Redefining Personal Data Management and Digital Sovereignty"
 slug: the-self-research-institute-is-redefining-personal-data-management-and-digital-sovereignty
-excerpt: "The Self Research Institute (SRI) goes beyond its name and its function as a non-profit focused on ensuring individuals have control over..."
+excerpt: "The Self Research Institute (SRI) goes beyond its name and its function as a non-profit focused on ensuring individuals have control over their own data but the lofty ambition to interpret, engage and adapt along with the information to improve lives."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

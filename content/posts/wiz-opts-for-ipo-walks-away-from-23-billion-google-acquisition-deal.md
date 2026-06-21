@@ -1,7 +1,7 @@
 ---
 title: "Wiz Opts for IPO, Walks Away from $23 Billion Google Acquisition Deal"
 slug: wiz-opts-for-ipo-walks-away-from-23-billion-google-acquisition-deal
-excerpt: "Wiz, a cloud security startup, has opted to abandon a $23 billion acquisition deal with Google, choosing instead to pursue an initial..."
+excerpt: "The company aims to achieve $1 billion in annual recurring revenue as it moves towards its IPO."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

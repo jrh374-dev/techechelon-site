@@ -1,7 +1,7 @@
 ---
 title: "U.S. Economy Outlook Brightens as Recession Fears Diminish"
 slug: u-s-economy-outlook-brightens-as-recession-fears-diminish
-excerpt: "Economists' perspective on the U.S. economy is increasingly hopeful. Their latest predictions indicate that the economy will likely avoid..."
+excerpt: "A recent Wall Street Journal survey of business and academic economists revealed a drop in the perceived risk of a recession in the next 12 months: down from 54% in July to 48%. This marks the first time since last year that the probability has been below the halfway mark, with the median risk standing at 50%."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

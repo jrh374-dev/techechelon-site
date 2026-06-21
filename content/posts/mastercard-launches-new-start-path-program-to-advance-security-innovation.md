@@ -1,7 +1,7 @@
 ---
 title: "Mastercard Launches New Start Path Program to Advance Security Innovation"
 slug: mastercard-launches-new-start-path-program-to-advance-security-innovation
-excerpt: "In a bold step to strengthen digital trust and cybersecurity innovation, Mastercard has unveiled a new Security Solutions program under..."
+excerpt: "The first cohort includes five cutting-edge startups — OneID, Scamnetic, Spec, VanishID, and Shield-IoT — selected after a competitive global application process. These companies are developing tools to combat phishing scams, protect personal data, secure IoT payment devices, and more."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

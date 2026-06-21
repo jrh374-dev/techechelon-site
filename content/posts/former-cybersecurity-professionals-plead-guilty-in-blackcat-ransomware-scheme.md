@@ -1,7 +1,7 @@
 ---
 title: "Former Cybersecurity Professionals Plead Guilty in BlackCat Ransomware Scheme"
 slug: former-cybersecurity-professionals-plead-guilty-in-blackcat-ransomware-scheme
-excerpt: "Two former employees of prominent cybersecurity incident response firms have pleaded guilty to participating in BlackCat (ALPHV) ransomware attacks that targeted U.S. companies in 2023, federal prosecutors said. Ryan Clifford Goldberg, 33, of Watkinsville, Georgia, and Kevin Tyler Martin, 28, of Roanoke, Texas, admitted to conspiring to obstruct commerce by extortion. Both face sentences of up to 20 years in prison, with sentencing scheduled for March 12, 2026. Goldberg, a former incident..."
+excerpt: "Ryan Clifford Goldberg, 33, of Watkinsville, Georgia, and Kevin Tyler Martin, 28, of Roanoke, Texas, admitted to conspiring to obstruct commerce by extortion. Both face sentences of up to 20 years in prison, with sentencing scheduled for March 12, 2026."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

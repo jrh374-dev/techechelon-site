@@ -1,7 +1,7 @@
 ---
 title: "SpaceX Confirms Starlink Lease Agreement with FAA Amid Concerns Over Air Traffic Control Upgrades"
 slug: spacex-confirms-starlink-lease-agreement-with-faa-amid-concerns-over-air-traffic-control-upgrades
-excerpt: "SpaceX has confirmed that it is leasing Starlink satellite internet kits and services to the Federal Aviation Administration (FAA) at no..."
+excerpt: "The aerospace company, led by Elon Musk, clarified that it is collaborating with L3Harris, the FAA’s current telecommunications contractor, to explore Starlink’s potential role in broader infrastructure upgrades."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

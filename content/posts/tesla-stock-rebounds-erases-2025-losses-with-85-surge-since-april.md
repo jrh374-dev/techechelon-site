@@ -1,7 +1,7 @@
 ---
 title: "Tesla Stock Rebounds, Erases 2025 Losses With 85% Surge Since April"
 slug: tesla-stock-rebounds-erases-2025-losses-with-85-surge-since-april
-excerpt: "Tesla’s turbulent year has swung back into positive territory after a sharp rally that lifted shares nearly 85% since their April lows,..."
+excerpt: "The electric vehicle maker endured its worst first quarter since 2022, with shares plunging on the heels of President Donald Trump’s new tariff plans announced in early April. The stock bottomed at $221.86 on April 4, leaving Wall Street questioning Tesla’s momentum."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Tesla to Launch Robotaxi Fleet in Austin This June, Musk Confirms"
 slug: tesla-to-launch-robotaxi-fleet-in-austin-this-june-musk-confirms
-excerpt: "Tesla CEO Elon Musk announced that the company will begin deploying a fleet of robotaxis in Austin, Texas, by the end of June, marking a..."
+excerpt: "The launch will begin with approximately 10 vehicles and could scale rapidly if the pilot proceeds smoothly, Musk said during an interview Tuesday at Tesla’s Austin headquarters."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

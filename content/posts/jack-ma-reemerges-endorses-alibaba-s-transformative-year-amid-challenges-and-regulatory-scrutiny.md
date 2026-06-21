@@ -1,7 +1,7 @@
 ---
 title: "Jack Ma Reemerges, Endorses Alibaba's Transformative Year Amid Challenges and Regulatory Scrutiny"
 slug: jack-ma-reemerges-endorses-alibaba-s-transformative-year-amid-challenges-and-regulatory-scrutiny
-excerpt: "Jack Ma, the founder of Alibaba, recently expressed his support for the significant changes and restructuring the company has undergone..."
+excerpt: "This period has seen Alibaba, a leading tech conglomerate in China, implementing historic organizational adjustments and extensive leadership shifts to reignite growth."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

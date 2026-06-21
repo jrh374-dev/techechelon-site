@@ -1,7 +1,7 @@
 ---
 title: "Ideawake Unveils Advanced Idea Management System, Boosting Innovation for Top US Firms"
 slug: ideawake-unveils-advanced-idea-management-system-boosting-innovation-for-top-us-firms
-excerpt: "Ideawake, a leading provider of software solutions, is revolutionizing the way companies handle their idea management by driving..."
+excerpt: "The software's robust features allow companies to invite employees, customers, or suppliers to collaborate and address their most challenging problems. It provides a platform to collect targeted ideas through submission forms that can be embedded directly into a company's intranet or website."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

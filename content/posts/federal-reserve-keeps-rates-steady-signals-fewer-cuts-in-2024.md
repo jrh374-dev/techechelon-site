@@ -1,7 +1,7 @@
 ---
 title: "Federal Reserve Keeps Rates Steady; Signals Fewer Cuts in 2024"
 slug: federal-reserve-keeps-rates-steady-signals-fewer-cuts-in-2024
-excerpt: "The Federal Reserve announced on Wednesday that it would maintain the current interest rates, but suggested there might be one more..."
+excerpt: "The ongoing meeting left the fed funds rate within the 5.25%-5.5% bracket, marking a 22-year peak. This rate not only influences interbank overnight lending but also impacts a plethora of consumer debts."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

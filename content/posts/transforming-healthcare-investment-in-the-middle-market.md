@@ -1,7 +1,7 @@
 ---
 title: "Transforming Healthcare Investment in the Middle Market"
 slug: transforming-healthcare-investment-in-the-middle-market
-excerpt: "New York-based private equity firm Invidia Capital Management LP (“Invidia”) is a recently formed investment management firm with a..."
+excerpt: "Following its recent inception, Invidia is focused on targeting high-growth subsectors within healthcare, including supporting R&D innovation, tech-enabled services, delivery transformation, and consumer-oriented healthcare."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

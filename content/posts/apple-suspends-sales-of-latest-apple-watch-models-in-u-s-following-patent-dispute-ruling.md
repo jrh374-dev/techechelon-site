@@ -1,7 +1,7 @@
 ---
 title: "Apple Suspends Sales of Latest Apple Watch Models in U.S. Following Patent Dispute Ruling"
 slug: apple-suspends-sales-of-latest-apple-watch-models-in-u-s-following-patent-dispute-ruling
-excerpt: "Apple has halted sales of its Apple Watch Series 9 and Apple Watch Ultra 2 in the United States, as revealed by recent checks on its..."
+excerpt: "When attempting to access the pages for the Apple Watch Series 9 and Apple Watch Ultra 2 on Thursday, the site displayed a message indicating that these products are \"currently unavailable."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

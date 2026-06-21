@@ -1,7 +1,7 @@
 ---
 title: "Advocacy Groups Urge AI Worker Protections in Letter to Sen. Schumer"
 slug: advocacy-groups-urge-ai-worker-protections-in-letter-to-sen-schumer
-excerpt: "A group of tech and workers' rights organizations have petitioned Senate Majority Leader Chuck Schumer (D-N.Y.) to focus on safeguards..."
+excerpt: "The advocacy groups pointed to allegations of major corporations, including Amazon, Google, and Walmart, using AI or other technological tools for employee surveillance. They emphasized the need for legislative measures to prevent such companies from profiting through the exploitation of tech-driven surveillance."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

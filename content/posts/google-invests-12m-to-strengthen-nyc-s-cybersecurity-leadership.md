@@ -1,7 +1,7 @@
 ---
 title: "Google invests $12M to strengthen NYC’s cybersecurity leadership"
 slug: google-invests-12m-to-strengthen-nyc-s-cybersecurity-leadership
-excerpt: "Google recently disclosed the Google Cyber NYC Institutional Research Program, a $12 million initiative aimed at boosting cybersecurity..."
+excerpt: "Each of the four universities, which include The City University of New York, Columbia University, Cornell University (including Cornell Tech and the Cornell Ann S. Bowers College of Computing and Information Science), and New York University, will receive annual funding of $1 million through 2025."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

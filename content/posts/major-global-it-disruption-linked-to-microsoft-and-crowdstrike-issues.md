@@ -1,7 +1,7 @@
 ---
 title: "Major Global IT Disruption Linked to Microsoft and CrowdStrike Issues"
 slug: major-global-it-disruption-linked-to-microsoft-and-crowdstrike-issues
-excerpt: "On July 19, 2024, the world experienced what has been dubbed the \"largest IT outage in history,\" with widespread impacts felt from..."
+excerpt: "Financial institutions, medical offices, and television broadcasters faced operational difficulties throughout the day. Air travel was significantly hampered, with numerous flights cancelled or delayed, prompting airports to advise passengers on potential disruptions."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

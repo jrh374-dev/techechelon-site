@@ -1,7 +1,7 @@
 ---
 title: "MGM Resorts Engulfed in Lawsuits Following Cyberattack"
 slug: mgm-resorts-engulfed-in-lawsuits-following-cyberattack
-excerpt: "MGM Resorts is contending with two class action lawsuits lodged in a U.S. District Court in Nevada, related to a cyberattack it endured..."
+excerpt: "The claimants argue separately that MGM ought to have been cognizant of the attack risks, citing preceding alerts by Okta of being recurrently subjected to similar assaults, and accuse the company of neglecting necessary steps to defend customer information."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

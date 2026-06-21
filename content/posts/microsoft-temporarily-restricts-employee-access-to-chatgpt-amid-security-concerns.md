@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Temporarily Restricts Employee Access to ChatGPT Amid Security Concerns"
 slug: microsoft-temporarily-restricts-employee-access-to-chatgpt-amid-security-concerns
-excerpt: "On Thursday, Microsoft temporarily blocked its employees from using ChatGPT, a popular product from OpenAI, in which the company has..."
+excerpt: "Microsoft emphasized the need for caution when using external AI services like ChatGPT, Midjourney, or Replika, citing privacy and security risks. Despite this, the block on ChatGPT and Canva, another design software, was later retracted from the advisory."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

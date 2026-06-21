@@ -1,7 +1,7 @@
 ---
 title: "Experts Explore the Future of One Health in Global X Spaces Discussion"
 slug: experts-explore-the-future-of-one-health-in-global-x-spaces-discussion
-excerpt: "In a dynamic and thought-provoking episode of “Apinions” hosted live on X (formerly Twitter Spaces), Michael Dershem, better known as..."
+excerpt: "This episode of Apinions, titled “Lions, Tigers, and Vets—Oh My! One Health and Data in Action,” explored the intersection of veterinary medicine, human healthcare, and emerging technologies like AI, blockchain and predictive analytics, in what’s known as the “One Health” movement."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

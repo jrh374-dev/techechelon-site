@@ -1,7 +1,7 @@
 ---
 title: "New AI Tool \"Nightshade\" Fights Back Against Data Misuse in Training"
 slug: new-ai-tool-nightshade-fights-back-against-data-misuse-in-training
-excerpt: "A cutting-edge tool named Nightshade has emerged as a means for artists to shield their creative outputs. This tool damages training data..."
+excerpt: "Nightshade subtly modifies pixels in digital artwork. If an AI platform uses this altered artwork for training, the distortions serve as a \"poison\", manipulating the model's functionality. As a result, the AI may interpret an image of a car as something entirely different, like a cow."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Iranian-Backed Hackers Claim Breach of FBI Director Kash Patel's Personal Email"
 slug: iranian-backed-hackers-claim-breach-of-fbi-director-kash-patel-s-personal-email
-excerpt: "A hacking group backed by the Iranian government has claimed it breached the personal Gmail account of FBI Director Kash Patel, publishing a cache of leaked files that investigators and journalists have begun verifying as authentic. The group, known as Handala, posted the alleged documents on its website alongside what appear to be genuine emails from Patel's personal account, some dating back to 2014 when he was serving at the Justice Department. The FBI confirmed the breach in a statement,..."
+excerpt: "The FBI confirmed the breach in a statement, acknowledging that \"malicious actors\" had targeted Patel's personal email and that the agency had \"taken all necessary steps to mitigate potential risks."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

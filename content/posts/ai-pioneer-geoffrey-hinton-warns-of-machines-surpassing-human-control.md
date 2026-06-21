@@ -1,7 +1,7 @@
 ---
 title: "AI Pioneer Geoffrey Hinton Warns of Machines Surpassing Human Control"
 slug: ai-pioneer-geoffrey-hinton-warns-of-machines-surpassing-human-control
-excerpt: "Geoffrey Hinton, often dubbed the \"Godfather of AI,\" cautioned about the potential for AI-driven machines to surpass human control during..."
+excerpt: "Hinton, 75, highlighted the speed at which AI technology is advancing, suggesting it could surpass human intelligence within half a decade. This rapid evolution could result in AI systems being uncontrollable if they start self-modifying through their own coding."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

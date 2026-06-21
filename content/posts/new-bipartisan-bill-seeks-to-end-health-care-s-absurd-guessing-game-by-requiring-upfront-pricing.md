@@ -1,7 +1,7 @@
 ---
 title: "New Bipartisan Bill Seeks to End Health Care’s “Absurd Guessing Game” by Requiring Upfront Pricing"
 slug: new-bipartisan-bill-seeks-to-end-health-care-s-absurd-guessing-game-by-requiring-upfront-pricing
-excerpt: "A new bipartisan bill introduced in the U.S. Senate aims to bring long-overdue transparency to healthcare pricing in America. The..."
+excerpt: "The Patients Deserve Price Tags Act, co-sponsored by Senators John Hickenlooper (D-CO) and Roger Marshall (R-KS), would require providers and hospitals to disclose the real costs of medical services, giving patients and employers the ability to compare prices and make more informed decisions."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

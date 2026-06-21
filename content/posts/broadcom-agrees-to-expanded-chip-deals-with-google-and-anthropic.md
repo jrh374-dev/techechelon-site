@@ -1,7 +1,7 @@
 ---
 title: "Broadcom Agrees to Expanded Chip Deals with Google and Anthropic"
 slug: broadcom-agrees-to-expanded-chip-deals-with-google-and-anthropic
-excerpt: "Broadcom announced Monday that it has agreed to produce future generations of artificial intelligence chips for Google and signed an expanded partnership with Anthropic that will give the AI startup access to approximately 3.5 gigawatts of computing capacity drawn from Google's custom AI processors. Broadcom shares climbed more than 3% in extended trading following the disclosure. The announcement underscores the extraordinary pace at which demand for AI computing infrastructure is..."
+excerpt: "The announcement underscores the extraordinary pace at which demand for AI computing infrastructure is accelerating. Anthropic's rise has been particularly striking: the company's annualized revenue has surpassed $30 billion, up from approximately $9 billion at the end of last year, and it now counts more than 1,000 business clients spending over $1 million annually — double the number from just two months ago."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

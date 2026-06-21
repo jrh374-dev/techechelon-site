@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Azure Narrows the Gap with AWS as AI Fuels Rapid Growth"
 slug: microsoft-azure-narrows-the-gap-with-aws-as-ai-fuels-rapid-growth
-excerpt: "Amazon Web Services (AWS) continues to dominate the cloud computing sector, but Microsoft is rapidly gaining ground with its Azure..."
+excerpt: "This surge in Azure's growth is partly attributed to Microsoft's focus on artificial intelligence (AI). During the earnings call on January 30, Microsoft's CFO, Amy Hood, mentioned that AI contributed to a 6-point increase in revenue growth for the Azure and cloud services division, a significant rise from the 3-point contribution in the previous quarter."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

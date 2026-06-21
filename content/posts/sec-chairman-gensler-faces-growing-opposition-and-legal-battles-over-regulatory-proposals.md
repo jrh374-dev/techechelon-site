@@ -1,7 +1,7 @@
 ---
 title: "SEC Chairman Gensler Faces Growing Opposition and Legal Battles Over Regulatory Proposals"
 slug: sec-chairman-gensler-faces-growing-opposition-and-legal-battles-over-regulatory-proposals
-excerpt: "Gary Gensler, the Chairman of the Securities and Exchange Commission (SEC), is slated to appear before the House Financial Services..."
+excerpt: "Gensler has proposed more than 40 rules, which has heightened tension among Republicans and led to increasing confrontation with financial services sectors including hedge funds, mutual funds, and trading firms."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

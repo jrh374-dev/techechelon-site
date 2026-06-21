@@ -1,7 +1,7 @@
 ---
 title: "Republican Mike Johnson Reelected House Speaker Following Dramatic Vote Reversals"
 slug: republican-mike-johnson-reelected-house-speaker-following-dramatic-vote-reversals
-excerpt: "Republican Rep. Mike Johnson of Louisiana has been reelected as Speaker of the House of Representatives after a dramatic voting session..."
+excerpt: "Johnson clinched the required 218 votes after Reps. Ralph Norman of South Carolina and Keith Self of Texas switched their support to him. The two had initially cast their votes for other Republican candidates but changed their positions following discussions with Johnson near the House floor."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "U.S. Trade Deficit Falls to Lowest Level Since 2009 as Tariffs Reshape Flows"
 slug: u-s-trade-deficit-falls-to-lowest-level-since-2009-as-tariffs-reshape-flows
-excerpt: "The U.S. trade deficit narrowed sharply in October, falling to its lowest level since the aftermath of the global financial crisis, as exports rose and imports declined following President Donald Trump’s tariff actions. The Commerce Department reported Thursday that the trade gap shrank to $29.4 billion in October, a 39% decline from the prior month. Exports increased 2.6%, while imports fell 3.2%, reflecting a meaningful slowdown in inbound trade alongside steady foreign demand for U.S...."
+excerpt: "The Commerce Department reported Thursday that the trade gap shrank to $29.4 billion in October, a 39% decline from the prior month. Exports increased 2.6%, while imports fell 3.2%, reflecting a meaningful slowdown in inbound trade alongside steady foreign demand for U.S. goods and services."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Latest AI Model Rankings Revealed by Arthur AI"
 slug: latest-ai-model-rankings-revealed-by-arthur-ai
-excerpt: "A recent report by Arthur AI, a prominent machine learning monitoring platform, awarded some of the leading AI models in the tech..."
+excerpt: "- OpenAI’s GPT-4: Best at math. - Meta’s Llama 2: Average performer. - Anthropic’s Claude 2: Top in recognizing its own limitations. - Cohere AI: Most frequent hallucinator and often confidently incorrect."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

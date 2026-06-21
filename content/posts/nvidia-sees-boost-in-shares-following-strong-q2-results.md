@@ -1,7 +1,7 @@
 ---
 title: "Nvidia Sees Boost in Shares Following Strong Q2 Results"
 slug: nvidia-sees-boost-in-shares-following-strong-q2-results
-excerpt: "Nvidia shares surged by 6% after-market on Wednesday as it exceeded fiscal second-quarter expectations and projected a bullish outlook..."
+excerpt: "Q2 Highlights:"
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Fed's Favored Inflation Indicator Reports Smaller-than-Expected Rise in August"
 slug: fed-s-favored-inflation-indicator-reports-smaller-than-expected-rise-in-august
-excerpt: "In August, a favored economic indicator of inflation by the Federal Reserve, the personal consumption expenditures (PCE) price index,..."
+excerpt: "The Commerce Department revealed that it had a 0.1% increase for the month, contrary to the 0.2% gain predicted by the Dow Jones consensus of economists. This reflected the smallest monthly rise since November 2020, with the annual increase for core PCE standing at 3.9%, aligning with projections."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

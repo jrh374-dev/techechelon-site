@@ -1,7 +1,7 @@
 ---
 title: "CISA Accused of Overstepping Legal Bounds by Monitoring Domestic Social Media, GOP-Led Cmte. Report"
 slug: cisa-accused-of-overstepping-legal-bounds-by-monitoring-domestic-social-media-gop-led-cmte-report
-excerpt: "The Critical Infrastructure and Cybersecurity Agency (CISA), a federal entity tasked with safeguarding essential services and countering..."
+excerpt: "The joint report, issued by the House Judiciary Committee and Subcommittee on Weaponization of the Federal Government, blames CISA for indirectly and directly censoring American citizens through third-party intermediaries."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

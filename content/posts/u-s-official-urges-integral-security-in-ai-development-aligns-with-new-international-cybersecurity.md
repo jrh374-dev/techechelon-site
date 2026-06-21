@@ -1,7 +1,7 @@
 ---
 title: "U.S. Official Urges Integral Security in AI Development, Aligns with New International Cybersecurity"
 slug: u-s-official-urges-integral-security-in-ai-development-aligns-with-new-international-cybersecurity
-excerpt: "A top U.S. official emphasized the importance of incorporating security measures into artificial intelligence (AI) systems from their..."
+excerpt: "Jen Easterly, director of the U.S. Cybersecurity and Infrastructure Security Agency, criticized the current norm of releasing technology products with vulnerabilities and relying on consumers to patch them. She highlighted the unique challenges posed by AI, noting its exceptional power and rapid development."
 category: security
 author: "Sara Montes de Oca"
 authorInitials: "SM"

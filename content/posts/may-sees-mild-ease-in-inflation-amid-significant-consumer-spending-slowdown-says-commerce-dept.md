@@ -1,7 +1,7 @@
 ---
 title: "May Sees Mild Ease in Inflation Amid Significant Consumer Spending Slowdown, Says Commerce Dept."
 slug: may-sees-mild-ease-in-inflation-amid-significant-consumer-spending-slowdown-says-commerce-dept
-excerpt: "A report released by the Commerce Department on Friday indicates that inflation pressures saw a slight alleviation in May, as a..."
+excerpt: "The Federal Reserve pays close attention to the personal consumption expenditures price index, which rose by 0.3% for May, excluding food and energy. This rise was on par with the estimate provided by Dow Jones. The so-called core PCE recorded a 4.6% increase from the previous year, which was 0."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

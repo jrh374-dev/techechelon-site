@@ -1,7 +1,7 @@
 ---
 title: "Fed Reserve Chair Jerome Powell Announces Multiple Rate Hikes in Response to Inflation Concerns"
 slug: fed-reserve-chair-jerome-powell-announces-multiple-rate-hikes-in-response-to-inflation-concerns
-excerpt: "On Wednesday, Federal Reserve Chairman Jerome Powell strongly addressed the issue of inflation during a forum. He announced his..."
+excerpt: "Powell, while participating in a monetary policy discussion in Sintra, Portugal, suggested, “We foresee further constraints ahead”. He attributed this to a robust labor market."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

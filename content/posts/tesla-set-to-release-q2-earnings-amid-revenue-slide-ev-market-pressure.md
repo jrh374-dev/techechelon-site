@@ -1,7 +1,7 @@
 ---
 title: "Tesla Set to Release Q2 Earnings Amid Revenue Slide, EV Market Pressure"
 slug: tesla-set-to-release-q2-earnings-amid-revenue-slide-ev-market-pressure
-excerpt: "Tesla is preparing to report its second-quarter financial results following the close of trading on Wednesday, with Wall Street bracing..."
+excerpt: "Analysts anticipate earnings of 43 cents per share on revenue of $22.74 billion, based on LSEG estimates. That revenue figure would represent an 11% decline from the same quarter last year, following a 14% drop in vehicle deliveries to 384,000 units earlier this month."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

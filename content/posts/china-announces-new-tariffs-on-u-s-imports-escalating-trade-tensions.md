@@ -1,7 +1,7 @@
 ---
 title: "China Announces New Tariffs on U.S. Imports, Escalating Trade Tensions"
 slug: china-announces-new-tariffs-on-u-s-imports-escalating-trade-tensions
-excerpt: "On Tuesday, the Chinese Finance Ministry declared it will implement new tariffs of 15% on U.S. coal and liquefied natural gas imports..."
+excerpt: "In response to the U.S.'s additional 10% tariffs, China criticized these measures as a serious breach of World Trade Organization norms, disrupting normal economic and trade exchanges."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

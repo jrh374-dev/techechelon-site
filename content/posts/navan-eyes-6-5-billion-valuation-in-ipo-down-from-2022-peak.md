@@ -1,7 +1,7 @@
 ---
 title: "Navan Eyes $6.5 Billion Valuation in IPO, Down from 2022 Peak"
 slug: navan-eyes-6-5-billion-valuation-in-ipo-down-from-2022-peak
-excerpt: "Corporate travel and expense software firm Navan has set a price range of $24 to $26 per share for its upcoming initial public offering,..."
+excerpt: "According to a new filing released Friday, the Palo Alto–based company plans to list on the Nasdaq under the ticker “NAVN.” The IPO marks another sign of life in the tech markets, joining recent offerings from CoreWeave, Circle, and Figma, which have helped revive a moribund IPO landscape after a three-year lull."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

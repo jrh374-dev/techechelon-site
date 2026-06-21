@@ -1,7 +1,7 @@
 ---
 title: "NIL = Nobody Is Listening: The Overlooked Crisis in Athlete Health Data"
 slug: nil-nobody-is-listening-the-overlooked-crisis-in-athlete-health-data
-excerpt: "In a timely and provocative episode of Apinions , Michael Dersham (“Dersh”), founder and CEO of Apierion, sat down with two leading..."
+excerpt: "In a timely and provocative episode of Apinions, Michael Dersham (“Dersh”), founder and CEO of Apierion, sat down with two leading sports law experts to tackle a question that has long been overlooked in the name, image, and likeness (NIL) era: What about athlete health?"
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

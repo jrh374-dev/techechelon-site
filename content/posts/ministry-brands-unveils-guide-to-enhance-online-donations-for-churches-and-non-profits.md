@@ -1,7 +1,7 @@
 ---
 title: "Ministry Brands Unveils Guide to Enhance Online Donations for Churches and Non-Profits"
 slug: ministry-brands-unveils-guide-to-enhance-online-donations-for-churches-and-non-profits
-excerpt: "As non-profit organizations grapple with the challenge of converting online interest into donations, purpose-driven tech company Ministry..."
+excerpt: "Their latest release, \"Seven Steps to Improve Online Donations,\" is a meticulously crafted guide aimed at transforming how churches and non-profit entities approach online giving."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

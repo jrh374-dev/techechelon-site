@@ -1,7 +1,7 @@
 ---
 title: "EU Finalizes Landmark AI Regulation Deal, Setting Precedent for ChatGPT and Facial Recognition Regs."
 slug: eu-finalizes-landmark-ai-regulation-deal-setting-precedent-for-chatgpt-and-facial-recognition-regs
-excerpt: "On Friday, the European Union made a significant stride in regulating artificial intelligence (AI) technologies, including those like..."
+excerpt: "Negotiations between the European Parliament and its 27 member states were challenging, with key issues such as generative AI, facial recognition, and the regulation of foundational AI models like ChatGPT and Google's Bard at the forefront."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

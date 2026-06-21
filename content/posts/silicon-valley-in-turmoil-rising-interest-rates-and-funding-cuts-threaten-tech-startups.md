@@ -1,7 +1,7 @@
 ---
 title: "Silicon Valley in Turmoil: Rising Interest Rates and Funding Cuts Threaten Tech Startups"
 slug: silicon-valley-in-turmoil-rising-interest-rates-and-funding-cuts-threaten-tech-startups
-excerpt: "Despite high stock valuations and extravagant compensations at leading companies, the Bay Area's dominant sector is showing worrying..."
+excerpt: "In 2021, the tech sector saw rapid and sometimes unstable growth. Meta and Alphabet expanded their workforce massively as their primary revenue source, digital ad expenditure, skyrocketed."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

@@ -1,7 +1,7 @@
 ---
 title: "Oracle Shares Slide as Blue Owl Exits Talks on $10B Michigan Data Center"
 slug: oracle-shares-slide-as-blue-owl-exits-talks-on-10b-michigan-data-center
-excerpt: "Oracle shares fell roughly 5% on Wednesday following reports that Blue Owl Capital has stepped away from discussions to help fund a planned $10 billion data center in Michigan tied to OpenAI. While Oracle and its development partner pushed back on claims that the project is in jeopardy, the news reignited investor concerns about the mounting costs and financing structures behind the AI-driven data center boom. According to the Financial Times , Blue Owl had been in talks to back a 1-gigawatt..."
+excerpt: "According to the _Financial Times_, Blue Owl had been in talks to back a 1-gigawatt data center in Saline Township, Michigan, intended to support OpenAI workloads."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

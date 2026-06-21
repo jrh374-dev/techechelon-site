@@ -1,7 +1,7 @@
 ---
 title: "Bernie Sanders Calls AI the Most Consequential Technology Ever, Urges Data Center Slowdown"
 slug: bernie-sanders-calls-ai-the-most-consequential-technology-ever-urges-data-center-slowdown
-excerpt: "Sen. Bernie Sanders said artificial intelligence represents the “most consequential technology in the history of humanity,” warning that its rapid development is outpacing public debate and democratic oversight. Speaking Sunday on State of the Union, Sanders argued that Congress, the media, and the public have not sufficiently grappled with how AI will reshape the economy, labor markets, and society at large. “This technology will transform our country. It will transform the world,” Sanders..."
+excerpt: "Speaking Sunday on State of the Union, Sanders argued that Congress, the media, and the public have not sufficiently grappled with how AI will reshape the economy, labor markets, and society at large."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"

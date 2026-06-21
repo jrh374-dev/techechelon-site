@@ -1,7 +1,7 @@
 ---
 title: "Alibaba Launches Advanced AI Model Tongyi Qianwen 2.0, Expands Rivalry with Amazon and Microsoft"
 slug: alibaba-launches-advanced-ai-model-tongyi-qianwen-2-0-expands-rivalry-with-amazon-and-microsoft
-excerpt: "On Tuesday, Alibaba unveiled its most advanced artificial intelligence model yet, stepping up to compete with leading U.S. technology..."
+excerpt: "The Chinese e-commerce and cloud computing behemoth announced the release of Tongyi Qianwen 2.0, its new sophisticated large language model (LLM). LLMs, trained on extensive data sets, are the technological foundation for generative AI tools like ChatGPT, developed by American company OpenAI."
 category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"

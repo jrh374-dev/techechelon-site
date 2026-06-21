@@ -1,7 +1,7 @@
 ---
 title: "Tesla's Q2 Vehicle Deliveries Surge 83%, Outpacing Wall Street Projections; Full Earnings on July 19"
 slug: tesla-s-q2-vehicle-deliveries-surge-83-outpacing-wall-street-projections-full-earnings-on-july-19
-excerpt: "Tesla unveiled its production and delivery figures for the second quarter on Sunday, reporting an 83 percent increase in deliveries..."
+excerpt: "From April to June, the company delivered a total of 466,140 vehicles, marking a 10 percent rise from the first quarter. Among these, 19,225 were Model S/X vehicles and 446,915 were Model 3/Y vehicles."
 category: business
 author: "Sara Montes de Oca"
 authorInitials: "SM"

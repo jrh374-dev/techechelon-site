@@ -1,7 +1,7 @@
 ---
 title: "Elon Musk Advocates for New District Attorney in Travis County, Texas Amid Business Relocations"
 slug: elon-musk-advocates-for-new-district-attorney-in-travis-county-texas-amid-business-relocations
-excerpt: "Elon Musk, the CEO of Tesla, is urging Travis County, Texas residents to vote in the upcoming Democratic primary to remove the current..."
+excerpt: "Musk shared a message from Jeremy Sylestine, a defense attorney running against the incumbent DA Jose Garza, on X (previously Twitter), emphasizing the importance of electing a new DA for the greater Austin area, where Tesla's headquarters is based."
 category: politics
 author: "Sara Montes de Oca"
 authorInitials: "SM"
