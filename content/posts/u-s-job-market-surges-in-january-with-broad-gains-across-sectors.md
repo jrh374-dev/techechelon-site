@@ -3,8 +3,8 @@ title: "U.S. Job Market Surges in January with Broad Gains Across Sectors"
 slug: u-s-job-market-surges-in-january-with-broad-gains-across-sectors
 excerpt: "Leading the employment surge was the health care and social assistance sector, contributing over 100,000 jobs. When factoring in private education, often grouped with the aforementioned sectors by some analysts, the figure rises to 112,000."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-02-02T17:02:18.474Z"
 coverImage: "https://static.wixstatic.com/media/e37254_3cd6012b2abe44d297fcd70ee996d9a3~mv2.jpeg"
 readTime: 1

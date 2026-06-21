@@ -3,8 +3,8 @@ title: "OpenAI Acquires Promptfoo to Strengthen Security for AI Agents"
 slug: openai-acquires-promptfoo-to-strengthen-security-for-ai-agents
 excerpt: "Promptfoo specializes in tools that allow developers to test, validate, and secure complex AI systems before they are deployed."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-03-10T05:17:29.088Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e41b5e4d6cd04496b0a56729edae356e~mv2.jpg"
 readTime: 2

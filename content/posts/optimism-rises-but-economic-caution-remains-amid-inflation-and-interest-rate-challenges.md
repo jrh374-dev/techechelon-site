@@ -3,8 +3,8 @@ title: "Optimism Rises but Economic Caution Remains Amid Inflation and Interest 
 slug: optimism-rises-but-economic-caution-remains-amid-inflation-and-interest-rate-challenges
 excerpt: "Daniel Zhao of Glassdoor observed that the job market is aiding in achieving a gentle economic slowdown, noting the report's uneventful nature as a positive shift after years of more tumultuous updates."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-12-10T04:48:50.971Z"
 coverImage: "https://static.wixstatic.com/media/e37254_69894adaff954e209ec9e00267fa5099~mv2.jpeg"
 readTime: 2

@@ -3,8 +3,8 @@ title: "Schools Face Increasing Cyber Risks and Need for Protection"
 slug: schools-face-increasing-cyber-risks-and-need-for-protection
 excerpt: "In 2022, nearly 2,000 schools across 45 U.S. districts were targeted by cyber attacks, almost doubling the number from the previous year, as reported by Emsisoft."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-12-30T05:25:15.649Z"
 coverImage: "https://static.wixstatic.com/media/e37254_8d2fbb564bea4b4c80d31e92f79cc316~mv2.jpeg"
 readTime: 2

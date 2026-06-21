@@ -3,8 +3,8 @@ title: "S&P 500 Ends 2025 With 17% Gain"
 slug: s-p-500-ends-2025-with-17-gain
 excerpt: "The S&P 500 hovered near flat in early trading and remains on track to finish the year up roughly 17%, marking its third consecutive year of double-digit gains."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2025-12-31T14:36:30.843Z"
 coverImage: "https://static.wixstatic.com/media/e37254_951a90b49348414685f478527c8aed0a~mv2.jpg"
 readTime: 2

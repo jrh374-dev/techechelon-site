@@ -3,8 +3,8 @@ title: "Cotton Introduces Bill Requiring Location Tracking for AI Chip Exports"
 slug: cotton-introduces-bill-requiring-location-tracking-for-ai-chip-exports
 excerpt: "The proposed law, called the Chip Security Act, would direct the Commerce Department to require a “location verification mechanism” on AI chips covered by export restrictions."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-05-09T19:01:37.922Z"
 coverImage: "https://static.wixstatic.com/media/e37254_199c54c84196449189e6947c0541e6dc~mv2.avif"
 readTime: 1

@@ -3,8 +3,8 @@ title: "Trump Predicts Economic ‘Transition Period,’ Urges Investors to Look
 slug: trump-predicts-economic-transition-period-urges-investors-to-look-beyond-market-volatility
 excerpt: "Amid growing concerns over tariffs, a cooling labor market, and signs of slowing growth, Trump reassured the public that these disruptions are temporary and necessary for long-term prosperity."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2025-03-10T18:48:36.754Z"
 coverImage: "https://static.wixstatic.com/media/e37254_f3d9d8823c124e6b879911626e8452c2~mv2.avif"
 readTime: 2

@@ -3,8 +3,8 @@ title: "House Judiciary Committee Intensifies Probe Into Disinformation Efforts 
 slug: house-judiciary-committee-intensifies-probe-into-disinformation-efforts-of-biden-administration
 excerpt: "Chairman Jim Jordan (R-Ohio) emphasized the need to understand the perceived collusion and coercion between the executive branch and companies."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-08-18T20:19:03.718Z"
 coverImage: "https://static.wixstatic.com/media/e37254_4f1c59336fe4463cb9f365611c44976f~mv2.jpeg"
 readTime: 1

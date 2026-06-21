@@ -3,8 +3,8 @@ title: "US Labor Market Adds 209,000 Jobs in June: Stable Wage Growth and Potent
 slug: us-labor-market-adds-209-000-jobs-in-june-stable-wage-growth-and-potential-inflation-concerns
 excerpt: "Although the figure is slightly below the anticipated 225,000 jobs by economists, it indicates a slowdown from the revised figures of the previous month, which dropped by 33,000 to 306,000."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-07-07T13:30:03.199Z"
 coverImage: "https://static.wixstatic.com/media/e37254_8632050811ed4403b71fed3b99ae5b4b~mv2.jpeg"
 readTime: 1

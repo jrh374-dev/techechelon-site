@@ -3,8 +3,8 @@ title: "SpaceX Sets $135 IPO Price at $1.77 Trillion Valuation, Targeting June 1
 slug: spacex-sets-135-ipo-price-at-1-77-trillion-valuation-targeting-june-12-nasdaq-debut
 excerpt: "SpaceX set a fixed IPO price of $135 per share, targeting a $1.77 trillion valuation and a June 12 Nasdaq debut — which would make it the largest IPO in U.S. history, more than triple the size of Alibaba's record offering."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-03T21:07:19.268Z"
 coverImage: "https://static.wixstatic.com/media/e37254_49bea83b54a343728a282fc4d26b6e9c~mv2.jpg"
 readTime: 2

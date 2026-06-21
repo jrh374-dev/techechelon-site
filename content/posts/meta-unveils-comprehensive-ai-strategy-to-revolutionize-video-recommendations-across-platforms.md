@@ -3,8 +3,8 @@ title: "Meta Unveils Comprehensive AI Strategy to Revolutionize Video Recommenda
 slug: meta-unveils-comprehensive-ai-strategy-to-revolutionize-video-recommendations-across-platforms
 excerpt: "Tom Alison, Facebook's chief, highlighted during the Morgan Stanley tech event in San Francisco that this initiative is a key component of Meta's technological strategy extending through 2026."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2024-03-07T02:21:15.974Z"
 coverImage: "https://static.wixstatic.com/media/e37254_7841dd96511e49d68299ac380108dc39~mv2.png"
 readTime: 1

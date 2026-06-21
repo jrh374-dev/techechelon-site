@@ -3,8 +3,8 @@ title: "OpenAI Signs $38 Billion Compute Deal with Amazon, Breaking From Microso
 slug: openai-signs-38-billion-compute-deal-with-amazon-breaking-from-microsoft-exclusivity
 excerpt: "Shares of Amazon jumped roughly 5% Monday after the announcement, underscoring the significance of the partnership for both companies. The deal immediately allows OpenAI to run workloads on AWS infrastructure while Amazon builds additional dedicated capacity for the ChatGPT maker."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2025-11-03T16:04:13.295Z"
 coverImage: "https://static.wixstatic.com/media/e37254_d2bd4cfc733340afaa2a22b51dd80ab8~mv2.png"
 readTime: 2

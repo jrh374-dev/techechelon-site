@@ -3,8 +3,8 @@ title: "Google’s Gemini Live Demo Showcases AI Prowess in Smartphones"
 slug: google-s-gemini-live-demo-showcases-ai-prowess-in-smartphones
 excerpt: "During the event held at Google's Bay View campus in Mountain View, California, a product director named David Citron experienced a momentary hiccup when a live demo temporarily froze."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-08-14T18:29:45.782Z"
 coverImage: "https://static.wixstatic.com/media/e37254_2bd300b12d2a459a9c6714ce12f22905~mv2.jpg"
 readTime: 1

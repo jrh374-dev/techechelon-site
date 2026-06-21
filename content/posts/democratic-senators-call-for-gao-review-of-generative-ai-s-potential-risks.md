@@ -3,8 +3,8 @@ title: "Democratic Senators Call for GAO Review of Generative AI's Potential Ris
 slug: democratic-senators-call-for-gao-review-of-generative-ai-s-potential-risks
 excerpt: "The senators urged the impartial government body in their letter dispatched on Friday to perform an exhaustive technological analysis of the hazards associated with generative AI tools, as well as strategies to lessen these risks."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-06-26T23:19:09.790Z"
 coverImage: "https://static.wixstatic.com/media/e37254_12d6baa6445d4dbdbbab9b97ac12ad98~mv2.jpeg"
 readTime: 1

@@ -3,8 +3,8 @@ title: "GitHub Outages Undercut Microsoft's Lead in AI Coding as Rivals Gain Gro
 slug: github-outages-undercut-microsoft-s-lead-in-ai-coding-as-rivals-gain-ground
 excerpt: "Repeated outages at Microsoft's GitHub unit, fueled by a delayed migration to Azure and surging AI-driven usage, have opened the door for rivals like Cursor and Anthropic's Claude Code to chip away at the platform's dominance among developers."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-22T13:01:44.672Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e597543579f2461c98b9fb5bea4c51d1~mv2.jpg"
 readTime: 3

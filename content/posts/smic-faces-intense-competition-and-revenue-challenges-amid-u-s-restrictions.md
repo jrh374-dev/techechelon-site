@@ -3,8 +3,8 @@ title: "SMIC Faces Intense Competition and Revenue Challenges Amid U.S. Restrict
 slug: smic-faces-intense-competition-and-revenue-challenges-amid-u-s-restrictions
 excerpt: "During its earnings call, SMIC stated, \"There is increasing competition in the industry, and pricing for commodity products generally aligns with market trends.\""
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2024-05-10T15:15:32.041Z"
 coverImage: "https://static.wixstatic.com/media/e37254_70523d17aef74dcc8ae5179f762dc45b~mv2.jpeg"
 readTime: 2

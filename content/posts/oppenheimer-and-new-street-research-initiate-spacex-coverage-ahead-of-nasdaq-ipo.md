@@ -3,8 +3,8 @@ title: "Oppenheimer and New Street Research Initiate SpaceX Coverage Ahead of Na
 slug: oppenheimer-and-new-street-research-initiate-spacex-coverage-ahead-of-nasdaq-ipo
 excerpt: "Oppenheimer set a $190 price target with an outperform rating, while New Street Research issued a $165 target ahead of SpaceX's Nasdaq debut on Friday, with both firms projecting substantial gains from the $135 IPO price."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-11T11:04:49.577Z"
 coverImage: "https://static.wixstatic.com/media/e37254_22b377dc996d4f6c91e8152074145d70~mv2.jpg"
 readTime: 2

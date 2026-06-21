@@ -3,8 +3,8 @@ title: "Fox Corp. to Acquire Roku for $22 Billion in Cash and Stock Deal"
 slug: fox-corp-to-acquire-roku-for-22-billion-in-cash-and-stock-deal
 excerpt: "Fox Corp. has agreed to acquire Roku for approximately $22 billion in a cash and stock deal, combining the company's Fox News, sports networks, and Tubi streamer with Roku's connected-TV platform and 100 million streaming households globally."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-15T13:07:51.831Z"
 coverImage: "https://static.wixstatic.com/media/e37254_ff3497ca700b405ba9806eca4ba33182~mv2.jpg"
 readTime: 2

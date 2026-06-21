@@ -3,8 +3,8 @@ title: "U.S. Surpasses Growth Expectations in 2023, Easing Inflation Concerns"
 slug: u-s-surpasses-growth-expectations-in-2023-easing-inflation-concerns
 excerpt: "There was also notable progress in controlling inflation. Core personal consumption expenditures (PCE) prices, a key inflation metric favored by the Federal Reserve, increased by 2%, with the overall rate at 1.7% for the quarter. Yearly, the PCE price index grew 2.7%, a reduction from the previous year’s 5."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2024-01-25T17:20:31.754Z"
 coverImage: "https://static.wixstatic.com/media/e37254_41179fe6a12942e1884c40c70dc5ceaa~mv2.jpeg"
 readTime: 2

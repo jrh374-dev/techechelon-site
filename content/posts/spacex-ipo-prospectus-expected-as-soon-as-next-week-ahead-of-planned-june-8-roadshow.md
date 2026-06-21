@@ -3,8 +3,8 @@ title: "SpaceX IPO Prospectus Expected as Soon as Next Week Ahead of Planned Jun
 slug: spacex-ipo-prospectus-expected-as-soon-as-next-week-ahead-of-planned-june-8-roadshow
 excerpt: "SpaceX is preparing to disclose its IPO prospectus as early as next week, with a roadshow targeting June 8, as the company moves toward what is expected to be the largest share offering in history following its $1.25 trillion merger with xAI."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-15T01:02:12.871Z"
 coverImage: "https://static.wixstatic.com/media/e37254_4a8b962b5404405093e0a26939581076~mv2.jpg"
 readTime: 2

@@ -3,8 +3,8 @@ title: "Microsoft Lets Office Users Remove Floating Copilot Button After User Ba
 slug: microsoft-lets-office-users-remove-floating-copilot-button-after-user-backlash
 excerpt: "Microsoft will update Word, Excel, and PowerPoint next week to let users move a widely criticized floating Copilot button to the ribbon, responding to complaints that the element obstructed cells and couldn't be fully disabled."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-22T11:03:12.594Z"
 coverImage: "https://static.wixstatic.com/media/e37254_b50093519a87481b90ee5b28ce721aa0~mv2.jpg"
 readTime: 2

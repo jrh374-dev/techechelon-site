@@ -3,8 +3,8 @@ title: "HPE Surges 30% After Second-Quarter Revenue Jumps 40%, Posting Biggest E
 slug: hpe-surges-30-after-second-quarter-revenue-jumps-40-posting-biggest-eps-beat-since-2018
 excerpt: "Hewlett Packard Enterprise shares surged 30% on Monday after the company reported second-quarter revenue of $10.68 billion — up 40% year over year — and posted its biggest earnings-per-share beat since February 2018, fueled by record server demand."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-01T21:04:44.652Z"
 coverImage: "https://static.wixstatic.com/media/e37254_6e1350370d7047eea3dc34fd177600b6~mv2.jpg"
 readTime: 2

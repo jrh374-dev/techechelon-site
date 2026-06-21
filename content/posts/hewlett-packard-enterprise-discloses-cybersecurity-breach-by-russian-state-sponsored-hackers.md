@@ -3,8 +3,8 @@ title: "Hewlett Packard Enterprise Discloses Cybersecurity Breach by Russian Sta
 slug: hewlett-packard-enterprise-discloses-cybersecurity-breach-by-russian-state-sponsored-hackers
 excerpt: "According to a regulatory filing by HPE, the breach was first identified in December 2023 and involved unauthorized access and data extraction from a small number of HPE email accounts since May 2023. These accounts belonged to employees across various departments including cybersecurity and business segments."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-01-25T15:08:16.169Z"
 coverImage: "https://static.wixstatic.com/media/e37254_fc22d3bea04a4f02a3fa246dafa19833~mv2.jpg"
 readTime: 1

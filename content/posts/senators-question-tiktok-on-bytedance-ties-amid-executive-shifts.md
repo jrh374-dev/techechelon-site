@@ -3,8 +3,8 @@ title: "Senators Question TikTok on ByteDance Ties Amid Executive Shifts"
 slug: senators-question-tiktok-on-bytedance-ties-amid-executive-shifts
 excerpt: "These transitions have raised eyebrows among U.S. TikTok employees, especially since TikTok CEO Shou Zi Chew had previously emphasized to Congress the distinction between TikTok and ByteDance."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-10-05T13:07:10.621Z"
 coverImage: "https://static.wixstatic.com/media/e37254_d8cda691adcd42adb01f53f0d4ae4cc3~mv2.jpeg"
 readTime: 1

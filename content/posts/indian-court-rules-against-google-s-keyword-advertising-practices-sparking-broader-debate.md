@@ -3,8 +3,8 @@ title: "Indian Court Rules Against Google's Keyword Advertising Practices, Spark
 slug: indian-court-rules-against-google-s-keyword-advertising-practices-sparking-broader-debate
 excerpt: "A Delhi High Court found Google liable for trademark infringement over keyword advertising practices in a ruling involving bathroom fittings brand Hindware, awarding ₹3 million in damages and prompting prominent Indian founders to renew criticism of the search giant's ad platform."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-30T15:07:23.493Z"
 coverImage: "https://static.wixstatic.com/media/e37254_1444f7ab128e42478453a2dd47dcf902~mv2.jpg"
 readTime: 3

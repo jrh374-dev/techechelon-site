@@ -3,8 +3,8 @@ title: "Trump Administration Signs AI Safety Testing Agreements With Google Deep
 slug: trump-administration-signs-ai-safety-testing-agreements-with-google-deepmind-microsoft-and-xai
 excerpt: "The Trump administration has signed voluntary AI safety testing agreements with Google DeepMind, Microsoft, and xAI, reversing its earlier stance on AI oversight after Anthropic withheld its Claude Mythos model over security concerns. Critics warn the program lacks defined testing standards."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-06T23:02:08.516Z"
 coverImage: "https://static.wixstatic.com/media/e37254_b7db7cb03ce840b89c4745420bdaae67~mv2.jpg"
 readTime: 3

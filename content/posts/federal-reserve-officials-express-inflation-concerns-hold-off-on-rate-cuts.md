@@ -3,8 +3,8 @@ title: "Federal Reserve Officials Express Inflation Concerns, Hold Off on Rate C
 slug: federal-reserve-officials-express-inflation-concerns-hold-off-on-rate-cuts
 excerpt: "The minutes from the Federal Open Market Committee's April 30-May 1 meeting, released on Wednesday, revealed policymakers' unease about the timing for easing monetary policy."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2024-05-22T19:11:33.501Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e9f5377c8f7044a1b2be8d518483a15a~mv2.jpeg"
 readTime: 3

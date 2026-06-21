@@ -3,8 +3,8 @@ title: "Senate Approves Deal to End Historic Shutdown, Puts Pressure on the Hous
 slug: senate-approves-deal-to-end-historic-shutdown-puts-pressure-on-the-house
 excerpt: "The funding measure — approved 60–40 with support from nearly all Republicans and a small group of centrist Democrats — would keep the government operating through January."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2025-11-11T05:59:05.961Z"
 coverImage: "https://static.wixstatic.com/media/e37254_f53c115b5c2041d3a68abc76645a48ca~mv2.jpg"
 readTime: 2

@@ -3,8 +3,8 @@ title: "Ransomware Evolution: UK Report Highlights Rapid Growth and Persistent T
 slug: ransomware-evolution-uk-report-highlights-rapid-growth-and-persistent-threats
 excerpt: "A decade since the initiation of the Cryptolocker attack, lax online security has allowed the ransomware trade to flourish. Criminals have developed an ecosystem where they can exchange software vulnerabilities, initiate franchises for newcomers, and establish platforms for trading access to compromised enterprises."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-09-11T18:34:34.376Z"
 coverImage: "https://static.wixstatic.com/media/e37254_7441276bade44804b28529c8ac000c72~mv2.jpeg"
 readTime: 2

@@ -3,8 +3,8 @@ title: "Hacker Groups Launch Cyberattacks Amid Israel-Gaza Conflict"
 slug: hacker-groups-launch-cyberattacks-amid-israel-gaza-conflict
 excerpt: "On the messaging platform Telegram, these groups claimed to have infiltrated various Israeli systems, including websites, the national electric grid, a rocket alert application, and even the Iron Dome missile defense mechanism."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-10-16T17:13:33.705Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e992648003b1443da393608c853e0ec2~mv2.webp"
 readTime: 2

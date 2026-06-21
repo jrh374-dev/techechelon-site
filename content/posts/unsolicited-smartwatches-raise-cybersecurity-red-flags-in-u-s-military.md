@@ -3,8 +3,8 @@ title: "Unsolicited Smartwatches Raise Cybersecurity Red Flags in U.S. Military"
 slug: unsolicited-smartwatches-raise-cybersecurity-red-flags-in-u-s-military
 excerpt: "The Army's Criminal Investigation Division (CID) issued a warning last week that these devices could potentially harbor malware. The covert sender of these smartwatches might gain \"access to saved data, such as banking details, contact lists, and login credentials,\" the CID said."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-07-01T04:46:21.430Z"
 coverImage: "https://static.wixstatic.com/media/e37254_fee2bd87a1eb4a4c88ab1edbde5585e1~mv2.jpeg"
 readTime: 1

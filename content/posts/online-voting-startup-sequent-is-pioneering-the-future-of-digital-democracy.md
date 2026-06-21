@@ -3,8 +3,8 @@ title: "Online Voting Startup Sequent is Pioneering the Future of Digital Democr
 slug: online-voting-startup-sequent-is-pioneering-the-future-of-digital-democracy
 excerpt: "*From left to right, David Ruescas Co-Founder & Head of Research; Eduardo Robles Co-Founder & CTO; Shai Bargil Co-Founder & CEO.*"
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2024-08-28T17:18:15.246Z"
 coverImage: "https://static.wixstatic.com/media/e37254_6907b2db39434d16984e78821f223d80~mv2.jpg"
 readTime: 5

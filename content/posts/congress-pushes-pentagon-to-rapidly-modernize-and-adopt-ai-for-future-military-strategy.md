@@ -3,8 +3,8 @@ title: "Congress Pushes Pentagon to Rapidly Modernize and Adopt AI for Future Mi
 slug: congress-pushes-pentagon-to-rapidly-modernize-and-adopt-ai-for-future-military-strategy
 excerpt: "Experts widely agree that the US military's future competitiveness hinges on its speed in acquiring and deploying AI and other state-of-the-art technologies. These tools are crucial to enhancing intelligence gathering, operating autonomous weapons, improving surveillance platforms, and advancing robotic vehicles."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-06-28T16:56:04.448Z"
 coverImage: "https://static.wixstatic.com/media/e37254_59ed71cd891248948ea53b510840c000~mv2.jpeg"
 readTime: 2

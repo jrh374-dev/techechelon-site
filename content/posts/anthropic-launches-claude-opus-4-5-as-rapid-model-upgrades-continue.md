@@ -3,8 +3,8 @@ title: "Anthropic Launches Claude Opus 4.5 as Rapid Model Upgrades Continue"
 slug: anthropic-launches-claude-opus-4-5-as-rapid-model-upgrades-continue
 excerpt: "The new flagship model is built for coding, computer use, and high-complexity enterprise work, targeting professional developers, data analysts, consultants, accountants, and other heavy productivity users."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-11-24T19:15:25.940Z"
 coverImage: "https://static.wixstatic.com/media/e37254_17ad5642ab054aefad8ff34f05d0056a~mv2.avif"
 readTime: 1

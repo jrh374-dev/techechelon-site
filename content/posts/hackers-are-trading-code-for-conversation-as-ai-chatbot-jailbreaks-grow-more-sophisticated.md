@@ -3,8 +3,8 @@ title: "Hackers Are Trading Code for Conversation as AI Chatbot Jailbreaks Grow 
 slug: hackers-are-trading-code-for-conversation-as-ai-chatbot-jailbreaks-grow-more-sophisticated
 excerpt: "Researchers at AI red-teaming firm Mindgard say they \"gaslit\" Claude into producing prohibited content, underscoring a broader shift in which hackers are exploiting chatbot behavior through psychological manipulation rather than technical exploits."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-24T15:04:12.360Z"
 coverImage: "https://static.wixstatic.com/media/e37254_992b24f211624037935f8a242340bc0a~mv2.jpg"
 readTime: 3

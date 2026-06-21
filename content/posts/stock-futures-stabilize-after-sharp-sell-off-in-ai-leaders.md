@@ -3,8 +3,8 @@ title: "Stock Futures Stabilize After Sharp Sell-Off in AI Leaders"
 slug: stock-futures-stabilize-after-sharp-sell-off-in-ai-leaders
 excerpt: "Dow futures ticked up roughly 0.1%, while S&P 500 futures slipped 0.1%. Nasdaq-100 futures fell nearly 0.3% as traders continued rotating out of megacap tech."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-11-20T23:21:07.953Z"
 coverImage: "https://static.wixstatic.com/media/e37254_48ff456b7ad24705b741ee055b1c5adb~mv2.jpg"
 readTime: 1

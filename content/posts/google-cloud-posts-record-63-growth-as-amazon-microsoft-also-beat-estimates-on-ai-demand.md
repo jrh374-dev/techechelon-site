@@ -3,8 +3,8 @@ title: "Google Cloud Posts Record 63% Growth as Amazon, Microsoft Also Beat Esti
 slug: google-cloud-posts-record-63-growth-as-amazon-microsoft-also-beat-estimates-on-ai-demand
 excerpt: "Google Cloud posted 63% revenue growth to $20.03 billion in the first quarter — its fastest rate on record — while Amazon Web Services and Microsoft Azure also topped analyst estimates, reflecting surging demand for AI infrastructure."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-04-30T17:04:24.349Z"
 coverImage: "https://static.wixstatic.com/media/e37254_837d2a26392b48d5a60fc64ba02dc4f2~mv2.jpg"
 readTime: 3

@@ -3,8 +3,8 @@ title: "Microsoft CTO Offers to Match Salaries for OpenAI Staff Amid Leadership 
 slug: microsoft-cto-offers-to-match-salaries-for-openai-staff-amid-leadership-turmoil-resignation-threats
 excerpt: "In a message on X (formerly Twitter), Scott extended an invitation to these employees to join Microsoft's new AI Research Lab, promising equivalent compensation and a shared mission."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-11-21T17:07:39.273Z"
 coverImage: "https://static.wixstatic.com/media/e37254_588ab0c11b0149d28cebce64a8f778b6~mv2.jpeg"
 readTime: 1

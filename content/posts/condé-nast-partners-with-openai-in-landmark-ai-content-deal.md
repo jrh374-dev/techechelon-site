@@ -3,8 +3,8 @@ title: "Condé Nast Partners with OpenAI in Landmark AI Content Deal"
 slug: condé-nast-partners-with-openai-in-landmark-ai-content-deal
 excerpt: "In a memo to staff on Tuesday, Condé Nast CEO Roger Lynch described the multiyear agreement as a critical step in adapting to evolving technological landscapes."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-08-21T19:05:09.453Z"
 coverImage: "https://static.wixstatic.com/media/e37254_6564157b81234ed68004d0fe0a797ac0~mv2.png"
 readTime: 1

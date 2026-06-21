@@ -3,8 +3,8 @@ title: "AMD Reports $10.25 Billion in Q1 Revenue as Data Center Sales Surge 57%"
 slug: amd-reports-10-25-billion-in-q1-revenue-as-data-center-sales-surge-57
 excerpt: "Advanced Micro Devices reported Q1 revenue of $10.25 billion, beating estimates, as data center sales surged 57% to $5.8 billion. The company's Q2 guidance of $11.2 billion also topped Wall Street expectations, sending shares up roughly 15% after hours."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-06T01:00:57.065Z"
 coverImage: "https://static.wixstatic.com/media/e37254_68cd5f0e0a7e40e082b5c9ba7adf1ce9~mv2.jpg"
 readTime: 3

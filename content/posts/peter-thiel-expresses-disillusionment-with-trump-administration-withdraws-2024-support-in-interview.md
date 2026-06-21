@@ -3,8 +3,8 @@ title: "Peter Thiel Expresses Disillusionment with Trump Administration, Withdra
 slug: peter-thiel-expresses-disillusionment-with-trump-administration-withdraws-2024-support-in-interview
 excerpt: "Thiel, who has been a prominent supporter and donor to Trump, stated that he will not be contributing financially to Trump or any other candidate in the upcoming 2024 presidential campaign."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-11-10T20:35:42.944Z"
 coverImage: "https://static.wixstatic.com/media/e37254_6df45f08a28c472792be578b98c10063~mv2.jpeg"
 readTime: 1

@@ -3,8 +3,8 @@ title: "ShinyHunters Defaces Canvas Login Portals at 330 Schools in Extortion Es
 slug: shinyhunters-defaces-canvas-login-portals-at-330-schools-in-extortion-escalation
 excerpt: "The ShinyHunters extortion gang defaced Canvas login portals at roughly 330 educational institutions on May 7, demanding a ransom by May 12 or threatening to leak 280 million stolen student and staff records."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-07T23:02:40.007Z"
 coverImage: "https://static.wixstatic.com/media/e37254_b9a51f6c05b34df5b1ef98aedb66dcde~mv2.jpeg"
 readTime: 2

@@ -3,8 +3,8 @@ title: "OpenAI Introduces Age Prediction for ChatGPT Consumer Accounts"
 slug: openai-introduces-age-prediction-for-chatgpt-consumer-accounts
 excerpt: "The model uses a mix of account-level and behavioral signals, including usage patterns over time, account age, typical activity hours, and a user’s stated age, according to the company. OpenAI said the system is designed to flag accounts likely belonging to minors without requiring users to self-report."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-01-21T02:08:27.885Z"
 coverImage: "https://static.wixstatic.com/media/e37254_2f2bf85874a848de8cdbffb807d99543~mv2.webp"
 readTime: 2

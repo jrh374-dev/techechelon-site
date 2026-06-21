@@ -3,8 +3,8 @@ title: "ChatGPT's Struggle Against Google's Dominance: BoA Analysis"
 slug: chatgpt-s-struggle-against-google-s-dominance-boa-analysis
 excerpt: "The analysts highlighted that the number of downloads for both ChatGPT and Microsoft's Bing have been declining in recent weeks, based on data from Sensor Tower. Justin Post, a BofA analyst, confirmed this in a recent note."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-07-05T21:58:24.782Z"
 coverImage: "https://static.wixstatic.com/media/e37254_1988dd5dcc544bb1849c76c09aae2a9c~mv2.jpeg"
 readTime: 2

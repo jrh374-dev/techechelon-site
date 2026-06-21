@@ -3,8 +3,8 @@ title: "EU Weighs Restricting U.S. Cloud Platforms From Processing Sensitive Gov
 slug: eu-weighs-restricting-u-s-cloud-platforms-from-processing-sensitive-government-data
 excerpt: "The European Commission is preparing a \"Tech Sovereignty Package\" due May 27 that could restrict U.S. cloud providers from handling sensitive government data across EU member states, according to two officials familiar with the discussions."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-07T11:03:28.977Z"
 coverImage: "https://static.wixstatic.com/media/e37254_847038f546c74191a3d66caa6ff53b64~mv2.jpg"
 readTime: 3

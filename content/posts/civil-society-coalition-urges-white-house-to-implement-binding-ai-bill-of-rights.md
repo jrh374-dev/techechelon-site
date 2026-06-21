@@ -3,8 +3,8 @@ title: "Civil Society Coalition Urges White House to Implement Binding AI Bill o
 slug: civil-society-coalition-urges-white-house-to-implement-binding-ai-bill-of-rights
 excerpt: "The group is advocating for the Biden administration to transform the AI Bill of Rights, a blueprint of which was published last October, into official government policy governing the use of AI by federal agencies, contractors, and recipients of federal grants."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-08-04T13:08:21.212Z"
 coverImage: "https://static.wixstatic.com/media/e37254_db838a3a96764df9a2249d5f7f6a4c8c~mv2.jpeg"
 readTime: 2

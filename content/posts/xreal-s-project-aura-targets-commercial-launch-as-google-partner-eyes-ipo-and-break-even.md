@@ -3,8 +3,8 @@ title: "Xreal's Project Aura Targets Commercial Launch as Google Partner Eyes IP
 slug: xreal-s-project-aura-targets-commercial-launch-as-google-partner-eyes-ipo-and-break-even
 excerpt: "Xreal CEO Chi Xu showcased Project Aura — wired OLED smart glasses tethered to a pocket-sized computing puck — at Google I/O, with a commercial launch planned for later in 2026 and an IPO expected before year's end."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-24T19:05:36.469Z"
 coverImage: "https://static.wixstatic.com/media/e37254_da164cfe14744030b06290a34806e1e2~mv2.jpeg"
 readTime: 2

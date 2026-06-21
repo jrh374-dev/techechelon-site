@@ -3,8 +3,8 @@ title: "Coinbase Launches AI Agent Platform to Execute Crypto Trades and Autonom
 slug: coinbase-launches-ai-agent-platform-to-execute-crypto-trades-and-autonomous-payments
 excerpt: "Coinbase launched Coinbase for Agents on Thursday, a platform that enables AI systems like ChatGPT and Claude to execute crypto trades and make autonomous payments on behalf of users, using the company's x402 machine-to-machine payments protocol."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-11T17:06:50.391Z"
 coverImage: "https://static.wixstatic.com/media/e37254_747babfa5966454ea0f366b1c8f37d4e~mv2.jpeg"
 readTime: 3

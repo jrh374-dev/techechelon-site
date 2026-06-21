@@ -3,8 +3,8 @@ title: "Reliance Industries Unveils AI Phone Assistant, Home Display, and Jio IP
 slug: reliance-industries-unveils-ai-phone-assistant-home-display-and-jio-ipo-plans-at-annual-shareholde
 excerpt: "Reliance Industries unveiled Jio Call Agent, an AI phone assistant for its 500 million-plus subscribers, alongside a home display device and sector-specific AI tools, while disclosing that Jio Platforms' board has approved a draft IPO prospectus for up to 270 million new shares."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-20T11:02:50.141Z"
 coverImage: "https://static.wixstatic.com/media/e37254_207c17d508f84f61b585175222c3efb5~mv2.jpeg"
 readTime: 3

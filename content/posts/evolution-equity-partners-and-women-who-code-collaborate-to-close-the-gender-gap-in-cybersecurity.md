@@ -3,8 +3,8 @@ title: "Evolution Equity Partners and Women Who Code Collaborate to Close the Ge
 slug: evolution-equity-partners-and-women-who-code-collaborate-to-close-the-gender-gap-in-cybersecurity
 excerpt: "This collaboration was inaugurated with Evolution Equity Partners making a significant donation to Women Who Code."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-09-20T15:45:39.948Z"
 coverImage: "https://static.wixstatic.com/media/e37254_8c0923d41a294c6f8b1434c1dcb16532~mv2.jpeg"
 readTime: 1

@@ -3,8 +3,8 @@ title: "Trump-Xi Summit Raises Questions on Chip Exports and Rare Earths as Tech
 slug: trump-xi-summit-raises-questions-on-chip-exports-and-rare-earths-as-tech-ceos-join-beijing-delegatio
 excerpt: "President Trump's Beijing summit with Xi Jinping brought a delegation of top U.S. tech executives including Jensen Huang, Tim Cook, and Elon Musk, with chip export controls and rare earth minerals access emerging as the defining unresolved issues of the visit."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-15T15:06:02.505Z"
 coverImage: "https://static.wixstatic.com/media/e37254_7dfd37c547174790a40199d60f7da72b~mv2.jpg"
 readTime: 3

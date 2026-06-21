@@ -3,8 +3,8 @@ title: "Ideawake Unveils Advanced Idea Management System, Boosting Innovation fo
 slug: ideawake-unveils-advanced-idea-management-system-boosting-innovation-for-top-us-firms
 excerpt: "The software's robust features allow companies to invite employees, customers, or suppliers to collaborate and address their most challenging problems. It provides a platform to collect targeted ideas through submission forms that can be embedded directly into a company's intranet or website."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-07-20T17:23:57.911Z"
 coverImage: "https://static.wixstatic.com/media/e37254_a7ea7c55769944fa911cd050e0961cb5~mv2.jpeg"
 readTime: 3

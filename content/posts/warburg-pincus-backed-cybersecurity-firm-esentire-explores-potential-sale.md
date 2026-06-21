@@ -3,8 +3,8 @@ title: "Warburg Pincus-backed Cybersecurity Firm eSentire Explores Potential Sal
 slug: warburg-pincus-backed-cybersecurity-firm-esentire-explores-potential-sale
 excerpt: "The company, backed by investment giants such as Warburg Pincus, Caisse de dépôt et placement du Québec (CDPQ), and Georgian, might be valued at around $1 billion, inclusive of debt."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-08-14T19:30:08.635Z"
 coverImage: "https://static.wixstatic.com/media/e37254_54ce10da0cab42c98926d58f2793fe9b~mv2.png"
 readTime: 1

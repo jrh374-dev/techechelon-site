@@ -3,8 +3,8 @@ title: "Ola Electric's Market Debut Sees 20% Surge, Valuing Company at $4.8 Bill
 slug: ola-electric-s-market-debut-sees-20-surge-valuing-company-at-4-8-billion
 excerpt: "The company, which had its shares debut at 76 rupees (about 91 cents) each, successfully raised over $730 million through its initial public offering (IPO) in Mumbai. This marks the largest IPO in India for the year, as reported by Reuters."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-08-09T20:55:27.913Z"
 coverImage: "https://static.wixstatic.com/media/e37254_ee61eea51a3b40009b9fb5678791bc94~mv2.jpg"
 readTime: 1

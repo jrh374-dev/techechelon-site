@@ -3,8 +3,8 @@ title: "Trump Tax Returns Shielded from IRS Enforcement Under $1.8 Billion DOJ S
 slug: trump-tax-returns-shielded-from-irs-enforcement-under-1-8-billion-doj-settlement
 excerpt: "An addendum to a $1.8 billion DOJ settlement shields President Trump's past tax returns and those of his family and business entities from IRS enforcement, drawing sharp criticism from Senate Democrats who say the provision violates federal law."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-20T13:07:22.336Z"
 coverImage: "https://static.wixstatic.com/media/e37254_a56b70dc9ac64ea4bfe706e19db4db26~mv2.jpg"
 readTime: 3

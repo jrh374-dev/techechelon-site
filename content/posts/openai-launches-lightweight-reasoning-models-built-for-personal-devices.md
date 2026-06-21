@@ -3,8 +3,8 @@ title: "OpenAI Launches Lightweight Reasoning Models Built for Personal Devices"
 slug: openai-launches-lightweight-reasoning-models-built-for-personal-devices
 excerpt: "These models, referred to as \"open-weight,\" allow developers full access to their trained parameters. While they stop short of being fully open-source — meaning the original training data and codebase are not included — they offer a high degree of flexibility for users who want to fine-tune the models or run them on private infrastructure."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2025-08-06T03:23:22.373Z"
 coverImage: "https://static.wixstatic.com/media/e37254_d7ed58ab40f8468aaaab2c4adb240a47~mv2.webp"
 readTime: 2

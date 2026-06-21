@@ -3,8 +3,8 @@ title: "Mobileye Forecasts Sharp Decline in Orders, Stock Tumbles Following Inve
 slug: mobileye-forecasts-sharp-decline-in-orders-stock-tumbles-following-inventory-surplus-announcement
 excerpt: "The company disclosed in its preliminary annual report that its clients currently hold excessive inventories. Post global supply chain disruptions, these automakers had procured large quantities of Mobileye's chips to mitigate any future scarcity of parts."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-01-05T06:04:21.712Z"
 coverImage: "https://static.wixstatic.com/media/e37254_92458e9b44a640e3bfd758ac1d393687~mv2.jpeg"
 readTime: 1

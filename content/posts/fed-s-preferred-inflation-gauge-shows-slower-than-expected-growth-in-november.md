@@ -3,8 +3,8 @@ title: "Fed’s Preferred Inflation Gauge Shows Slower-Than-Expected Growth in N
 slug: fed-s-preferred-inflation-gauge-shows-slower-than-expected-growth-in-november
 excerpt: "This was slightly below the Dow Jones forecast of 2.5% but still above the Fed’s 2% target. Core PCE, which excludes food and energy prices and is considered a more stable measure of long-term inflation trends, also increased by 0.1% month-over-month and 2.8% from a year ago, with both figures falling 0."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2024-12-20T15:57:04.042Z"
 coverImage: "https://static.wixstatic.com/media/e37254_606fa250c18d4d43be3913dd910bbbdb~mv2.jpg"
 readTime: 2

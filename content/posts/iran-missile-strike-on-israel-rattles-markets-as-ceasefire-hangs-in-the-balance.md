@@ -3,8 +3,8 @@ title: "Iran Missile Strike on Israel Rattles Markets as Ceasefire Hangs in the 
 slug: iran-missile-strike-on-israel-rattles-markets-as-ceasefire-hangs-in-the-balance
 excerpt: "Iran fired ballistic missiles at northern Israel on Sunday, jeopardizing a ceasefire with the U.S. and pushing stock futures lower as markets face a week packed with inflation data and the SpaceX IPO."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-07T23:01:56.515Z"
 coverImage: "https://static.wixstatic.com/media/e37254_6ba0c24885624a6c84368093300b7b66~mv2.jpg"
 readTime: 3

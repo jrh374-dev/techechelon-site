@@ -3,8 +3,8 @@ title: "Former Cybersecurity Professionals Plead Guilty in BlackCat Ransomware S
 slug: former-cybersecurity-professionals-plead-guilty-in-blackcat-ransomware-scheme
 excerpt: "Ryan Clifford Goldberg, 33, of Watkinsville, Georgia, and Kevin Tyler Martin, 28, of Roanoke, Texas, admitted to conspiring to obstruct commerce by extortion. Both face sentences of up to 20 years in prison, with sentencing scheduled for March 12, 2026."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2025-12-31T14:48:46.555Z"
 coverImage: "https://static.wixstatic.com/media/e37254_a173012365954f169998e1f9df4f1e84~mv2.jpeg"
 readTime: 2

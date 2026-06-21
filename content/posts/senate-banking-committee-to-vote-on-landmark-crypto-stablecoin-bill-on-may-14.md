@@ -3,8 +3,8 @@ title: "Senate Banking Committee to Vote on Landmark Crypto Stablecoin Bill on M
 slug: senate-banking-committee-to-vote-on-landmark-crypto-stablecoin-bill-on-may-14
 excerpt: "The Senate Banking Committee has set a May 14 vote on a landmark stablecoin regulation bill, a move that advances crypto legislation while deepening a standoff with the traditional banking industry over deposit competition concerns."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-09T11:08:25.264Z"
 coverImage: "https://static.wixstatic.com/media/e37254_5114f7acf9b941348218f142ff8e8233~mv2.jpeg"
 readTime: 2

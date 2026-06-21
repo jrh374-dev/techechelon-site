@@ -3,8 +3,8 @@ title: "Alibaba Unveils Advanced Open-Source AI Models with Image Interpretation
 slug: alibaba-unveils-advanced-open-source-ai-models-with-image-interpretation-capabilities
 excerpt: "The tech behemoth from China has introduced two open-source models: Qwen-VL and Qwen-VL-Chat. With this move, global researchers, institutions, and corporations can develop their AI applications without the requirement of training their own models, thereby reducing costs and time."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-08-25T13:43:06.692Z"
 coverImage: "https://static.wixstatic.com/media/e37254_5ef91f15ff5e4f169f39dfc4c4598118~mv2.jpeg"
 readTime: 1

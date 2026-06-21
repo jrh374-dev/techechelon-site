@@ -3,8 +3,8 @@ title: "U.S. Payrolls Surge by 227,000 in November, Beating Expectations; Unempl
 slug: u-s-payrolls-surge-by-227-000-in-november-beating-expectations-unemployment-rate-rises-slightly-t
 excerpt: "Despite the robust job growth, the unemployment rate inched up to 4.2%, as anticipated, reflecting a slight drop in the labor force participation rate and a reduction in the labor force size."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-12-06T14:05:50.826Z"
 coverImage: "https://static.wixstatic.com/media/e37254_0e8c46a959894278916cdf939e109c16~mv2.jpeg"
 readTime: 1

@@ -3,8 +3,8 @@ title: "Stocks Extend Rebound as AI Leaders Drive Market Higher"
 slug: stocks-extend-rebound-as-ai-leaders-drive-market-higher
 excerpt: "The S&P 500 rose 0.5%, while the Nasdaq Composite climbed 1%, reflecting renewed strength in growth and AI-linked names. The Dow Jones Industrial Average added a more modest 0.2%, highlighting a tech-led recovery rather than a broad-based rally."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-02-25T16:15:00.585Z"
 coverImage: "https://static.wixstatic.com/media/e37254_8d6c0c2652e54140ade9b930260ac4e4~mv2.webp"
 readTime: 2

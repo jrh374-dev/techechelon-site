@@ -3,8 +3,8 @@ title: "House Passes Section 702 Surveillance Renewal 235-191, Senate Fate Uncer
 slug: house-passes-section-702-surveillance-renewal-235-191-senate-fate-uncertain
 excerpt: "The House voted 235-191 to renew Section 702 of the Foreign Intelligence Surveillance Act for three years, but Senate Republicans have signaled opposition to the bill, and the surveillance authority is set to expire Thursday."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-04-30T13:04:14.166Z"
 coverImage: "https://static.wixstatic.com/media/e37254_fc32cfbe32c547149c5f584567689065~mv2.jpg"
 readTime: 2

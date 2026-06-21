@@ -3,8 +3,8 @@ title: "Trump Slaps 100% Tariff on Chinese Imports, Tightens Grip on Software Ex
 slug: trump-slaps-100-tariff-on-chinese-imports-tightens-grip-on-software-exports
 excerpt: "The White House framed the decision as retaliation for China’s latest export restrictions on rare earth minerals—materials essential to high-tech manufacturing, including electric vehicles, defense systems, and semiconductors."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2025-10-10T23:33:37.517Z"
 coverImage: "https://static.wixstatic.com/media/e37254_1f8faa08ac8b43beb14b4d03c1bdedf9~mv2.webp"
 readTime: 2

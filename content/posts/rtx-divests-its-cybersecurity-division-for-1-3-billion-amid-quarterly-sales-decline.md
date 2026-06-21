@@ -3,8 +3,8 @@ title: "RTX Divests its Cybersecurity Division for $1.3 Billion Amid Quarterly S
 slug: rtx-divests-its-cybersecurity-division-for-1-3-billion-amid-quarterly-sales-decline
 excerpt: "Defense giant RTX has announced the sale of its cybersecurity division for $1.3 billion to an undisclosed party."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-10-26T03:28:14.811Z"
 coverImage: "https://static.wixstatic.com/media/e37254_fffd6253e4814bbc9dc353b88b5fc1f1~mv2.jpg"
 readTime: 1

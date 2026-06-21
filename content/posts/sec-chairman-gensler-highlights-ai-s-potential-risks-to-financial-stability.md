@@ -3,8 +3,8 @@ title: "SEC Chairman Gensler Highlights AI's Potential Risks to Financial Stabil
 slug: sec-chairman-gensler-highlights-ai-s-potential-risks-to-financial-stability
 excerpt: "He speculated that upcoming business infrastructures in the U.S. might heavily rely on a handful of base models. Such a scenario could promote “herding,” where all businesses depend on identical information, thus amplifying the chances of a financial collapse."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-08-08T03:52:05.253Z"
 coverImage: "https://static.wixstatic.com/media/e37254_fffb6b3b559446419786de67c50262ea~mv2.jpg"
 readTime: 1

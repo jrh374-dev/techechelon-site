@@ -3,8 +3,8 @@ title: "June Inflation Data Signals Slowdown: Markets React Positively as Fed Mo
 slug: june-inflation-data-signals-slowdown-markets-react-positively-as-fed-monitors-for-consistent-trends
 excerpt: "The Commerce Department reported that the personal consumption expenditures (PCE) price index, excluding food and energy, saw a modest rise of 0.2% compared to the previous month, which matched the Dow Jones projection."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-07-28T17:59:59.192Z"
 coverImage: "https://static.wixstatic.com/media/e37254_1efc0f738ecb48ec9688b571968a03dd~mv2.jpeg"
 readTime: 2

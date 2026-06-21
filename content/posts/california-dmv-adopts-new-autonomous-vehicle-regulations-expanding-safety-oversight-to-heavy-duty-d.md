@@ -3,8 +3,8 @@ title: "California DMV Adopts New Autonomous Vehicle Regulations, Expanding Safe
 slug: california-dmv-adopts-new-autonomous-vehicle-regulations-expanding-safety-oversight-to-heavy-duty-d
 excerpt: "California's DMV has adopted new regulations expanding safety and oversight requirements to heavy-duty autonomous vehicles, allowing their testing and deployment while giving law enforcement clearer authority to cite violations."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-04-29T21:03:38.769Z"
 coverImage: "https://static.wixstatic.com/media/e37254_083db0d30f93417780223e88ecd3e777~mv2.jpeg"
 readTime: 2

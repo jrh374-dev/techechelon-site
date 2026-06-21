@@ -3,8 +3,8 @@ title: "Cyberattack Disrupts Operations at 15,000 U.S. Car Dealerships, CDK Glob
 slug: cyberattack-disrupts-operations-at-15-000-u-s-car-dealerships-cdk-global-systems-temporarily-shut
 excerpt: "Notable clients impacted include General Motors dealerships, Group 1 Automotive, and Holman, which operates across eight states."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-06-20T15:07:55.379Z"
 coverImage: "https://static.wixstatic.com/media/e37254_c30339ae9b784f859d488944858e0810~mv2.webp"
 readTime: 1

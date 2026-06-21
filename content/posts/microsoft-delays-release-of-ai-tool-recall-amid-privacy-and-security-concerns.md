@@ -3,8 +3,8 @@ title: "Microsoft Delays Release of AI Tool \"Recall\" Amid Privacy and Security
 slug: microsoft-delays-release-of-ai-tool-recall-amid-privacy-and-security-concerns
 excerpt: "In a blog post, the company stated that Recall will transition from being a widely available tool to a preview feature accessible only through the Windows Insiders Program (WIP) when the new computer is launched on June 18."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-06-14T19:33:19.984Z"
 coverImage: "https://static.wixstatic.com/media/e37254_46383854c878460db530593f8a1765a8~mv2.jpeg"
 readTime: 1

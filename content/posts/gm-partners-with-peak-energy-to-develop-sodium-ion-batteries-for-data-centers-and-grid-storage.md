@@ -3,8 +3,8 @@ title: "GM Partners With Peak Energy to Develop Sodium-Ion Batteries for Data Ce
 slug: gm-partners-with-peak-energy-to-develop-sodium-ion-batteries-for-data-centers-and-grid-storage
 excerpt: "General Motors announced a partnership with Denver-based startup Peak Energy to develop sodium-ion batteries for grid-scale energy storage and AI data centers, with customer-ready cells targeted for delivery after 2028."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-09T21:07:38.138Z"
 coverImage: "https://static.wixstatic.com/media/e37254_72c8d7c7de50455d8ebd4341d1b50200~mv2.jpg"
 readTime: 3

@@ -3,8 +3,8 @@ title: "Amazon Cuts 100 Jobs in Devices and Services Division Amid Ongoing Cost-
 slug: amazon-cuts-100-jobs-in-devices-and-services-division-amid-ongoing-cost-saving-efforts
 excerpt: "The unit spans several well-known product lines and services, including the Alexa voice assistant, Echo smart speakers, Ring security devices, and the Zoox autonomous vehicle business."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-05-15T06:29:35.714Z"
 coverImage: "https://static.wixstatic.com/media/e37254_d3de61c6f34549faa4903c02727ca925~mv2.jpg"
 readTime: 1

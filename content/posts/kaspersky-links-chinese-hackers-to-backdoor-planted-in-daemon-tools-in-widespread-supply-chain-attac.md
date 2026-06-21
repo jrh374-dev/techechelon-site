@@ -3,8 +3,8 @@ title: "Kaspersky Links Chinese Hackers to Backdoor Planted in Daemon Tools in W
 slug: kaspersky-links-chinese-hackers-to-backdoor-planted-in-daemon-tools-in-widespread-supply-chain-attac
 excerpt: "Kaspersky has linked a Chinese-language hacking group to a backdoor planted in Daemon Tools, a popular Windows disc imaging application, in a supply chain attack the firm says is ongoing and has already been used to deliver malware to organizations in Russia, Belarus, and Thailand."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-05T17:05:37.451Z"
 coverImage: "https://static.wixstatic.com/media/e37254_4f483da862a94910842e287c129d23a5~mv2.jpg"
 readTime: 3

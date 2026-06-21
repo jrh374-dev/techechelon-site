@@ -3,8 +3,8 @@ title: "Stocks Climb as Jobless Claims Spark Rate Cut Hopes; Mixed Earnings Repo
 slug: stocks-climb-as-jobless-claims-spark-rate-cut-hopes-mixed-earnings-reports-temper-gains
 excerpt: "The Dow advanced 331.37 points or 0.85%, closing at 39,387.76, its longest rally since December's nine-day stretch. The S&P 500 rose by 0.51% to end at 5,214.08, while the Nasdaq Composite increased by 0.27% to finish at 16,346.26."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2024-05-09T20:19:53.714Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e7198032b910491189ed4c8df5bb625f~mv2.jpeg"
 readTime: 2

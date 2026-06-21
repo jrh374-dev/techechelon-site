@@ -3,8 +3,8 @@ title: "Google Set to Relaunch AI Image Tool with Enhanced Features and Restrict
 slug: google-set-to-relaunch-ai-image-tool-with-enhanced-features-and-restrictions
 excerpt: "The AI tool, known as Imagen 3, will be integrated into the Gemini platform and will initially be accessible to Gemini Advanced, Business, and Enterprise users in English."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-08-28T19:23:11.625Z"
 coverImage: "https://static.wixstatic.com/media/e37254_647644758b9c4cc3bc14ce0cbfa53b38~mv2.webp"
 readTime: 1

@@ -3,8 +3,8 @@ title: "UK Government Weighs Stricter Internet Safety Laws Following Riots and M
 slug: uk-government-weighs-stricter-internet-safety-laws-following-riots-and-musk-s-comments
 excerpt: "According to industry insiders, the government is exploring ways to strengthen the Online Safety Act, particularly in relation to disinformation, hate speech, and the incitement of violence."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-08-14T18:24:10.668Z"
 coverImage: "https://static.wixstatic.com/media/e37254_c067fa59fd084d408a628a33a78b4712~mv2.webp"
 readTime: 1

@@ -3,8 +3,8 @@ title: "Shield AI Reaches $12.7 Billion Valuation After U.S. Air Force Selects I
 slug: shield-ai-reaches-12-7-billion-valuation-after-u-s-air-force-selects-its-hivemind-software-for-nex
 excerpt: "The capital will also fund Shield AI's acquisition of Aechelon Technology, a maker of flight simulation software used to train U.S. military pilots. Financial terms of the acquisition were not disclosed."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-03-27T15:49:16.385Z"
 coverImage: "https://static.wixstatic.com/media/nsplsh_b1d1beb41b5c4a2c9cea4f06c007db2d~mv2.jpg"
 readTime: 2

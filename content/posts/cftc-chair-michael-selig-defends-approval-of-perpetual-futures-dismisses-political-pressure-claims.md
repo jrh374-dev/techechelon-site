@@ -3,8 +3,8 @@ title: "CFTC Chair Michael Selig Defends Approval of Perpetual Futures, Dismisse
 slug: cftc-chair-michael-selig-defends-approval-of-perpetual-futures-dismisses-political-pressure-claims
 excerpt: "CFTC Chair Michael Selig defended his agency's approval of perpetual futures contracts in the U.S., dismissing both concerns about retail investor risk and allegations of political influence tied to the Trump administration's ties to Kalshi."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-15T23:07:17.739Z"
 coverImage: "https://static.wixstatic.com/media/e37254_1a8c6e5bdd8e4f1e93e19299c905668f~mv2.jpeg"
 readTime: 3

@@ -3,8 +3,8 @@ title: "Bloom Energy Secures $2.6 Billion Deal With Nebius to Power European AI 
 slug: bloom-energy-secures-2-6-billion-deal-with-nebius-to-power-european-ai-data-centers
 excerpt: "Bloom Energy shares rose after it announced a partnership with European AI cloud provider Nebius, which will pay Bloom up to $2.6 billion in service fees to deploy fuel-cell power systems at its European data centers."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-21T13:01:08.266Z"
 coverImage: "https://static.wixstatic.com/media/e37254_75172bf8aaa54e45a280edcb8f51d318~mv2.jpg"
 readTime: 2

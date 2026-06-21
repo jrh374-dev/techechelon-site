@@ -3,8 +3,8 @@ title: "Trump to Unveil World Liberty Financial Crypto Platform on Monday"
 slug: trump-to-unveil-world-liberty-financial-crypto-platform-on-monday
 excerpt: "In a video posted Thursday on the social platform X, Trump emphasized the need to move away from traditional banking systems, saying, “We’re embracing the future with crypto and leaving the slow and outdated big banks behind.”"
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-09-13T18:33:21.960Z"
 coverImage: "https://static.wixstatic.com/media/e37254_9540b74bbb3d493eb508c4c5f0544163~mv2.jpg"
 readTime: 1

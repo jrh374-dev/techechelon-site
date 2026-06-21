@@ -3,8 +3,8 @@ title: "Broadcom Agrees to Expanded Chip Deals with Google and Anthropic"
 slug: broadcom-agrees-to-expanded-chip-deals-with-google-and-anthropic
 excerpt: "The announcement underscores the extraordinary pace at which demand for AI computing infrastructure is accelerating. Anthropic's rise has been particularly striking: the company's annualized revenue has surpassed $30 billion, up from approximately $9 billion at the end of last year, and it now counts more than 1,000 business clients spending over $1 million annually — double the number from just two months ago."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-04-07T19:17:25.814Z"
 coverImage: "https://static.wixstatic.com/media/nsplsh_d319003dfd4c4bc6aea12e1f05bc8306~mv2.jpg"
 readTime: 2

@@ -3,8 +3,8 @@ title: "SEC Chairman Gensler Faces Growing Opposition and Legal Battles Over Reg
 slug: sec-chairman-gensler-faces-growing-opposition-and-legal-battles-over-regulatory-proposals
 excerpt: "Gensler has proposed more than 40 rules, which has heightened tension among Republicans and led to increasing confrontation with financial services sectors including hedge funds, mutual funds, and trading firms."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-09-27T13:12:16.516Z"
 coverImage: "https://static.wixstatic.com/media/e37254_66eb33b91cd64dc5bd27e86fcd480591~mv2.jpg"
 readTime: 2

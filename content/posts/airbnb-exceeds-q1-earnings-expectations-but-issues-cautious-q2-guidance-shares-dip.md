@@ -3,8 +3,8 @@ title: "Airbnb Exceeds Q1 Earnings Expectations but Issues Cautious Q2 Guidance,
 slug: airbnb-exceeds-q1-earnings-expectations-but-issues-cautious-q2-guidance-shares-dip
 excerpt: "The company's financials exceeded consensus estimates from LSEG as follows:"
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-05-09T05:00:12.756Z"
 coverImage: "https://static.wixstatic.com/media/e37254_fb4c1e5ea1f84bd49baaa25aba9d7836~mv2.jpeg"
 readTime: 1

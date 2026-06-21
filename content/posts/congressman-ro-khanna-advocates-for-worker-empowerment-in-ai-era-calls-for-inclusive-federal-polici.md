@@ -3,8 +3,8 @@ title: "Congressman Ro Khanna Advocates for Worker Empowerment in AI Era, Calls 
 slug: congressman-ro-khanna-advocates-for-worker-empowerment-in-ai-era-calls-for-inclusive-federal-polici
 excerpt: "Representing a district in the heart of Silicon Valley, Khanna acknowledged the potential benefits of AI to the economy but stressed the importance of prioritizing the welfare and economic stability of the working class amidst these technological shifts."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-01-05T06:18:43.959Z"
 coverImage: "https://static.wixstatic.com/media/e37254_b2c628a1cf454492bae1ed6eb9bf860e~mv2.jpeg"
 readTime: 1

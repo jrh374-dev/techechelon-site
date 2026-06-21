@@ -3,8 +3,8 @@ title: "Clorox Experiences Significant Disruptions Following August Cyberattack"
 slug: clorox-experiences-significant-disruptions-following-august-cyberattack
 excerpt: "The security filing released on Monday highlighted the unauthorized activities detected on their IT systems on Aug. 14. As a response, the company took several systems offline for remediation."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-10-05T16:47:23.441Z"
 coverImage: "https://static.wixstatic.com/media/e37254_dbf24563089742129eec2e026e81bf24~mv2.jpeg"
 readTime: 1

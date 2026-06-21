@@ -64,7 +64,13 @@ export function SiteFooter() {
         </div>
         <div className="flex flex-col md:flex-row md:justify-between gap-2 font-mono text-[10px] md:text-[10.5px] tracking-[0.06em] uppercase font-semibold text-sand pt-5 md:pt-6">
           <span>© {year} TechEchelon Media · All rights reserved</span>
-          <span>Terms · Privacy · Accessibility</span>
+          <span>
+            <Link href="/terms" className="hover:text-coral">Terms</Link>
+            <span className="mx-1.5">·</span>
+            <Link href="/privacy" className="hover:text-coral">Privacy</Link>
+            <span className="mx-1.5">·</span>
+            <Link href="/accessibility" className="hover:text-coral">Accessibility</Link>
+          </span>
         </div>
       </div>
     </footer>

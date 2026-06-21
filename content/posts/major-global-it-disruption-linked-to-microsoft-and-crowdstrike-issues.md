@@ -3,8 +3,8 @@ title: "Major Global IT Disruption Linked to Microsoft and CrowdStrike Issues"
 slug: major-global-it-disruption-linked-to-microsoft-and-crowdstrike-issues
 excerpt: "Financial institutions, medical offices, and television broadcasters faced operational difficulties throughout the day. Air travel was significantly hampered, with numerous flights cancelled or delayed, prompting airports to advise passengers on potential disruptions."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-07-19T13:58:22.558Z"
 coverImage: "https://static.wixstatic.com/media/e37254_6f6b329bc7a644bb883ff6ed342397ee~mv2.webp"
 readTime: 1

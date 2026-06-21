@@ -3,8 +3,8 @@ title: "Xi Jinping Tells U.S. Tech CEOs China Will 'Open Wider' as Trump Summit 
 slug: xi-jinping-tells-u-s-tech-ceos-china-will-open-wider-as-trump-summit-addresses-ai-and-market-acce
 excerpt: "Chinese President Xi Jinping told U.S. tech executives including Elon Musk, Jensen Huang, and Tim Cook that China will \"open wider\" to American business during a high-profile summit in Beijing with President Trump, as AI policy and chip export rules also came into focus."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-14T13:04:15.587Z"
 coverImage: "https://static.wixstatic.com/media/e37254_38cd52f0b6e04fc5866721f5f3537423~mv2.jpg"
 readTime: 3

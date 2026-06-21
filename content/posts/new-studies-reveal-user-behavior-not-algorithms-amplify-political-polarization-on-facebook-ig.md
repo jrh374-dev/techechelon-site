@@ -3,8 +3,8 @@ title: "New Studies Reveal User Behavior, Not Algorithms, Amplify Political Pola
 slug: new-studies-reveal-user-behavior-not-algorithms-amplify-political-polarization-on-facebook-ig
 excerpt: "The findings, taken in totality, suggest that Facebook users tend to gravitate towards content that resonates with their existing views. The emergence of \"echo-chambers\" further enables political factions to depend on and consume information and misinformation from differing sources."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-07-28T23:08:17.827Z"
 coverImage: "https://static.wixstatic.com/media/e37254_d54005c42cad404fb6550e53d010e0d4~mv2.jpeg"
 readTime: 2

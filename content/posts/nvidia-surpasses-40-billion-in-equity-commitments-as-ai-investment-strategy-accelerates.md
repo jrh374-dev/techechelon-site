@@ -3,8 +3,8 @@ title: "Nvidia Surpasses $40 Billion in Equity Commitments as AI Investment Stra
 slug: nvidia-surpasses-40-billion-in-equity-commitments-as-ai-investment-strategy-accelerates
 excerpt: "Nvidia has surpassed $40 billion in equity commitments in 2026, investing across data centers, optical technology, cloud companies, and AI model developers as it works to extend its dominance beyond chip manufacturing."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-09T13:06:27.435Z"
 coverImage: "https://static.wixstatic.com/media/e37254_dc83f64e3fb14c1e90dafb427b62cdc5~mv2.jpg"
 readTime: 3

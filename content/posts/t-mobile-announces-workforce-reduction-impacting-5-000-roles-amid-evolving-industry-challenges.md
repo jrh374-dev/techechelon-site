@@ -3,8 +3,8 @@ title: "T-Mobile Announces Workforce Reduction, Impacting 5,000 Roles Amid Evolv
 slug: t-mobile-announces-workforce-reduction-impacting-5-000-roles-amid-evolving-industry-challenges
 excerpt: "The company's top executive, Mike Sievert, clarified in the email, which was also documented in a filing with the Securities and Exchange Commission, that the reductions would mostly affect corporate, tech, and back-office positions. He emphasized that roles in retail and customer interactions would remain untouched."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-08-25T13:38:06.649Z"
 coverImage: "https://static.wixstatic.com/media/e37254_79d8f8b4b23b4685a55c5b9dfa1875d4~mv2.jpeg"
 readTime: 1

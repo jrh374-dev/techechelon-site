@@ -3,8 +3,8 @@ title: "Intel Shares Surge After CEO Meets Trump as U.S. Stake Doubles in Value"
 slug: intel-shares-surge-after-ceo-meets-trump-as-u-s-stake-doubles-in-value
 excerpt: "Following the meeting, Trump praised both Tan and the company in a post on Truth Social, writing that “the United States Government is proud to be a Shareholder of Intel.” He also highlighted the company’s latest processor as being “designed, built, and packaged right here in the U.S.A.”"
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-01-09T20:46:17.877Z"
 coverImage: "https://static.wixstatic.com/media/e37254_9faf352f06b04581a6223d9cd8337718~mv2.jpg"
 readTime: 1

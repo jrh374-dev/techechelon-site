@@ -3,8 +3,8 @@ title: "Jack Ma Reemerges, Endorses Alibaba's Transformative Year Amid Challenge
 slug: jack-ma-reemerges-endorses-alibaba-s-transformative-year-amid-challenges-and-regulatory-scrutiny
 excerpt: "This period has seen Alibaba, a leading tech conglomerate in China, implementing historic organizational adjustments and extensive leadership shifts to reignite growth."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-04-10T13:44:03.267Z"
 coverImage: "https://static.wixstatic.com/media/e37254_b7829a3bb27a4d22bf38dcd76b9fb79b~mv2.jpeg"
 readTime: 1

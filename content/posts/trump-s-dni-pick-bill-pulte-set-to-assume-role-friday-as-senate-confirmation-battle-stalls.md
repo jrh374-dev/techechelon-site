@@ -3,8 +3,8 @@ title: "Trump's DNI Pick Bill Pulte Set to Assume Role Friday as Senate Confirma
 slug: trump-s-dni-pick-bill-pulte-set-to-assume-role-friday-as-senate-confirmation-battle-stalls
 excerpt: "Bill Pulte is set to become acting director of national intelligence on Friday after President Trump blocked Jay Clayton's Senate confirmation hearing, tying it to the passage of a Voter ID bill and a separate nomination — a move that has drawn rare bipartisan alarm over national security."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-18T19:03:46.330Z"
 coverImage: "https://static.wixstatic.com/media/e37254_1f9c9a164a304e9ca0fe034891730c29~mv2.jpg"
 readTime: 3

@@ -3,8 +3,8 @@ title: "SpaceX IPO Filing Reveals $11 Billion Starlink Revenue and a Bet on Spac
 slug: spacex-ipo-filing-reveals-11-billion-starlink-revenue-and-a-bet-on-space-based-solar-power
 excerpt: "SpaceX's S-1 filing ahead of a $1.75 trillion Nasdaq IPO reveals Starlink generated more than $11 billion in revenue in 2025 and outlines the company's push to build AI data centers in orbit powered by space-based solar arrays."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-24T21:03:53.655Z"
 coverImage: "https://static.wixstatic.com/media/e37254_18ff6f4f808d41a394e420847c23f6fc~mv2.jpg"
 readTime: 3

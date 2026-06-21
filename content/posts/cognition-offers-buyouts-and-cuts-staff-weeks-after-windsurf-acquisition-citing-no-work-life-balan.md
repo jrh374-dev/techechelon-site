@@ -3,8 +3,8 @@ title: "Cognition Offers Buyouts and Cuts Staff Weeks After Windsurf Acquisition
 slug: cognition-offers-buyouts-and-cuts-staff-weeks-after-windsurf-acquisition-citing-no-work-life-balan
 excerpt: "Roughly 200 employees remain, and they’ve been given until August 10 to decide whether to accept a voluntary buyout, which reportedly includes nine months of severance pay."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-08-06T03:18:24.140Z"
 coverImage: "https://static.wixstatic.com/media/e37254_bd4097fd26f3464aa525ceda975e2028~mv2.png"
 readTime: 1

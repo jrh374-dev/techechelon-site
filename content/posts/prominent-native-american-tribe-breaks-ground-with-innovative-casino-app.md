@@ -3,8 +3,8 @@ title: "Prominent Native American Tribe Breaks Ground with Innovative Casino App
 slug: prominent-native-american-tribe-breaks-ground-with-innovative-casino-app
 excerpt: "In a groundbreaking move, the Morongo Casino Resort and Spa in Cabazon, CA, has unveiled a state-of-the-art mobile app for its casino...."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-08-30T23:44:11.692Z"
 coverImage: "https://static.wixstatic.com/media/e37254_f33f284aa1b849f199b186e2bd52b257~mv2.jpeg"
 readTime: 1

@@ -3,8 +3,8 @@ title: "Mnuchin Eyes TikTok Acquisition and Technology Rebuild Amid New U.S. Reg
 slug: mnuchin-eyes-tiktok-acquisition-and-technology-rebuild-amid-new-u-s-regulations
 excerpt: "Mnuchin outlined a strategy for the acquisition, aiming to redevelop TikTok's technology under American leadership, ensuring it is independent from ByteDance and enhancing its security."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-05-09T15:53:24.120Z"
 coverImage: "https://static.wixstatic.com/media/e37254_610b086147d848edaffa8c5da5e0767f~mv2.webp"
 readTime: 1

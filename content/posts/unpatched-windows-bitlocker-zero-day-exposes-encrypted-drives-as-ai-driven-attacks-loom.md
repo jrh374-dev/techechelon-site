@@ -3,8 +3,8 @@ title: "Unpatched Windows BitLocker Zero-Day Exposes Encrypted Drives as AI-Driv
 slug: unpatched-windows-bitlocker-zero-day-exposes-encrypted-drives-as-ai-driven-attacks-loom
 excerpt: "A researcher has released proof-of-concept exploits for two unpatched Windows flaws — a BitLocker bypass and a privilege-escalation bug — as Palo Alto Networks warns organizations have a three-to-five-month window before AI-driven cyberattacks become routine."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-13T19:07:02.785Z"
 coverImage: "https://static.wixstatic.com/media/e37254_1b065ae94cc04ca09bd075ec5f3f5591~mv2.png"
 readTime: 3

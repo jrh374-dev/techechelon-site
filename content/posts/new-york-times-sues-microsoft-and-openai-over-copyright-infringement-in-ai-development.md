@@ -3,8 +3,8 @@ title: "New York Times Sues Microsoft and OpenAI Over Copyright Infringement in 
 slug: new-york-times-sues-microsoft-and-openai-over-copyright-infringement-in-ai-development
 excerpt: "Microsoft, a key investor in OpenAI, provides the AI firm with Azure cloud computing resources. The New York Times asserts that its proprietary content has been used unlawfully, leading to significant financial damages."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-12-28T04:58:08.454Z"
 coverImage: "https://static.wixstatic.com/media/e37254_62665b39703842d5821b7f1180b5fb5b~mv2.jpeg"
 readTime: 2

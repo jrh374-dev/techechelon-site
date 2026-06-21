@@ -3,8 +3,8 @@ title: "S&P 500 Posts Sixth Consecutive Weekly Gain as Earnings, Jobs Data, and 
 slug: s-p-500-posts-sixth-consecutive-weekly-gain-as-earnings-jobs-data-and-corning-nvidia-deal-lift-mar
 excerpt: "The S&P 500 and Nasdaq each extended their winning streaks to six consecutive weeks, closing at record highs Friday as strong earnings, a better-than-expected jobs report, and a major Corning-Nvidia supply deal fueled broad market gains."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-10T01:01:38.013Z"
 coverImage: "https://static.wixstatic.com/media/e37254_53bde68ccd23480face1686b4d0b92ce~mv2.png"
 readTime: 3

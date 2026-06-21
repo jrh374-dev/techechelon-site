@@ -3,8 +3,8 @@ title: "Elon Musk Announces Major Layoffs and Executive Shake-Up at Tesla Amid D
 slug: elon-musk-announces-major-layoffs-and-executive-shake-up-at-tesla-amid-declining-sales
 excerpt: "The report, based on an email from Musk to senior managers, named Rebecca Tinucci, the senior director of Tesla's Supercharger business, and Daniel Ho, head of the new vehicles program, as those dismissed effective Tuesday morning."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-04-30T17:19:10.385Z"
 coverImage: "https://static.wixstatic.com/media/e37254_de3f3f49c75b477a9de98ca3802ea57a~mv2.webp"
 readTime: 1

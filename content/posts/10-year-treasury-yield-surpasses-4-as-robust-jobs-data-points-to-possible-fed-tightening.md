@@ -3,8 +3,8 @@ title: "10-Year Treasury Yield Surpasses 4% as Robust Jobs Data Points to Possib
 slug: 10-year-treasury-yield-surpasses-4-as-robust-jobs-data-points-to-possible-fed-tightening
 excerpt: "The 10-year Treasury note saw its yield jump 8 basis points to trade at 4.025%, while the yield on the 2-year Treasury note escalated more than 12 basis points, reaching 5.08%. It should be noted that yields and prices share an inverse relationship, with a basis point being equal to 0.01%."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-07-06T13:02:01.220Z"
 coverImage: "https://static.wixstatic.com/media/e37254_a33d6ca78b2d49ebbc68a3132c9824b6~mv2.jpeg"
 readTime: 1

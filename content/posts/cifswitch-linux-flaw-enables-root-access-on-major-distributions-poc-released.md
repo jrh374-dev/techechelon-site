@@ -3,8 +3,8 @@ title: "CIFSwitch Linux Flaw Enables Root Access on Major Distributions, PoC Rel
 slug: cifswitch-linux-flaw-enables-root-access-on-major-distributions-poc-released
 excerpt: "A 19-year-old Linux kernel vulnerability called CIFSwitch allows unprivileged local attackers to forge CIFS authentication requests and gain root access, affecting Linux Mint, CentOS Stream 9, Rocky Linux 9, Kali Linux, and other major distributions."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-30T17:05:30.688Z"
 coverImage: "https://static.wixstatic.com/media/e37254_239365bd335e4e87a17705250754a232~mv2.jpg"
 readTime: 3

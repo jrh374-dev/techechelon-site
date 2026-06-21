@@ -3,8 +3,8 @@ title: "Lendbuzz Targets $1.5B Valuation in Planned IPO"
 slug: lendbuzz-targets-1-5b-valuation-in-planned-ipo
 excerpt: "Founded a decade ago, Lendbuzz specializes in serving borrowers with limited credit history by using alternative data and machine learning to assess risk."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-09-12T13:09:48.027Z"
 coverImage: "https://static.wixstatic.com/media/e37254_73d8ff2609ea439fba52c1f8a3edc588~mv2.jpg"
 readTime: 1

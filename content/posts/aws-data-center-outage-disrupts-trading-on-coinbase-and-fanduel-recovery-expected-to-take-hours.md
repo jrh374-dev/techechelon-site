@@ -3,8 +3,8 @@ title: "AWS Data Center Outage Disrupts Trading on Coinbase and FanDuel, Recover
 slug: aws-data-center-outage-disrupts-trading-on-coinbase-and-fanduel-recovery-expected-to-take-hours
 excerpt: "An overheating incident at an Amazon Web Services data center in northern Virginia disrupted core trading services on Coinbase and FanDuel Thursday night, with AWS warning Friday morning that full recovery could take several more hours."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-08T17:04:50.898Z"
 coverImage: "https://static.wixstatic.com/media/e37254_7fad624558354905b359f3b16ba01f65~mv2.jpeg"
 readTime: 2

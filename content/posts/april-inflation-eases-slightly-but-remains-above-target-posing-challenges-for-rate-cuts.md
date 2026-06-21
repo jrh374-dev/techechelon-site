@@ -3,8 +3,8 @@ title: "April Inflation Eases Slightly but Remains Above Target, Posing Challeng
 slug: april-inflation-eases-slightly-but-remains-above-target-posing-challenges-for-rate-cuts
 excerpt: "The Consumer Price Index (CPI), which gauges the average change over time in the prices paid by consumers for goods and services, rose by 0.3% from March, according to the Labor Department’s Bureau of Labor Services. This increase was marginally lower than the 0.4% predicted by Dow Jones."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-05-15T19:41:13.488Z"
 coverImage: "https://static.wixstatic.com/media/e37254_eaa203bec92640b5a5e7ce213cfe975a~mv2.jpeg"
 readTime: 1

@@ -3,8 +3,8 @@ title: "Arm Plans Nasdaq Listing Amid Quiet Tech IPO Period"
 slug: arm-plans-nasdaq-listing-amid-quiet-tech-ipo-period
 excerpt: "For the fiscal year ending March 2023, the company reported revenues of $2.68 billion and a net income of $524 million. This marks a slight decrease from its 2022 revenues of $2.7 billion."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-08-22T14:54:32.035Z"
 coverImage: "https://static.wixstatic.com/media/e37254_eafda435b12945eba5c735610c4f3484~mv2.jpeg"
 readTime: 2

@@ -3,8 +3,8 @@ title: "Markets Retreat as Tech Rally Fizzles, Ending S&P 500's Six-Day Winning 
 slug: markets-retreat-as-tech-rally-fizzles-ending-s-p-500-s-six-day-winning-streak
 excerpt: "The S&P 500 slipped 0.39% to close at 5,940.46, while the Nasdaq Composite fell 0.38% to 19,142.71. The Dow Jones Industrial Average declined by 114.83 points, or 0.27%, finishing the session at 42,677.24."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-05-20T22:38:11.002Z"
 coverImage: "https://static.wixstatic.com/media/e37254_0e3acbb5b0b9410e856d0e7884e45202~mv2.jpg"
 readTime: 1

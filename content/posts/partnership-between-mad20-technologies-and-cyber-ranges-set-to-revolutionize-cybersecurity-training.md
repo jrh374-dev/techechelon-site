@@ -3,8 +3,8 @@ title: "Partnership between MAD20 Technologies and CYBER RANGES Set to Revolutio
 slug: partnership-between-mad20-technologies-and-cyber-ranges-set-to-revolutionize-cybersecurity-training
 excerpt: "In a groundbreaking development for cybersecurity education, MAD20 Technologies, a recent spin-out from MITRE Engenuity, and CYBER..."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-12-13T21:48:37.250Z"
 coverImage: "https://static.wixstatic.com/media/e37254_139b35e076684d75a68c1affe4f42c5e~mv2.jpg"
 readTime: 2

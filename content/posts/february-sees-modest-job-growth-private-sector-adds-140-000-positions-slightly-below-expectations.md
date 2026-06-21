@@ -3,8 +3,8 @@ title: "February Sees Modest Job Growth: Private Sector Adds 140,000 Positions, 
 slug: february-sees-modest-job-growth-private-sector-adds-140-000-positions-slightly-below-expectations
 excerpt: "The leisure and hospitality industry led the way with 41,000 new positions, followed by construction with 28,000 and trade, transportation, and utilities adding 24,000 jobs."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-03-07T02:34:54.006Z"
 coverImage: "https://static.wixstatic.com/media/e37254_c427f6988adf44d3bc6e30bd72fe10a8~mv2.webp"
 readTime: 1

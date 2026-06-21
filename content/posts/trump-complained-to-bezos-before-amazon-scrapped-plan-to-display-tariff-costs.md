@@ -3,8 +3,8 @@ title: "Trump Complained to Bezos Before Amazon Scrapped Plan to Display Tariff 
 slug: trump-complained-to-bezos-before-amazon-scrapped-plan-to-display-tariff-costs
 excerpt: "Shortly after the call, Amazon publicly downplayed the scope of its plan — and later announced it had been scrapped entirely."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2025-04-29T22:35:35.398Z"
 coverImage: "https://static.wixstatic.com/media/e37254_f41d08fc0b9b4876b0fdee1d29507dc9~mv2.avif"
 readTime: 2

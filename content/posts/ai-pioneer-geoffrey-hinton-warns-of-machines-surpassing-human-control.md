@@ -3,8 +3,8 @@ title: "AI Pioneer Geoffrey Hinton Warns of Machines Surpassing Human Control"
 slug: ai-pioneer-geoffrey-hinton-warns-of-machines-surpassing-human-control
 excerpt: "Hinton, 75, highlighted the speed at which AI technology is advancing, suggesting it could surpass human intelligence within half a decade. This rapid evolution could result in AI systems being uncontrollable if they start self-modifying through their own coding."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-10-11T18:15:20.298Z"
 coverImage: "https://static.wixstatic.com/media/e37254_eb65a7a31ed445ddb751e7be9a3a5e74~mv2.jpg"
 readTime: 1

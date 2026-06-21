@@ -3,8 +3,8 @@ title: "Annual Inflation Rate Drops to 2.9% in July, Lowest Since 2021"
 slug: annual-inflation-rate-drops-to-2-9-in-july-lowest-since-2021
 excerpt: "This rise contributed to a 12-month inflation rate of 2.9%, marking the lowest annual rate since March 2021. When omitting volatile food and energy sectors, core CPI similarly rose by 0.2% for the month, aligning with an annual rate of 3.2%, which met economists' expectations."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-08-14T18:42:17.233Z"
 coverImage: "https://static.wixstatic.com/media/e37254_316398df437b415ea8830c1170846ee0~mv2.png"
 readTime: 1

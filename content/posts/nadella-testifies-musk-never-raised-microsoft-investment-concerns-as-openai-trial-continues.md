@@ -3,8 +3,8 @@ title: "Nadella Testifies Musk Never Raised Microsoft Investment Concerns as Ope
 slug: nadella-testifies-musk-never-raised-microsoft-investment-concerns-as-openai-trial-continues
 excerpt: "Microsoft CEO Satya Nadella testified Monday in the Musk v. Altman trial that Elon Musk never raised concerns with him about Microsoft's more than $13 billion in OpenAI investments, pushing back on claims central to Musk's lawsuit."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-11T21:01:20.177Z"
 coverImage: "https://static.wixstatic.com/media/e37254_1748c9a142434cbab121f163aa1df9dc~mv2.jpeg"
 readTime: 3

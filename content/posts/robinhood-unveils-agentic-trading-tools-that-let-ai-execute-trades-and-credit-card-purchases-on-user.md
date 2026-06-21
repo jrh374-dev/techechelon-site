@@ -3,8 +3,8 @@ title: "Robinhood Unveils Agentic Trading Tools That Let AI Execute Trades and C
 slug: robinhood-unveils-agentic-trading-tools-that-let-ai-execute-trades-and-credit-card-purchases-on-user
 excerpt: "Robinhood unveiled Agentic Trading and an Agentic Credit Card on Wednesday, allowing AI agents to execute stock trades and make purchases on retail users' behalf with minimal human involvement."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-27T13:03:05.318Z"
 coverImage: "https://static.wixstatic.com/media/e37254_2a2116cf283c4fa9b1eee5c82b82867a~mv2.jpg"
 readTime: 2

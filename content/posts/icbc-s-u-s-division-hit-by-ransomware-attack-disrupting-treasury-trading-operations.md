@@ -3,8 +3,8 @@ title: "ICBC's U.S. Division Hit by Ransomware Attack, Disrupting Treasury Tradi
 slug: icbc-s-u-s-division-hit-by-ransomware-attack-disrupting-treasury-trading-operations
 excerpt: "Ransomware attacks, where hackers seize control of systems and demand payment for release, have become increasingly common. The identity of the attackers remains undisclosed, but ICBC is conducting a thorough investigation with the aid of information security experts and coordinating with law enforcement."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-11-13T14:06:44.561Z"
 coverImage: "https://static.wixstatic.com/media/e37254_80580ddfd80e4d05ae298feb3a13cec0~mv2.jpg"
 readTime: 1

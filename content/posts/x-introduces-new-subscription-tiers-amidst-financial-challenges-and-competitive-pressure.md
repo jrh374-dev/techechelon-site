@@ -3,8 +3,8 @@ title: "X Introduces New Subscription Tiers Amidst Financial Challenges and Comp
 slug: x-introduces-new-subscription-tiers-amidst-financial-challenges-and-competitive-pressure
 excerpt: "The first subscription model offers users a more affordable rate with full access to all features but does not reduce the number of ads. The second subscription, priced higher, promises an ad-free experience."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-10-21T01:20:17.259Z"
 coverImage: "https://static.wixstatic.com/media/e37254_87170735eb7a4cbbbcf6abec99eb5b89~mv2.jpeg"
 readTime: 1

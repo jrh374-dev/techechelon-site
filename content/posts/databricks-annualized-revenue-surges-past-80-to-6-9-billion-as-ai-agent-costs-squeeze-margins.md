@@ -3,8 +3,8 @@ title: "Databricks Annualized Revenue Surges Past 80% to $6.9 Billion as AI Agen
 slug: databricks-annualized-revenue-surges-past-80-to-6-9-billion-as-ai-agent-costs-squeeze-margins
 excerpt: "Databricks reported annualized revenue of $6.9 billion, up more than 80% year over year, but CEO Ali Ghodsi warned that margins will continue to shrink as AI agent deployments drive higher infrastructure costs."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-16T23:04:03.325Z"
 coverImage: "https://static.wixstatic.com/media/e37254_0e09b17b72d74b78938090b132dd8f80~mv2.jpg"
 readTime: 2

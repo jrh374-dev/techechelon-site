@@ -3,8 +3,8 @@ title: "CoreWeave Secures $7.5 Billion in Debt to Expand AI Cloud Infrastructure
 slug: coreweave-secures-7-5-billion-in-debt-to-expand-ai-cloud-infrastructure
 excerpt: "Blackstone’s funds led the lending round, with participation from Coatue, Carlyle, BlackRock and others. In its equity financing two weeks ago, CoreWeave was valued at $19 billion."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-05-17T13:29:38.371Z"
 coverImage: "https://static.wixstatic.com/media/e37254_f66c127d952d44779d032ee3b411cc43~mv2.jpeg"
 readTime: 1

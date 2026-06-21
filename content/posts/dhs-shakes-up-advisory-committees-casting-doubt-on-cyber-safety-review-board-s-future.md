@@ -3,8 +3,8 @@ title: "DHS Shakes Up Advisory Committees, Casting Doubt on Cyber Safety Review 
 slug: dhs-shakes-up-advisory-committees-casting-doubt-on-cyber-safety-review-board-s-future
 excerpt: "The directive, issued by Acting DHS Secretary Benjamin Huffman, mandates the immediate cessation of all existing advisory committee memberships as part of a broader effort to reallocate resources and focus on national security concerns."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-01-22T21:53:35.006Z"
 coverImage: "https://static.wixstatic.com/media/e37254_04ccb48c060244269cada5ffae96d65c~mv2.webp"
 readTime: 1

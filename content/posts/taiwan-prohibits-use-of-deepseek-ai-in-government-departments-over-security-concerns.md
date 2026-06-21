@@ -3,8 +3,8 @@ title: "Taiwan Prohibits Use of DeepSeek AI in Government Departments Over Secur
 slug: taiwan-prohibits-use-of-deepseek-ai-in-government-departments-over-security-concerns
 excerpt: "This decision, announced by Premier Cho Jung-tai, escalates previous advisories against the use of the technology."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-02-04T11:00:08.159Z"
 coverImage: "https://static.wixstatic.com/media/e37254_2a4d6e2e0cbc46bdaa95ee17c9f4e6be~mv2.webp"
 readTime: 1

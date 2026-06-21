@@ -3,8 +3,8 @@ title: "Neuralink's First Human Patient Controls Computer with Mind in Live Demo
 slug: neuralink-s-first-human-patient-controls-computer-with-mind-in-live-demo
 excerpt: "29-year-old Noland Arbaugh, the first person to receive Neuralink’s device, revealed during the broadcast on Musk's platform X that he had been paralyzed following a diving mishap about eight years prior."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2024-03-21T04:49:51.310Z"
 coverImage: "https://static.wixstatic.com/media/e37254_8f11f93461104171acd9d6a62234d11a~mv2.webp"
 readTime: 2

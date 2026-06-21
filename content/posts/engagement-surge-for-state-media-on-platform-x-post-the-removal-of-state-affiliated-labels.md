@@ -3,8 +3,8 @@ title: "Engagement Surge for State Media on Platform X Post the Removal of 'Stat
 slug: engagement-surge-for-state-media-on-platform-x-post-the-removal-of-state-affiliated-labels
 excerpt: "NewsGuard's in-depth analysis of media patterns and misinformation highlighted that 12 state media accounts from the mentioned countries observed an increase in likes and reposts of their content, escalating from 2.93 million to 4.98 million in the subsequent 90 days post the removal of the labeling."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-09-27T13:22:00.886Z"
 coverImage: "https://static.wixstatic.com/media/e37254_69b9222cbcc54708a21a05181de57909~mv2.jpeg"
 readTime: 1

@@ -3,8 +3,8 @@ title: "Wix Cuts 20% of Workforce as CEO Cites AI Evolution and Currency Pressur
 slug: wix-cuts-20-of-workforce-as-ceo-cites-ai-evolution-and-currency-pressures
 excerpt: "Israel-based Wix is cutting roughly 20% of its workforce — just over 1,000 employees — with CEO Avishai Abrahami citing AI's rapid evolution and pressure from the strengthening Israeli shekel as key factors behind the decision."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-28T15:01:31.382Z"
 coverImage: "https://static.wixstatic.com/media/e37254_096b8ef35fb741b2b99cca3eea392d04~mv2.jpeg"
 readTime: 2

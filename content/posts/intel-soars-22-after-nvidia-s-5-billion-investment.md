@@ -3,8 +3,8 @@ title: "Intel Soars 22% After Nvidia’s $5 Billion Investment"
 slug: intel-soars-22-after-nvidia-s-5-billion-investment
 excerpt: "Nvidia said it will purchase shares at $23.28 each as part of an agreement to co-develop data center and PC chips with Intel. The deal does not include the manufacturing of Nvidia chips in Intel’s foundries."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-09-19T03:04:41.091Z"
 coverImage: "https://static.wixstatic.com/media/e37254_05133aa2f8974d4ebc506ca0e940b692~mv2.avif"
 readTime: 1

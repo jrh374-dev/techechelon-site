@@ -3,8 +3,8 @@ title: "Trump Bought Palantir Stock Before Praising It on Truth Social, Ethics R
 slug: trump-bought-palantir-stock-before-praising-it-on-truth-social-ethics-records-show
 excerpt: "President Trump purchased as much as $530,000 in Palantir shares during March 2026 before publicly endorsing the AI defense company on Truth Social the following month, U.S. Office of Government Ethics records show."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-15T21:04:00.630Z"
 coverImage: "https://static.wixstatic.com/media/e37254_2bf784cf104441249742ff826f7d3a82~mv2.jpeg"
 readTime: 3

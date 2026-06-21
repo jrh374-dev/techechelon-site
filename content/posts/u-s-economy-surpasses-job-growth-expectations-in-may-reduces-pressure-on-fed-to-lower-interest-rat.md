@@ -3,8 +3,8 @@ title: "U.S. Economy Surpasses Job Growth Expectations in May, Reduces Pressure 
 slug: u-s-economy-surpasses-job-growth-expectations-in-may-reduces-pressure-on-fed-to-lower-interest-rat
 excerpt: "Nonfarm payrolls increased by 272,000 for the month, up from 165,000 in April and far exceeding the Dow Jones consensus estimate of 190,000."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-06-07T14:01:30.508Z"
 coverImage: "https://static.wixstatic.com/media/e37254_be65eefbf9e9497d9ce5a97a9be42c9e~mv2.jpeg"
 readTime: 1

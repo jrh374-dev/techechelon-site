@@ -3,8 +3,8 @@ title: "Cerebras IPO Sparks Speculation Fears as SpaceX Debut Looms Over AI-Char
 slug: cerebras-ipo-sparks-speculation-fears-as-spacex-debut-looms-over-ai-charged-market
 excerpt: "Cerebras Systems closed its Nasdaq debut with a market cap just below $100 billion before falling 10% on Friday, prompting warnings from Jim Cramer that a looming SpaceX IPO — potentially valued between $1.75 trillion and $2 trillion — could fuel dangerous speculative excess across the broader market."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-16T01:06:21.806Z"
 coverImage: "https://static.wixstatic.com/media/e37254_ae7a08a234e64f27a937ef36438f5a02~mv2.jpg"
 readTime: 3

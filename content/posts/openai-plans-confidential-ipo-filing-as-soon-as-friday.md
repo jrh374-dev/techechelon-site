@@ -3,8 +3,8 @@ title: "OpenAI Plans Confidential IPO Filing as Soon as Friday"
 slug: openai-plans-confidential-ipo-filing-as-soon-as-friday
 excerpt: "OpenAI is preparing to confidentially file a draft IPO prospectus as soon as Friday, setting the stage for what analysts say could be one of the largest public market debuts in history."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-20T17:04:40.113Z"
 coverImage: "https://static.wixstatic.com/media/e37254_8204d661036743c9828abcc989c784bf~mv2.jpg"
 readTime: 2

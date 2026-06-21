@@ -3,8 +3,8 @@ title: "Carvana Announces Debt Restructuring, Capital Raising Plan to Slash $1.2
 slug: carvana-announces-debt-restructuring-capital-raising-plan-to-slash-1-2b-debt-and-sell-1b-shares
 excerpt: "This agreement, the company stated, will wipe out above 83% of its unsecured note maturities set for 2025 and 2027, reducing its annual cash interest expense by over $430 million for the upcoming two years."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-07-19T16:35:41.620Z"
 coverImage: "https://static.wixstatic.com/media/e37254_7f105c22839d4f67aa8b3b18007c8d83~mv2.jpeg"
 readTime: 2

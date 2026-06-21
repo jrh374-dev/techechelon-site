@@ -3,8 +3,8 @@ title: "U.S. Official Urges Integral Security in AI Development, Aligns with New
 slug: u-s-official-urges-integral-security-in-ai-development-aligns-with-new-international-cybersecurity
 excerpt: "Jen Easterly, director of the U.S. Cybersecurity and Infrastructure Security Agency, criticized the current norm of releasing technology products with vulnerabilities and relying on consumers to patch them. She highlighted the unique challenges posed by AI, noting its exceptional power and rapid development."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-11-28T19:22:37.076Z"
 coverImage: "https://static.wixstatic.com/media/e37254_3cb7de19de324a0891c67fd16dc08158~mv2.jpeg"
 readTime: 1

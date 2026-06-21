@@ -3,8 +3,8 @@ title: "Trump Pauses Most New Tariffs for 90 Days, Spares China in Escalation"
 slug: trump-pauses-most-new-tariffs-for-90-days-spares-china-in-escalation
 excerpt: "The decision marks a significant shift in Trump’s trade policy as global economic uncertainty mounts. Under the new directive, tariffs on Chinese imports will be raised to at least 125%, while other countries will receive temporary reprieve from new levies."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-04-10T00:41:31.048Z"
 coverImage: "https://static.wixstatic.com/media/e37254_5876b9e5bb414076bf192fce9e8bf6d4~mv2.webp"
 readTime: 1

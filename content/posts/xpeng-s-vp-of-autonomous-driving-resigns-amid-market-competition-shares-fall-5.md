@@ -3,8 +3,8 @@ title: "Xpeng's VP of Autonomous Driving Resigns Amid Market Competition; Shares
 slug: xpeng-s-vp-of-autonomous-driving-resigns-amid-market-competition-shares-fall-5
 excerpt: "Wu, who played a significant role in Xpeng's autonomous driving efforts, has decided to leave the company for personal and familial reasons, as stated by Xpeng. In his stead, Liyun Li, the senior director of Xpeng's autonomous driving team, will assume his role."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-08-02T18:51:37.093Z"
 coverImage: "https://static.wixstatic.com/media/e37254_15ca77eea43b4a4ba3247f6fd19e26c3~mv2.jpeg"
 readTime: 1

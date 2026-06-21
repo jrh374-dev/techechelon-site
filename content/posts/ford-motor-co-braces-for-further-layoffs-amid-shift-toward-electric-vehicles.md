@@ -3,8 +3,8 @@ title: "Ford Motor Co. Braces for Further Layoffs Amid Shift Toward Electric Veh
 slug: ford-motor-co-braces-for-further-layoffs-amid-shift-toward-electric-vehicles
 excerpt: "The forthcoming job reductions are set to target staff in both the electric vehicle (EV) and software divisions, as well as those involved in Ford's gas-engine operations."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-06-26T23:24:56.972Z"
 coverImage: "https://static.wixstatic.com/media/e37254_37834f9a31404e1d9cc7001f7a47eb47~mv2.jpeg"
 readTime: 1

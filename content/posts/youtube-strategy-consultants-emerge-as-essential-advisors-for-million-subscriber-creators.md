@@ -3,8 +3,8 @@ title: "YouTube Strategy Consultants Emerge as Essential Advisors for Million-Su
 slug: youtube-strategy-consultants-emerge-as-essential-advisors-for-million-subscriber-creators
 excerpt: "A growing class of YouTube strategy consultants — charging more than $15,000 a month — is quietly driving the success of top creators including MrBeast, as the platform's $100 billion creator economy grows increasingly competitive."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-10T17:03:57.705Z"
 coverImage: "https://static.wixstatic.com/media/e37254_68f3ac2de61f4217b4aaeb4ec0ab06e0~mv2.png"
 readTime: 3

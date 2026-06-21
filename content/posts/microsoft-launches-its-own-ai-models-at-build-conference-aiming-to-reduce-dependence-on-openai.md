@@ -3,8 +3,8 @@ title: "Microsoft Launches Its Own AI Models at Build Conference, Aiming to Redu
 slug: microsoft-launches-its-own-ai-models-at-build-conference-aiming-to-reduce-dependence-on-openai
 excerpt: "Microsoft unveiled two proprietary AI models at its Build developer conference — a coding model and a reasoning model — as it moves to reduce its reliance on OpenAI and offer developers lower-cost alternatives on Azure."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-02T19:07:38.717Z"
 coverImage: "https://static.wixstatic.com/media/e37254_08956b9d301847c5be40a51425f61bf0~mv2.jpg"
 readTime: 3

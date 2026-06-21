@@ -3,8 +3,8 @@ title: "General Motors Cuts 500 to 600 IT Jobs as AI Reshapes Workforce Needs"
 slug: general-motors-cuts-500-to-600-it-jobs-as-ai-reshapes-workforce-needs
 excerpt: "General Motors laid off between 500 and 600 employees in IT roles on Monday, citing workforce transformation and cost reduction, with a person familiar with the matter confirming that AI played a role in the decision."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-12T21:05:04.862Z"
 coverImage: "https://static.wixstatic.com/media/e37254_9eca5f03dd0748178a349eeed2d8d697~mv2.jpg"
 readTime: 3

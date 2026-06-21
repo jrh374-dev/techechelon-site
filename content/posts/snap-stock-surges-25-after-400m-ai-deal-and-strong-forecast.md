@@ -3,8 +3,8 @@ title: "Snap Stock Surges 25% After $400M AI Deal and Strong Forecast"
 slug: snap-stock-surges-25-after-400m-ai-deal-and-strong-forecast
 excerpt: "For the third quarter, Snap posted revenue of $1.51 billion, slightly above Wall Street’s $1.49 billion estimate, and a net loss of $104 million, down from $153 million a year earlier."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2025-11-05T23:20:50.211Z"
 coverImage: "https://static.wixstatic.com/media/e37254_c151dacd95d04ffb9422010f5341fd68~mv2.jpg"
 readTime: 2

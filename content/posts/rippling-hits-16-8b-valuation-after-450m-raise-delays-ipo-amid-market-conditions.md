@@ -3,8 +3,8 @@ title: "Rippling Hits $16.8B Valuation After $450M Raise, Delays IPO Amid Market
 slug: rippling-hits-16-8b-valuation-after-450m-raise-delays-ipo-amid-market-conditions
 excerpt: "The round had no designated lead investor, though it included participation from Baillie Gifford, Elad Gil, and Goldman Sachs Growth, among others."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-05-09T18:44:15.297Z"
 coverImage: "https://static.wixstatic.com/media/e37254_568c9c9d7f894426b49247bd1f5c0280~mv2.jpg"
 readTime: 1

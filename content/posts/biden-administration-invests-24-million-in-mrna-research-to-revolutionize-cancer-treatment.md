@@ -3,8 +3,8 @@ title: "Biden Administration Invests $24 Million in mRNA Research to Revolutioni
 slug: biden-administration-invests-24-million-in-mrna-research-to-revolutionize-cancer-treatment
 excerpt: "Leading the research will be a team from Emory University, based in Atlanta. The funds for this project will come from the Advanced Research Projects Agency for Health (ARPA-H), an initiative created to support groundbreaking and high-potential research."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-08-24T16:29:48.347Z"
 coverImage: "https://static.wixstatic.com/media/e37254_f5bf236209bf4dfb863bfafc261e672b~mv2.jpg"
 readTime: 1

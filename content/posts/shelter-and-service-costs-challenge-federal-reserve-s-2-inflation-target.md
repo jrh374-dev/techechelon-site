@@ -3,8 +3,8 @@ title: "Shelter and Service Costs Challenge Federal Reserve's 2% Inflation Targe
 slug: shelter-and-service-costs-challenge-federal-reserve-s-2-inflation-target
 excerpt: "Steven Blitz, Chief U.S. Economist at GlobalData TS Lombard, suggests the possibility of needing a recession to regain control over escalating rents and medical services costs, implying that the 2% target might not be achievable without drastic measures. September's consumer price index (CPI) saw a drop to 3."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-10-12T22:01:52.322Z"
 coverImage: "https://static.wixstatic.com/media/e37254_695d4564624e49f1b6a99c36fb3cec6f~mv2.jpeg"
 readTime: 2

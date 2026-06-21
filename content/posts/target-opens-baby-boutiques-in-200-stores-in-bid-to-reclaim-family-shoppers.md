@@ -3,8 +3,8 @@ title: "Target Opens Baby Boutiques in 200 Stores in Bid to Reclaim Family Shopp
 slug: target-opens-baby-boutiques-in-200-stores-in-bid-to-reclaim-family-shoppers
 excerpt: "Target has opened \"baby boutiques\" in about 200 stores, adding nearly 2,000 new products and premium brands like UPPAbaby, as new CEO Michael Fiddelke bets on family shoppers to end a three-year sales slump."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-10T13:04:19.601Z"
 coverImage: "https://static.wixstatic.com/media/e37254_266a0d2bc3d44475bd184d683d6aeef1~mv2.jpeg"
 readTime: 3

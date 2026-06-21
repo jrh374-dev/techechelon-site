@@ -3,8 +3,8 @@ title: "Snowflake Shares Surge 37% After Earnings Beat and $6 Billion AWS Commit
 slug: snowflake-shares-surge-37-after-earnings-beat-and-6-billion-aws-commitment
 excerpt: "Snowflake posted first-quarter adjusted earnings of 39 cents per share on revenue of $1.39 billion, both above analyst estimates, and announced a five-year, $6 billion commitment to Amazon Web Services that includes AI chips."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-28T13:05:24.642Z"
 coverImage: "https://static.wixstatic.com/media/e37254_350db068c1a041868541cc2e60b91f50~mv2.jpg"
 readTime: 2

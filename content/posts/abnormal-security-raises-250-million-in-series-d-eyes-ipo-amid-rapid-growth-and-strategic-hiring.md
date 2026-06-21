@@ -3,8 +3,8 @@ title: "Abnormal Security Raises $250 Million in Series D, Eyes IPO Amid Rapid G
 slug: abnormal-security-raises-250-million-in-series-d-eyes-ipo-amid-rapid-growth-and-strategic-hiring
 excerpt: "Founded in 2018 by the architects behind the Twitter-acquired TellApart, Abnormal Security has rapidly expanded, now boasting over 2,400 customers like Maersk, Xerox, and Mattel. This customer base represents about 17% of the Fortune 500 companies, signaling significant market penetration."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-08-06T13:46:16.549Z"
 coverImage: "https://static.wixstatic.com/media/e37254_44cbeef974ef4a52920ea7f571e592c8~mv2.webp"
 readTime: 1

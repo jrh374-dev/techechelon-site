@@ -3,8 +3,8 @@ title: "U.S. Government to Test AI Models from Google, Microsoft, and xAI Before
 slug: u-s-government-to-test-ai-models-from-google-microsoft-and-xai-before-public-release
 excerpt: "The Center for AI Standards and Innovation struck agreements with Google DeepMind, Microsoft, and Elon Musk's xAI to evaluate AI models before public release, as the Trump administration expands its AI oversight framework."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-05T21:01:34.074Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e44654aeaaf84546812b3bf81d9752d8~mv2.jpg"
 readTime: 2

@@ -3,8 +3,8 @@ title: "Alphabet Plans $80 Billion Stock Sale to Fund AI Infrastructure Buildout
 slug: alphabet-plans-80-billion-stock-sale-to-fund-ai-infrastructure-buildout
 excerpt: "Alphabet announced plans to raise $80 billion through stock sales, including a $10 billion investment from Berkshire Hathaway, to expand AI compute infrastructure as demand exceeds the company's available supply."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-02T01:02:29.860Z"
 coverImage: "https://static.wixstatic.com/media/e37254_3739d5407bdb46289ac5348eb08a88f1~mv2.jpg"
 readTime: 2

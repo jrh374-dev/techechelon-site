@@ -3,8 +3,8 @@ title: "Eight U.S. Newspaper Publishers Sue Microsoft and OpenAI Over Copyright 
 slug: eight-u-s-newspaper-publishers-sue-microsoft-and-openai-over-copyright-infringement-and-misuse-of-c
 excerpt: "They accuse the tech giants of unauthorized use and misrepresentation of their content in AI products."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-04-30T17:04:49.528Z"
 coverImage: "https://static.wixstatic.com/media/e37254_7e6b909a82d34f2b9e016284577dec07~mv2.webp"
 readTime: 1

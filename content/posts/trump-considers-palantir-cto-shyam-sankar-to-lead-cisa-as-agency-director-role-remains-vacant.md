@@ -3,8 +3,8 @@ title: "Trump Considers Palantir CTO Shyam Sankar to Lead CISA as Agency Directo
 slug: trump-considers-palantir-cto-shyam-sankar-to-lead-cisa-as-agency-director-role-remains-vacant
 excerpt: "The Trump administration is weighing the nomination of Palantir CTO Shyam Sankar to lead CISA, according to two sources, as the federal cybersecurity agency has operated without a Senate-confirmed director since January 2025."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-04T21:03:16.154Z"
 coverImage: "https://static.wixstatic.com/media/e37254_84ad95b32e044fa1a2eebb0e2973432c~mv2.jpeg"
 readTime: 3

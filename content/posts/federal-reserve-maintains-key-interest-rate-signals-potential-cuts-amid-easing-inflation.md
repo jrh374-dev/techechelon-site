@@ -3,8 +3,8 @@ title: "Federal Reserve Maintains Key Interest Rate, Signals Potential Cuts Amid
 slug: federal-reserve-maintains-key-interest-rate-signals-potential-cuts-amid-easing-inflation
 excerpt: "Furthermore, the committee hinted at potential interest rate reductions in the coming years. For 2024, they anticipate at least three cuts, which is more aggressive than their previous stance but still less than market expectations of four cuts."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-12-13T22:01:58.865Z"
 coverImage: "https://static.wixstatic.com/media/e37254_6a749dff0919496fb91bf1fe5444e80b~mv2.jpg"
 readTime: 1

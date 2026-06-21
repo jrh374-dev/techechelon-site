@@ -3,8 +3,8 @@ title: "Turning AI into Cash: Exploring Income Opportunities in the Booming Arti
 slug: turning-ai-into-cash-exploring-income-opportunities-in-the-booming-artificial-intelligence-sector
 excerpt: "Matt Higgins, a self-made millionaire, CEO of RSE Ventures, and guest star on ABC's \"Shark Tank,\" suggests that artificial intelligence..."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-07-11T22:18:53.958Z"
 coverImage: "https://static.wixstatic.com/media/e37254_569a508abd2e4c418aa75cba3f77c427~mv2.jpeg"
 readTime: 2

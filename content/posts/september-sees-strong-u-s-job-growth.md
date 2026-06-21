@@ -3,8 +3,8 @@ title: "September Sees Strong U.S. Job Growth"
 slug: september-sees-strong-u-s-job-growth
 excerpt: "The Labor Department reported a substantial 336,000 increase in nonfarm payrolls for the month, far surpassing the Dow Jones prediction of 170,000. This jump was significantly larger than the previous month's figures. The unemployment rate stood at 3.8%, a slight deviation from the anticipated 3.7%."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-10-06T19:50:38.138Z"
 coverImage: "https://static.wixstatic.com/media/e37254_440347723784415b9a2ce258d8f714bd~mv2.jpeg"
 readTime: 2

@@ -3,8 +3,8 @@ title: "Federal Judge Temporarily Blocks DOJ's $1.8 Billion Anti-Weaponization F
 slug: federal-judge-temporarily-blocks-doj-s-1-8-billion-anti-weaponization-fund
 excerpt: "A federal judge in Virginia has temporarily blocked the DOJ from creating or disbursing money from its $1.8 billion Anti-Weaponization Fund, scheduling a June 12 hearing to decide whether the injunction will hold."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-29T15:06:50.590Z"
 coverImage: "https://static.wixstatic.com/media/e37254_da8c7a067cc74f3c8c496a6c10efeefe~mv2.jpg"
 readTime: 2

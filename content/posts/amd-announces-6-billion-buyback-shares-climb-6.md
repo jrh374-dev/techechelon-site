@@ -3,8 +3,8 @@ title: "AMD Announces $6 Billion Buyback; Shares Climb 6%"
 slug: amd-announces-6-billion-buyback-shares-climb-6
 excerpt: "“Our expanded share repurchase program reflects the Board’s confidence in AMD’s strategic direction, growth prospects, and ability to consistently generate strong free cash flow,” said AMD CEO Lisa Su in a statement."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-05-14T17:06:37.294Z"
 coverImage: "https://static.wixstatic.com/media/e37254_8f0082c07ff949999265d258ce8e681f~mv2.webp"
 readTime: 1

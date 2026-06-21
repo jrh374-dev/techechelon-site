@@ -3,8 +3,8 @@ title: "Trump Appoints FHFA Director Bill Pulte as Acting Director of National I
 slug: trump-appoints-fhfa-director-bill-pulte-as-acting-director-of-national-intelligence
 excerpt: "President Trump has named FHFA Director Bill Pulte as acting director of national intelligence, drawing criticism from Democrats and Republican Sen. Thom Tillis, who said Pulte has no chance of winning Senate confirmation."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-03T13:02:08.411Z"
 coverImage: "https://static.wixstatic.com/media/e37254_fbfbe336d7d5438897c6d8be9daf7d70~mv2.jpg"
 readTime: 2

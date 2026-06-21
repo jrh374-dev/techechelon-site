@@ -3,8 +3,8 @@ title: "Elon Musk's Bold Transformation: Twitter Becomes X in a High-Stakes Rebr
 slug: elon-musk-s-bold-transformation-twitter-becomes-x-in-a-high-stakes-rebranding-gamble
 excerpt: "Musk envisions X to be similar to China's WeChat, a versatile app that people use for entertainment, e-commerce, social media, and messaging."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-07-25T03:38:37.685Z"
 coverImage: "https://static.wixstatic.com/media/e37254_c5b73b312225411db561cdbdcf75c620~mv2.jpeg"
 readTime: 3

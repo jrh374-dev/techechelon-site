@@ -4,6 +4,7 @@ import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
 import { Newsletter } from "@/components/Newsletter";
 import { MarketChart } from "@/components/MarketChart";
+import { IntervalChart } from "@/components/IntervalChart";
 import { MARKETS, getSymbol, kindLabel, MarketSymbol } from "@/lib/markets";
 import {
   finnhubSymbolFor,
@@ -137,9 +138,12 @@ export default async function MarketPage({ params }: { params: { symbol: string 
   const [live, news, series] = await Promise.all([
     liveFor(sym),
     newsFor(sym),
-    tdConfigured() ? getDailySeries(tdSymbolFor(sym.slug, sym.symbol)) : Promise.resolve(null),
+    tdConfigured()
+      ? getDailySeries(tdSymbolFor(sym.slug, sym.symbol), 260)
+      : Promise.resolve(null),
   ]);
   const chartData = series?.map((b) => b.c);
+  const chartBars = series && series.length > 5 ? series : null;
 
   const price = live?.price ?? sym.price;
   const change = live?.change ?? sym.change;
@@ -237,10 +241,14 @@ export default async function MarketPage({ params }: { params: { symbol: string 
               {chartData ? "DAILY CLOSES · VIA TWELVE DATA" : "INDICATIVE · NOT FOR TRADING"}
             </span>
           </div>
-          <MarketChart slug={sym.slug} direction={direction} data={chartData} />
+          {chartBars ? (
+            <IntervalChart slug={sym.slug} bars={chartBars} />
+          ) : (
+            <MarketChart slug={sym.slug} direction={direction} data={chartData} />
+          )}
           <p className="font-mono text-[10px] tracking-[0.06em] uppercase text-sand mt-4">
-            {chartData
-              ? "Daily closing prices. Chart not intended for trading decisions."
+            {chartBars
+              ? "Daily closing prices via Twelve Data. Chart not intended for trading decisions."
               : "Snapshot chart shown above. Add a Twelve Data API key to render live time-series."}
           </p>
         </div>

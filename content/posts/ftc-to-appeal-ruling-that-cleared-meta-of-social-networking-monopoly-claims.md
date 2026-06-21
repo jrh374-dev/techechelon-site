@@ -3,8 +3,8 @@ title: "FTC to Appeal Ruling That Cleared Meta of Social Networking Monopoly Cla
 slug: ftc-to-appeal-ruling-that-cleared-meta-of-social-networking-monopoly-claims
 excerpt: "The FTC sued Meta in 2020, alleging the company unlawfully cemented monopoly power through its acquisitions of Instagram and WhatsApp. But in November, U.S. District Judge James Boasberg ruled against the agency, concluding that Meta competes in a broader market that includes platforms such as TikTok and YouTube."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2026-01-21T02:03:17.943Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e0288dbfa0964793979779a7b9ca378a~mv2.jpg"
 readTime: 1

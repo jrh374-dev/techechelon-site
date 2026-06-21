@@ -3,8 +3,8 @@ title: "PRODUCT REVIEW: Eve – The Compassionate Virtual Companion Transforming
 slug: product-review-eve-the-compassionate-virtual-companion-transforming-elderly-care
 excerpt: "Unboxing and Setup"
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2024-07-17T12:30:20.030Z"
 coverImage: "https://static.wixstatic.com/media/e37254_f436550da99d46dca7fb814c5ef2447c~mv2.png"
 readTime: 3

@@ -3,8 +3,8 @@ title: "Amazon Invests Additional $4 Billion in AI Startup Anthropic"
 slug: amazon-invests-additional-4-billion-in-ai-startup-anthropic
 excerpt: "As part of the expanded partnership, Amazon Web Services (AWS) will now serve as Anthropic’s primary cloud and training partner. Anthropic will utilize AWS Trainium and Inferentia chips to train and deploy its advanced AI models."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2024-11-22T14:49:24.605Z"
 coverImage: "https://static.wixstatic.com/media/e37254_fc0433a538ce44969376b34ab5d7b758~mv2.webp"
 readTime: 1

@@ -3,8 +3,8 @@ title: "CFTC Moves to Vacate $5 Million Consent Order Against Winklevoss' Gemini
 slug: cftc-moves-to-vacate-5-million-consent-order-against-winklevoss-gemini-trust
 excerpt: "The CFTC has asked a New York federal court to vacate a January 2025 consent order against Gemini Trust, including an injunction tied to a $5 million penalty, drawing criticism from a former agency chair who called the move \"very unusual.\""
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-28T17:01:23.216Z"
 coverImage: "https://static.wixstatic.com/media/e37254_197722b17f93457ba610d0a6001b2ba1~mv2.jpeg"
 readTime: 3

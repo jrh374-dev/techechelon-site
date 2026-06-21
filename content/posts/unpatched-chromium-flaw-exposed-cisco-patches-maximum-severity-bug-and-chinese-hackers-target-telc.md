@@ -3,8 +3,8 @@ title: "Unpatched Chromium Flaw Exposed, Cisco Patches Maximum-Severity Bug, and
 slug: unpatched-chromium-flaw-exposed-cisco-patches-maximum-severity-bug-and-chinese-hackers-target-telc
 excerpt: "Google accidentally exposed details of an unpatched Chromium remote code execution flaw, Cisco patched a maximum-severity Secure Workload vulnerability, and researchers detailed a Chinese espionage campaign hitting telecom providers with new Linux and Windows malware."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-21T19:04:41.805Z"
 coverImage: "https://static.wixstatic.com/media/e37254_8e0d262f63cc476095d35a86882c94f5~mv2.webp"
 readTime: 3

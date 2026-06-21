@@ -3,8 +3,8 @@ title: "Amazon Offers AI Shopping Technology to Retailers Through AWS"
 slug: amazon-offers-ai-shopping-technology-to-retailers-through-aws
 excerpt: "Amazon is licensing the AI shopping technology behind Alexa for Shopping to other retailers through AWS, with Kate Spade among the first customers, as the company works to position its infrastructure at the center of AI-driven commerce across the web."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-27T17:05:29.406Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e43c5203731948028b87018ba6685db9~mv2.jpg"
 readTime: 2

@@ -3,8 +3,8 @@ title: "Markets Plunge as Trump Threatens Major Tariff Hike on China"
 slug: markets-plunge-as-trump-threatens-major-tariff-hike-on-china
 excerpt: "The Dow Jones Industrial Average sank 878 points (1.9%) to close at 45,479.60, while the S&P 500 dropped 2.7% to 6,552.51, marking its steepest one-day decline since April. The Nasdaq Composite was hit hardest, plunging 3.6% to 22,204.43 after briefly touching a record high earlier in the session."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2025-10-10T23:17:41.868Z"
 coverImage: "https://static.wixstatic.com/media/e37254_59922de8d807478e8b8355c8e591c411~mv2.jpeg"
 readTime: 2

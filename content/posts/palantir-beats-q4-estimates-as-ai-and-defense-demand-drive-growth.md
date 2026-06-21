@@ -3,8 +3,8 @@ title: "Palantir Beats Q4 Estimates as AI and Defense Demand Drive Growth"
 slug: palantir-beats-q4-estimates-as-ai-and-defense-demand-drive-growth
 excerpt: "The software analytics firm reported adjusted earnings of 25 cents per share, topping expectations of 23 cents, while revenue reached $1.41 billion, ahead of the $1.33 billion consensus estimate. Revenue climbed 70% year over year, underscoring the scale of demand for AI-enabled decision software."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-02-02T23:21:31.146Z"
 coverImage: "https://static.wixstatic.com/media/e37254_cddf270d420b47cf98e7fa4173753613~mv2.jpg"
 readTime: 1

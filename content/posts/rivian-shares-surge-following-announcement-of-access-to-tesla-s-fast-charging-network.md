@@ -3,8 +3,8 @@ title: "Rivian shares surge following announcement of access to Tesla's fast-cha
 slug: rivian-shares-surge-following-announcement-of-access-to-tesla-s-fast-charging-network
 excerpt: "Rivian disclosed plans for the release of an adapter to facilitate charging of its EVs on Tesla’s fast-charging network, anticipated by spring 2024. Furthermore, the company plans to integrate Tesla’s North American Charging Standard (NACS) charge ports into its cars by 2025."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-06-20T20:31:59.070Z"
 coverImage: "https://static.wixstatic.com/media/e37254_571db7c0aad646f5ab798e449efd3a2a~mv2.jpeg"
 readTime: 1

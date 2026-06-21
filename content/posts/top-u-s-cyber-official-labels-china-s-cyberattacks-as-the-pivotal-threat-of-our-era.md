@@ -3,8 +3,8 @@ title: "Top U.S. cyber official labels China's cyberattacks as the 'pivotal thre
 slug: top-u-s-cyber-official-labels-china-s-cyberattacks-as-the-pivotal-threat-of-our-era
 excerpt: "Chinese hackers had managed to breach critical U.S. military and private sector infrastructure earlier this year. The U.S. chief cybersecurity official characterized China's cyber espionage and sabotage skills as a \"defining threat of our era."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-06-13T13:24:15.129Z"
 coverImage: "https://static.wixstatic.com/media/e37254_0755a7444c0b431e973de844a6e18dd6~mv2.jpeg"
 readTime: 2

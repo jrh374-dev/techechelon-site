@@ -3,8 +3,8 @@ title: "Arnold Schwarzenegger Relates Today's AI to the Tech in 'Terminator 2'"
 slug: arnold-schwarzenegger-relates-today-s-ai-to-the-tech-in-terminator-2
 excerpt: "\"Back in those days, we merely touched upon the concept of AI, artificial intelligence. Just think about it,\" Schwarzenegger said to an enraptured audience at the Academy Museum of Motion Pictures in Los Angeles."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-07-01T14:48:32.204Z"
 coverImage: "https://static.wixstatic.com/media/2a4a201127537e57ecfabc407f713f78.jpg"
 readTime: 2

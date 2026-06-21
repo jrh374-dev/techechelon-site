@@ -3,8 +3,8 @@ title: "Deciphering the Decipherless: UNGA, U.S. Global Health, and the Seismic 
 slug: deciphering-the-decipherless-unga-u-s-global-health-and-the-seismic-shift
 excerpt: "In a new episode of Apinions, Michael “Dersh” Dershem, founder and CEO of Apierion, sat down with Hugh Dugan, a career diplomat who spent more than three decades at the State Department advising 11 U.S. ambassadors to the United Nations."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2025-10-10T23:30:41.339Z"
 coverImage: "https://static.wixstatic.com/media/e37254_dad79e4cbf9b4b0a806b4233528444ff~mv2.png"
 readTime: 4

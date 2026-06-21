@@ -3,8 +3,8 @@ title: "White House Invites Hackers to Challenge Leading AI Models at DEF CON"
 slug: white-house-invites-hackers-to-challenge-leading-ai-models-at-def-con
 excerpt: "About 2,200 individuals participated, attempting to trick these advanced chatbots or large language models (LLMs) into inappropriate actions like fabricating news or providing unsafe instructions within a 50-minute window."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-08-15T17:44:00.306Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e3c98244e184446696a4398342f0193a~mv2.png"
 readTime: 1

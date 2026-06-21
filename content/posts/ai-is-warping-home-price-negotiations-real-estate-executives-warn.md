@@ -3,8 +3,8 @@ title: "AI Is Warping Home Price Negotiations, Real Estate Executives Warn"
 slug: ai-is-warping-home-price-negotiations-real-estate-executives-warn
 excerpt: "Real estate executives including Coldwell Banker's Kamini Lane and Ryan Serhant are warning that buyers and sellers using ChatGPT and other general-purpose AI tools to price properties are disrupting deals, as Zillow pushes a more context-aware alternative."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-16T13:03:28.936Z"
 coverImage: "https://static.wixstatic.com/media/e37254_4b4207bb6401480a84454debfc7b1fb1~mv2.jpg"
 readTime: 3

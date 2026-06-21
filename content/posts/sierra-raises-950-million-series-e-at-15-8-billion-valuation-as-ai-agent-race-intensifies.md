@@ -3,8 +3,8 @@ title: "Sierra Raises $950 Million Series E at $15.8 Billion Valuation as AI Age
 slug: sierra-raises-950-million-series-e-at-15-8-billion-valuation-as-ai-agent-race-intensifies
 excerpt: "AI customer service startup Sierra has raised $950 million in a Series E round led by Tiger Global and Google's GV, pushing its valuation to $15.8 billion — up from $10 billion just months ago — as venture investors continue to back enterprise AI category leaders."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-05T01:04:12.637Z"
 coverImage: "https://static.wixstatic.com/media/e37254_885c72e5b2454c19a0888fb3de76d662~mv2.jpg"
 readTime: 3

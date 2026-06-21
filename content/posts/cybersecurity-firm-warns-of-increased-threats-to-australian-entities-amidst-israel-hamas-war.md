@@ -3,8 +3,8 @@ title: "Cybersecurity Firm Warns of Increased Threats to Australian Entities Ami
 slug: cybersecurity-firm-warns-of-increased-threats-to-australian-entities-amidst-israel-hamas-war
 excerpt: "CyberCX's recent report from 10 October reveals that following Israel's official war declaration on 8 October, they've tracked a change in online narratives of over 30 groups. These groups have affiliations with countries like Russia, Ukraine, India, Pakistan, and Bangladesh."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-10-11T13:02:06.788Z"
 coverImage: "https://static.wixstatic.com/media/e37254_dff8ade983c141e4b8fa9c84c38f0bde~mv2.jpeg"
 readTime: 2

@@ -3,8 +3,8 @@ title: "Gmail Adds AI Features as Google Pushes Email Toward a Personal Assistan
 slug: gmail-adds-ai-features-as-google-pushes-email-toward-a-personal-assistant
 excerpt: "The new capabilities, announced Thursday, are designed to help users write more effectively, surface information buried across years of email, and proactively generate daily to-do lists."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-01-08T16:10:26.076Z"
 coverImage: "https://static.wixstatic.com/media/e37254_d742b56b26e14e01b43ac1f408b74c65~mv2.jpg"
 readTime: 2

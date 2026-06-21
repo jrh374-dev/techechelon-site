@@ -3,8 +3,8 @@ title: "Biden's Campaign Faces Bipartisan Criticism for Joining TikTok Amid Nati
 slug: biden-s-campaign-faces-bipartisan-criticism-for-joining-tiktok-amid-national-security-concerns
 excerpt: "Criticism has been particularly vocal from Republican senators, who have raised concerns about TikTok's data privacy and the national security implications of its ties to ByteDance, its parent company based in Beijing."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-02-13T05:35:03.054Z"
 coverImage: "https://static.wixstatic.com/media/e37254_10e13aa226fb42d9be0f9ec307cb756f~mv2.webp"
 readTime: 1

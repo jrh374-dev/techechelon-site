@@ -3,8 +3,8 @@ title: "Nomura Projects Samsung and SK Hynix Could Rally Over 110% on AI Memory 
 slug: nomura-projects-samsung-and-sk-hynix-could-rally-over-110-on-ai-memory-boom
 excerpt: "Nomura projects Samsung Electronics could rally over 110% and SK Hynix roughly 117% over the next 12 months, citing a structural surge in AI-driven high-bandwidth memory demand that the brokerage says has outpaced the industry's supply capacity."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-19T01:02:29.577Z"
 coverImage: "https://static.wixstatic.com/media/e37254_b48cc9681c6f4ad490d2471f8c59b51d~mv2.jpg"
 readTime: 3

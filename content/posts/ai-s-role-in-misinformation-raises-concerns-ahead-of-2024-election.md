@@ -3,8 +3,8 @@ title: "AI's Role in Misinformation Raises Concerns Ahead of 2024 Election"
 slug: ai-s-role-in-misinformation-raises-concerns-ahead-of-2024-election
 excerpt: "2020's Trump supporters were twice as prone to express decreased trust in the election results due to AI as compared to Biden voters. Breaking down the numbers, 47% of those concerned about AI misinformation were Trump voters, while 27% supported Biden."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-09-12T03:13:39.994Z"
 coverImage: "https://static.wixstatic.com/media/e37254_7c20b889fb384edb8f04b6ced642a842~mv2.jpeg"
 readTime: 1

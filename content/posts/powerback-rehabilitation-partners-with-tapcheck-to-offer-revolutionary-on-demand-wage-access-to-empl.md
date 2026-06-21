@@ -3,8 +3,8 @@ title: "Powerback Rehabilitation Partners with Tapcheck to Offer Revolutionary O
 slug: powerback-rehabilitation-partners-with-tapcheck-to-offer-revolutionary-on-demand-wage-access-to-empl
 excerpt: "Powerback Rehabilitation has announced a partnership with Tapcheck, an award-winning earned-wage access platform. This strategic alliance aims to empower Powerback's workforce, granting its 12,000 employees instant access to their earned wages – a move that both companies believe will significantly enhance financial well-being and job satisfaction."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2024-03-06T13:00:29.824Z"
 coverImage: "https://static.wixstatic.com/media/e37254_a8c08a04886f4ec68975c9d59d20f397~mv2.png"
 readTime: 2

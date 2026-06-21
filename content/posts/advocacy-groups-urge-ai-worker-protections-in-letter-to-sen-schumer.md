@@ -3,8 +3,8 @@ title: "Advocacy Groups Urge AI Worker Protections in Letter to Sen. Schumer"
 slug: advocacy-groups-urge-ai-worker-protections-in-letter-to-sen-schumer
 excerpt: "The advocacy groups pointed to allegations of major corporations, including Amazon, Google, and Walmart, using AI or other technological tools for employee surveillance. They emphasized the need for legislative measures to prevent such companies from profiting through the exploitation of tech-driven surveillance."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-10-26T03:32:30.237Z"
 coverImage: "https://static.wixstatic.com/media/e37254_0d75a18d01e54e54b1450ff3118f3dfc~mv2.jpeg"
 readTime: 1

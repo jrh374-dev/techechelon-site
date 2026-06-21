@@ -3,8 +3,8 @@ title: "Anthropic and Menlo Ventures Launch $100 Million Fund to Boost AI Startu
 slug: anthropic-and-menlo-ventures-launch-100-million-fund-to-boost-ai-startups-and-compete-with-openai
 excerpt: "This new fund seeks to replicate the success of the iFund, a joint effort by Apple and Kleiner Perkins launched in 2008 to aid developers on Apple's mobile platforms."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-07-17T14:22:00.262Z"
 coverImage: "https://static.wixstatic.com/media/e37254_aac812ea1cfb4c3199703132e011674f~mv2.webp"
 readTime: 1

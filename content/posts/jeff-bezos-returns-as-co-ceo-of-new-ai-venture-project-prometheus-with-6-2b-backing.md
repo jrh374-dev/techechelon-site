@@ -3,8 +3,8 @@ title: "Jeff Bezos Returns as Co-CEO of New AI Venture, Project Prometheus, with
 slug: jeff-bezos-returns-as-co-ceo-of-new-ai-venture-project-prometheus-with-6-2b-backing
 excerpt: "Jeff Bezos is getting back into the startup trenches. According to a report from _The New York Times_, the Amazon founder is taking on a hands-on role as co-CEO of Project Prometheus, a newly launched AI startup that has already secured an eye-popping $6.2 billion in funding."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-11-17T17:25:33.254Z"
 coverImage: "https://static.wixstatic.com/media/e37254_2a960aad3f564f2eb9108ea03255cdaf~mv2.jpg"
 readTime: 1

@@ -3,8 +3,8 @@ title: "Cato Networks Crosses $350M ARR as AI Fuels Next Phase of Cyber Growth"
 slug: cato-networks-crosses-350m-arr-as-ai-fuels-next-phase-of-cyber-growth
 excerpt: "The cloud-based network security provider said the figure represents 43% year-over-year growth, building on momentum from just months ago when the company crossed the $300 million ARR mark."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-02-25T16:01:35.044Z"
 coverImage: "https://static.wixstatic.com/media/e37254_0604b1da14844bf2a688aa71ee9b525a~mv2.jpeg"
 readTime: 2

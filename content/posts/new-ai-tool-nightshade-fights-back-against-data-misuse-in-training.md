@@ -3,8 +3,8 @@ title: "New AI Tool \"Nightshade\" Fights Back Against Data Misuse in Training"
 slug: new-ai-tool-nightshade-fights-back-against-data-misuse-in-training
 excerpt: "Nightshade subtly modifies pixels in digital artwork. If an AI platform uses this altered artwork for training, the distortions serve as a \"poison\", manipulating the model's functionality. As a result, the AI may interpret an image of a car as something entirely different, like a cow."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-10-26T03:17:36.265Z"
 coverImage: "https://static.wixstatic.com/media/e37254_d5951072ec854cff8152058d60bb3bad~mv2.jpeg"
 readTime: 2

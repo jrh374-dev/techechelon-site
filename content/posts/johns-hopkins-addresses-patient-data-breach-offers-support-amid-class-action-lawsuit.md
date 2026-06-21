@@ -3,8 +3,8 @@ title: "Johns Hopkins Addresses Patient Data Breach, Offers Support Amid Class A
 slug: johns-hopkins-addresses-patient-data-breach-offers-support-amid-class-action-lawsuit
 excerpt: "The hacking incident involved the widespread file transfer software, MOVEit, which enabled the unauthorized access and downloading of documents from a server, as confirmed by Johns Hopkins."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-07-25T03:45:10.459Z"
 coverImage: "https://static.wixstatic.com/media/e37254_45d7338f12484a9abd496a6107e16b97~mv2.jpeg"
 readTime: 1

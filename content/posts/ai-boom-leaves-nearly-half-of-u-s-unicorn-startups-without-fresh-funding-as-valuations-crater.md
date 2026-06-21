@@ -3,8 +3,8 @@ title: "AI Boom Leaves Nearly Half of U.S. Unicorn Startups Without Fresh Fundin
 slug: ai-boom-leaves-nearly-half-of-u-s-unicorn-startups-without-fresh-funding-as-valuations-crater
 excerpt: "Nearly half of America's 857 unicorn startups have gone three years without fresh funding, PitchBook data shows, as the AI boom redirects capital toward AI-native firms and leaves pre-ChatGPT companies stranded with eroding valuations."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-01T13:07:30.537Z"
 coverImage: "https://static.wixstatic.com/media/e37254_f5c2a0b191c34f8cb8a233d0a0e906d9~mv2.jpg"
 readTime: 3

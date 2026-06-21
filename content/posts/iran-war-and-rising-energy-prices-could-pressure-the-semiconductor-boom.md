@@ -3,8 +3,8 @@ title: "Iran War and Rising Energy Prices Could Pressure the Semiconductor Boom"
 slug: iran-war-and-rising-energy-prices-could-pressure-the-semiconductor-boom
 excerpt: "While the immediate impact remains limited, a prolonged war could affect both the supply of key chipmaking materials and the economics of AI data center expansion."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-03-10T13:44:33.911Z"
 coverImage: "https://static.wixstatic.com/media/e37254_b48b340062644f8796d328c207734e20~mv2.jpg"
 readTime: 2

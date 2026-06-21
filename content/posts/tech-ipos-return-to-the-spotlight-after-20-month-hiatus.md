@@ -3,8 +3,8 @@ title: "Tech IPOs Return to the Spotlight After 20-Month Hiatus"
 slug: tech-ipos-return-to-the-spotlight-after-20-month-hiatus
 excerpt: "Earlier, Arm, the chip designer under the SoftBank umbrella of Japan, announced its intention to list on the Nasdaq. It comes seven years after its $32 billion acquisition and privatization."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-08-29T04:26:34.770Z"
 coverImage: "https://static.wixstatic.com/media/e37254_a428cad400ef4b3db6db369b805ed0c2~mv2.jpeg"
 readTime: 2

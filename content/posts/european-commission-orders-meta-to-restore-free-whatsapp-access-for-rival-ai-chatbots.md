@@ -3,8 +3,8 @@ title: "European Commission Orders Meta to Restore Free WhatsApp Access for Riva
 slug: european-commission-orders-meta-to-restore-free-whatsapp-access-for-rival-ai-chatbots
 excerpt: "The European Commission has invoked rare emergency powers to order Meta to restore free WhatsApp access for rival AI chatbots, marking only the second use of such authority in more than two decades. Meta has until June 15th to comply or face fines of up to $20 billion."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-10T13:08:15.596Z"
 coverImage: "https://static.wixstatic.com/media/e37254_911822b953e748a193fc9982433a2b89~mv2.png"
 readTime: 2

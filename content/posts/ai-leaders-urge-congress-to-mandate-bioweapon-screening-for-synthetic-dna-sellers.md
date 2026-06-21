@@ -3,8 +3,8 @@ title: "AI Leaders Urge Congress to Mandate Bioweapon Screening for Synthetic DN
 slug: ai-leaders-urge-congress-to-mandate-bioweapon-screening-for-synthetic-dna-sellers
 excerpt: "Anthropic's Dario Amodei, OpenAI's Sam Altman, Microsoft's Mustafa Suleyman, and other AI leaders have signed an open letter urging Congress to mandate screening of synthetic DNA and RNA orders for sequences that could be used to engineer dangerous pathogens."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-04T13:06:14.838Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e57a88b7150044849621baa674066439~mv2.jpg"
 readTime: 2

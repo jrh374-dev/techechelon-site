@@ -3,8 +3,8 @@ title: "OpenAI Unveils Advanced AI Model Capable of Enhanced Reasoning"
 slug: openai-unveils-advanced-ai-model-capable-of-enhanced-reasoning
 excerpt: "The new model, named OpenAI o1, is part of a fresh series and has been shown to perform at a level similar to Ph.D. students in rigorous tests for physics, chemistry, and biology, according to a company blog post."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2024-09-13T18:28:50.319Z"
 coverImage: "https://static.wixstatic.com/media/e37254_744a0406947e42dd898b00d61c3d0774~mv2.jpeg"
 readTime: 1

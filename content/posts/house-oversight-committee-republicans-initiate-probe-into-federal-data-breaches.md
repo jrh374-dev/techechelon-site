@@ -3,8 +3,8 @@ title: "House Oversight Committee Republicans Initiate Probe into Federal Data B
 slug: house-oversight-committee-republicans-initiate-probe-into-federal-data-breaches
 excerpt: "In letters addressed to Antony Blinken, Secretary of State, and Gina Raimondo, Secretary of Commerce, the GOP members of the Oversight Committee requested a briefing from each department within the following week."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-08-02T18:58:24.140Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e661e9e5a6954667bdef4cb8458c072a~mv2.jpeg"
 readTime: 1

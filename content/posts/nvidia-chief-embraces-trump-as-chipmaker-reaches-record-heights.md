@@ -3,8 +3,8 @@ title: "Nvidia Chief Embraces Trump as Chipmaker Reaches Record Heights"
 slug: nvidia-chief-embraces-trump-as-chipmaker-reaches-record-heights
 excerpt: "The partnership was on full display this week at Nvidia’s GPU Technology Conference in Washington, D.C.—often dubbed the “Super Bowl of AI."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2025-11-03T18:19:50.517Z"
 coverImage: "https://static.wixstatic.com/media/e37254_37d3a25a4e624270b3b99c4d668a0265~mv2.webp"
 readTime: 3

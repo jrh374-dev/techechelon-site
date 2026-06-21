@@ -3,8 +3,8 @@ title: "Anthropic's Government-Ordered Shutdown of Fable 5 and Mythos 5 Fuels So
 slug: anthropic-s-government-ordered-shutdown-of-fable-5-and-mythos-5-fuels-sovereign-ai-push-abroad
 excerpt: "The Trump administration's sudden order forcing Anthropic to take Fable 5 and Mythos 5 offline for foreign users has intensified calls from the UK, France, Canada, and others to build domestic AI capacity and reduce dependence on American technology."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-15T19:05:35.427Z"
 coverImage: "https://static.wixstatic.com/media/e37254_c696f6da552542ffbb8936134204d8f4~mv2.jpg"
 readTime: 3

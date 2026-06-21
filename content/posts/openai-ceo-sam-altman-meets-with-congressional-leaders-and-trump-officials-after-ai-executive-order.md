@@ -3,8 +3,8 @@ title: "OpenAI CEO Sam Altman Meets With Congressional Leaders and Trump Officia
 slug: openai-ceo-sam-altman-meets-with-congressional-leaders-and-trump-officials-after-ai-executive-order
 excerpt: "OpenAI CEO Sam Altman met with House Speaker Mike Johnson, House Minority Leader Hakeem Jeffries, and Trump administration officials in Washington on Wednesday, following President Trump's signing of an executive order on artificial intelligence."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-03T23:02:31.301Z"
 coverImage: "https://static.wixstatic.com/media/e37254_a724e36598cc480fa5e853b5c08ca60e~mv2.jpeg"
 readTime: 2

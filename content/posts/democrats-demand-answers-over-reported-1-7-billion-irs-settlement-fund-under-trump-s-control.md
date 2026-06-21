@@ -3,8 +3,8 @@ title: "Democrats Demand Answers Over Reported $1.7 Billion IRS Settlement Fund 
 slug: democrats-demand-answers-over-reported-1-7-billion-irs-settlement-fund-under-trump-s-control
 excerpt: "Congressional Democrats are sounding alarms over a reported deal that would see President Trump drop his $10 billion IRS lawsuit in exchange for a $1.7 billion compensation fund under his control, with senators and House members calling it an unprecedented abuse of taxpayer funds."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-15T19:02:59.966Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e7b9f14ba863475aaf127e4a48267065~mv2.jpg"
 readTime: 3

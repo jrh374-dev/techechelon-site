@@ -3,8 +3,8 @@ title: "Microsoft to Invest $80 Billion in AI Data Centers for Fiscal 2025"
 slug: microsoft-to-invest-80-billion-in-ai-data-centers-for-fiscal-2025
 excerpt: "Over half of the $80 billion will be invested in U.S.-based facilities, according to Brad Smith, Microsoft’s Vice Chair and President."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2025-01-04T14:33:26.942Z"
 coverImage: "https://static.wixstatic.com/media/e37254_a55099255ea140c2b67be399d2fcdf6c~mv2.jpg"
 readTime: 2

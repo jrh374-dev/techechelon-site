@@ -3,8 +3,8 @@ title: "Pope Leo XIV's First Encyclical Warns AI Concentrates Power Among Elites
 slug: pope-leo-xiv-s-first-encyclical-warns-ai-concentrates-power-among-elites-calls-for-global-oversight
 excerpt: "Pope Leo XIV's first encyclical, Magnifica Humanitas, calls for global oversight of artificial intelligence and an end to the AI arms race, arguing that technology concentrated among elites cannot serve the common good."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-25T23:03:09.835Z"
 coverImage: "https://static.wixstatic.com/media/e37254_484f13950a4d450ba674ce49e5e0692b~mv2.png"
 readTime: 2

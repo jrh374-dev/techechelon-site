@@ -3,8 +3,8 @@ title: "OpenAI Hires Google DeepMind's Noam Shazeer and Former White House AI Of
 slug: openai-hires-google-deepmind-s-noam-shazeer-and-former-white-house-ai-official-ahead-of-ipo
 excerpt: "OpenAI is hiring Google DeepMind researcher Noam Shazeer and former Trump White House AI official Dean Ball as the company builds out its policy and research ranks ahead of a public offering."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-19T19:06:33.528Z"
 coverImage: "https://static.wixstatic.com/media/e37254_62aee6df530c4532abbe237a882adf9c~mv2.jpg"
 readTime: 3

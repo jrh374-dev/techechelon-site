@@ -3,8 +3,8 @@ title: "Meta Lays Off 8,000 Employees as Zuckerberg Warns \"Success Isn't a Give
 slug: meta-lays-off-8-000-employees-as-zuckerberg-warns-success-isn-t-a-given-in-ai-era
 excerpt: "Meta CEO Mark Zuckerberg told employees Wednesday that the company is laying off 8,000 workers — about 10% of its workforce — while moving roughly 7,000 others into new AI-focused roles, warning that \"success isn't a given\" in the race to dominate artificial intelligence."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-20T19:06:47.874Z"
 coverImage: "https://static.wixstatic.com/media/e37254_cdbab02fe4da457aa5382f468497ec9e~mv2.png"
 readTime: 2

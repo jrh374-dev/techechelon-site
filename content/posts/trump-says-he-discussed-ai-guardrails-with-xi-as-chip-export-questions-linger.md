@@ -3,8 +3,8 @@ title: "Trump Says He Discussed AI Guardrails With Xi as Chip Export Questions L
 slug: trump-says-he-discussed-ai-guardrails-with-xi-as-chip-export-questions-linger
 excerpt: "President Trump said he discussed potential AI safety cooperation with China's Xi Jinping during their Beijing summit, even as chip export controls went unaddressed and rare earth mineral access remained a key unresolved issue."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-16T17:03:52.482Z"
 coverImage: "https://static.wixstatic.com/media/e37254_9af910f5cc5e45a4981eda25e6a341f2~mv2.jpg"
 readTime: 3

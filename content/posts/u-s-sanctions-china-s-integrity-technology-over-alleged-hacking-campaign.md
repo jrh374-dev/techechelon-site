@@ -3,8 +3,8 @@ title: "U.S. Sanctions China's Integrity Technology Over Alleged Hacking Campaig
 slug: u-s-sanctions-china-s-integrity-technology-over-alleged-hacking-campaign
 excerpt: "In a statement, the State Department described Integrity Technology as a major government contractor with close ties to China’s Ministry of State Security. The department alleged that hackers under Integrity’s direction targeted critical infrastructure in the U.S."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-01-04T14:45:11.005Z"
 coverImage: "https://static.wixstatic.com/media/e37254_19a35007f8534ea0bfd6a99a0e2289c1~mv2.webp"
 readTime: 1

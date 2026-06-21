@@ -3,8 +3,8 @@ title: "Elon Musk's Posting Limits on Twitter Drive Record Traffic to Rival Plat
 slug: elon-musk-s-posting-limits-on-twitter-drive-record-traffic-to-rival-platform-bluesky
 excerpt: "Bluesky, a budding text-based social media network endorsed by Twitter co-founder Jack Dorsey, emerged as an alternative for frustrated Twitter users. Although it's still in its invite-only beta phase, the uptick in user traffic has strained the platform's performance."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-07-05T03:47:20.542Z"
 coverImage: "https://static.wixstatic.com/media/e37254_7cdf7cd8221d479bbc2010616a842df5~mv2.jpeg"
 readTime: 1

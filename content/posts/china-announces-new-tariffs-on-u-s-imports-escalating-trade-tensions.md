@@ -3,8 +3,8 @@ title: "China Announces New Tariffs on U.S. Imports, Escalating Trade Tensions"
 slug: china-announces-new-tariffs-on-u-s-imports-escalating-trade-tensions
 excerpt: "In response to the U.S.'s additional 10% tariffs, China criticized these measures as a serious breach of World Trade Organization norms, disrupting normal economic and trade exchanges."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2025-02-04T16:55:52.603Z"
 coverImage: "https://static.wixstatic.com/media/e37254_d5ac83b870ea4a8bb290f2b6d578ef6c~mv2.webp"
 readTime: 1

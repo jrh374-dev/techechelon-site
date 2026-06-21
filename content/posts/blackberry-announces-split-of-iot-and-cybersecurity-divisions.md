@@ -3,8 +3,8 @@ title: "BlackBerry Announces Split of IoT and Cybersecurity Divisions"
 slug: blackberry-announces-split-of-iot-and-cybersecurity-divisions
 excerpt: "This move follows a trend where businesses are seeking a streamlined corporate model, allowing investors to more accurately assess distinct segments. For instance, earlier this week, the company once known as Kellogg Co. finalized its spinoff."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-10-05T13:13:35.084Z"
 coverImage: "https://static.wixstatic.com/media/e37254_fdb35aed442e40c2a54b3c52ea1a37e2~mv2.jpeg"
 readTime: 1

@@ -3,8 +3,8 @@ title: "Nvidia Pushes Back on TPU Threat, Says Its GPUs Remain ‘a Generation A
 slug: nvidia-pushes-back-on-tpu-threat-says-its-gpus-remain-a-generation-ahead
 excerpt: "In a post on X, the company said its GPUs remain “a generation ahead of the industry” and emphasized that Nvidia is the only platform that runs every major AI model across all computing environments."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-11-25T19:52:21.227Z"
 coverImage: "https://static.wixstatic.com/media/e37254_1d161f56de34483aa012473c8da830b3~mv2.jpeg"
 readTime: 1

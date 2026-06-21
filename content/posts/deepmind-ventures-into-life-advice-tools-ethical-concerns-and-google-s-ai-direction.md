@@ -3,8 +3,8 @@ title: "DeepMind Ventures into Life Advice Tools: Ethical Concerns and Google's 
 slug: deepmind-ventures-into-life-advice-tools-ethical-concerns-and-google-s-ai-direction
 excerpt: "An internal presentation by Google's AI safety specialists last December revealed that users might face a decline in well-being and a loss of personal empowerment due to such AI-driven guidance."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-08-16T14:21:01.691Z"
 coverImage: "https://static.wixstatic.com/media/e37254_65935a50a9654a3a9d7372caee788a95~mv2.jpeg"
 readTime: 1

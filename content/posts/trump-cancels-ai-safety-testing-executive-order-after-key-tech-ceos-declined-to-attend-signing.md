@@ -3,8 +3,8 @@ title: "Trump Cancels AI Safety Testing Executive Order After Key Tech CEOs Decl
 slug: trump-cancels-ai-safety-testing-executive-order-after-key-tech-ceos-declined-to-attend-signing
 excerpt: "President Trump canceled a planned executive order that would have authorized government testing of frontier AI models before public release, after top AI company executives declined to attend the signing event and industry figures pushed back against the proposal."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-23T19:05:25.006Z"
 coverImage: "https://static.wixstatic.com/media/e37254_6e94efd653d24958ba36a7d51d4afbc8~mv2.jpg"
 readTime: 3

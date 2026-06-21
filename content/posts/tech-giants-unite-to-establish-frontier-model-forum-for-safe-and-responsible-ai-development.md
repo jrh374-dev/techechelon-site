@@ -3,8 +3,8 @@ title: "Tech Giants Unite to Establish Frontier Model Forum for Safe and Respons
 slug: tech-giants-unite-to-establish-frontier-model-forum-for-safe-and-responsible-ai-development
 excerpt: "The initiative, named the Frontier Model Forum, aims to ensure the safe and responsible development of AI models, especially in an era where lawmakers across the world, including the U.S., are hustling to comprehend the rapidly expanding AI industry and implement appropriate safeguards."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-07-26T18:30:42.355Z"
 coverImage: "https://static.wixstatic.com/media/e37254_a378d5de3e414e28854812858f63e5a1~mv2.jpeg"
 readTime: 1

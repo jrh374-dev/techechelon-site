@@ -3,8 +3,8 @@ title: "Sam Altman Envisions an Era of Abundant, Affordable Intelligence as AI T
 slug: sam-altman-envisions-an-era-of-abundant-affordable-intelligence-as-ai-transforms-the-global-economy
 excerpt: "Speaking at the Federal Reserve’s Integrated Review of the Capital Framework for Large Banks Conference, Altman emphasized the extraordinary pace at which AI capabilities and adoption have evolved since the debut of ChatGPT in late 2022."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2025-07-23T18:12:00.313Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e0e1b3c8c4584a84843fabe67a634c38~mv2.webp"
 readTime: 2

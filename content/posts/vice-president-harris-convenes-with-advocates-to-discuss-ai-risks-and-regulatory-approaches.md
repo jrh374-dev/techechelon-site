@@ -3,8 +3,8 @@ title: "Vice President Harris Convenes with Advocates to Discuss AI Risks and Re
 slug: vice-president-harris-convenes-with-advocates-to-discuss-ai-risks-and-regulatory-approaches
 excerpt: "She further stressed the necessity to approach the issue urgently and collaboratively involving a spectrum of sectors including private, public, nonprofits, and government. \"Our goal is to act in the best interest of the health, safety, and overall well-being of our citizens,\" she added."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-07-12T22:43:53.073Z"
 coverImage: "https://static.wixstatic.com/media/e37254_ce4713bcbddb4f9c85d901dacc93cc18~mv2.jpeg"
 readTime: 1

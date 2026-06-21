@@ -3,8 +3,8 @@ title: "Google invests $12M to strengthen NYC’s cybersecurity leadership"
 slug: google-invests-12m-to-strengthen-nyc-s-cybersecurity-leadership
 excerpt: "Each of the four universities, which include The City University of New York, Columbia University, Cornell University (including Cornell Tech and the Cornell Ann S. Bowers College of Computing and Information Science), and New York University, will receive annual funding of $1 million through 2025."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-06-13T04:21:45.501Z"
 coverImage: "https://static.wixstatic.com/media/e37254_b5e2daf822674ef8ba575ba714fcb38f~mv2.jpeg"
 readTime: 2

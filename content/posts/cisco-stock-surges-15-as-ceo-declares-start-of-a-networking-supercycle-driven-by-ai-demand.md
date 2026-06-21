@@ -3,8 +3,8 @@ title: "Cisco Stock Surges 15% as CEO Declares Start of a \"Networking Supercycl
 slug: cisco-stock-surges-15-as-ceo-declares-start-of-a-networking-supercycle-driven-by-ai-demand
 excerpt: "Cisco shares surged 15% Thursday after the company blew past its AI infrastructure order guidance and raised its fiscal-year forecast from $5 billion to $9 billion, with CEO Chuck Robbins declaring the start of a \"networking supercycle.\""
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-14T17:03:50.793Z"
 coverImage: "https://static.wixstatic.com/media/e37254_61926a005d5e49888799f26c076e18af~mv2.jpeg"
 readTime: 2

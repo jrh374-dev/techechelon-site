@@ -3,8 +3,8 @@ title: "OpenAI Acquires Tech Podcast TBPN in Unconventional Media Play"
 slug: openai-acquires-tech-podcast-tbpn-in-unconventional-media-play
 excerpt: "TBPN launched in 2025 and has grown rapidly despite its modest subscriber base of around 58,000 on YouTube. The show has attracted high-profile guests including Meta CEO Mark Zuckerberg, Microsoft CEO Satya Nadella, and OpenAI co-founder and CEO Sam Altman — who is also a recurring presence on the program."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-04-07T19:25:51.887Z"
 coverImage: "https://static.wixstatic.com/media/e37254_495b0229bbe946d3b00b831d42608b7e~mv2.png"
 readTime: 2

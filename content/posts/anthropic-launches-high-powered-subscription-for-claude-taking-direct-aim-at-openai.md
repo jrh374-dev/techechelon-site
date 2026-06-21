@@ -3,8 +3,8 @@ title: "Anthropic Launches High-Powered Subscription for Claude, Taking Direct A
 slug: anthropic-launches-high-powered-subscription-for-claude-taking-direct-aim-at-openai
 excerpt: "The Max plan offers two pricing options:"
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-04-10T00:50:17.602Z"
 coverImage: "https://static.wixstatic.com/media/e37254_351d29100f9649419bf936b78e2d21f6~mv2.webp"
 readTime: 1

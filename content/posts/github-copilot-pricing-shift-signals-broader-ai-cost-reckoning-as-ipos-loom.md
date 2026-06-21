@@ -3,8 +3,8 @@ title: "GitHub Copilot Pricing Shift Signals Broader AI Cost Reckoning as IPOs L
 slug: github-copilot-pricing-shift-signals-broader-ai-cost-reckoning-as-ipos-loom
 excerpt: "Microsoft's shift to per-token pricing for GitHub Copilot has ignited debate over AI cost sustainability, coming as Anthropic files to go public and the industry grapples with the gap between subsidized prices and real production costs."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-07T21:05:38.602Z"
 coverImage: "https://static.wixstatic.com/media/e37254_c8f6b6a8787548ecae73b6b3a51178ee~mv2.jpg"
 readTime: 3

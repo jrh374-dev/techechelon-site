@@ -3,8 +3,8 @@ title: "New Report Warns of App Overload in K-12 Education, Calls for Streamline
 slug: new-report-warns-of-app-overload-in-k-12-education-calls-for-streamlined-digital-tools
 excerpt: "A new research report highlights the growing challenges associated with the excessive use of educational applications in school districts nationwide."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2025-03-12T04:03:22.767Z"
 coverImage: "https://static.wixstatic.com/media/e37254_5271ed5aff8f4cdda257efe801dd6fc4~mv2.avif"
 readTime: 2

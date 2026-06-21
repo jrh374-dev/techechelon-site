@@ -3,8 +3,8 @@ title: "Trump Invites Musk, Cook, Fink and Dozen More CEOs to Join China Summit 
 slug: trump-invites-musk-cook-fink-and-dozen-more-ceos-to-join-china-summit-with-xi
 excerpt: "President Trump has invited more than a dozen top U.S. executives — including Elon Musk, Tim Cook, and Larry Fink — to join his Beijing summit with Chinese President Xi Jinping later this week, with trade, AI, and export controls on the agenda."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-11T17:05:46.226Z"
 coverImage: "https://static.wixstatic.com/media/e37254_b1b1784e38f84e34bb384d40f27aa413~mv2.jpg"
 readTime: 2

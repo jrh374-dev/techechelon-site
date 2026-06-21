@@ -3,8 +3,8 @@ title: "SpaceX IPO Mints Thousands of Millionaires, Triggering a Wealth Manageme
 slug: spacex-ipo-mints-thousands-of-millionaires-triggering-a-wealth-management-gold-rush
 excerpt: "SpaceX's Nasdaq debut on June 12, 2026 is minting thousands of employee millionaires and igniting a fierce competition among wealth management firms to capture tens of billions of dollars in newly liquid assets."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-12T17:07:27.739Z"
 coverImage: "https://static.wixstatic.com/media/e37254_0e94699959324b14ba5a17324de2f560~mv2.jpg"
 readTime: 3

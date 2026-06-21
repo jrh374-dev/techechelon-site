@@ -3,8 +3,8 @@ title: "GCHQ Director Warns West Has a \"Narrowing Window\" to Counter Russian a
 slug: gchq-director-warns-west-has-a-narrowing-window-to-counter-russian-and-chinese-cyber-threats
 excerpt: "GCHQ Director Anne Keast-Butler will warn Wednesday that the West faces a \"narrowing window\" to counter escalating cyber and hybrid threats from China and Russia, calling for cybersecurity to become \"ten times more urgent.\""
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-27T11:05:19.006Z"
 coverImage: "https://static.wixstatic.com/media/e37254_34604afc58d74d10b61fa821d2a4f9c3~mv2.jpg"
 readTime: 3

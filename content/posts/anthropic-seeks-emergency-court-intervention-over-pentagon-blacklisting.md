@@ -3,8 +3,8 @@ title: "Anthropic Seeks Emergency Court Intervention Over Pentagon Blacklisting"
 slug: anthropic-seeks-emergency-court-intervention-over-pentagon-blacklisting
 excerpt: "In a filing submitted to the U.S. Court of Appeals for the D.C. Circuit, Anthropic requested an emergency stay that would temporarily halt the designation issued by Pete Hegseth, the U.S. Secretary of Defense."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-03-13T16:27:19.675Z"
 coverImage: "https://static.wixstatic.com/media/e37254_602a8e0dd6f04076b409af1c036dbeb1~mv2.jpg"
 readTime: 2

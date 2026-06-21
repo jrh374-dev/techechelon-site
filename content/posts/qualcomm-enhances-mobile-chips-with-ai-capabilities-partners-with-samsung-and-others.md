@@ -3,8 +3,8 @@ title: "Qualcomm Enhances Mobile Chips with AI Capabilities, Partners with Samsu
 slug: qualcomm-enhances-mobile-chips-with-ai-capabilities-partners-with-samsung-and-others
 excerpt: "The San Diego-based company, a leading provider of mobile phone chips, had previously expanded its business in 2021 by hiring a team of former Apple engineers to design laptop chips."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-10-21T22:28:04.242Z"
 coverImage: "https://static.wixstatic.com/media/e37254_b60a394cdb874969b04ea9280e884ada~mv2.jpg"
 readTime: 1

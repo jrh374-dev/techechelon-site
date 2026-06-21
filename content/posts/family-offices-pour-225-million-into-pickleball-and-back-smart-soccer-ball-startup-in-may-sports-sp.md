@@ -3,8 +3,8 @@ title: "Family Offices Pour $225 Million Into Pickleball and Back Smart Soccer B
 slug: family-offices-pour-225-million-into-pickleball-and-back-smart-soccer-ball-startup-in-may-sports-sp
 excerpt: "Family offices completed 51 direct investments in May, highlighted by a $225 million commitment to Pickleball Inc. and a $12 million Series A for GPS sports gear startup PlayerData, signaling the sector's growing appeal as an alternative asset class."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-05T13:05:47.979Z"
 coverImage: "https://static.wixstatic.com/media/e37254_03ae7aa0c7f4471695a2ee327c2f8e82~mv2.jpg"
 readTime: 2

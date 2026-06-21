@@ -3,8 +3,8 @@ title: "U.S. Commerce Department to Award $2 Billion to Nine Quantum Computing F
 slug: u-s-commerce-department-to-award-2-billion-to-nine-quantum-computing-firms-including-1-billion-f
 excerpt: "The U.S. Commerce Department plans to award $2 billion in grants to nine quantum computing firms, with IBM set to receive $1 billion to build America's first purpose-built quantum foundry, sending sector stocks sharply higher on Thursday."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-21T15:07:41.457Z"
 coverImage: "https://static.wixstatic.com/media/e37254_5a37e0dacab9457fa81fb3b6081f93b5~mv2.jpg"
 readTime: 2

@@ -3,8 +3,8 @@ title: "V Pappas Steps Down as TikTok COO; Company Announces New Leadership Amid
 slug: v-pappas-steps-down-as-tiktok-coo-company-announces-new-leadership-amidst-ongoing-privacy-concerns
 excerpt: "TikTok's CEO, Shou Zi Chew, disclosed Pappas's forthcoming exit in a corporate memo, which was accessed by The Hill. He mentioned that Pappas would now be shifting her focus towards pursuing \"entrepreneurial passions.\""
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-06-26T23:28:40.725Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e8ef901c37754233a76f5658f142a686~mv2.png"
 readTime: 2

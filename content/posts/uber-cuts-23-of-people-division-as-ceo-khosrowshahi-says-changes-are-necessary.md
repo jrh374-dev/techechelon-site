@@ -3,8 +3,8 @@ title: "Uber Cuts 23% of People Division as CEO Khosrowshahi Says \"Changes Are 
 slug: uber-cuts-23-of-people-division-as-ceo-khosrowshahi-says-changes-are-necessary
 excerpt: "Uber is cutting 23% of its people division, including HR and recruitment staff, as CEO Dara Khosrowshahi says the restructuring is \"necessary\" — even as the company insists the layoffs are not driven by AI."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-03T19:04:16.540Z"
 coverImage: "https://static.wixstatic.com/media/e37254_1335aecf79424babab1279915fb1bc4c~mv2.jpg"
 readTime: 2

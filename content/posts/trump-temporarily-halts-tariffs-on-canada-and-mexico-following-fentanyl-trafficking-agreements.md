@@ -3,8 +3,8 @@ title: "Trump Temporarily Halts Tariffs on Canada and Mexico Following Fentanyl 
 slug: trump-temporarily-halts-tariffs-on-canada-and-mexico-following-fentanyl-trafficking-agreements
 excerpt: "On Saturday, Trump had announced a 25% tariff on goods from both Mexico and Canada, with an additional 10% on Chinese imports. He also had plans to introduce a 10% tariff on Canadian energy resources. In response, Trudeau had threatened to impose a retaliatory tariff of 25% on $155 billion worth of U.S. goods."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-02-04T04:35:41.110Z"
 coverImage: "https://static.wixstatic.com/media/e37254_f35d6bf7ddf8457ea8eeb87a89446fd0~mv2.jpg"
 readTime: 1

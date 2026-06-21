@@ -3,8 +3,8 @@ title: "Trump Says He Discussed AI Guardrails With Xi Jinping During China Talks
 slug: trump-says-he-discussed-ai-guardrails-with-xi-jinping-during-china-talks
 excerpt: "President Trump said Friday he discussed \"possibly working together\" on AI guardrails with Chinese President Xi Jinping during summit talks in China, offering one of the administration's most direct public signals that AI governance could be a subject of U.S.-China diplomacy."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-16T15:06:06.767Z"
 coverImage: "https://static.wixstatic.com/media/e37254_4cb2557b9d4f49ca87742c010dc5c68f~mv2.jpg"
 readTime: 2

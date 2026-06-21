@@ -3,8 +3,8 @@ title: "Robinhood Stock Tops $100 as Company Pushes Bold Crypto Vision in Europe
 slug: robinhood-stock-tops-100-as-company-pushes-bold-crypto-vision-in-europe
 excerpt: "The rally coincides with a major strategic shift overseas. At an event in a Belle Époque mansion on the French Riviera, Robinhood unveiled plans to bring traditional financial assets fully on-chain — including tokenized stocks, ETFs, and private equity offerings."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-07-02T16:26:11.672Z"
 coverImage: "https://static.wixstatic.com/media/e37254_77edc588dec44979a130addbf79b7e34~mv2.png"
 readTime: 1

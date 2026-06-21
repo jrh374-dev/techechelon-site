@@ -3,8 +3,8 @@ title: "Marvell Technology Stock Surges 32% After Nvidia CEO Jensen Huang Calls 
 slug: marvell-technology-stock-surges-32-after-nvidia-ceo-jensen-huang-calls-it-the-next-trillion-dollar
 excerpt: "Nvidia CEO Jensen Huang called Marvell Technology the \"next trillion-dollar company\" during a joint appearance at Computex Week in Taipei, sending Marvell shares up 32.52% — the stock's biggest single-day gain on record."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-02T23:03:28.243Z"
 coverImage: "https://static.wixstatic.com/media/e37254_f3ecf6ad7cb742f3b5e98dfb0d72293d~mv2.jpeg"
 readTime: 2

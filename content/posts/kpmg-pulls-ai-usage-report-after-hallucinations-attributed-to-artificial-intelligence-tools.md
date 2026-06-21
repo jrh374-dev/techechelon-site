@@ -3,8 +3,8 @@ title: "KPMG Pulls AI Usage Report After Hallucinations Attributed to Artificial
 slug: kpmg-pulls-ai-usage-report-after-hallucinations-attributed-to-artificial-intelligence-tools
 excerpt: "KPMG has pulled a report on agentic AI after UBS, the NHS, Swiss Federal Railways, and Transport for London said its claims about their AI usage were inaccurate, with research group GPTZero attributing the errors to AI hallucinations."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-14T01:05:03.843Z"
 coverImage: "https://static.wixstatic.com/media/e37254_a88f92f4222d4202aba3530f2c50e0f2~mv2.jpg"
 readTime: 2

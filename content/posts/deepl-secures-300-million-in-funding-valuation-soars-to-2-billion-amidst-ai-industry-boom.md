@@ -3,8 +3,8 @@ title: "DeepL Secures $300 Million in Funding, Valuation Soars to $2 Billion Ami
 slug: deepl-secures-300-million-in-funding-valuation-soars-to-2-billion-amidst-ai-industry-boom
 excerpt: "The investment round, led by venture capital firm Index Ventures, elevated DeepL’s valuation to $2 billion."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2024-05-22T19:37:24.238Z"
 coverImage: "https://static.wixstatic.com/media/e37254_93443f13e9374d228a96eedd684282ae~mv2.webp"
 readTime: 2

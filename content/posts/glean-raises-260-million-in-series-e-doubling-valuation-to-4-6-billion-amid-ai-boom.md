@@ -3,8 +3,8 @@ title: "Glean Raises $260 Million in Series E, Doubling Valuation to $4.6 Billio
 slug: glean-raises-260-million-in-series-e-doubling-valuation-to-4-6-billion-amid-ai-boom
 excerpt: "The latest funding round was led by Altimeter and DST Global, with new investors Craft Ventures, Sapphire Ventures, and SoftBank Vision Fund 2 also participating."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-09-11T17:32:14.593Z"
 coverImage: "https://static.wixstatic.com/media/e37254_0498264a67624419b556521eb95719ed~mv2.jpg"
 readTime: 1

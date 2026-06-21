@@ -3,8 +3,8 @@ title: "Growth Catalyst Partners Acquires InspiredMinds! to Expand AI Leadership
 slug: growth-catalyst-partners-acquires-inspiredminds-to-expand-ai-leadership-and-innovation-in-the-u-s
 excerpt: "The move marks a significant milestone for both organizations, as InspiredMinds! prepares to scale its influential AI summits and robust community into the U.S. market."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2024-11-20T16:37:52.320Z"
 coverImage: "https://static.wixstatic.com/media/e37254_edc568db4c694465984ba4dd2167870a~mv2.jpg"
 readTime: 2

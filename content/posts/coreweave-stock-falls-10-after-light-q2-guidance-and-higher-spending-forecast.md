@@ -3,8 +3,8 @@ title: "CoreWeave Stock Falls 10% After Light Q2 Guidance and Higher Spending Fo
 slug: coreweave-stock-falls-10-after-light-q2-guidance-and-higher-spending-forecast
 excerpt: "CoreWeave shares fell as much as 10% in after-hours trading Thursday after the AI infrastructure provider issued second-quarter revenue guidance below analyst expectations and raised the low end of its 2026 capital expenditure forecast to $31 billion."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-08T01:05:18.786Z"
 coverImage: "https://static.wixstatic.com/media/e37254_b95afdd5ad39460bb534e60c0900ed44~mv2.jpeg"
 readTime: 3

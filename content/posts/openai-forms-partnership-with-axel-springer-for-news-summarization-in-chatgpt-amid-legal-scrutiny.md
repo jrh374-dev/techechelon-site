@@ -3,8 +3,8 @@ title: "OpenAI Forms Partnership with Axel Springer for News Summarization in Ch
 slug: openai-forms-partnership-with-axel-springer-for-news-summarization-in-chatgpt-amid-legal-scrutiny
 excerpt: "This announcement arrives amidst a growing trend of legal considerations by creators and technologists regarding the use of their work as training material for AI tools, such as chatbots and image generators."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-12-13T22:06:27.656Z"
 coverImage: "https://static.wixstatic.com/media/e37254_00f5662dcf1e420e9783e95d05b27018~mv2.jpg"
 readTime: 1

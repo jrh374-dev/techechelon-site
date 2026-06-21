@@ -3,8 +3,8 @@ title: "General Motors Cuts 600 IT Jobs in Deliberate Shift Toward AI-Focused Wo
 slug: general-motors-cuts-600-it-jobs-in-deliberate-shift-toward-ai-focused-workforce
 excerpt: "General Motors has laid off roughly 600 salaried IT employees — more than 10% of its IT department — in a deliberate push to replace traditional technology roles with AI-focused positions, reflecting a broader workforce realignment across the automotive industry."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-17T17:04:06.375Z"
 coverImage: "https://static.wixstatic.com/media/e37254_67a280f85bef4b5bbddae639479121fa~mv2.jpg"
 readTime: 3

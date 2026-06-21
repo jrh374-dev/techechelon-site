@@ -3,8 +3,8 @@ title: "Bipartisan lawmakers call for swift DOJ action on TikTok complaint"
 slug: bipartisan-lawmakers-call-for-swift-doj-action-on-tiktok-complaint
 excerpt: "Senators Ed Markey (D-Mass.) and Bill Cassidy (R-La.) alongside Representatives Tim Walberg (R-Mich.) and Kathy Castor (D-Fla.) emphasized the urgency in a letter sent Tuesday, citing past violations by TikTok and the overarching importance of safeguarding children's online privacy."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-07-04T00:10:07.042Z"
 coverImage: "https://static.wixstatic.com/media/e37254_22b26b620c44446f8c74b4eadc8732e6~mv2.jpg"
 readTime: 1

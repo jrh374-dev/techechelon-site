@@ -3,8 +3,8 @@ title: "CoreWeave Stock Surges on $6.3B Nvidia Deal"
 slug: coreweave-stock-surges-on-6-3b-nvidia-deal
 excerpt: "The disclosure, made in a regulatory filing, outlined that Nvidia will be obligated to purchase CoreWeave’s residual unsold GPU capacity through April 2032. A copy of the agreement will be released with the company’s third-quarter financial results."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-09-15T20:07:57.289Z"
 coverImage: "https://static.wixstatic.com/media/e37254_8ce01372b8b34d43b7a9a46a7c6eeeb2~mv2.avif"
 readTime: 1

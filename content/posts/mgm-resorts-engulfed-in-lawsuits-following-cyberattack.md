@@ -3,8 +3,8 @@ title: "MGM Resorts Engulfed in Lawsuits Following Cyberattack"
 slug: mgm-resorts-engulfed-in-lawsuits-following-cyberattack
 excerpt: "The claimants argue separately that MGM ought to have been cognizant of the attack risks, citing preceding alerts by Okta of being recurrently subjected to similar assaults, and accuse the company of neglecting necessary steps to defend customer information."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-09-27T13:29:36.219Z"
 coverImage: "https://static.wixstatic.com/media/e37254_8003b2bc848b4abb8b1cf0461be3c5e2~mv2.jpeg"
 readTime: 2

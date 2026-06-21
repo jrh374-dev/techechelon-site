@@ -3,8 +3,8 @@ title: "Elon Musk to Auction Off Twitter Memorabilia in \"Twitter Rebranding\" E
 slug: elon-musk-to-auction-off-twitter-memorabilia-in-twitter-rebranding-event
 excerpt: "Among the 584 items to be auctioned are iconic blue bird logo signs, office furniture, and an array of musical instruments."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-08-10T18:59:09.570Z"
 coverImage: "https://static.wixstatic.com/media/e37254_dbe27ac90aef403e8128e85fb2774a26~mv2.jpg"
 readTime: 1

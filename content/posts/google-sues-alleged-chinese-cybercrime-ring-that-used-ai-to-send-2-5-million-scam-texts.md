@@ -3,8 +3,8 @@ title: "Google Sues Alleged Chinese Cybercrime Ring That Used AI to Send 2.5 Mil
 slug: google-sues-alleged-chinese-cybercrime-ring-that-used-ai-to-send-2-5-million-scam-texts
 excerpt: "Google filed suit against an alleged Chinese cybercrime network called Outsider Enterprise, which the company says used AI to send 2.5 million scam texts and build 1 million fraudulent domains, defrauding hundreds of thousands of victims."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-12T19:08:01.409Z"
 coverImage: "https://static.wixstatic.com/media/e37254_4761f4e5bd1d46a6a5c788cafbb9ce03~mv2.jpg"
 readTime: 2

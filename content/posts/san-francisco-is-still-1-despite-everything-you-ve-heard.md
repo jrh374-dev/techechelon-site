@@ -3,8 +3,8 @@ title: "San Francisco is Still #1 Despite Everything You’ve Heard"
 slug: san-francisco-is-still-1-despite-everything-you-ve-heard
 excerpt: "*San Francisco, CA.*"
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-01-08T17:21:21.998Z"
 coverImage: "https://static.wixstatic.com/media/e37254_ca0907e62f6f4e76b61235251333e941~mv2.jpg"
 readTime: 3

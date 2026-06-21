@@ -3,8 +3,8 @@ title: "Foundation Future Industries Plans to Deploy Humanoid Robots With U.S. M
 slug: foundation-future-industries-plans-to-deploy-humanoid-robots-with-u-s-military-within-18-months
 excerpt: "San Francisco startup Foundation Future Industries has tested humanoid robots in Ukraine and secured $24 million in U.S. government contracts, with CEO Sankaet Pathak targeting frontline military deployment within 18 months."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-30T13:02:23.209Z"
 coverImage: "https://static.wixstatic.com/media/e37254_945ed1161e0847a195531be7b8994b62~mv2.jpeg"
 readTime: 3

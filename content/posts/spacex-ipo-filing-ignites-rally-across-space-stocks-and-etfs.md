@@ -3,8 +3,8 @@ title: "SpaceX IPO Filing Ignites Rally Across Space Stocks and ETFs"
 slug: spacex-ipo-filing-ignites-rally-across-space-stocks-and-etfs
 excerpt: "Space-sector stocks and ETFs surged Tuesday after SpaceX filed officially for an IPO last week, with analysts pointing to an \"IPO premium\" lifting competitors, suppliers, and proxy plays across the industry."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-26T17:04:54.015Z"
 coverImage: "https://static.wixstatic.com/media/e37254_df77b8c8bb644d78aed1d619983b65bc~mv2.jpg"
 readTime: 3

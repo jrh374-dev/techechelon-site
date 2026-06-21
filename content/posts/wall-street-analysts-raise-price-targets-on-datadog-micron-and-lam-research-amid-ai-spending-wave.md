@@ -3,8 +3,8 @@ title: "Wall Street Analysts Raise Price Targets on Datadog, Micron, and Lam Res
 slug: wall-street-analysts-raise-price-targets-on-datadog-micron-and-lam-research-amid-ai-spending-wave
 excerpt: "Top-ranked analysts at Bank of America, UBS, and Mizuho have raised price targets on Datadog, Micron Technology, and Lam Research, citing sustained AI infrastructure demand, long-term supply agreements, and accelerating semiconductor spending."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-31T15:04:19.991Z"
 coverImage: "https://static.wixstatic.com/media/e37254_a02d2d12557347c38337056b839d052f~mv2.png"
 readTime: 3

@@ -3,8 +3,8 @@ title: "MGM Resorts Faces Cybersecurity Challenges; Systems Across US Affected"
 slug: mgm-resorts-faces-cybersecurity-challenges-systems-across-us-affected
 excerpt: "The disturbance commenced on Sunday. The impact on booking systems and gaming areas in various states, such as New York, Ohio, Maryland, Michigan, Mississippi, Massachusetts, New Jersey, and notably in Las Vegas, remains uncertain, according to company representative Brian Ahern."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-09-12T02:55:29.560Z"
 coverImage: "https://static.wixstatic.com/media/e37254_a4a5d73a3759430aa5cb9b4b127c4cf7~mv2.jpeg"
 readTime: 1

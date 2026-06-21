@@ -3,8 +3,8 @@ title: "U.S. Economy Surges 4.3% in Q3, Far Exceeding Expectations"
 slug: u-s-economy-surges-4-3-in-q3-far-exceeding-expectations
 excerpt: "Gross domestic product rose at an annualized rate of 4.3% from July through September, well above the 3.2% increase economists had forecast, the Commerce Department said in its initial estimate of third-quarter growth."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-12-23T17:41:52.018Z"
 coverImage: "https://static.wixstatic.com/media/e37254_033bef03a8294e9aa884c1efa0bcc3d9~mv2.jpg"
 readTime: 1

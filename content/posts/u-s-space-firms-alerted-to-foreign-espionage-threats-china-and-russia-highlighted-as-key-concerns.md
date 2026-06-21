@@ -3,8 +3,8 @@ title: "U.S. Space Firms Alerted to Foreign Espionage Threats; China and Russia 
 slug: u-s-space-firms-alerted-to-foreign-espionage-threats-china-and-russia-highlighted-as-key-concerns
 excerpt: "The National Counterintelligence and Security Center, in collaboration with the FBI and the Air Force’s Office of Special Investigations, highlighted potential risks posed by foreign actors seeking access via partnerships, takeovers, site tours, and staff hiring."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-08-21T15:24:06.271Z"
 coverImage: "https://static.wixstatic.com/media/e37254_d1e03fe72f4845f2ae52e8e449c2f408~mv2.jpeg"
 readTime: 1

@@ -3,8 +3,8 @@ title: "EU Investigates Meta Over Potentially Addictive Effects of Facebook and 
 slug: eu-investigates-meta-over-potentially-addictive-effects-of-facebook-and-instagram-on-children
 excerpt: "The European Commission, the bloc’s executive arm, opened formal proceedings against Meta on Thursday to determine if the company violated the Digital Services Act (DSA) protections for minors."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-05-17T15:58:09.121Z"
 coverImage: "https://static.wixstatic.com/media/e37254_241dd2ff51634179b5ed65f6f0e7281b~mv2.jpeg"
 readTime: 1

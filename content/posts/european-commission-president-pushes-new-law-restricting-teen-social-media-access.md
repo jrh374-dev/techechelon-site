@@ -3,8 +3,8 @@ title: "European Commission President Pushes New Law Restricting Teen Social Med
 slug: european-commission-president-pushes-new-law-restricting-teen-social-media-access
 excerpt: "European Commission President Ursula von der Leyen called Tuesday for a new EU law delaying social media access for children, saying a formal legal proposal could emerge as soon as this summer following the release of expert recommendations."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-13T21:02:25.216Z"
 coverImage: "https://static.wixstatic.com/media/e37254_c60712c1e92b494598e296b5f2ec2c9b~mv2.jpg"
 readTime: 3

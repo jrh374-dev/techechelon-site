@@ -3,8 +3,8 @@ title: "Google Cloud's API Key Flaw Leaves Developers Exposed for Up to 23 Minut
 slug: google-cloud-s-api-key-flaw-leaves-developers-exposed-for-up-to-23-minutes-after-revocation
 excerpt: "A security firm found that deleted Google API keys remain exploitable for up to 23 minutes, allowing attackers to exfiltrate data from Gemini — a gap Aikido researcher Joseph Leon says is a matter of priorities, not engineering limits."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-25T01:03:32.241Z"
 coverImage: "https://static.wixstatic.com/media/e37254_67077b8e09f04fc0b75b26b3843a5dbe~mv2.jpg"
 readTime: 3

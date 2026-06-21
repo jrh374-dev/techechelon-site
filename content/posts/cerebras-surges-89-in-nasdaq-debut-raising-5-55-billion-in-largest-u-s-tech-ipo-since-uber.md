@@ -3,8 +3,8 @@ title: "Cerebras Surges 89% in Nasdaq Debut, Raising $5.55 Billion in Largest U.
 slug: cerebras-surges-89-in-nasdaq-debut-raising-5-55-billion-in-largest-u-s-tech-ipo-since-uber
 excerpt: "Cerebras Systems opened at $350 per share on its Nasdaq debut Thursday, raising $5.55 billion in the largest U.S. tech IPO since Uber's 2019 listing and briefly topping a $100 billion market capitalization."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-14T19:01:06.831Z"
 coverImage: "https://static.wixstatic.com/media/e37254_7f48f78cb1cf454995c5e2eb72a27d9e~mv2.jpg"
 readTime: 3

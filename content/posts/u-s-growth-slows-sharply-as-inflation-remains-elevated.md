@@ -3,8 +3,8 @@ title: "U.S. Growth Slows Sharply as Inflation Remains Elevated"
 slug: u-s-growth-slows-sharply-as-inflation-remains-elevated
 excerpt: "Revised figures from the government show that gross domestic product grew at an annualized rate of just 0.7% in the fourth quarter, sharply lower than the previous estimate of 1.4% and well below economists’ expectations of roughly 1.5%. The slowdown marks a steep drop from the 4."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-03-13T16:19:35.725Z"
 coverImage: "https://static.wixstatic.com/media/e37254_b590531145ae46f28dd95f67c018209f~mv2.jpg"
 readTime: 2

@@ -3,8 +3,8 @@ title: "Republican Mike Johnson Reelected House Speaker Following Dramatic Vote 
 slug: republican-mike-johnson-reelected-house-speaker-following-dramatic-vote-reversals
 excerpt: "Johnson clinched the required 218 votes after Reps. Ralph Norman of South Carolina and Keith Self of Texas switched their support to him. The two had initially cast their votes for other Republican candidates but changed their positions following discussions with Johnson near the House floor."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-01-04T14:39:59.999Z"
 coverImage: "https://static.wixstatic.com/media/e37254_4050046170424e1ca47b307962e82d03~mv2.webp"
 readTime: 1

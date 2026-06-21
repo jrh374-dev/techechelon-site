@@ -3,8 +3,8 @@ title: "AI Startup Artisan Accused of Using \"This Is Fine\" Comic in Subway Ads
 slug: ai-startup-artisan-accused-of-using-this-is-fine-comic-in-subway-ads-without-artist-s-consent
 excerpt: "AI startup Artisan is facing accusations from \"This is fine\" cartoonist KC Green, who says the company used his iconic meme artwork in a subway ad campaign without his consent and is now exploring legal action."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-03T21:04:56.063Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e7e5f0e54ff54d19997c9a45cf59e586~mv2.jpg"
 readTime: 2

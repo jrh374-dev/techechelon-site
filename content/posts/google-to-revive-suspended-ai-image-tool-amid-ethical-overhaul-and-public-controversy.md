@@ -3,8 +3,8 @@ title: "Google to Revive Suspended AI Image Tool Amid Ethical Overhaul and Publi
 slug: google-to-revive-suspended-ai-image-tool-amid-ethical-overhaul-and-public-controversy
 excerpt: "Demis Hassabis, CEO of Google DeepMind, revealed at the Mobile World Congress in Barcelona that the tool, part of Google's Gemini suite of AI models, is undergoing fixes to address these issues, with hopes of it being back online within a few weeks."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2024-02-26T19:26:44.941Z"
 coverImage: "https://static.wixstatic.com/media/e37254_95cac0a74dd046b193843fd46af80da4~mv2.jpeg"
 readTime: 1

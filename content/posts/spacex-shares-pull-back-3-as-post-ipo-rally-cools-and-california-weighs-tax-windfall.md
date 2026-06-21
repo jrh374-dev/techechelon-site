@@ -3,8 +3,8 @@ title: "SpaceX Shares Pull Back 3% as Post-IPO Rally Cools and California Weighs
 slug: spacex-shares-pull-back-3-as-post-ipo-rally-cools-and-california-weighs-tax-windfall
 excerpt: "SpaceX shares dropped 3% in premarket trading Thursday after sliding 5% the previous session, cooling a post-IPO rally that had lifted the stock more than 40% above its $135 offering price. Meanwhile, California officials are navigating considerable uncertainty over how much tax revenue the SpaceX IPO — and expected offerings from OpenAI and Anthropic — will actually generate."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-18T13:07:44.608Z"
 coverImage: "https://static.wixstatic.com/media/e37254_0c95216c25e34de3b1644844520e82e4~mv2.jpg"
 readTime: 3

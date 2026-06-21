@@ -3,8 +3,8 @@ title: "Sriram Krishnan to Exit White House AI Adviser Role at End of June"
 slug: sriram-krishnan-to-exit-white-house-ai-adviser-role-at-end-of-june
 excerpt: "Sriram Krishnan, the Trump White House's senior policy adviser on artificial intelligence, announced he will step down at the end of June after 18 months helping shape the administration's federal AI framework and executive order strategy."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-06T19:02:22.402Z"
 coverImage: "https://static.wixstatic.com/media/e37254_96bf4fb5745c4669a95b2dec9928ca7d~mv2.jpg"
 readTime: 3

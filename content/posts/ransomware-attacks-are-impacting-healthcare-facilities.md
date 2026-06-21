@@ -3,8 +3,8 @@ title: "The Devastating Effects of Ransomware Attacks on Healthcare Facilities"
 slug: ransomware-attacks-are-impacting-healthcare-facilities
 excerpt: "Further effects may encompass a surge in ambulance arrivals, extended waiting times, patients not being attended to, and prolonged patient stays. The researchers who carried out the study concluded that disruptions caused by cyberattacks on hospitals should be viewed as regional disasters."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-06-29T03:55:03.358Z"
 coverImage: "https://static.wixstatic.com/media/e37254_8480cbf2e9f649e5b576dc124ceb2127~mv2.jpeg"
 readTime: 2

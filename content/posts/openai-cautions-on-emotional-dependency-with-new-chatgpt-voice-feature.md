@@ -3,8 +3,8 @@ title: "OpenAI Cautions on Emotional Dependency with New ChatGPT Voice Feature"
 slug: openai-cautions-on-emotional-dependency-with-new-chatgpt-voice-feature
 excerpt: "The tech company discussed these findings in a report released on Thursday, highlighting the safety measures undertaken with ChatGPT and its recent vocal adaptation, which mimics human speech patterns."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-08-09T20:58:21.512Z"
 coverImage: "https://static.wixstatic.com/media/e37254_15083997e911487fa8544bad824ff01f~mv2.jpg"
 readTime: 1

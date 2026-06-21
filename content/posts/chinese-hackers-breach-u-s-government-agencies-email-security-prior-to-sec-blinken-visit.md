@@ -3,8 +3,8 @@ title: "Chinese Hackers Breach U.S. Government Agencies' Email Security Prior to
 slug: chinese-hackers-breach-u-s-government-agencies-email-security-prior-to-sec-blinken-visit
 excerpt: "The hack was a focused and strategic espionage effort that allowed access to a handful of email accounts across an unspecified number of U.S. agencies. The discovery was made in mid-June by the U.S."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-07-13T13:20:21.693Z"
 coverImage: "https://static.wixstatic.com/media/e37254_b690e974dc5147d7a947e49a08500196~mv2.jpeg"
 readTime: 2

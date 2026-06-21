@@ -3,8 +3,8 @@ title: "AI Experts See Surge in Salaries as Demand Grows"
 slug: ai-experts-see-surge-in-salaries-as-demand-grows
 excerpt: "For a data scientist role in LA's advertising sector, the compensation ranges from $390,000 to $900,000. Netflix elaborated on its website, \"Our team's objective is to harness machine learning in order to provide our members with a plethora of choices and enhance their viewing experience.\""
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-08-15T19:18:39.934Z"
 coverImage: "https://static.wixstatic.com/media/e37254_259b2908717245129f1c2c7415907b0b~mv2.jpeg"
 readTime: 1

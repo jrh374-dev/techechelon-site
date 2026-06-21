@@ -3,8 +3,8 @@ title: "Venture Capitalist Ben Horowitz Shifts Political Support to Kamala Harri
 slug: venture-capitalist-ben-horowitz-shifts-political-support-to-kamala-harris-presidential-campaign
 excerpt: "Horowitz, alongside his business partner Marc Andreessen, had previously declared their financial support for a pro-Trump super PAC in July. However, this was before Harris replaced Joe Biden as the Democratic nominee for president."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-10-06T17:19:19.735Z"
 coverImage: "https://static.wixstatic.com/media/e37254_c91ce1a89d1245eebcfa5357b3f13f8e~mv2.webp"
 readTime: 1

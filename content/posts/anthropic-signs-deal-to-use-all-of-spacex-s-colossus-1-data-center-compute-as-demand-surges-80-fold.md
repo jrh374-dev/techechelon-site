@@ -3,8 +3,8 @@ title: "Anthropic Signs Deal to Use All of SpaceX's Colossus 1 Data Center Compu
 slug: anthropic-signs-deal-to-use-all-of-spacex-s-colossus-1-data-center-compute-as-demand-surges-80-fold
 excerpt: "Anthropic has agreed to use all compute capacity at SpaceX's Colossus 1 data center in Tennessee after CEO Dario Amodei said the startup saw an 80-fold increase in revenue and usage in Q1, far outpacing its planned 10-fold growth."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-07T13:02:11.446Z"
 coverImage: "https://static.wixstatic.com/media/e37254_06f179a30130495b8427ff9d753050ee~mv2.jpg"
 readTime: 2

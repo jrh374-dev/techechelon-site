@@ -3,8 +3,8 @@ title: "Federal Reserve Chair Emphasizes Flexibility in Economic Forecasting Ami
 slug: federal-reserve-chair-emphasizes-flexibility-in-economic-forecasting-amid-unpredictable-economy
 excerpt: "Speaking at a conference marking the 100th anniversary of the Federal Reserve's Research and Statistics Division, Powell praised the division's rigorous approach but stressed the need for flexibility and innovative thinking beyond conventional models."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-11-10T20:41:34.098Z"
 coverImage: "https://static.wixstatic.com/media/e37254_01075aaa694844e7840cc0ff1322c77e~mv2.jpeg"
 readTime: 1

@@ -3,8 +3,8 @@ title: "Temporary Reprieve for Apple: U.S. Appeals Court Suspends Ban on Latest 
 slug: temporary-reprieve-for-apple-u-s-appeals-court-suspends-ban-on-latest-apple-watch-sales-amid-ongoi
 excerpt: "Apple had submitted an urgent request to the appeals court on Tuesday, just after the prohibition on imports became effective."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-12-28T05:12:57.355Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e6a7cf1f261844e1834fea7a9457e38c~mv2.jpg"
 readTime: 1

@@ -3,8 +3,8 @@ title: "U.S. Economy Outlook Brightens as Recession Fears Diminish"
 slug: u-s-economy-outlook-brightens-as-recession-fears-diminish
 excerpt: "A recent Wall Street Journal survey of business and academic economists revealed a drop in the perceived risk of a recession in the next 12 months: down from 54% in July to 48%. This marks the first time since last year that the probability has been below the halfway mark, with the median risk standing at 50%."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-10-16T17:16:10.251Z"
 coverImage: "https://static.wixstatic.com/media/e37254_4897fdb0b5da42dcbb8fdc1fe026d351~mv2.jpg"
 readTime: 3

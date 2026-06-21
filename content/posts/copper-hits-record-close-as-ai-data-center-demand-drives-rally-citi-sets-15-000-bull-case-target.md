@@ -3,8 +3,8 @@ title: "Copper Hits Record Close as AI Data Center Demand Drives Rally; Citi Set
 slug: copper-hits-record-close-as-ai-data-center-demand-drives-rally-citi-sets-15-000-bull-case-target
 excerpt: "Copper futures closed at a record 6.531 on Tuesday as Citi cited AI data center demand and set a $15,000 bull-case target, while chip stocks pulled back sharply on a hot inflation print."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-13T01:06:24.292Z"
 coverImage: "https://static.wixstatic.com/media/e37254_1e4e91b51f8c4a09b4b6c35b475632ed~mv2.jpeg"
 readTime: 3

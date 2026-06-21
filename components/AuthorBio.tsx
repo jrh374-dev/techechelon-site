@@ -2,8 +2,18 @@ import { Post } from "@/lib/posts";
 
 const BIOS: Record<string, string> = {
   "Sara Montes de Oca":
-    "Sara covers technology, markets, and the policy decisions that shape both. Previously at Bloomberg and The Information. She founded TechEchelon in 2024.",
+    "Sara Montes de Oca is the Editor in Chief of TechEchelon. Previously a correspondent and producer in Washington, D.C., covering business, finance, and politics.",
+  "Jay Goldberg":
+    "Jay Goldberg is a staff writer at TechEchelon covering technology, markets, and policy. He files the breaking news and deal coverage that move the publication's core desks.",
+  "TechEchelon Staff":
+    "TechEchelon Staff bylines are produced collectively by the newsroom for short, breaking, and wire-style coverage. Longer-form reporting is published under the responsible reporter's name.",
 };
+
+function moreFromLabel(author: string): string {
+  if (author === "TechEchelon Staff") return "the Staff";
+  if (author === "Guest Contributor") return "guest contributors";
+  return author.split(" ")[0]!;
+}
 
 export function AuthorBio({ post }: { post: Post }) {
   const initials =
@@ -26,10 +36,10 @@ export function AuthorBio({ post }: { post: Post }) {
             {bio}
           </p>
           <a
-            href={`/author/${post.author.toLowerCase().replace(/\s+/g, "-")}`}
+            href={`/author/${post.author.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "")}`}
             className="font-mono text-[10.5px] font-bold tracking-[0.1em] uppercase text-navy hover:text-coral"
           >
-            More from {post.author.split(" ")[0]} →
+            More from {moreFromLabel(post.author)} →
           </a>
         </div>
       </div>

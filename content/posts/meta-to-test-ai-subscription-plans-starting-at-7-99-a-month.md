@@ -3,8 +3,8 @@ title: "Meta to Test AI Subscription Plans Starting at $7.99 a Month"
 slug: meta-to-test-ai-subscription-plans-starting-at-7-99-a-month
 excerpt: "Meta confirmed it will test two paid subscription tiers for its Meta AI app — Meta One Plus at $7.99 a month and Meta One Premium at $19.99 a month — beginning next month in Singapore, Guatemala, and Bolivia."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-27T21:06:36.194Z"
 coverImage: "https://static.wixstatic.com/media/e37254_033d34b9a38340ebbbc20c7b0fb949d8~mv2.png"
 readTime: 2

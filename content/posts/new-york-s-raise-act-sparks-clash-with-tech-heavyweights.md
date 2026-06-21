@@ -3,8 +3,8 @@ title: "New York’s RAISE Act Sparks Clash With Tech Heavyweights"
 slug: new-york-s-raise-act-sparks-clash-with-tech-heavyweights
 excerpt: "A bipartisan super PAC backed by tech leaders including OpenAI President Greg Brockman, Palantir co-founder Joe Lonsdale, Andreessen Horowitz, and Perplexity is targeting congressional candidate Alex Bores over his support for the Responsible AI Safety and Education (RAISE) Act."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-11-24T19:07:07.537Z"
 coverImage: "https://static.wixstatic.com/media/e37254_23c56064c1d54ca18b7358a1764fab24~mv2.avif"
 readTime: 1

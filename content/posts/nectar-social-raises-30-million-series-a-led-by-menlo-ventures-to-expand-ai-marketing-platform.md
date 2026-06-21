@@ -3,8 +3,8 @@ title: "Nectar Social Raises $30 Million Series A Led by Menlo Ventures to Expan
 slug: nectar-social-raises-30-million-series-a-led-by-menlo-ventures-to-expand-ai-marketing-platform
 excerpt: "Nectar Social, an agentic marketing platform co-founded by two former Meta employees, closed a $30 million Series A led by Menlo Ventures and its Anthropic-affiliated Anthology Fund, with plans to expand its AI-driven platform for brand management across social channels."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-16T21:00:55.212Z"
 coverImage: "https://static.wixstatic.com/media/e37254_28ef3ea6564547f88fa2adb23af42b3a~mv2.jpeg"
 readTime: 2

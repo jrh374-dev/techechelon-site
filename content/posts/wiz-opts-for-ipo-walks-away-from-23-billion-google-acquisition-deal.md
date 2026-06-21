@@ -3,8 +3,8 @@ title: "Wiz Opts for IPO, Walks Away from $23 Billion Google Acquisition Deal"
 slug: wiz-opts-for-ipo-walks-away-from-23-billion-google-acquisition-deal
 excerpt: "The company aims to achieve $1 billion in annual recurring revenue as it moves towards its IPO."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-07-23T16:23:54.695Z"
 coverImage: "https://static.wixstatic.com/media/e37254_a19e7e83710e41d99572f0e6032d660a~mv2.png"
 readTime: 1

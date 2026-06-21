@@ -3,8 +3,8 @@ title: "Stability AI Unveils AI Sketch-to-Image Tool, Stable Doodle"
 slug: stability-ai-unveils-ai-sketch-to-image-tool-stable-doodle
 excerpt: "Stability AI, the tech company behind the Stable Diffusion image-generating AI model, has announced the introduction of Stable Doodle, a..."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-07-13T18:00:44.770Z"
 coverImage: "https://static.wixstatic.com/media/e37254_840588156b1e49869503ab8ffa627bf6~mv2.png"
 readTime: 2

@@ -3,8 +3,8 @@ title: "Senate Bans Members From Prediction Market Trading, Advances AI Companio
 slug: senate-bans-members-from-prediction-market-trading-advances-ai-companion-bill-for-minors
 excerpt: "The Senate unanimously approved a resolution Thursday banning members from trading on prediction markets, while the Judiciary Committee advanced the GUARD Act, which would prohibit AI companion chatbots for users under 18."
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-04-30T21:04:12.694Z"
 coverImage: "https://static.wixstatic.com/media/e37254_0399595de6a84b0db0e4ae64cbdefbe3~mv2.jpg"
 readTime: 3

@@ -3,8 +3,8 @@ title: "AT&T Reports Unauthorized Data Breach Affecting 109 Million Customer Acc
 slug: at-t-reports-unauthorized-data-breach-affecting-109-million-customer-accounts
 excerpt: "The data, while not including the content of the communications or sensitive personal information like social security numbers, encompasses detailed records of interactions between nearly all of AT&T’s cellular and landline customers during May to October 2022."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2024-07-12T17:31:35.454Z"
 coverImage: "https://static.wixstatic.com/media/e37254_059890103fd14a62ae42fcadedecfe68~mv2.webp"
 readTime: 1

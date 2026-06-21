@@ -3,8 +3,8 @@ title: "June Inflation Hits Two-Year Low, Offering Respite to Federal Reserve Am
 slug: june-inflation-hits-two-year-low-offering-respite-to-federal-reserve-amidst-surging-costs
 excerpt: "The consumer price index saw a year-on-year increase of 3%, the smallest rise since March 2021. The index, which assesses a wide range of goods and services prices, climbed by 0.2% on a monthly basis. These figures contrast with Dow Jones estimates predicting 3.1% and 0.3% increases, respectively."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-07-12T13:52:56.269Z"
 coverImage: "https://static.wixstatic.com/media/e37254_3d612a7b1ce24c87bab70a9d98c55dad~mv2.jpeg"
 readTime: 3

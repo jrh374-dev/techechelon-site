@@ -3,8 +3,8 @@ title: "Kash Patel Appeals Dismissal of Defamation Lawsuit Against Ex-FBI Offici
 slug: kash-patel-appeals-dismissal-of-defamation-lawsuit-against-ex-fbi-official-frank-figliuzzi
 excerpt: "FBI Director Kash Patel filed an appeal Thursday after a Houston federal judge dismissed his defamation lawsuit against former FBI counterintelligence official Frank Figliuzzi, whose televised comment about Patel's nightclub visibility the court called \"rhetorical hyperbole.\""
 category: politics
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-14T21:03:57.228Z"
 coverImage: "https://static.wixstatic.com/media/e37254_e2dd4de37dc84783931fb23cc88a7dc7~mv2.jpg"
 readTime: 2

@@ -3,8 +3,8 @@ title: "Snap Unveils $2,195 Specs AR Glasses, Betting on a Post-Smartphone Era"
 slug: snap-unveils-2-195-specs-ar-glasses-betting-on-a-post-smartphone-era
 excerpt: "Snap launched Specs, its first AR glasses for mainstream consumers, at $2,195 with a $200 refundable deposit. CEO Evan Spiegel is betting on a shift away from smartphone screens, even as analysts warn of a tough market and the company has yet to turn a profit."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-16T17:02:36.823Z"
 coverImage: "https://static.wixstatic.com/media/e37254_3857d31aadf74878b25a0cdbe3012bf8~mv2.jpeg"
 readTime: 3

@@ -3,8 +3,8 @@ title: "Nvidia Sees Boost in Shares Following Strong Q2 Results"
 slug: nvidia-sees-boost-in-shares-following-strong-q2-results
 excerpt: "Q2 Highlights:"
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2023-08-24T01:18:11.782Z"
 coverImage: "https://static.wixstatic.com/media/e37254_fa7c09459b3a4f7eb1e845da227eae56~mv2.jpeg"
 readTime: 2

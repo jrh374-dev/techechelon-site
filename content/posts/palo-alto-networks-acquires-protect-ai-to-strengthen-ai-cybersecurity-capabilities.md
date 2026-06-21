@@ -3,8 +3,8 @@ title: "Palo Alto Networks Acquires Protect AI to Strengthen AI Cybersecurity Ca
 slug: palo-alto-networks-acquires-protect-ai-to-strengthen-ai-cybersecurity-capabilities
 excerpt: "With this acquisition, Palo Alto aims to expand its capabilities in safeguarding AI systems from emerging threats. As the adoption of AI and machine learning accelerates across industries and government sectors, so too do the security risks associated with these technologies."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2025-05-09T18:58:31.174Z"
 coverImage: "https://static.wixstatic.com/media/e37254_0ccd4232a9854469a23bc842193672ab~mv2.jpeg"
 readTime: 1

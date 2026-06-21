@@ -3,8 +3,8 @@ title: "Google and YouTube Set New Disclosure Rules for AI-Generated Election Ad
 slug: google-and-youtube-set-new-disclosure-rules-for-ai-generated-election-ads
 excerpt: "A representative from Google articulated, \"In light of the increasing use of synthetic content tools, we are extending our policies to mandate advertisers to openly indicate when their election ads have digital modifications or are AI-generated."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-09-07T15:28:35.728Z"
 coverImage: "https://static.wixstatic.com/media/e37254_2dab0cf9fcea494db19a0cc7a6b00b1d~mv2.jpeg"
 readTime: 1

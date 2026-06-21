@@ -3,8 +3,8 @@ title: "PayPal Splits Into Three Units as Venmo Becomes Standalone Segment Amid 
 slug: paypal-splits-into-three-units-as-venmo-becomes-standalone-segment-amid-takeover-interest
 excerpt: "PayPal CEO Enrique Lores has restructured the company into three distinct segments, making Venmo a standalone business unit for the first time as takeover interest from firms including Stripe intensifies and two senior executives depart."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-04-29T19:03:32.670Z"
 coverImage: "https://static.wixstatic.com/media/e37254_39d3ac16ea224b999f6c6f17ce7a91b8~mv2.jpg"
 readTime: 3

@@ -3,8 +3,8 @@ title: "Nvidia CEO Says Company Has \"Largely Conceded\" China AI Chip Market to
 slug: nvidia-ceo-says-company-has-largely-conceded-china-ai-chip-market-to-huawei-as-revenue-surges-85
 excerpt: "Nvidia CEO Jensen Huang said the company has \"largely conceded\" China's AI chip market to Huawei as U.S. export restrictions remain firmly in place, even as Nvidia posted quarterly revenue of $81.62 billion, an 85% year-over-year increase."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-21T01:05:55.923Z"
 coverImage: "https://static.wixstatic.com/media/e37254_fcb9c987ac224de9847e20d0b05be538~mv2.jpg"
 readTime: 3

@@ -3,8 +3,8 @@ title: "Apple Reports $8.4 Billion in Mac Revenue as AI Demand Catches Company O
 slug: apple-reports-8-4-billion-in-mac-revenue-as-ai-demand-catches-company-off-guard
 excerpt: "Apple reported $8.4 billion in Mac revenue for its fiscal second quarter, beating Wall Street expectations, as AI workload demand for Mac mini and Mac Studio models outpaced the company's own forecasts."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-04-30T23:03:17.597Z"
 coverImage: "https://static.wixstatic.com/media/e37254_838a2e20d192413ca4be8c9efef48834~mv2.png"
 readTime: 2

@@ -3,8 +3,8 @@ title: "L3Harris Cybersecurity Executive Ordered to Pay $10 Million After Sellin
 slug: l3harris-cybersecurity-executive-ordered-to-pay-10-million-after-selling-hacking-tools-to-russian-b
 excerpt: "A federal judge has ordered Peter Williams, former head of L3Harris's hacking tools division, to pay $10 million in restitution after he pleaded guilty to stealing trade secrets and selling them to a Russian broker, Operation Zero."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-08T21:03:11.371Z"
 coverImage: "https://static.wixstatic.com/media/e37254_c1cd1adc5be9416ea7fb69de0410b76a~mv2.jpeg"
 readTime: 2

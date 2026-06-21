@@ -3,8 +3,8 @@ title: "Checkmarx Jenkins Plugin Compromised in Third Supply-Chain Attack by Tea
 slug: checkmarx-jenkins-plugin-compromised-in-third-supply-chain-attack-by-teampcp
 excerpt: "A rogue version of Checkmarx's Jenkins Application Security Testing plugin was uploaded to the Jenkins Marketplace on May 9, the third supply-chain attack against the firm since late March, carried out by the TeamPCP hacker group."
 category: security
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-11T23:02:25.665Z"
 coverImage: "https://static.wixstatic.com/media/e37254_095829785a1845909ade4714c8c35608~mv2.png"
 readTime: 2

@@ -3,8 +3,8 @@ title: "Judge Denies New Trial for Meta and Google in Youth Social Media Addicti
 slug: judge-denies-new-trial-for-meta-and-google-in-youth-social-media-addiction-case
 excerpt: "A Los Angeles judge denied new trial motions from Meta and Google after a jury found both companies liable for designing platforms harmful to young users and imposed $6 million in damages. Both companies have pledged to appeal."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-06-10T19:04:26.954Z"
 coverImage: "https://static.wixstatic.com/media/e37254_a0da965cf8464e0196ca49d95839492a~mv2.png"
 readTime: 2

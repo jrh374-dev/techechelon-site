@@ -3,8 +3,8 @@ title: "Amazon Expands 30-Minute Delivery Service to Dozens of U.S. Cities Under
 slug: amazon-expands-30-minute-delivery-service-to-dozens-of-u-s-cities-under-amazon-now-brand
 excerpt: "Amazon announced Tuesday it is expanding its Amazon Now 30-minute delivery service to dozens of U.S. cities, relying on a network of micro-fulfillment \"dark stores\" and Flex drivers, with plans to reach tens of millions of customers by year-end."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2026-05-12T11:02:27.178Z"
 coverImage: "https://static.wixstatic.com/media/e37254_2cb1d69c0d5841729ca1ed142402256e~mv2.jpg"
 readTime: 3

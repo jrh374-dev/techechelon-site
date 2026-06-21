@@ -3,8 +3,8 @@ title: "Federal Reserve Vice Chair Expresses Concern Over AI's Impact on Fair Ho
 slug: federal-reserve-vice-chair-expresses-concern-over-ai-s-impact-on-fair-housing-access
 excerpt: "Barr, who serves as the Vice Chair for Supervision at the Fed, acknowledged that AI has the capacity to enable individuals, who might otherwise struggle to secure credit, to gain access to it."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-07-18T16:22:20.236Z"
 coverImage: "https://static.wixstatic.com/media/e37254_0002de0f9c2a477a9d6ff5c67e448095~mv2.jpeg"
 readTime: 1

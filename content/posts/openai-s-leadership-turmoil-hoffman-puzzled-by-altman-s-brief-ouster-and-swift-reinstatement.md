@@ -3,8 +3,8 @@ title: "OpenAI's Leadership Turmoil: Hoffman Puzzled by Altman's Brief Ouster an
 slug: openai-s-leadership-turmoil-hoffman-puzzled-by-altman-s-brief-ouster-and-swift-reinstatement
 excerpt: "Altman was reinstated after intervention from major investors and concerns of a staff exodus. Changes to the board are underway, including the departure of several longstanding members, but details about the initial upheaval remain unclear."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "TechEchelon Staff"
+authorInitials: "TE"
 publishedAt: "2023-12-06T01:29:43.390Z"
 coverImage: "https://static.wixstatic.com/media/e37254_3cd125ec629b4bf29ba604856d66eb20~mv2.jpeg"
 readTime: 1

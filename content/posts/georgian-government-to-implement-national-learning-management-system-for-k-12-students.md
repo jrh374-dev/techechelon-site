@@ -3,8 +3,8 @@ title: "Georgian Government to Implement National Learning Management System for
 slug: georgian-government-to-implement-national-learning-management-system-for-k-12-students
 excerpt: "Edsby, a leading K-12 education software provider, has been selected by the Ministry of Education, Science, and Youth of Georgia to spearhead the implementation of a national learning management system (LMS)."
 category: business
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Jay Goldberg"
+authorInitials: "JG"
 publishedAt: "2024-10-16T02:14:06.129Z"
 coverImage: "https://static.wixstatic.com/media/e37254_b3148244800d48388894efe77d25fbf4~mv2.png"
 readTime: 2
