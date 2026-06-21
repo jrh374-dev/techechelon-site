@@ -52,15 +52,15 @@ export function SearchClient({ posts }: { posts: SearchEntry[] }) {
   }, [query, cat, posts]);
 
   return (
-    <main className="max-w-[1320px] mx-auto px-7 py-12">
-      <div className="text-center mb-10">
-        <div className="font-mono text-[10.5px] tracking-[0.18em] uppercase font-bold text-coral mb-4">
+    <main className="max-w-[1320px] mx-auto px-5 md:px-7 py-8 md:py-12">
+      <div className="text-center mb-8 md:mb-10">
+        <div className="font-mono text-[10px] md:text-[10.5px] tracking-[0.16em] md:tracking-[0.18em] uppercase font-bold text-coral mb-3 md:mb-4">
           ━━ SEARCH
         </div>
-        <h1 className="font-display text-[56px] font-extrabold tracking-[-0.035em] leading-[0.96] text-navy mb-3">
+        <h1 className="font-display text-[40px] md:text-[56px] font-extrabold tracking-[-0.03em] md:tracking-[-0.035em] leading-[0.98] md:leading-[0.96] text-navy mb-3">
           Search the archive.
         </h1>
-        <p className="font-serif text-[16.5px] leading-relaxed text-ink-soft italic max-w-[560px] mx-auto">
+        <p className="font-serif text-[15px] md:text-[16.5px] leading-relaxed text-ink-soft italic max-w-[560px] mx-auto">
           {posts.length.toLocaleString()} articles across markets, AI, policy, and security.
         </p>
       </div>

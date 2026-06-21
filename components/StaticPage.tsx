@@ -14,22 +14,22 @@ export function StaticPage({ eyebrow, title, dek, children }: Props) {
     <div className="bg-cream min-h-screen">
       <SiteHeader />
       <section className="bg-cream border-b border-rule">
-        <div className="max-w-[860px] mx-auto px-7 pt-12 pb-9 text-center">
-          <div className="font-mono text-[10.5px] tracking-[0.16em] uppercase font-bold text-coral mb-4">
+        <div className="max-w-[860px] mx-auto px-5 md:px-7 pt-9 md:pt-12 pb-7 md:pb-9 text-center">
+          <div className="font-mono text-[10px] md:text-[10.5px] tracking-[0.16em] uppercase font-bold text-coral mb-3 md:mb-4">
             ━━ {eyebrow}
           </div>
-          <h1 className="font-display text-[58px] font-extrabold tracking-[-0.035em] leading-[0.96] text-navy mb-5">
+          <h1 className="font-display text-[40px] md:text-[58px] font-extrabold tracking-[-0.03em] md:tracking-[-0.035em] leading-[0.98] md:leading-[0.96] text-navy mb-4 md:mb-5">
             {title}
           </h1>
           {dek && (
-            <p className="font-serif text-[18px] leading-relaxed text-ink-soft italic max-w-[640px] mx-auto">
+            <p className="font-serif text-[15.5px] md:text-[18px] leading-relaxed text-ink-soft italic max-w-[640px] mx-auto">
               {dek}
             </p>
           )}
         </div>
       </section>
-      <section className="bg-cream py-12">
-        <div className="static-prose mx-auto px-7" style={{ maxWidth: "660px" }}>
+      <section className="bg-cream py-8 md:py-12">
+        <div className="static-prose mx-auto px-5 md:px-7" style={{ maxWidth: "660px" }}>
           {children}
         </div>
       </section>

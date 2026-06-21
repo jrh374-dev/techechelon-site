@@ -5,16 +5,16 @@ export function RelatedPosts({ posts }: { posts: Post[] }) {
   if (posts.length === 0) return null;
   return (
     <div className="bg-cream border-t border-rule">
-      <div className="max-w-[1320px] mx-auto px-7 py-10">
-        <div className="flex items-baseline gap-4 mb-7 pb-2 border-b border-rule">
-          <span className="font-mono text-[10.5px] tracking-[0.14em] uppercase font-bold text-sage">
+      <div className="max-w-[1320px] mx-auto px-5 md:px-7 py-7 md:py-10">
+        <div className="flex flex-wrap items-baseline gap-3 mb-5 md:mb-7 pb-2 border-b border-rule">
+          <span className="font-mono text-[10px] md:text-[10.5px] tracking-[0.14em] uppercase font-bold text-sage">
             ━━ KEEP READING
           </span>
-          <h3 className="font-display text-[20px] font-extrabold tracking-[-0.022em] text-navy leading-none">
+          <h3 className="font-display text-[18px] md:text-[20px] font-extrabold tracking-[-0.022em] text-navy leading-none">
             More from this desk
           </h3>
         </div>
-        <div className="grid grid-cols-3 gap-10">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-7 md:gap-10">
           {posts.slice(0, 3).map((p, i) => (
             <article key={p.slug} className="group">
               <Link href={`/post/${p.slug}`} className="block">

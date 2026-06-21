@@ -9,6 +9,25 @@
   to { transform: translateX(-50%); }
 }
 
+/* Article body typography scales down on small screens so a phone-width
+   viewport remains comfortable to read. */
+@media (max-width: 767px) {
+  .article-prose p { font-size: 17px; line-height: 1.65; }
+  .article-prose h2 { font-size: 21px; margin-top: 28px; }
+  .article-prose h3,
+  .article-prose h4,
+  .article-prose h5,
+  .article-prose h6 { font-size: 17.5px; margin-top: 22px; }
+  .article-prose > p:first-of-type::first-letter {
+    font-size: 64px;
+    margin-right: 9px;
+    margin-top: 6px;
+  }
+  .article-prose blockquote p { font-size: 18px; }
+  .static-prose p { font-size: 16px; line-height: 1.65; }
+  .static-prose h2 { font-size: 18px; margin-top: 24px; }
+}
+
 .te-ticker-track {
   animation: te-ticker-loop 90s linear infinite;
   width: max-content;

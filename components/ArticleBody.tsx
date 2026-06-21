@@ -8,9 +8,9 @@ export async function renderMarkdown(md: string): Promise<string> {
 
 export function ArticleBody({ html }: { html: string }) {
   return (
-    <div className="bg-cream py-12">
+    <div className="bg-cream py-7 md:py-12">
       <div
-        className="article-prose mx-auto px-7"
+        className="article-prose mx-auto px-5 md:px-7"
         style={{ maxWidth: "660px" }}
         dangerouslySetInnerHTML={{ __html: html }}
       />

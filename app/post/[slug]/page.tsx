@@ -33,7 +33,7 @@ export default async function ArticlePage({
     <div className="bg-cream min-h-screen">
       <SiteHeader />
       <div className="bg-cream">
-        <div className="max-w-[1320px] mx-auto px-7 py-3 text-[11px] tracking-[0.04em] text-sand font-semibold">
+        <div className="max-w-[1320px] mx-auto px-5 md:px-7 py-3 text-[10.5px] md:text-[11px] tracking-[0.04em] text-sand font-semibold overflow-x-auto whitespace-nowrap">
           <Link href="/" className="text-navy hover:underline">
             Home
           </Link>

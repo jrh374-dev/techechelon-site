@@ -11,8 +11,8 @@ export function AuthorBio({ post }: { post: Post }) {
   const bio = BIOS[post.author] ?? `${post.author} covers technology and markets for TechEchelon.`;
   return (
     <div className="bg-cream border-t border-rule">
-      <div className="max-w-[660px] mx-auto px-7 py-9 grid grid-cols-[72px_1fr] gap-6 items-start">
-        <div className="w-[72px] h-[72px] rounded-full bg-navy text-white font-extrabold text-[22px] flex items-center justify-center tracking-tight">
+      <div className="max-w-[660px] mx-auto px-5 md:px-7 py-7 md:py-9 grid grid-cols-[56px_1fr] md:grid-cols-[72px_1fr] gap-4 md:gap-6 items-start">
+        <div className="w-[56px] h-[56px] md:w-[72px] md:h-[72px] rounded-full bg-navy text-white font-extrabold text-[18px] md:text-[22px] flex items-center justify-center tracking-tight">
           {initials}
         </div>
         <div>
