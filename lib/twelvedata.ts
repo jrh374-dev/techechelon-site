@@ -46,7 +46,10 @@ export async function getDailySeries(
   }
   try {
     const url = `${TD}/time_series?symbol=${encodeURIComponent(symbol)}&interval=1day&outputsize=${outputsize}&order=ASC&apikey=${KEY}`;
-    const r = await fetch(url, { next: { revalidate: 900 } });
+    // Daily closes only change once a trading day at most — cache for 24h to
+    // keep us well under Twelve Data's 800-call/day free-tier limit. With
+    // 16 ticker symbols this works out to ~16 calls/day total.
+    const r = await fetch(url, { next: { revalidate: 86400 } });
     const text = await r.text();
     if (!r.ok) {
       console.warn(`[twelvedata] ${symbol} HTTP ${r.status}: ${text.slice(0, 200)}`);
