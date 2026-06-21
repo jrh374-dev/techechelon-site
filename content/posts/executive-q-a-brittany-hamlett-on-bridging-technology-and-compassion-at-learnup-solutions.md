@@ -43,7 +43,7 @@ In a technical sense, we use a hybrid of scrum and waterfall frameworks to devel
 
 Just reiterating the importance of feedback culture to actually drive growth is ingrained in our culture. It’s important for everyone involved to openly communicate their needs and know they will be met. Collaboration won’t happen if you don’t respect and provide what a team needs to be and feel supported.
 
-**Q: The introduction of ****[SimplifyIEP.ai](http://SimplifyIEP.ai)**** represents a significant step forward in supporting families navigating the IEP process. What inspired this innovation, and what impact has it had so far?**
+**Q: The introduction of [SimplifyIEP.ai](http://SimplifyIEP.ai) represents a significant step forward in supporting families navigating the IEP process. What inspired this innovation, and what impact has it had so far?**
 
 My son was five years old when the doctor told us he is autistic. I was already in the classroom scrambling to find what I could do or provide for my son because he was just not in the right setting. I Googled, talked to the other educators, and scoured every resource I could think of until it felt like my head was going to explode. Exhaustion and frustration don’t even come close to how I felt about getting him an IEP. Even as an educator, I felt helpless in getting my son services because it felt like the whole process dragged on and the program he’s currently attending now (NYCDOE ASD Nest program) was so new that none of my colleagues could point me in the right direction.
 

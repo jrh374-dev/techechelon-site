@@ -26,7 +26,7 @@ After the 2016 election, I attended a Washington, DC, event on democracy, where 
 
 I find the issues we write about to be fascinating, and the discourse over them to be both urgent and necessary. Given the two decades-long decline in democracy around the world and the rise of a powerful tech oligarchy, I find it hard to imagine that the world ahead will be more democratic, more just, more sustainable, and more equitable unless we make significant changes to our politics and the balance of power between the state, corporations and the wealthy, and the people. But I want to spend the rest of my days looking for paths forward. This is a collective problem, and it will require a collective response; I believe Tech Policy Press is part of that response.
 
-**Q: For people who might not be familiar, how would you describe the mission of ****_Tech Policy Press_**** in your own words?**
+**Q: For people who might not be familiar, how would you describe the mission of _Tech Policy Press_ in your own words?**
 
 I repeat these words every week on my podcast, so they are top of mind: Tech Policy Press is intended to provoke new ideas, debate, and discussion at the intersection of technology and democracy.
 

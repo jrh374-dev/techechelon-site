@@ -45,7 +45,7 @@ Handling unstructured data presents several challenges, particularly regarding i
 
 At Graphiant, we've observed a common issue in data handling: data hairpinning, where data is unnecessarily sent to and from a central location, like a data center, before being used where it was initially collected. To streamline operations and reduce inefficiencies, it's more practical to process data relevant to its origin directly on-site, sending only archival or analytical data to the data center. Direct transmission of specific data to relevant partners like Siemens or Honeywell can also be more efficient than routing it through a data center. This approach saves time, costs, and effort, enhancing overall data utility and processing efficiency.
 
-**Q: In the context of Graphiant’s ****[successful project with the South Carolina municipality](https://www.youtube.com/watch?v=B3oOeak2pRw)****, how do you approach identifying and solving unique challenges through technological innovation?**
+**Q: In the context of Graphiant’s [successful project with the South Carolina municipality](https://www.youtube.com/watch?v=B3oOeak2pRw), how do you approach identifying and solving unique challenges through technological innovation?**
 
 Our approach at Graphiant is centered around use cases. I often compare this method to baking using a Betty Crocker mix. Just as following the recipe ensures that anyone can bake edible brownies, we simplify the sales process and ensure that solutions meet customers' needs by focusing on specific outcomes.
 
@@ -65,7 +65,7 @@ Our architecture and engineering approach enables rapid deployment without the n
 
 Additionally, we use common x86 software and hardware from well-known suppliers like Dell, and plan to incorporate Broadcom platforms in the future. This use of widely available technology ensures that our supply chain remains agile and not tied to proprietary systems, making our software solutions both accessible and adaptable.
 
-Q: **[Graphiant’s project in South Carolina](https://www.youtube.com/watch?v=B3oOeak2pRw)**** involved significant improvements in data handling and security for law enforcement. Can you share other examples where Graphiant's technology has been pivotal in advancing human safety through innovation?**
+Q: **[Graphiant’s project in South Carolina](https://www.youtube.com/watch?v=B3oOeak2pRw) involved significant improvements in data handling and security for law enforcement. Can you share other examples where Graphiant's technology has been pivotal in advancing human safety through innovation?**
 
 The success of our project in South Carolina has been quite influential, serving as a robust use case for enhancing public safety across various municipalities. As you might have seen from the YouTube video, the application of our technology in these settings is highly replicable and can benefit a wide range of public safety entities.
 

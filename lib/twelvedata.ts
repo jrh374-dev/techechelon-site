@@ -3,7 +3,13 @@
 // req/day) covers stocks, ETFs, indices, FX, crypto, and commodities.
 
 const TD = "https://api.twelvedata.com";
-const KEY = process.env.TWELVEDATA_API_KEY ?? "";
+// Accept multiple env var name variants — TWELVEDATA_API_KEY is the canonical
+// form, but TWELVE_DATA_API_KEY and TWELVEDATA_KEY are easy to type by mistake.
+const KEY =
+  process.env.TWELVEDATA_API_KEY ??
+  process.env.TWELVE_DATA_API_KEY ??
+  process.env.TWELVEDATA_KEY ??
+  "";
 
 export function isConfigured(): boolean {
   return KEY.length > 0;
@@ -34,13 +40,33 @@ export async function getDailySeries(
   symbol: string,
   outputsize = 130,
 ): Promise<Bar[] | null> {
-  if (!KEY) return null;
+  if (!KEY) {
+    console.warn(`[twelvedata] no API key in env (checked TWELVEDATA_API_KEY, TWELVE_DATA_API_KEY, TWELVEDATA_KEY)`);
+    return null;
+  }
   try {
     const url = `${TD}/time_series?symbol=${encodeURIComponent(symbol)}&interval=1day&outputsize=${outputsize}&order=ASC&apikey=${KEY}`;
     const r = await fetch(url, { next: { revalidate: 900 } });
-    if (!r.ok) return null;
-    const j = (await r.json()) as TimeSeriesResponse;
-    if (j.status === "error" || !j.values?.length) return null;
+    const text = await r.text();
+    if (!r.ok) {
+      console.warn(`[twelvedata] ${symbol} HTTP ${r.status}: ${text.slice(0, 200)}`);
+      return null;
+    }
+    let j: TimeSeriesResponse;
+    try {
+      j = JSON.parse(text) as TimeSeriesResponse;
+    } catch {
+      console.warn(`[twelvedata] ${symbol} non-JSON: ${text.slice(0, 200)}`);
+      return null;
+    }
+    if (j.status === "error") {
+      console.warn(`[twelvedata] ${symbol} error: ${j.message ?? "(no message)"}`);
+      return null;
+    }
+    if (!j.values?.length) {
+      console.warn(`[twelvedata] ${symbol} returned no values`);
+      return null;
+    }
     const bars: Bar[] = j.values
       .map((p) => ({
         t: Math.floor(new Date(p.datetime).getTime() / 1000),
@@ -48,7 +74,8 @@ export async function getDailySeries(
       }))
       .filter((b) => Number.isFinite(b.c) && b.c > 0);
     return bars.length > 5 ? bars : null;
-  } catch {
+  } catch (err) {
+    console.warn(`[twelvedata] ${symbol} threw: ${(err as Error).message}`);
     return null;
   }
 }

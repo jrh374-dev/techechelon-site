@@ -37,7 +37,7 @@ We are deeply committed to staying abreast of the evolving threat landscape. Our
 
 Blackpoint stands at the forefront of rapid detection and response. We gain direct insights into our adversaries' actions within our customers' environments, which allows us to identify and understand the techniques necessary to protect our partners. By integrating external and internal sources of intelligence, we are effectively staying ahead of the curve on trends and threats in the wild.
 
-**Q: In a recent ****[blog post](https://blackpointcyber.com/resources/blog/how-msps-can-avoid-a-cyberattack-knockout-punch/)****, the company mentions the significant financial impact of cybersecurity breaches, citing an average cost of $4.45 million per breach. How does the BCPP specifically address this risk for MSPs?**
+**Q: In a recent [blog post](https://blackpointcyber.com/resources/blog/how-msps-can-avoid-a-cyberattack-knockout-punch/), the company mentions the significant financial impact of cybersecurity breaches, citing an average cost of $4.45 million per breach. How does the BCPP specifically address this risk for MSPs?**
 
 At its core, our primary focus is on prevention—stopping an incident before it even happens. Internally, we often say that offense is the best form of defense when it comes to preventing attacks. Adopting an offensive mindset allows us to anticipate adversaries' actions and stop threat actors before any real harm is caused. We tackle these issues not just for MSPs but also for their internal IT teams.
 

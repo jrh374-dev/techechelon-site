@@ -54,7 +54,7 @@ As healthcare data breaches continue to make headlines, the industry is seeing o
 
 You’d be surprised just how many healthcare organizations lack a centralized approach to clinical data management. Our Enterprise Clinical Data Management (eCDM) approach consolidates an otherwise fragmented system through a combination of market-leading technology, clinical expertise, data integrity, and analytics. At its core, eCDM enables hospitals and health systems to customize their data sets and use their data to drive more performance improvement, improved patient care, and more effective clinical research.
 
-**Q: A ****[white paper](https://www.q-centrix.com/insights/detail/elevating-operational-quality-with-the-power-of-artificial-intelligence/)**** from the company mentions the power of artificial intelligence in elevating operational quality. Could you provide examples of how AI has been utilized in Q-Centrix’s solutions to drive performance and efficiency?**
+**Q: A [white paper](https://www.q-centrix.com/insights/detail/elevating-operational-quality-with-the-power-of-artificial-intelligence/) from the company mentions the power of artificial intelligence in elevating operational quality. Could you provide examples of how AI has been utilized in Q-Centrix’s solutions to drive performance and efficiency?**
 
 Q-Centrix has the benefit of the most efficient and refined model in the market that produces the highest fidelity data. That gives us the flexibility to focus on identifying where automation will offer the greatest—and most accurate—benefit to our partners.
 
