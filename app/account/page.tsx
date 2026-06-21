@@ -18,9 +18,9 @@ export default function AccountPage() {
       <p>
         <a href="/subscribe">Subscribe to The Brief →</a>
       </p>
-      <h2>Already a Wix-era subscriber?</h2>
+      <h2>Already a subscriber?</h2>
       <p>
-        If you subscribed to TechEchelon through the previous site, your address has been carried over to the new newsletter system. You don&apos;t need to do anything — the next edition of <em>The Brief</em> will arrive at the same email address.
+        If you previously subscribed to TechEchelon, your address has been carried over to the new newsletter system. You don&apos;t need to do anything — the next edition of <em>The Brief</em> will arrive at the same email address.
       </p>
       <h2>Questions</h2>
       <p>
