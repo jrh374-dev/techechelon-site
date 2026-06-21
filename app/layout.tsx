@@ -1,7 +1,14 @@
 import type { Metadata } from "next";
 import "./globals.css";
 
-const SITE_URL = "https://techechelon.com";
+// Prefer an explicit env var (NEXT_PUBLIC_SITE_URL) so we can point it at
+// techechelon-site.vercel.app pre-cutover and at techechelon.com after.
+// Falls back to the Vercel-provided production URL or the brand domain.
+const SITE_URL =
+  process.env.NEXT_PUBLIC_SITE_URL ??
+  (process.env.VERCEL_PROJECT_PRODUCTION_URL
+    ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
+    : "https://techechelon.com");
 const SITE_NAME = "TechEchelon";
 const DEFAULT_DESCRIPTION =
   "Independent reporting on technology, markets, and the policy decisions that shape both.";

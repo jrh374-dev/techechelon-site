@@ -20,7 +20,12 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: { params: { slug: string } }) {
   const post = getPostBySlug(params.slug);
   if (!post) return {};
-  const url = `https://techechelon.com/post/${post.slug}`;
+  const siteUrl =
+    process.env.NEXT_PUBLIC_SITE_URL ??
+    (process.env.VERCEL_PROJECT_PRODUCTION_URL
+      ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
+      : "https://techechelon.com");
+  const url = `${siteUrl}/post/${post.slug}`;
   const image = post.coverImage ?? "/opengraph-image";
   return {
     title: post.title,
