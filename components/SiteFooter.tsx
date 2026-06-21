@@ -30,8 +30,8 @@ export function SiteFooter() {
   return (
     <footer className="bg-cream-deep border-t border-rule">
       <div className="max-w-[1320px] mx-auto px-5 md:px-7 pt-9 md:pt-12 pb-6 md:pb-7">
-        <div className="grid grid-cols-1 md:grid-cols-[1.4fr_1fr_1fr_1fr] gap-8 md:gap-12 pb-8 md:pb-10 border-b border-rule">
-          <div>
+        <div className="grid grid-cols-2 md:grid-cols-[1.4fr_1fr_1fr_1fr] gap-7 md:gap-12 pb-8 md:pb-10 border-b border-rule">
+          <div className="col-span-2 md:col-span-1">
             <Link href="/" className="flex items-center gap-3 text-navy mb-4">
               <TechEchelonMark size={36} />
               <div className="font-display font-extrabold text-[26px] md:text-[30px] tracking-[-0.025em] text-navy leading-none">

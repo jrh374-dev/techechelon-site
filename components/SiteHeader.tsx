@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { TechEchelonMark } from "./TechEchelonMark";
 import { StockTicker } from "./StockTicker";
+import { LiveClock } from "./LiveClock";
 import { getAllPosts } from "@/lib/posts";
 
 const NAV = [
@@ -12,20 +13,47 @@ const NAV = [
   { label: "Opinion", href: "/category/opinion" },
 ];
 
+// Use ET parts derived from Intl so the masthead matches the bureau time,
+// not the server's UTC clock.
+function etParts(d: Date): { day: string; month: string; date: number; year: number; hour: number; minute: number } {
+  const parts = new Intl.DateTimeFormat("en-US", {
+    timeZone: "America/New_York",
+    weekday: "short",
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false,
+  }).formatToParts(d);
+  const get = (t: string) => parts.find((p) => p.type === t)?.value ?? "";
+  return {
+    day: get("weekday"),
+    month: get("month"),
+    date: Number(get("day")),
+    year: Number(get("year")),
+    hour: Number(get("hour")),
+    minute: Number(get("minute")),
+  };
+}
+
 function editionInfo() {
   const d = new Date();
-  const days = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
-  const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-  const startOfYear = new Date(d.getFullYear(), 0, 1);
-  const dayOfYear = Math.floor((d.getTime() - startOfYear.getTime()) / 86400000) + 1;
-  const hour = d.getHours();
-  const ampm = hour >= 12 ? "PM" : "AM";
-  const h12 = hour % 12 || 12;
-  const min = d.getMinutes().toString().padStart(2, "0");
+  const et = etParts(d);
+  // Day of year, computed against ET midnight so the edition number
+  // matches the date displayed.
+  const etDate = new Date(`${et.year}-01-01T00:00:00-05:00`);
+  const todayEt = new Date(`${et.year}-${String(d.getUTCMonth() + 1).padStart(2, "0")}-${String(et.date).padStart(2, "0")}T00:00:00-05:00`);
+  const dayOfYear = Math.max(
+    1,
+    Math.floor((todayEt.getTime() - etDate.getTime()) / 86400000) + 1,
+  );
+  const ampm = et.hour >= 12 ? "PM" : "AM";
+  const h12 = et.hour % 12 || 12;
   return {
     edition: `№${dayOfYear.toString().padStart(3, "0")}`,
-    time: `${h12.toString().padStart(2, "0")}:${min} ${ampm} ET`,
-    date: `${days[d.getDay()]} · ${months[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()}`,
+    time: `${h12.toString().padStart(2, "0")}:${String(et.minute).padStart(2, "0")} ${ampm} ET`,
+    date: `${et.day} · ${et.month} ${et.date}, ${et.year}`,
   };
 }
 
@@ -41,7 +69,7 @@ export function SiteHeader() {
             <span className="text-cream/55 hidden sm:inline">|</span>
             <span className="hidden sm:inline truncate">{date}</span>
             <span className="text-cream/55">|</span>
-            <span>{time}</span>
+            <LiveClock initial={time} />
           </div>
           <div className="flex items-center gap-2.5 md:gap-5 font-sans text-[9.5px] md:text-[10.5px] tracking-[0.08em] md:tracking-[0.12em] uppercase font-semibold whitespace-nowrap">
             <Link href="/search" className="hover:text-coral-light inline-flex items-center gap-1.5">
