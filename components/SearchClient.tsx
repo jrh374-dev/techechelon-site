@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 
 interface SearchEntry {
@@ -35,21 +35,49 @@ function categoryLabel(c: string): string {
   }
 }
 
-export function SearchClient({ posts }: { posts: SearchEntry[] }) {
+export function SearchClient({ initialTotal }: { initialTotal: number }) {
   const [query, setQuery] = useState("");
   const [cat, setCat] = useState<string>("all");
+  const [results, setResults] = useState<SearchEntry[]>([]);
+  const [total, setTotal] = useState<number>(0);
+  const [loading, setLoading] = useState(false);
+  const abortRef = useRef<AbortController | null>(null);
 
-  const filtered = useMemo(() => {
-    const q = query.trim().toLowerCase();
-    if (q.length < 2 && cat === "all") return posts.slice(0, 50);
-    const tokens = q.split(/\s+/).filter(Boolean);
-    return posts.filter((p) => {
-      if (cat !== "all" && p.category !== cat) return false;
-      if (tokens.length === 0) return true;
-      const hay = `${p.title} ${p.excerpt} ${p.author}`.toLowerCase();
-      return tokens.every((t) => hay.includes(t));
-    });
-  }, [query, cat, posts]);
+  useEffect(() => {
+    const q = query.trim();
+    if (q.length < 2 && cat === "all") {
+      setResults([]);
+      setTotal(initialTotal);
+      return;
+    }
+
+    const handle = window.setTimeout(async () => {
+      if (abortRef.current) abortRef.current.abort();
+      const ctrl = new AbortController();
+      abortRef.current = ctrl;
+      setLoading(true);
+      try {
+        const params = new URLSearchParams();
+        if (q.length >= 2) params.set("q", q);
+        if (cat !== "all") params.set("cat", cat);
+        const r = await fetch(`/api/search?${params.toString()}`, { signal: ctrl.signal });
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        const j = (await r.json()) as { total: number; results: SearchEntry[] };
+        setResults(j.results);
+        setTotal(j.total);
+      } catch (err) {
+        if ((err as Error).name !== "AbortError") {
+          console.error(err);
+        }
+      } finally {
+        setLoading(false);
+      }
+    }, 250);
+
+    return () => window.clearTimeout(handle);
+  }, [query, cat, initialTotal]);
+
+  const hasActiveQuery = query.trim().length >= 2 || cat !== "all";
 
   return (
     <main className="max-w-[1320px] mx-auto px-5 md:px-7 py-8 md:py-12">
@@ -61,7 +89,7 @@ export function SearchClient({ posts }: { posts: SearchEntry[] }) {
           Search the archive.
         </h1>
         <p className="font-serif text-[15px] md:text-[16.5px] leading-relaxed text-ink-soft italic max-w-[560px] mx-auto">
-          {posts.length.toLocaleString()} articles across markets, AI, policy, and security.
+          {initialTotal.toLocaleString()} articles across markets, AI, policy, and security. Full-text search across headlines, deks, and article bodies.
         </p>
       </div>
 
@@ -69,7 +97,7 @@ export function SearchClient({ posts }: { posts: SearchEntry[] }) {
         <input
           type="search"
           autoFocus
-          placeholder="Search by headline, story, or author…"
+          placeholder="Search by headline, story, company, or anything mentioned in body text…"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
           className="w-full px-5 py-4 text-[18px] font-display font-medium bg-white border border-rule focus:border-navy focus:outline-none placeholder:text-sand-light"
@@ -98,13 +126,16 @@ export function SearchClient({ posts }: { posts: SearchEntry[] }) {
           ))}
         </div>
         <div className="mt-4 font-mono text-[11px] tracking-[0.08em] uppercase font-semibold text-sand">
-          {filtered.length} {filtered.length === 1 ? "result" : "results"}
-          {query.trim() && ` for “${query.trim()}”`}
+          {loading
+            ? "Searching…"
+            : hasActiveQuery
+            ? `${total.toLocaleString()} ${total === 1 ? "match" : "matches"}${query.trim() ? ` for “${query.trim()}”` : ""}`
+            : "Browse latest stories below or start typing"}
         </div>
       </div>
 
       <ol className="max-w-[820px] mx-auto space-y-6">
-        {filtered.map((p, i) => (
+        {results.map((p, i) => (
           <li key={p.slug} className="grid grid-cols-[40px_1fr] gap-4 pb-6 border-b border-rule">
             <span className="font-mono text-[14px] font-bold text-coral leading-tight pt-px">
               {(i + 1).toString().padStart(2, "0")}
@@ -130,7 +161,7 @@ export function SearchClient({ posts }: { posts: SearchEntry[] }) {
             </div>
           </li>
         ))}
-        {filtered.length === 0 && (
+        {!loading && hasActiveQuery && results.length === 0 && (
           <li className="text-center py-12">
             <p className="font-serif italic text-sand-light">
               No matches. Try a different query or change the category filter.
@@ -138,6 +169,12 @@ export function SearchClient({ posts }: { posts: SearchEntry[] }) {
           </li>
         )}
       </ol>
+
+      {hasActiveQuery && total > results.length && (
+        <p className="mt-8 text-center font-mono text-[10.5px] tracking-[0.06em] uppercase text-sand">
+          Showing first {results.length.toLocaleString()} of {total.toLocaleString()} matches. Refine your query for fewer results.
+        </p>
+      )}
     </main>
   );
 }

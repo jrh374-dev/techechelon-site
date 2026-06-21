@@ -6,23 +6,15 @@ import { getAllPosts } from "@/lib/posts";
 
 export const metadata = {
   title: "Search — TechEchelon",
-  description: "Search the TechEchelon archive across markets, AI, politics, and security.",
+  description: "Full-text search across the TechEchelon archive — headlines, deks, and article bodies.",
 };
 
 export default function SearchPage() {
-  const posts = getAllPosts().map((p) => ({
-    slug: p.slug,
-    title: p.title,
-    excerpt: p.excerpt,
-    category: p.category,
-    author: p.author,
-    publishedAt: p.publishedAt,
-  }));
-
+  const total = getAllPosts().length;
   return (
     <div className="bg-cream min-h-screen">
       <SiteHeader />
-      <SearchClient posts={posts} />
+      <SearchClient initialTotal={total} />
       <Newsletter />
       <SiteFooter />
     </div>
