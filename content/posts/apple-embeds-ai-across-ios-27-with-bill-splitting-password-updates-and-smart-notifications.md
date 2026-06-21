@@ -6,13 +6,13 @@ category: ai
 author: "Sara Montes de Oca"
 authorInitials: "SM"
 publishedAt: "2026-06-21T15:01:30.646Z"
-coverImage: "https://upload.wikimedia.org/wikipedia/en/8/8c/IOS_27_icon.png"
-coverCredit: "via Wikipedia (IOS 27)"
-coverCreditUrl: "https://en.wikipedia.org/wiki/IOS_27"
 tags: ["apple", "ios 27", "apple intelligence", "iphone", "mobile ai", "siri"]
 primaryEntity: "IOS 27"
 readTime: 3
 sourceUrls: ["https://www.cnbc.com/2026/06/21/do-space-based-ai-data-centers-make-economic-sense.html", "https://www.cnbc.com/2026/06/21/republicans-democrats-crypto-bitcoin-use.html", "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27"]
+coverImage: "https://images.unsplash.com/photo-1621768216002-5ac171876625?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5Mzc2NzZ8MHwxfHNlYXJjaHwxfHxJT1MlMjAyN3xlbnwxfDB8fHwxNzgyMDU2MTkxfDA&ixlib=rb-4.1.0&q=80&w=1080"
+coverCredit: "Photo by Sumudu Mohottige on Unsplash"
+coverCreditUrl: "https://unsplash.com/@stm_2790"
 ---
 
 Apple's iOS 27 will arrive this fall carrying a suite of artificial intelligence features spread across its core apps — from splitting restaurant bills in Apple Cash to automatically updating compromised passwords — reflecting a strategy centered on embedding AI into existing tools rather than funneling users toward a single assistant.
