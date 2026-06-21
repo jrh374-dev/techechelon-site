@@ -7,7 +7,15 @@ const BIOS: Record<string, string> = {
     "Jay Goldberg is a staff writer at TechEchelon covering technology, markets, and policy. He files the breaking news and deal coverage that move the publication's core desks.",
   "TechEchelon Staff":
     "TechEchelon Staff bylines are produced collectively by the newsroom for short, breaking, and wire-style coverage. Longer-form reporting is published under the responsible reporter's name.",
+  "Guest Contributor":
+    "This piece was written by an outside contributor. Guest contributors are not employees or staff of TechEchelon, and their views do not necessarily reflect those of the publication. The contributor's full bio appears in italics at the foot of the article.",
 };
+
+function eyebrowFor(author: string): string {
+  if (author === "Guest Contributor") return "━ ABOUT THE CONTRIBUTOR";
+  if (author === "TechEchelon Staff") return "━ ABOUT THE BYLINE";
+  return "━ ABOUT THE REPORTER";
+}
 
 function moreFromLabel(author: string): string {
   if (author === "TechEchelon Staff") return "the Staff";
@@ -18,7 +26,9 @@ function moreFromLabel(author: string): string {
 export function AuthorBio({ post }: { post: Post }) {
   const initials =
     post.authorInitials ?? post.author.split(" ").map((n) => n[0]).slice(0, 2).join("");
-  const bio = BIOS[post.author] ?? `${post.author} covers technology and markets for TechEchelon.`;
+  const bio =
+    BIOS[post.author] ??
+    `Reporting at TechEchelon by ${post.author}.`;
   return (
     <div className="bg-cream border-t border-rule">
       <div className="max-w-[660px] mx-auto px-5 md:px-7 py-7 md:py-9 grid grid-cols-[56px_1fr] md:grid-cols-[72px_1fr] gap-4 md:gap-6 items-start">
@@ -27,7 +37,7 @@ export function AuthorBio({ post }: { post: Post }) {
         </div>
         <div>
           <div className="font-mono text-[10.5px] tracking-[0.16em] uppercase font-bold text-coral mb-2">
-            ━ ABOUT THE REPORTER
+            {eyebrowFor(post.author)}
           </div>
           <div className="font-display text-[22px] font-extrabold tracking-[-0.022em] text-navy mb-2 leading-tight">
             {post.author}

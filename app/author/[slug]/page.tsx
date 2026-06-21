@@ -34,7 +34,7 @@ const AUTHOR_BIOS: Record<string, string> = {
   "techechelon-staff":
     "Reporting filed under TechEchelon Staff is produced collectively by the newsroom for short, breaking, or wire-style coverage. Bylined longer-form work is published under the responsible reporter's name.",
   "guest-contributor":
-    "Opinion pieces in TechEchelon are written by outside contributors. Each contributor's full bio appears at the foot of their article.",
+    "Opinion pieces published in TechEchelon are written by outside contributors. Guest contributors are not employees or staff of TechEchelon, and the views expressed are their own and do not necessarily reflect those of the publication. Each contributor's full bio appears in italics at the foot of their article.",
 };
 
 function authorSlugFor(name: string): string {
@@ -72,7 +72,7 @@ export default function AuthorPage({
             {initials}
           </div>
           <div className="font-mono text-[10px] md:text-[10.5px] tracking-[0.18em] uppercase font-bold text-coral mb-3">
-            ━━ STAFF
+            ━━ {params.slug === "guest-contributor" ? "CONTRIBUTORS" : "STAFF"}
           </div>
           <h1 className="font-display text-[40px] md:text-[52px] font-extrabold tracking-[-0.03em] md:tracking-[-0.035em] leading-[0.98] md:leading-[0.96] text-navy mb-4">
             {displayName}
