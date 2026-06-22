@@ -43,9 +43,9 @@ export const metadata: Metadata = {
     description: DEFAULT_DESCRIPTION,
     images: ["/opengraph-image"],
   },
-  icons: {
-    icon: "/favicon.ico",
-  },
+  // Icons are auto-discovered from app/icon.tsx and app/apple-icon.tsx.
+  // Don't set icons.icon here — it would override the auto-injected link
+  // and point at /favicon.ico, which doesn't exist in this repo.
 };
 
 export default function RootLayout({

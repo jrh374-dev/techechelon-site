@@ -13,7 +13,7 @@ export default function AboutPage() {
       dek="Independent reporting on technology, markets, and the policy decisions that shape both."
     >
       <p>
-        TechEchelon covers the forces shaping technology and capital markets — the funding rounds, the regulatory fights, the infrastructure decisions, and the people making them. Founded in 2024, the publication is written for readers who already know the basics: builders, operators, investors, and the policymakers whose decisions land on all three.
+        TechEchelon covers the forces shaping technology and capital markets — the funding rounds, the regulatory fights, the infrastructure decisions, and the people making them. Founded in 2023, the publication is written for readers who already know the basics: builders, operators, investors, and the policymakers whose decisions land on all three.
       </p>
       <p>
         We are independent. We are not owned by a venture firm, a hedge fund, or a portfolio company. Our work is supported by a paid newsletter, individual subscribers, and the kind of small, transparent partnerships that don&apos;t compromise editorial judgment.

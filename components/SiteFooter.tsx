@@ -39,7 +39,7 @@ export function SiteFooter() {
               </div>
             </Link>
             <p className="font-serif text-[14px] leading-relaxed text-ink-soft max-w-[280px] mb-5">
-              Independent reporting on technology, markets, and the policy decisions that shape both. Founded 2024.
+              Independent reporting on technology, markets, and the policy decisions that shape both. Founded 2023.
             </p>
             <div className="font-mono text-[10.5px] tracking-[0.08em] uppercase text-sand font-semibold">
               NEW YORK · WASHINGTON · SAN FRANCISCO

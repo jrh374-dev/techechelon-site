@@ -45,15 +45,16 @@ export function ArticleHeader({ post }: { post: Post }) {
             </div>
           </div>
           <div className="order-1 md:order-2">
-            <div
-              className="aspect-[4/3] relative"
-              style={{
-                backgroundColor: "#3a4756",
-                backgroundImage: post.coverImage ? `url(${post.coverImage})` : undefined,
-                backgroundSize: "cover",
-                backgroundPosition: "center",
-              }}
-            />
+            <div className="aspect-[4/3] relative bg-cream-deep overflow-hidden flex items-center justify-center">
+              {post.coverImage && (
+                /* eslint-disable-next-line @next/next/no-img-element */
+                <img
+                  src={post.coverImage}
+                  alt={post.coverCaption ?? post.title}
+                  className="w-full h-full object-contain"
+                />
+              )}
+            </div>
             <div className="flex flex-col md:flex-row md:justify-between md:items-baseline gap-1 mt-2 md:mt-2.5">
               <span className="font-serif text-[11.5px] text-sand italic max-w-[400px] order-2 md:order-1">
                 {post.coverCaption ?? ""}
