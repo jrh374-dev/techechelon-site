@@ -1,14 +1,5 @@
 import Link from "next/link";
-import { Post, categoryLabel, relativeTime } from "@/lib/posts";
-
-function publishedAtClock(iso: string): string {
-  const d = new Date(iso);
-  const hour = d.getHours();
-  const ampm = hour >= 12 ? "PM" : "AM";
-  const h12 = hour % 12 || 12;
-  const min = d.getMinutes().toString().padStart(2, "0");
-  return `${h12.toString().padStart(2, "0")}:${min} ${ampm} ET`;
-}
+import { Post, categoryLabel, formatPostTime, relativeTime } from "@/lib/posts";
 
 export function AnchorHero({ post }: { post: Post }) {
   const cat = (post.subcategory ?? categoryLabel(post.category)).toUpperCase();
@@ -44,7 +35,7 @@ export function AnchorHero({ post }: { post: Post }) {
                 {post.author}
               </div>
               <div className="font-mono text-[10px] md:text-[10.5px] text-sand tracking-[0.04em] mt-0.5">
-                {publishedAtClock(post.publishedAt)} · {post.readTime ?? 5} MIN · {relativeTime(post.publishedAt).toUpperCase()}
+                {formatPostTime(post.publishedAt)} · {post.readTime ?? 5} MIN · {relativeTime(post.publishedAt).toUpperCase()}
               </div>
             </div>
           </div>

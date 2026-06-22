@@ -91,19 +91,35 @@ export function getPostsByAuthor(authorSlug: string): Post[] {
   return all.filter((p) => norm(p.author) === authorSlug);
 }
 
+// Format in America/New_York so the displayed clock matches the "ET"
+// label we put next to it. The previous implementation read the
+// server-local clock (UTC on Vercel) and labeled it ET — which produced
+// times that were 4–5 hours ahead of the actual ET timestamp.
+const ET_DATE_FMT = new Intl.DateTimeFormat("en-US", {
+  timeZone: "America/New_York",
+  month: "short",
+  day: "numeric",
+  year: "numeric",
+});
+
+const ET_TIME_FMT = new Intl.DateTimeFormat("en-US", {
+  timeZone: "America/New_York",
+  hour: "numeric",
+  minute: "2-digit",
+  hour12: true,
+});
+
 export function formatPostDate(iso: string): string {
-  const d = new Date(iso);
-  const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-  return `${months[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()}`;
+  return ET_DATE_FMT.format(new Date(iso));
 }
 
 export function formatPostTime(iso: string): string {
-  const d = new Date(iso);
-  let h = d.getHours();
-  const ampm = h >= 12 ? "PM" : "AM";
-  h = h % 12 || 12;
-  const m = d.getMinutes().toString().padStart(2, "0");
-  return `${h}:${m} ${ampm} ET`;
+  const parts = ET_TIME_FMT.formatToParts(new Date(iso));
+  const get = (t: string) => parts.find((p) => p.type === t)?.value ?? "";
+  const h = get("hour").padStart(2, "0");
+  const m = get("minute");
+  const ap = get("dayPeriod").toUpperCase();
+  return `${h}:${m} ${ap} ET`;
 }
 
 export function relativeTime(iso: string): string {

@@ -2,7 +2,7 @@ import Link from "next/link";
 import { TechEchelonMark } from "./TechEchelonMark";
 import { StockTicker } from "./StockTicker";
 import { LiveClock } from "./LiveClock";
-import { getAllPosts } from "@/lib/posts";
+import { getAllPosts, formatPostTime } from "@/lib/posts";
 
 const NAV = [
   { label: "Today", href: "/" },
@@ -133,12 +133,7 @@ export function SiteHeader() {
 function LatestBar() {
   const latest = getAllPosts()[0];
   if (!latest) return null;
-  const d = new Date(latest.publishedAt);
-  const hour = d.getHours();
-  const ampm = hour >= 12 ? "PM" : "AM";
-  const h12 = hour % 12 || 12;
-  const min = d.getMinutes().toString().padStart(2, "0");
-  const stamp = `${h12.toString().padStart(2, "0")}:${min} ${ampm} ET`;
+  const stamp = formatPostTime(latest.publishedAt);
   return (
     <div className="bg-cream-deep border-b border-rule">
       <div className="max-w-[1320px] mx-auto px-4 md:px-7 py-2 flex items-center gap-2 md:gap-3 min-w-0">

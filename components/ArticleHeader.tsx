@@ -1,14 +1,5 @@
 import { Post, formatPostDate, formatPostTime, categoryLabel } from "@/lib/posts";
 
-function publishedClock(iso: string): string {
-  const d = new Date(iso);
-  const hour = d.getHours();
-  const ampm = hour >= 12 ? "PM" : "AM";
-  const h12 = hour % 12 || 12;
-  const min = d.getMinutes().toString().padStart(2, "0");
-  return `${h12.toString().padStart(2, "0")}:${min} ${ampm} ET`;
-}
-
 export function ArticleHeader({ post }: { post: Post }) {
   return (
     <div className="bg-cream border-b border-rule">
@@ -39,7 +30,7 @@ export function ArticleHeader({ post }: { post: Post }) {
                   {post.author}
                 </div>
                 <div className="font-mono text-[9.5px] md:text-[10.5px] text-sand tracking-[0.04em] mt-0.5">
-                  {formatPostDate(post.publishedAt).toUpperCase()} · {publishedClock(post.publishedAt)} · {post.readTime ?? 5} MIN READ
+                  {formatPostDate(post.publishedAt).toUpperCase()} · {formatPostTime(post.publishedAt)} · {post.readTime ?? 5} MIN READ
                 </div>
               </div>
             </div>

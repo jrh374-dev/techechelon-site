@@ -1,14 +1,5 @@
 import Link from "next/link";
-import { Post, categoryLabel, relativeTime } from "@/lib/posts";
-
-function publishedClock(iso: string): string {
-  const d = new Date(iso);
-  const hour = d.getHours();
-  const ampm = hour >= 12 ? "PM" : "AM";
-  const h12 = hour % 12 || 12;
-  const min = d.getMinutes().toString().padStart(2, "0");
-  return `${h12.toString().padStart(2, "0")}:${min} ${ampm} ET`;
-}
+import { Post, categoryLabel, formatPostTime } from "@/lib/posts";
 
 interface Props {
   label: string;
@@ -53,7 +44,7 @@ function TimeCard({ post, num }: { post: Post; num: number }) {
             №{num.toString().padStart(2, "0")}
           </span>
           <span className="font-mono text-[9.5px] md:text-[10px] tracking-[0.06em] uppercase font-semibold text-sand">
-            {publishedClock(post.publishedAt)}
+            {formatPostTime(post.publishedAt)}
           </span>
           <span className="text-sand-light">·</span>
           <span className="font-mono text-[9.5px] md:text-[10px] tracking-[0.06em] uppercase font-bold text-navy">
