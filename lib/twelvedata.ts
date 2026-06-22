@@ -45,7 +45,10 @@ export async function getDailySeries(
     return null;
   }
   try {
-    const url = `${TD}/time_series?symbol=${encodeURIComponent(symbol)}&interval=1day&outputsize=${outputsize}&order=ASC&apikey=${KEY}`;
+    // The `v=` param doesn't affect the Twelve Data response — it busts
+    // Next.js's per-URL data cache so stale-null entries from earlier
+    // rate-limit failures get refreshed. Bump when retries needed.
+    const url = `${TD}/time_series?symbol=${encodeURIComponent(symbol)}&interval=1day&outputsize=${outputsize}&order=ASC&apikey=${KEY}&v=2`;
     // Daily closes only change once a trading day at most — cache for 24h to
     // keep us well under Twelve Data's 800-call/day free-tier limit. With
     // 16 ticker symbols this works out to ~16 calls/day total.
@@ -83,19 +86,21 @@ export async function getDailySeries(
   }
 }
 
-// Twelve Data uses different conventions than Finnhub for indices, FX,
-// commodities, and crypto. Map slugs accordingly.
+// Twelve Data's free tier covers stocks, ETFs, and crypto pairs — but
+// indices (SPX, IXIC), forex (XAU/USD), and many commodities require a
+// paid plan. Map indices/commodities to liquid ETF proxies (same approach
+// the Finnhub client uses) so the chart renders on the free tier.
 export function tdSymbolFor(slug: string, fallback: string): string {
   const map: Record<string, string> = {
-    spx: "SPX",
-    ndx: "IXIC",
-    dji: "DJI",
-    rut: "RUT",
-    vix: "VIX",
-    us10y: "TNX",
-    dxy: "DXY",
-    gold: "XAU/USD",
-    wti: "WTI/USD",
+    spx: "SPY",
+    ndx: "QQQ",
+    dji: "DIA",
+    rut: "IWM",
+    vix: "VIXY",
+    us10y: "TLT",
+    dxy: "UUP",
+    gold: "GLD",
+    wti: "USO",
     btc: "BTC/USD",
     eth: "ETH/USD",
   };
