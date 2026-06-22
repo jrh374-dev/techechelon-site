@@ -22,6 +22,7 @@ export function generateStaticParams() {
 const AUTHOR_NAMES: Record<string, string> = {
   "sara-montes-de-oca": "Sara Montes de Oca",
   "jay-goldberg": "Jay Goldberg",
+  "marc-sabatini": "Marc Sabatini",
   "techechelon-staff": "TechEchelon Staff",
   "guest-contributor": "Guest Contributor",
 };
@@ -31,6 +32,8 @@ const AUTHOR_BIOS: Record<string, string> = {
     "Editor in Chief of TechEchelon and an accomplished journalist and correspondent known for her work focusing on business, finance, and politics. Previously, Sara worked as a correspondent and producer in Washington, D.C., contributing to fast-paced political and news programming, with experience in editing, scriptwriting, and live broadcast production.",
   "jay-goldberg":
     "Staff writer at TechEchelon covering technology, markets, and policy. Jay reports on the deals, regulations, and breaking news that move the publication's core desks.",
+  "marc-sabatini":
+    "Staff writer at TechEchelon covering enterprise software, cybersecurity, and the regulatory beats that shape both. Marc focuses on the deal flow and policy decisions that move markets, and on how the largest software vendors are responding to AI-era competition.",
   "techechelon-staff":
     "Reporting filed under TechEchelon Staff is produced collectively by the newsroom for short, breaking, or wire-style coverage. Bylined longer-form work is published under the responsible reporter's name.",
   "guest-contributor":

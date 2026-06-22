@@ -5,6 +5,8 @@ const BIOS: Record<string, string> = {
     "Sara Montes de Oca is the Editor in Chief of TechEchelon. Previously a correspondent and producer in Washington, D.C., covering business, finance, and politics.",
   "Jay Goldberg":
     "Jay Goldberg is a staff writer at TechEchelon covering technology, markets, and policy. He files the breaking news and deal coverage that move the publication's core desks.",
+  "Marc Sabatini":
+    "Marc Sabatini is a staff writer at TechEchelon covering enterprise software, cybersecurity, and the regulatory beats that shape both. He focuses on the deal flow and policy decisions that move markets.",
   "TechEchelon Staff":
     "TechEchelon Staff bylines are produced collectively by the newsroom for short, breaking, and wire-style coverage. Longer-form reporting is published under the responsible reporter's name.",
   "Guest Contributor":
