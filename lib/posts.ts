@@ -20,6 +20,7 @@ export interface PostFrontmatter {
   primaryEntity?: string;
   readTime?: number;
   pullQuote?: { text: string; source: string };
+  unlisted?: boolean;
 }
 
 export interface Post extends PostFrontmatter {
@@ -69,7 +70,9 @@ export function isOpinion(p: Post): boolean {
 }
 
 export function getPostsByCategory(category: Category): Post[] {
-  const all = getAllPosts();
+  // Unlisted posts stay accessible via direct URL and search, but never
+  // appear in any category listing or homepage rail.
+  const all = getAllPosts().filter((p) => p.unlisted !== true);
   if (category === "opinion") {
     return all.filter(isOpinion);
   }

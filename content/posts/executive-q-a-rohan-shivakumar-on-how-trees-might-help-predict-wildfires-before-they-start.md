@@ -9,6 +9,7 @@ publishedAt: "2025-07-14T04:00:00Z"
 coverImage: "https://static.wixstatic.com/media/e37254_f8649b8783874fe5ba772c76d7fff6eb~mv2.png"
 readTime: 7
 migratedFromWix: true
+unlisted: true
 ---
 
 That’s the groundbreaking idea behind the research of Rohan Shivakumar, a student and environmental science researcher whose latest study is in the process of being published. His work explores how plants release water under stress—essentially “sweating” as fire approaches—and how satellite technology can detect these signals to forecast wildfire behavior.
