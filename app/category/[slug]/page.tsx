@@ -89,15 +89,16 @@ export default function CategoryPage({
                     <span> · {relativeTime(lead.publishedAt).toUpperCase()}</span>
                   </p>
                 </div>
-                <div
-                  className="aspect-[16/10] order-1 md:order-2"
-                  style={{
-                    backgroundColor: "#4A5468",
-                    backgroundImage: lead.coverImage ? `url(${lead.coverImage})` : undefined,
-                    backgroundSize: "cover",
-                    backgroundPosition: "center",
-                  }}
-                />
+                <div className="aspect-[16/10] order-1 md:order-2 bg-cream-deep overflow-hidden flex items-center justify-center">
+                  {lead.coverImage && (
+                    /* eslint-disable-next-line @next/next/no-img-element */
+                    <img
+                      src={lead.coverImage}
+                      alt={lead.title}
+                      className="w-full h-full object-contain"
+                    />
+                  )}
+                </div>
               </div>
             </Link>
           </div>
@@ -126,15 +127,16 @@ export default function CategoryPage({
                     <div className="font-mono text-[9.5px] md:text-[10px] tracking-[0.1em] uppercase font-bold text-coral mb-2">
                       №{(offset + i + (isFirstPage ? 2 : 1)).toString().padStart(2, "0")} · {(p.subcategory ?? categoryLabel(cat)).toUpperCase()}
                     </div>
-                    <div
-                      className="aspect-[16/10] mb-3"
-                      style={{
-                        backgroundColor: "#5c6478",
-                        backgroundImage: p.coverImage ? `url(${p.coverImage})` : undefined,
-                        backgroundSize: "cover",
-                        backgroundPosition: "center",
-                      }}
-                    />
+                    <div className="aspect-[16/10] mb-3 bg-cream-deep overflow-hidden flex items-center justify-center">
+                      {p.coverImage && (
+                        /* eslint-disable-next-line @next/next/no-img-element */
+                        <img
+                          src={p.coverImage}
+                          alt={p.title}
+                          className="w-full h-full object-contain"
+                        />
+                      )}
+                    </div>
                     <h4 className="font-display text-[17px] md:text-[19px] font-extrabold tracking-[-0.02em] leading-[1.12] text-ink mb-2 group-hover:text-navy">
                       {p.title}
                     </h4>
