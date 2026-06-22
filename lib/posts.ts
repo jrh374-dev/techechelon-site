@@ -21,6 +21,7 @@ export interface PostFrontmatter {
   readTime?: number;
   pullQuote?: { text: string; source: string };
   unlisted?: boolean;
+  coverFit?: "cover" | "contain";
 }
 
 export interface Post extends PostFrontmatter {

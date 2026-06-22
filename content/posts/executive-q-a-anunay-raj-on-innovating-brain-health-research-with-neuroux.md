@@ -9,6 +9,7 @@ publishedAt: "2024-10-14T02:50:47.402Z"
 coverImage: "https://static.wixstatic.com/media/e37254_b5ddd7423be44380b8f1e81d658bf397~mv2.png"
 readTime: 17
 migratedFromWix: true
+coverFit: contain
 ---
 
 As the co-founder of NeuroUX, Anunay has been instrumental in developing a cutting-edge platform that empowers researchers to conduct meaningful studies across diverse clinical conditions. His path to NeuroUX is rooted in a passion for bridging the gap between controlled research environments and real-world applications, with the goal of advancing brain health and mental wellness.
