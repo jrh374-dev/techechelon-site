@@ -7,6 +7,7 @@ import { ArticleHeader } from "@/components/ArticleHeader";
 import { ArticleBody, renderMarkdown } from "@/components/ArticleBody";
 import { AuthorBio } from "@/components/AuthorBio";
 import { RelatedPosts } from "@/components/RelatedPosts";
+import { ArticleStructuredData } from "@/components/ArticleStructuredData";
 import {
   getAllPosts,
   getPostBySlug,
@@ -66,6 +67,7 @@ export default async function ArticlePage({
 
   return (
     <div className="bg-cream min-h-screen">
+      <ArticleStructuredData post={post} />
       <SiteHeader />
       <div className="bg-cream">
         <div className="max-w-[1320px] mx-auto px-5 md:px-7 py-3 text-[10.5px] md:text-[11px] tracking-[0.04em] text-sand font-semibold overflow-x-auto whitespace-nowrap">
