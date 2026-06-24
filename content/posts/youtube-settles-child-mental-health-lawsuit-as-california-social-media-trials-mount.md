@@ -6,9 +6,8 @@ category: politics
 author: "Marc Sabatini"
 authorInitials: "MS"
 publishedAt: "2026-06-24T17:02:13.137Z"
-coverImage: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Youtube_interface%2C_showing_search_results_of_Burger_Recipe.png"
-coverCredit: "via Wikipedia (YouTube)"
-coverCreditUrl: "https://en.wikipedia.org/wiki/YouTube"
+coverImage: "https://images.unsplash.com/photo-1589994965851-a8f479c573a9?w=1600&q=80"
+coverCredit: "Photo via Unsplash"
 tags: ["youtube", "google", "social media", "children safety", "litigation", "mental health"]
 primaryEntity: "YouTube"
 readTime: 3
