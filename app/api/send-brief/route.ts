@@ -213,6 +213,39 @@ export async function GET(req: Request): Promise<Response> {
     return Response.json({ error: "server_misconfigured" }, { status: 500 });
   }
 
+  // ?to=email routes through Resend's single-email endpoint instead of a
+  // broadcast. Use this for one-off test sends to a single inbox without
+  // spamming the whole audience.
+  const testTo = url.searchParams.get("to");
+  if (testTo) {
+    if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(testTo)) {
+      return Response.json({ error: "invalid_to" }, { status: 400 });
+    }
+    const oneRes = await fetch("https://api.resend.com/emails", {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${apiKey}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        from: `${fromName} <${fromEmail}>`,
+        to: [testTo],
+        subject: `[TEST] ${subject}`,
+        html,
+        reply_to: fromEmail,
+      }),
+    });
+    const oneText = await oneRes.text();
+    if (!oneRes.ok) {
+      console.error(`[send-brief] test send failed ${oneRes.status}: ${oneText.slice(0, 500)}`);
+      return Response.json(
+        { error: "test_send_failed", status: oneRes.status, body: oneText.slice(0, 500) },
+        { status: 502 },
+      );
+    }
+    return Response.json({ ok: true, test: true, to: testTo, subject: `[TEST] ${subject}` });
+  }
+
   // Create the broadcast (draft state).
   const createRes = await fetch("https://api.resend.com/broadcasts", {
     method: "POST",
