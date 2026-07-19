@@ -21,6 +21,14 @@ export function generateStaticParams() {
   return MARKETS.map((m) => ({ symbol: m.slug }));
 }
 
+// Revalidate every 5 minutes so live quotes stay fresh and the interval
+// chart picks up newly-available data when it becomes so (e.g. after a
+// paid-tier upgrade or after a rate-limit window resets). Without this,
+// pages were baked at build time and served forever from cache — so
+// even after Twelve Data recovered we kept showing 'Live chart
+// unavailable' from the last successful build.
+export const revalidate = 300;
+
 function fmtMoney(n: number | undefined, dec = 2): string {
   if (n == null || !Number.isFinite(n)) return "—";
   if (Math.abs(n) >= 1e12) return `$${(n / 1e12).toFixed(2)}T`;
