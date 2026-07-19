@@ -159,8 +159,8 @@ function renderHtml(articles: Post[]): string {
             © 2026 TechEchelon Media · New York · Washington · San Francisco
           </div>
           <div style="font-style:italic;letter-spacing:0.04em;color:#6B7390">
-            You&apos;re receiving this because you subscribed to TechEchelon.
-            {{{RESEND_UNSUBSCRIBE_URL}}}
+            You&apos;re receiving this because you subscribed to TechEchelon. &nbsp;
+            <a href="{{{RESEND_UNSUBSCRIBE_URL}}}" style="color:#6B7390;text-decoration:underline">Unsubscribe</a>
           </div>
         </td></tr>
       </table>
