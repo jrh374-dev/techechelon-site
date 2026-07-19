@@ -254,9 +254,7 @@ export default async function MarketPage({ params }: { params: { symbol: string 
           <p className="font-mono text-[10px] tracking-[0.06em] uppercase text-sand mt-4">
             {chartBars
               ? "Daily closing prices via Twelve Data. Chart not intended for trading decisions."
-              : tdConfigured()
-              ? `Live chart unavailable for ${tdSymbolFor(sym.slug, sym.symbol)} (Twelve Data returned no usable data — symbol may be premium-only, or rate limit hit). Snapshot shown.`
-              : "Twelve Data API key not detected at runtime. Snapshot shown."}
+              : "Indicative chart shown. Chart not intended for trading decisions."}
           </p>
         </div>
       </section>
