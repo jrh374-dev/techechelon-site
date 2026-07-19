@@ -21,12 +21,10 @@ export function generateStaticParams() {
   return MARKETS.map((m) => ({ symbol: m.slug }));
 }
 
-// Bypass cache entirely while we diagnose why the interval chart shows
-// as unavailable despite Twelve Data returning data on direct probes.
-// Once the underlying issue is identified, switch back to
-// `export const revalidate = 300` so we're not hitting Twelve Data on
-// every page load.
-export const dynamic = "force-dynamic";
+// Revalidate every 5 minutes. Live quote is Finnhub-cached at 60s and
+// chart data is unstable_cache-cached at 24h, so this cadence keeps the
+// page snappy without pounding the upstream APIs.
+export const revalidate = 300;
 
 function fmtMoney(n: number | undefined, dec = 2): string {
   if (n == null || !Number.isFinite(n)) return "—";
