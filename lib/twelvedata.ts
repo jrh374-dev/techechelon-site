@@ -79,9 +79,13 @@ async function rawFetchDaily(
 // unstable_cache only caches the resolved value. If the wrapped function
 // throws, the cache entry is NOT written, so a failed fetch never poisons
 // the cache for 24h the way next.fetch caching did.
+// Bump the cache key ("v2") when the underlying cache needs an unconditional
+// reset — e.g. after a paid-tier upgrade where prior null entries from
+// build-time rate-limit failures survived beyond expectations. Fresh key
+// forces every symbol to fetch anew on the next build/revalidation.
 const cachedFetchDaily = unstable_cache(
   rawFetchDaily,
-  ["twelvedata-daily"],
+  ["twelvedata-daily-v2"],
   { revalidate: 86400, tags: ["twelvedata"] },
 );
 
