@@ -17,7 +17,7 @@ sourceUrls: ["https://www.bleepingcomputer.com/news/security/steam-forum-clickfi
 
 Threat actors are exploiting Steam's discussion forums in an active social engineering campaign that tricks gamers into running malicious PowerShell commands, ultimately installing XMRig cryptocurrency-mining software on their machines.
 
-The campaign, which came to light on July 25, 2026, involves attackers creating throwaway Steam accounts and posting replies to threads where users have described problems such as game crashes or lost inventory items. Those replies instruct victims to open PowerShell as an administrator and execute a command that silently fetches and launches an XMRig miner executable.
+The campaign, [first reported by BleepingComputer](https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/), involves attackers creating throwaway Steam accounts and posting replies to threads where users have described problems such as game crashes or lost inventory items. Those replies instruct victims to open PowerShell as an administrator and execute a command that silently fetches and launches an XMRig miner executable.
 
 The technique is a variant of what security researchers call ClickFix — a class of social engineering attacks that presents fake error messages, verification prompts, or troubleshooting steps to induce victims into executing malicious code themselves. Because the victim initiates the command manually, the attack can sidestep certain automated security protections that would otherwise flag and block the payload.
 
