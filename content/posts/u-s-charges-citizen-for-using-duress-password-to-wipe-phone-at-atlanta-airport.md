@@ -6,9 +6,8 @@ category: security
 author: "Jay Goldberg"
 authorInitials: "JG"
 publishedAt: "2026-07-27T01:02:42.855Z"
-coverImage: "https://upload.wikimedia.org/wikipedia/commons/e/ed/GrapheneOS_home_screen_Android_16_QPR2.png"
-coverCredit: "via Wikipedia (GrapheneOS)"
-coverCreditUrl: "https://en.wikipedia.org/wiki/GrapheneOS"
+coverImage: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1600&q=80"
+coverCredit: "Photo via Unsplash"
 tags: ["border security", "privacy", "grapheneos", "digital rights", "law enforcement", "trump administration"]
 primaryEntity: "GrapheneOS"
 readTime: 2
