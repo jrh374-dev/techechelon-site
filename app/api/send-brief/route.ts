@@ -7,6 +7,15 @@
 //   GET  /api/send-brief?dry=1    → auth required, returns rendered HTML,
 //                                    subject, and article list without
 //                                    hitting Resend. Use for previews.
+//   GET  /api/send-brief?to=email → auth required, sends one test copy
+//                                    to a single address via /emails,
+//                                    bypassing the broadcast.
+//
+// Editorial lede: on every real send, we ask Claude to read the last 24
+// hours of published articles, pick THE most significant one, and write a
+// short editorial lede in the morning-editor voice. Previous lead slugs
+// (extracted from recent Resend broadcast names) are excluded so we don't
+// re-lead with the same story two days in a row.
 //
 // Auth: Vercel Cron sends `Authorization: Bearer $CRON_SECRET`. Manual
 // runs must include the same header.
@@ -14,6 +23,10 @@
 import { getAllPosts, isOpinion, Post, categoryLabel } from "@/lib/posts";
 
 const SITE_URL = "https://www.techechelon.com";
+const LEDE_HOURS_LOOKBACK = 24;
+const LEDE_FALLBACK_CORPUS_SIZE = 10;
+const LEDE_EXCLUDE_LOOKBACK = 10; // last N broadcasts to check for repeat leads
+const LEDE_MODEL = "claude-sonnet-5";
 
 function escapeHtml(s: string): string {
   return s
@@ -55,9 +68,164 @@ function selectStories(n: number): Post[] {
     .slice(0, n);
 }
 
-function renderHtml(articles: Post[]): string {
+// The lede corpus can be larger than the 5-story roundup — we want the
+// LLM to have a full 24-hour view when picking THE story to lead with.
+// Falls back to the N most recent stories if nothing was published in the
+// last 24 hours.
+function selectLedeCorpus(): Post[] {
+  const all = getAllPosts().filter(
+    (p) => !isOpinion(p) && p.unlisted !== true,
+  );
+  const cutoff = Date.now() - LEDE_HOURS_LOOKBACK * 3600 * 1000;
+  const recent = all.filter((p) => {
+    const t = new Date(p.publishedAt).getTime();
+    return Number.isFinite(t) && t >= cutoff;
+  });
+  if (recent.length >= 3) return recent;
+  return all.slice(0, LEDE_FALLBACK_CORPUS_SIZE);
+}
+
+interface Lede {
+  leadSlug: string;
+  lede: string;
+}
+
+interface ResendBroadcastList {
+  data?: Array<{ id: string; name?: string; created_at?: string }>;
+}
+
+// Read recent broadcast names to build the "already-used as a lead" list.
+// Broadcast names are formatted `Brief · <date> · <leadSlug>` at send time,
+// so the slug is a straight substring after the last " · ".
+async function fetchRecentLeadSlugs(apiKey: string): Promise<Set<string>> {
+  const used = new Set<string>();
+  try {
+    const r = await fetch("https://api.resend.com/broadcasts", {
+      headers: { Authorization: `Bearer ${apiKey}` },
+      cache: "no-store",
+    });
+    if (!r.ok) return used;
+    const body = (await r.json()) as ResendBroadcastList;
+    const rows = (body.data ?? [])
+      .filter((b) => typeof b.name === "string" && b.name.startsWith("Brief · "))
+      .sort((a, b) => (b.created_at ?? "").localeCompare(a.created_at ?? ""))
+      .slice(0, LEDE_EXCLUDE_LOOKBACK);
+    for (const b of rows) {
+      const parts = b.name!.split(" · ");
+      if (parts.length >= 3) {
+        const slug = parts[parts.length - 1]!.trim();
+        if (slug) used.add(slug);
+      }
+    }
+  } catch {
+    // If we can't read broadcasts, we just fall back to no exclusions.
+    // Better to occasionally repeat than to fail to send.
+  }
+  return used;
+}
+
+function stripMarkdown(md: string): string {
+  return md
+    .replace(/^\s*---[\s\S]*?---\s*/m, "")
+    .replace(/!\[[^\]]*]\([^)]+\)/g, "")
+    .replace(/\[([^\]]+)]\([^)]+\)/g, "$1")
+    .replace(/[*_`>#]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+interface AnthropicResponse {
+  content?: Array<{ type: string; text?: string }>;
+}
+
+async function generateLede(
+  corpus: Post[],
+  excludeSlugs: Set<string>,
+): Promise<Lede | null> {
+  const apiKey = process.env.ANTHROPIC_API_KEY;
+  if (!apiKey) return null;
+
+  const eligible = corpus.filter((p) => !excludeSlugs.has(p.slug));
+  if (eligible.length === 0) return null;
+
+  const corpusForModel = eligible.map((p) => ({
+    slug: p.slug,
+    title: p.title,
+    category: categoryLabel(p.category),
+    published: p.publishedAt,
+    excerpt: p.excerpt,
+    body: stripMarkdown(p.content).slice(0, 900),
+  }));
+
+  const systemPrompt = `You are the morning editor of The TechEchelon Brief, an independent daily newsletter about technology, markets, and policy. Your job right now is to write today's editorial lede.
+
+You will be given a list of articles TechEchelon has published in roughly the last 24 hours. You must:
+
+1. Pick THE ONE most significant story to lead with. Focus on one specific development — one company, one policy shift, one court ruling, one deal. Do not try to survey or synthesize across multiple stories.
+
+2. Write a natural, conversational lede in the morning-editor voice. 4-6 sentences, roughly 90-150 words. Start with "Good morning." Explain what the story is, why it matters, and what the reader should keep in mind — but do not predict what will happen next. No "watch for X." No "expect Y." Just help the reader hold the story in their head.
+
+3. End with a natural hand-off to the story list: "Below: today's five recent stories across markets, AI, policy, and security." (or lightly reworded variants).
+
+4. Do not use markdown, bullets, headers, or any formatting beyond straight prose.
+
+5. Do not mention or credit specific news outlets. The reader is here because they trust TechEchelon.
+
+Output STRICT JSON in this exact shape and nothing else:
+
+{"leadSlug": "the-slug-you-chose", "lede": "the full lede text as a single string"}`;
+
+  const userPrompt = `Articles from the last 24 hours (most recent first):\n\n${JSON.stringify(corpusForModel, null, 2)}`;
+
+  try {
+    const r = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: {
+        "x-api-key": apiKey,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+      },
+      body: JSON.stringify({
+        model: LEDE_MODEL,
+        max_tokens: 700,
+        system: systemPrompt,
+        messages: [{ role: "user", content: userPrompt }],
+      }),
+    });
+    if (!r.ok) {
+      console.error(`[send-brief] lede generation failed: ${r.status}`);
+      return null;
+    }
+    const body = (await r.json()) as AnthropicResponse;
+    const text = (body.content ?? [])
+      .filter((b) => b.type === "text")
+      .map((b) => b.text ?? "")
+      .join("")
+      .trim();
+
+    // Extract JSON object even if wrapped in text/backticks.
+    const match = text.match(/\{[\s\S]*\}/);
+    if (!match) return null;
+    const parsed = JSON.parse(match[0]) as { leadSlug?: string; lede?: string };
+    if (!parsed.leadSlug || !parsed.lede) return null;
+    // Verify the slug is one we actually gave the model.
+    if (!eligible.some((p) => p.slug === parsed.leadSlug)) return null;
+    return { leadSlug: parsed.leadSlug, lede: parsed.lede.trim() };
+  } catch (err) {
+    console.error(`[send-brief] lede generation threw: ${(err as Error).message}`);
+    return null;
+  }
+}
+
+function renderHtml(articles: Post[], lede: Lede | null): string {
   const date = todayET();
   const editionNo = `№${editionNumber().toString().padStart(3, "0")}`;
+
+  // Editorial lede block. If lede generation failed, fall back to the
+  // generic salutation so the newsletter still ships.
+  const ledeHtml = lede
+    ? `<p style="font-family:'Source Serif 4',Georgia,serif;font-size:16.5px;line-height:1.65;color:#1A1A1A;margin:0;">${escapeHtml(lede.lede).replace(/\n\n+/g, '</p><p style="font-family:\'Source Serif 4\',Georgia,serif;font-size:16.5px;line-height:1.65;color:#1A1A1A;margin:14px 0 0;">')}</p>`
+    : `<p style="font-family:'Source Serif 4',Georgia,serif;font-size:16px;line-height:1.6;color:#1A1A1A;margin:0;font-style:italic">Good morning. Five stories, before the opening bell. Written for readers who already know the basics.</p>`;
 
   const items = articles
     .map((a, i) => {
@@ -121,10 +289,8 @@ function renderHtml(articles: Post[]): string {
           </div>
         </td></tr>
 
-        <tr><td style="background:#fff;padding:18px 32px 8px">
-          <p style="font-family:'Source Serif 4',Georgia,serif;font-size:16px;line-height:1.6;color:#1A1A1A;margin:0;font-style:italic">
-            Good morning. Five stories, before the opening bell. Written for readers who already know the basics.
-          </p>
+        <tr><td style="background:#fff;padding:22px 32px 6px">
+          ${ledeHtml}
         </td></tr>
 
         <tr><td style="background:#fff;padding:0 32px 32px">
@@ -185,30 +351,49 @@ export async function GET(req: Request): Promise<Response> {
 
   const url = new URL(req.url);
   const dry = url.searchParams.get("dry") === "1";
+  const includeHtml = url.searchParams.get("html") === "1";
 
   const articles = selectStories(5);
   if (articles.length === 0) {
     return Response.json({ ok: true, skipped: "no_articles" });
   }
 
+  const apiKey = process.env.RESEND_API_KEY;
+  const audienceId = process.env.RESEND_AUDIENCE_ID;
+  const fromEmail = process.env.RESEND_FROM_EMAIL ?? "press@techechelon.com";
+  const fromName = process.env.RESEND_FROM_NAME ?? "The TechEchelon Brief";
+
+  // Generate the editorial lede. This can happen even in dry-run so we
+  // can preview the copy before real sends.
+  const corpus = selectLedeCorpus();
+  const excludeSlugs = apiKey
+    ? await fetchRecentLeadSlugs(apiKey)
+    : new Set<string>();
+  const lede = await generateLede(corpus, excludeSlugs);
+
   const dateLabel = todayET();
-  const html = renderHtml(articles);
-  const subject = `The Brief · ${dateLabel} · ${articles[0]!.title.slice(0, 80)}`;
+  const html = renderHtml(articles, lede);
+  const leadStory = corpus.find((p) => p.slug === lede?.leadSlug) ?? articles[0]!;
+  const subject = `The Brief · ${dateLabel} · ${leadStory.title.slice(0, 80)}`;
+  const broadcastName = `Brief · ${dateLabel} · ${lede?.leadSlug ?? leadStory.slug}`;
 
   if (dry) {
     return Response.json({
       dry: true,
       subject,
+      broadcastName,
       articleCount: articles.length,
       articles: articles.map((a) => ({ title: a.title, slug: a.slug })),
+      lede: lede
+        ? { leadSlug: lede.leadSlug, ledePreview: lede.lede }
+        : { leadSlug: null, ledePreview: "(fallback salutation used — lede generation returned null)" },
+      excludedSlugs: [...excludeSlugs],
+      corpusSize: corpus.length,
       htmlLength: html.length,
+      html: includeHtml ? html : undefined,
     });
   }
 
-  const apiKey = process.env.RESEND_API_KEY;
-  const audienceId = process.env.RESEND_AUDIENCE_ID;
-  const fromEmail = process.env.RESEND_FROM_EMAIL ?? "press@techechelon.com";
-  const fromName = process.env.RESEND_FROM_NAME ?? "The TechEchelon Brief";
   if (!apiKey || !audienceId) {
     return Response.json({ error: "server_misconfigured" }, { status: 500 });
   }
@@ -243,10 +428,18 @@ export async function GET(req: Request): Promise<Response> {
         { status: 502 },
       );
     }
-    return Response.json({ ok: true, test: true, to: testTo, subject: `[TEST] ${subject}` });
+    return Response.json({
+      ok: true,
+      test: true,
+      to: testTo,
+      subject: `[TEST] ${subject}`,
+      lede: lede ? { leadSlug: lede.leadSlug } : null,
+    });
   }
 
-  // Create the broadcast (draft state).
+  // Create the broadcast (draft state). Broadcast name encodes the
+  // lead-story slug so tomorrow's run can exclude it from the eligible
+  // lede pool.
   const createRes = await fetch("https://api.resend.com/broadcasts", {
     method: "POST",
     headers: {
@@ -258,7 +451,7 @@ export async function GET(req: Request): Promise<Response> {
       from: `${fromName} <${fromEmail}>`,
       subject,
       html,
-      name: `Brief · ${dateLabel}`,
+      name: broadcastName,
       reply_to: fromEmail,
     }),
   });
@@ -292,7 +485,9 @@ export async function GET(req: Request): Promise<Response> {
   return Response.json({
     ok: true,
     broadcastId: broadcast.id,
+    broadcastName,
     subject,
     articleCount: articles.length,
+    lede: lede ? { leadSlug: lede.leadSlug } : null,
   });
 }
