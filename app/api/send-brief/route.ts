@@ -114,6 +114,9 @@ async function fetchRecentLeadSlugs(apiKey: string): Promise<Set<string>> {
       const parts = b.name!.split(" · ");
       if (parts.length >= 3) {
         const slug = parts[parts.length - 1]!.trim();
+        // Stored slug may be truncated (Resend name field is capped at 70
+        // chars). Store as-is; the eligibility check below does prefix
+        // matching on the same truncation length.
         if (slug) used.add(slug);
       }
     }
@@ -145,7 +148,14 @@ async function generateLede(
   const apiKey = process.env.ANTHROPIC_API_KEY;
   if (!apiKey) return null;
 
-  const eligible = corpus.filter((p) => !excludeSlugs.has(p.slug));
+  // Prefix-match against excludeSlugs so we correctly dedup even when a
+  // prior broadcast name stored a truncated slug.
+  const eligible = corpus.filter((p) => {
+    for (const stored of excludeSlugs) {
+      if (p.slug.startsWith(stored)) return false;
+    }
+    return true;
+  });
   if (eligible.length === 0) return null;
 
   const corpusForModel = eligible.map((p) => ({
@@ -375,7 +385,17 @@ export async function GET(req: Request): Promise<Response> {
   const html = renderHtml(articles, lede);
   const leadStory = corpus.find((p) => p.slug === lede?.leadSlug) ?? articles[0]!;
   const subject = `The Brief · ${dateLabel} · ${leadStory.title.slice(0, 80)}`;
-  const broadcastName = `Brief · ${dateLabel} · ${lede?.leadSlug ?? leadStory.slug}`;
+  // Resend caps broadcast `name` at 70 chars. Use a compact ISO date +
+  // truncated slug so the identifier fits. Recent-lede lookup does a
+  // prefix match on the truncated slug so shortening doesn't break dedup.
+  const shortDate = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "America/New_York",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).format(new Date()); // e.g. "2026-08-05"
+  const slugForName = (lede?.leadSlug ?? leadStory.slug).slice(0, 42);
+  const broadcastName = `Brief · ${shortDate} · ${slugForName}`;
 
   if (dry) {
     return Response.json({
