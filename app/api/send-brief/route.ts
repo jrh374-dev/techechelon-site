@@ -94,17 +94,31 @@ interface ResendBroadcastList {
   data?: Array<{ id: string; name?: string; created_at?: string }>;
 }
 
-// Read recent broadcast names to build the "already-used as a lead" list.
-// Broadcast names are formatted `Brief · <date> · <leadSlug>` at send time,
-// so the slug is a straight substring after the last " · ".
-async function fetchRecentLeadSlugs(apiKey: string): Promise<Set<string>> {
-  const used = new Set<string>();
+interface RecentLead {
+  slug: string;
+  title: string;
+  excerpt: string;
+  primaryEntity: string;
+  date: string;
+}
+
+// Read recent broadcast names, extract truncated slugs from them, then
+// resolve each to its full Post so we have title + excerpt + primaryEntity
+// context to pass to the LLM. Slug prefix-matching alone catches only
+// literal same-article repeats — this returns enough about each recent
+// lead that the model can also refuse to repeat the same TOPIC even when
+// the second article about the same event has a different slug.
+async function fetchRecentLeads(
+  apiKey: string,
+  allPosts: Post[],
+): Promise<RecentLead[]> {
+  const leads: RecentLead[] = [];
   try {
     const r = await fetch("https://api.resend.com/broadcasts", {
       headers: { Authorization: `Bearer ${apiKey}` },
       cache: "no-store",
     });
-    if (!r.ok) return used;
+    if (!r.ok) return leads;
     const body = (await r.json()) as ResendBroadcastList;
     const rows = (body.data ?? [])
       .filter((b) => typeof b.name === "string" && b.name.startsWith("Brief · "))
@@ -112,19 +126,25 @@ async function fetchRecentLeadSlugs(apiKey: string): Promise<Set<string>> {
       .slice(0, LEDE_EXCLUDE_LOOKBACK);
     for (const b of rows) {
       const parts = b.name!.split(" · ");
-      if (parts.length >= 3) {
-        const slug = parts[parts.length - 1]!.trim();
-        // Stored slug may be truncated (Resend name field is capped at 70
-        // chars). Store as-is; the eligibility check below does prefix
-        // matching on the same truncation length.
-        if (slug) used.add(slug);
-      }
+      if (parts.length < 3) continue;
+      const truncatedSlug = parts[parts.length - 1]!.trim();
+      if (!truncatedSlug) continue;
+      // Truncated slug from broadcast name → full Post via prefix match.
+      const post = allPosts.find((p) => p.slug.startsWith(truncatedSlug));
+      if (!post) continue;
+      leads.push({
+        slug: post.slug,
+        title: post.title,
+        excerpt: post.excerpt,
+        primaryEntity: post.primaryEntity ?? "",
+        date: b.created_at?.slice(0, 10) ?? "",
+      });
     }
   } catch {
-    // If we can't read broadcasts, we just fall back to no exclusions.
+    // If we can't read broadcasts, fall through with an empty list.
     // Better to occasionally repeat than to fail to send.
   }
-  return used;
+  return leads;
 }
 
 function stripMarkdown(md: string): string {
@@ -143,16 +163,19 @@ interface AnthropicResponse {
 
 async function generateLede(
   corpus: Post[],
-  excludeSlugs: Set<string>,
+  recentLeads: RecentLead[],
 ): Promise<Lede | null> {
   const apiKey = process.env.ANTHROPIC_API_KEY;
   if (!apiKey) return null;
 
-  // Prefix-match against excludeSlugs so we correctly dedup even when a
-  // prior broadcast name stored a truncated slug.
+  // Filter out any candidate whose slug prefix-matches a recent lead's slug.
+  // This is a defense-in-depth belt to the topic-based filter enforced by
+  // the model below — catches literal re-runs of the same article.
   const eligible = corpus.filter((p) => {
-    for (const stored of excludeSlugs) {
-      if (p.slug.startsWith(stored)) return false;
+    for (const lead of recentLeads) {
+      if (p.slug === lead.slug || p.slug.startsWith(lead.slug.slice(0, 30))) {
+        return false;
+      }
     }
     return true;
   });
@@ -164,14 +187,24 @@ async function generateLede(
     category: categoryLabel(p.category),
     published: p.publishedAt,
     excerpt: p.excerpt,
+    primaryEntity: p.primaryEntity ?? "",
     body: stripMarkdown(p.content).slice(0, 900),
+  }));
+
+  const recentLeadsForModel = recentLeads.slice(0, 7).map((l) => ({
+    date: l.date,
+    title: l.title,
+    excerpt: l.excerpt,
+    primaryEntity: l.primaryEntity,
   }));
 
   const systemPrompt = `You are the morning editor of The TechEchelon Brief, an independent daily newsletter about technology, markets, and policy. Your job right now is to write today's editorial lede.
 
-You will be given a list of articles TechEchelon has published in roughly the last 24 hours. You must:
+You will be given a list of articles TechEchelon has published in roughly the last 24 hours, plus a list of the stories that led each of the most recent newsletters. You must:
 
 1. Pick THE ONE most significant story to lead with. Focus on one specific development — one company, one policy shift, one court ruling, one deal. Do not try to survey or synthesize across multiple stories.
+
+2. DO NOT pick a story on the same underlying topic, event, or primary entity as any recent lead shown in the "recentLeads" list. If the biggest news of the day would repeat a recent lead's topic — even with a different framing, different byline, or different slug — skip it and pick the next-most-significant story on a genuinely different subject. Two mornings in a row about the same event is the exact failure mode this rule exists to prevent. Compare on the STORY, not the words: "Jeff Dean leaves Google" and "Google loses its chief scientist" are the same story. "Nvidia beats earnings" and "AMD beats earnings" are different stories.
 
 2. Write a natural, conversational lede in the morning-editor voice. 4-6 sentences, roughly 90-150 words. Start with "Good morning." Explain what the story is, why it matters, and what the reader should keep in mind — but do not predict what will happen next. No "watch for X." No "expect Y." Just help the reader hold the story in their head.
 
@@ -185,7 +218,13 @@ Output STRICT JSON in this exact shape and nothing else:
 
 {"leadSlug": "the-slug-you-chose", "lede": "the full lede text as a single string"}`;
 
-  const userPrompt = `Articles from the last 24 hours (most recent first):\n\n${JSON.stringify(corpusForModel, null, 2)}`;
+  const userPrompt = `Articles from the last 24 hours (most recent first):
+
+${JSON.stringify(corpusForModel, null, 2)}
+
+Recent leads (do NOT pick a story on the same topic/event/entity as any of these):
+
+${JSON.stringify(recentLeadsForModel, null, 2)}`;
 
   try {
     const r = await fetch("https://api.anthropic.com/v1/messages", {
@@ -376,10 +415,11 @@ export async function GET(req: Request): Promise<Response> {
   // Generate the editorial lede. This can happen even in dry-run so we
   // can preview the copy before real sends.
   const corpus = selectLedeCorpus();
-  const excludeSlugs = apiKey
-    ? await fetchRecentLeadSlugs(apiKey)
-    : new Set<string>();
-  const lede = await generateLede(corpus, excludeSlugs);
+  const allPosts = getAllPosts();
+  const recentLeads = apiKey
+    ? await fetchRecentLeads(apiKey, allPosts)
+    : [];
+  const lede = await generateLede(corpus, recentLeads);
 
   const dateLabel = todayET();
   const html = renderHtml(articles, lede);
@@ -407,7 +447,11 @@ export async function GET(req: Request): Promise<Response> {
       lede: lede
         ? { leadSlug: lede.leadSlug, ledePreview: lede.lede }
         : { leadSlug: null, ledePreview: "(fallback salutation used — lede generation returned null)" },
-      excludedSlugs: [...excludeSlugs],
+      recentLeads: recentLeads.map((l) => ({
+        date: l.date,
+        title: l.title,
+        primaryEntity: l.primaryEntity,
+      })),
       corpusSize: corpus.length,
       htmlLength: html.length,
       html: includeHtml ? html : undefined,
