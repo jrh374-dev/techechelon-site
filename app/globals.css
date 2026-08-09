@@ -155,19 +155,37 @@
     line-height: 1.3;
   }
   .article-prose blockquote {
-    margin: 30px 0;
-    padding: 18px 0 18px 22px;
+    margin: 32px 0;
+    padding: 26px 32px;
+    background: #EFE8D2;
     border-left: 3px solid #E85A2C;
   }
   .article-prose blockquote p {
-    font-family: "Inter Tight", sans-serif;
-    font-style: normal;
-    font-size: 22px;
-    font-weight: 600;
-    letter-spacing: -0.022em;
-    line-height: 1.28;
+    font-family: "Source Serif 4", Georgia, serif;
+    font-style: italic;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 1.4;
     color: #15264D;
-    margin: 0;
+    margin: 0 0 12px;
+  }
+  .article-prose blockquote p:last-child {
+    margin-bottom: 0;
+  }
+  /* Attribution line — any paragraph after the first inside a blockquote
+     (markdown quotes put the em-dash attribution in its own paragraph).
+     Small mono uppercase, sand color, matching the mockup's pull-quote
+     credit treatment. Single-paragraph quotes are unaffected. */
+  .article-prose blockquote p + p {
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-style: normal;
+    font-size: 10px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: #6B6353;
+    font-weight: 700;
+    line-height: 1.5;
   }
   .article-prose a {
     color: #15264D;
