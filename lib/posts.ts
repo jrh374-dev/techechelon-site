@@ -22,6 +22,7 @@ export interface PostFrontmatter {
   pullQuote?: { text: string; source: string };
   unlisted?: boolean;
   coverFit?: "cover" | "contain";
+  faq?: Array<{ question: string; answer: string }>;
 }
 
 export interface Post extends PostFrontmatter {
@@ -40,7 +41,12 @@ function normalizeDate(v: unknown): string {
   return String(v ?? "");
 }
 
-export function getAllPosts(): Post[] {
+// Read every markdown file from disk without filtering. Used by anything
+// that needs to see scheduled (future-dated) posts too — direct-URL
+// resolution via getPostBySlug and Next's generateStaticParams (so a
+// scheduled article is pre-built and its URL resolves the moment it's
+// visited).
+function readAllPostsRaw(): Post[] {
   return listPostFiles()
     .map((file) => {
       const raw = fs.readFileSync(path.join(POSTS_DIR, file), "utf8");
@@ -51,9 +57,31 @@ export function getAllPosts(): Post[] {
     .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
 }
 
+// Public listing helper — the default view of the corpus. Excludes any
+// post whose publishedAt is in the future so scheduled articles stay out
+// of homepage rails, category listings, related-post lists, search,
+// sitemap, and the newsletter lede pool until their moment arrives.
+// Future-dated posts appear in listings automatically on the next build
+// or ISR revalidation that happens after their publishedAt timestamp.
+export function getAllPosts(): Post[] {
+  const now = Date.now();
+  return readAllPostsRaw().filter((p) => {
+    const t = new Date(p.publishedAt).getTime();
+    return !Number.isFinite(t) || t <= now;
+  });
+}
+
+// Includes scheduled posts. Used by build-time route generation so the
+// article page pre-renders on the deploy that carries the scheduled file.
+export function getAllPostsIncludingScheduled(): Post[] {
+  return readAllPostsRaw();
+}
+
+// Unfiltered slug lookup — a scheduled post's URL should still resolve
+// when someone follows a direct link, even before its scheduled moment.
+// Listings won't include it, but the page itself is reachable.
 export function getPostBySlug(slug: string): Post | null {
-  const all = getAllPosts();
-  return all.find((p) => p.slug === slug) ?? null;
+  return readAllPostsRaw().find((p) => p.slug === slug) ?? null;
 }
 
 // Title prefixes used historically on TechEchelon for opinion-style pieces.

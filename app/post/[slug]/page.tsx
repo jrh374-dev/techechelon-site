@@ -8,14 +8,19 @@ import { ArticleBody, renderMarkdown } from "@/components/ArticleBody";
 import { AuthorBio } from "@/components/AuthorBio";
 import { RelatedPosts } from "@/components/RelatedPosts";
 import { ArticleStructuredData } from "@/components/ArticleStructuredData";
+import { FaqStructuredData } from "@/components/FaqStructuredData";
 import {
   getAllPosts,
+  getAllPostsIncludingScheduled,
   getPostBySlug,
   categoryLabel,
 } from "@/lib/posts";
 
+// Pre-build every post's page, including future-dated ones, so a
+// scheduled article's URL resolves the instant it's followed. Listings
+// still hide it until its publishedAt timestamp arrives.
 export async function generateStaticParams() {
-  return getAllPosts().map((p) => ({ slug: p.slug }));
+  return getAllPostsIncludingScheduled().map((p) => ({ slug: p.slug }));
 }
 
 export async function generateMetadata({ params }: { params: { slug: string } }) {
@@ -71,6 +76,7 @@ export default async function ArticlePage({
   return (
     <div className="bg-cream min-h-screen">
       <ArticleStructuredData post={post} />
+      {post.faq && <FaqStructuredData faq={post.faq} />}
       <SiteHeader />
       <div className="bg-cream">
         <div className="max-w-[1320px] mx-auto px-5 md:px-7 py-3 text-[10.5px] md:text-[11px] tracking-[0.04em] text-sand font-semibold overflow-x-auto whitespace-nowrap">
