@@ -189,6 +189,62 @@
     height: auto;
     margin: 32px auto 4px;
   }
+  /* GFM tables — data blocks inside the article body. Framed as a
+     stat-card in the newspaper palette rather than a raw HTML grid, so
+     numeric callouts read as intentional design and not stray table
+     markup. Followed by an italic paragraph, we treat that as a source
+     note under the table. */
+  .article-prose table {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    overflow-x: auto;
+    border-collapse: collapse;
+    margin: 30px 0 8px;
+    border: 1px solid rgba(10, 10, 10, 0.14);
+    background: #fff;
+    font-family: "Inter Tight", Inter, Helvetica, Arial, sans-serif;
+  }
+  .article-prose thead { background: #EFE8D2; }
+  .article-prose th {
+    text-align: left;
+    padding: 11px 18px;
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-size: 10.5px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #6B6353;
+    font-weight: 800;
+    border-bottom: 1px solid rgba(10, 10, 10, 0.14);
+    white-space: nowrap;
+  }
+  .article-prose td {
+    padding: 12px 18px;
+    font-size: 14.5px;
+    color: #0A0A0A;
+    border-bottom: 1px solid rgba(10, 10, 10, 0.06);
+    font-variant-numeric: tabular-nums;
+  }
+  .article-prose tr:last-child td { border-bottom: none; }
+  .article-prose th[align="right"],
+  .article-prose td[align="right"] {
+    text-align: right;
+  }
+  .article-prose td[align="right"] {
+    font-family: "JetBrains Mono", ui-monospace, Menlo, monospace;
+    font-weight: 700;
+    color: #15264D;
+  }
+  .article-prose table + p em:only-child {
+    display: block;
+    font-size: 12.5px;
+    color: #6B6353;
+    font-style: italic;
+    line-height: 1.5;
+    margin: 4px 0 26px;
+    padding: 8px 0 0;
+    border-top: 1px solid rgba(10, 10, 10, 0.08);
+  }
   .article-prose img + em,
   .article-prose img + p > em {
     display: block;

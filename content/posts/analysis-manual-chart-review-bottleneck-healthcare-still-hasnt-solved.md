@@ -12,17 +12,17 @@ coverCaption: "A clinician workstation, where the 45-minute chart problem lives.
 readTime: 7
 tags: ["clinical clarity", "healthcare data", "xcures", "prior authorization", "medical records", "healthcare ai"]
 primaryEntity: "xCures"
-faq:
-  - question: "What is clinical clarity in healthcare data?"
-    answer: "Clinical clarity is structured, decision-ready clinical understanding built from raw, unstructured patient records. It is the layer beyond moving data or summarizing it. The output is a traceable result that a clinician, a lab director, or a revenue cycle team can act on directly, with a written clinical rationale attached to every field. Summarization gives you a paragraph. Clarity gives you a decision."
-  - question: "How is clinical clarity different from data access or interoperability tools?"
-    answer: "Interoperability solves the transport problem: how records get from one system to another. That is necessary, but it is not sufficient. Once the records arrive, a human being is still reading and interpreting them. Clinical clarity picks up at that point, turning the retrieved records into structured data that a system can query and a person can trust, without the manual review step in the middle."
-  - question: "Why does manual chart review remain a bottleneck even with better data connectivity?"
-    answer: "Because movement is not understanding. A record moving from one EHR to another is still a raw record when it arrives. Someone has to read it, decide what is relevant, and reconcile it against other records. That is what drives the 45-minute-per-chart average documented in resident-physician studies. Connectivity solved the plumbing. It did not solve the reading."
-  - question: "How are xCures' extractors validated for accuracy?"
-    answer: "xCures' extractors are validated against peer-reviewed, condition-specific clinical benchmarks, not internal test sets. Every output is traceable to a source document and carries a written clinical rationale. When the system is not confident, it flags that rather than masking it. These requirements came out of oncology, where the cost of a wrong extraction can be a patient who does not receive the right therapy, and the same accuracy bar carries across other clinical domains."
-  - question: "What operational impact does automated prior authorization support have?"
-    answer: "The 2024 AMA Prior Authorization Physician Survey pegs physicians and staff at 13 hours a week on prior-auth work, across roughly 39 requests per physician. Completing a decision-ready checklist through xCures takes about 30 seconds. That is the difference between prior auth being a full-time job for someone in a revenue cycle team and being a step that happens in the background of the actual clinical work."
+qa:
+  - question: "\"Clinical clarity\" is a term the industry is coalescing around, but it's still relatively new. How would you define it, and what makes it different from summarization or interoperability?"
+    answer: "Clinical clarity is structured, decision-ready clinical understanding built from raw, unstructured patient records. It's the layer beyond moving data or summarizing it. What we're producing is a traceable output that a clinician, a lab director, or a revenue cycle team can act on directly, with a written clinical rationale attached to every field. Summarization gives you a paragraph. Clarity gives you a decision."
+  - question: "A lot of health-tech vendors already claim they've solved interoperability. Where does clinical clarity fit relative to what FHIR and the HIE networks already provide?"
+    answer: "Interoperability solves the transport problem: how records get from one system to another. That's necessary, but it's not sufficient. Once the records arrive, you still have a human being reading and interpreting them. Clinical clarity picks up at that point. We take retrieved records and turn them into structured data that a system can query and a person can trust, without the manual review step in the middle."
+  - question: "Given how much progress there's been on the connectivity side, why is manual chart review still where clinical operations teams spend most of their time?"
+    answer: "Because movement is not understanding. A record moving from one EHR to another is still a raw record when it arrives. Someone has to read it, decide what's relevant, reconcile it against other records. That's what drives the 45-minute-per-chart average you see in the resident-physician studies. Connectivity solved the plumbing. It didn't solve the reading."
+  - question: "Every AI-in-healthcare company talks about accuracy. What actually sits behind the numbers xCures publishes?"
+    answer: "Our extractors are validated against peer-reviewed, condition-specific clinical benchmarks, not internal test sets. Every output is traceable to a source document and carries a written clinical rationale. When the system isn't confident, it flags that rather than masking it. Those requirements came out of oncology, where the cost of a wrong extraction can be a patient who doesn't get the right therapy. That accuracy bar has stayed the same as we've expanded across other clinical domains."
+  - question: "Prior authorization is where a lot of health systems are feeling operational pain right now. What does the math look like once clinical clarity is applied to that workflow?"
+    answer: "The 2024 AMA survey pegs physicians and staff at 13 hours a week on prior-auth work, across roughly 39 requests per physician. Completing a decision-ready checklist through our system takes about 30 seconds. That's not a marginal improvement. That's the difference between prior auth being a full-time job for someone in your revenue cycle team and being a step that happens in the background of the actual clinical work."
 ---
 
 Healthcare has made meaningful progress in connecting patient data. Finding the record is no longer the bottleneck. The next challenge is making that information usable at the moment a clinician needs it.
@@ -111,27 +111,3 @@ Medical record retrieval is increasingly central to value-based care contracting
 Clinical data requirements for diagnostics are also expanding. Labs that identify eligible patients from structured, cross-system record data hold a material advantage in test utilization, reimbursement capture, and patient access. Evidence-grade data, traceable to source and validated at the extractor level, is what turns scattered records into that advantage.
 
 The connectivity layer of healthcare is largely built. The layer that turns retrieved records into decisions is where the operational gains are now.
-
-## The Conversation: Five Questions with xCures CEO Mika Newton
-
-*Sara Montes de Oca put five questions to Newton on how xCures actually defines clinical clarity, where its accuracy numbers come from, and what changes when the manual chart-review step goes away. This transcript has been lightly edited for length and clarity.*
-
-**Sara Montes de Oca:** "Clinical clarity" is a term the industry is coalescing around, but it's still relatively new. How would you define it, and what makes it different from summarization or interoperability?
-
-**Mika Newton:** Clinical clarity is structured, decision-ready clinical understanding built from raw, unstructured patient records. It's the layer beyond moving data or summarizing it. What we're producing is a traceable output that a clinician, a lab director, or a revenue cycle team can act on directly, with a written clinical rationale attached to every field. Summarization gives you a paragraph. Clarity gives you a decision.
-
-**Sara Montes de Oca:** A lot of health-tech vendors already claim they've solved interoperability. Where does clinical clarity fit relative to what FHIR and the HIE networks already provide?
-
-**Mika Newton:** Interoperability solves the transport problem: how records get from one system to another. That's necessary, but it's not sufficient. Once the records arrive, you still have a human being reading and interpreting them. Clinical clarity picks up at that point. We take retrieved records and turn them into structured data that a system can query and a person can trust, without the manual review step in the middle.
-
-**Sara Montes de Oca:** Given how much progress there's been on the connectivity side, why is manual chart review still where clinical operations teams spend most of their time?
-
-**Mika Newton:** Because movement is not understanding. A record moving from one EHR to another is still a raw record when it arrives. Someone has to read it, decide what's relevant, reconcile it against other records. That's what drives the 45-minute-per-chart average you see in the resident-physician studies. Connectivity solved the plumbing. It didn't solve the reading.
-
-**Sara Montes de Oca:** Every AI-in-healthcare company talks about accuracy. What actually sits behind the numbers xCures publishes?
-
-**Mika Newton:** Our extractors are validated against peer-reviewed, condition-specific clinical benchmarks, not internal test sets. Every output is traceable to a source document and carries a written clinical rationale. When the system isn't confident, it flags that rather than masking it. Those requirements came out of oncology, where the cost of a wrong extraction can be a patient who doesn't get the right therapy. That accuracy bar has stayed the same as we've expanded across other clinical domains.
-
-**Sara Montes de Oca:** Prior authorization is where a lot of health systems are feeling operational pain right now. What does the math look like once clinical clarity is applied to that workflow?
-
-**Mika Newton:** The 2024 AMA survey pegs physicians and staff at 13 hours a week on prior-auth work, across roughly 39 requests per physician. Completing a decision-ready checklist through our system takes about 30 seconds. That's not a marginal improvement. That's the difference between prior auth being a full-time job for someone in your revenue cycle team and being a step that happens in the background of the actual clinical work.

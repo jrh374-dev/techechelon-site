@@ -9,6 +9,7 @@ import { AuthorBio } from "@/components/AuthorBio";
 import { RelatedPosts } from "@/components/RelatedPosts";
 import { ArticleStructuredData } from "@/components/ArticleStructuredData";
 import { FaqStructuredData } from "@/components/FaqStructuredData";
+import { ArticleQAndA } from "@/components/ArticleQAndA";
 import {
   getAllPosts,
   getAllPostsIncludingScheduled,
@@ -76,7 +77,9 @@ export default async function ArticlePage({
   return (
     <div className="bg-cream min-h-screen">
       <ArticleStructuredData post={post} />
-      {post.faq && <FaqStructuredData faq={post.faq} />}
+      {(post.qa ?? post.faq) && (
+        <FaqStructuredData items={post.qa ?? post.faq ?? []} />
+      )}
       <SiteHeader />
       <div className="bg-cream">
         <div className="max-w-[1320px] mx-auto px-5 md:px-7 py-3 text-[10.5px] md:text-[11px] tracking-[0.04em] text-sand font-semibold overflow-x-auto whitespace-nowrap">
@@ -100,6 +103,15 @@ export default async function ArticlePage({
       </div>
       <ArticleHeader post={post} />
       <ArticleBody html={html} />
+      {post.qa && post.qa.length > 0 && (
+        <ArticleQAndA
+          post={post}
+          intervieweeName="Mika Newton"
+          intervieweeTitle="CEO, xCures"
+          heading="Five questions with xCures CEO Mika Newton"
+          intro="Sara Montes de Oca put five questions to Newton on how xCures actually defines clinical clarity, where its accuracy numbers come from, and what changes when the manual chart-review step goes away. This transcript has been lightly edited for length and clarity."
+        />
+      )}
       <AuthorBio post={post} />
       <RelatedPosts posts={related} />
       <Newsletter />

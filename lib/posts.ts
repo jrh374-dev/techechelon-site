@@ -23,6 +23,7 @@ export interface PostFrontmatter {
   unlisted?: boolean;
   coverFit?: "cover" | "contain";
   faq?: Array<{ question: string; answer: string }>;
+  qa?: Array<{ question: string; answer: string }>;
 }
 
 export interface Post extends PostFrontmatter {
