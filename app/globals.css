@@ -195,10 +195,11 @@
      markup. Followed by an italic paragraph, we treat that as a source
      note under the table. */
   .article-prose table {
-    display: block;
+    /* Keep real table layout so columns stretch across the full width —
+       display:block collapses the table formatting context and bunches
+       the columns to the left while the border spans full width. This
+       table is 3 short columns so it fits a phone viewport as-is. */
     width: 100%;
-    max-width: 100%;
-    overflow-x: auto;
     border-collapse: collapse;
     margin: 30px 0 8px;
     border: 1px solid rgba(10, 10, 10, 0.14);
