@@ -47,7 +47,16 @@ async function rawFetchDaily(
     throw new Error("twelvedata: no API key in env");
   }
   const url = `${TD}/time_series?symbol=${encodeURIComponent(symbol)}&interval=1day&outputsize=${outputsize}&order=ASC&apikey=${KEY}`;
-  const r = await fetch(url, { cache: "no-store" });
+  // NOT no-store: a no-store fetch inside unstable_cache throws
+  // DynamicServerError when the page renders statically (ISR), which is
+  // exactly how /markets/[symbol] renders since revalidate=300 replaced
+  // force-dynamic. A short revalidate window keeps the inner fetch legal
+  // in static contexts; the outer unstable_cache still owns the real
+  // 24h memoization and still refuses to cache thrown errors. The 300s
+  // inner TTL also bounds the damage if Next ever caches a non-ok
+  // response body at the fetch layer: it clears in five minutes instead
+  // of poisoning a full day.
+  const r = await fetch(url, { next: { revalidate: 300 } });
   const text = await r.text();
   if (!r.ok) {
     throw new Error(`twelvedata: ${symbol} HTTP ${r.status}: ${text.slice(0, 120)}`);
