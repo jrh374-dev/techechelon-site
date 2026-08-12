@@ -12,6 +12,7 @@ export function GET() {
   const body = `User-agent: *
 Allow: /
 Disallow: /api/
+Disallow: /social-desk
 
 Sitemap: ${base}/sitemap.xml
 Sitemap: ${base}/news-sitemap.xml
