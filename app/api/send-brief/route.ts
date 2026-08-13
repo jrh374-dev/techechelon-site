@@ -226,43 +226,104 @@ Recent leads (do NOT pick a story on the same topic/event/entity as any of these
 
 ${JSON.stringify(recentLeadsForModel, null, 2)}`;
 
+  // Generate with retries. The daily send is a single fixed-time shot, so
+  // a lone Anthropic hiccup (529 overload, timeout, transient 5xx) at
+  // 10:31 UTC would otherwise silently drop the whole lede for the day.
+  // Retry a few times with backoff before giving up, and distinguish
+  // retryable transport/5xx failures from permanent ones (auth, bad
+  // request) that won't improve on retry.
+  const MAX_ATTEMPTS = 4;
+  let lastReason = "unknown";
+  for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    try {
+      const r = await fetch("https://api.anthropic.com/v1/messages", {
+        method: "POST",
+        headers: {
+          "x-api-key": apiKey,
+          "anthropic-version": "2023-06-01",
+          "content-type": "application/json",
+        },
+        body: JSON.stringify({
+          model: LEDE_MODEL,
+          max_tokens: 700,
+          system: systemPrompt,
+          messages: [{ role: "user", content: userPrompt }],
+        }),
+      });
+      if (!r.ok) {
+        lastReason = `http ${r.status}`;
+        // 429/5xx are worth retrying; 4xx (except 429) will not improve.
+        const retryable = r.status === 429 || r.status >= 500;
+        console.error(
+          `[send-brief] lede attempt ${attempt}/${MAX_ATTEMPTS} failed: ${lastReason}${retryable ? " (retrying)" : " (permanent)"}`,
+        );
+        if (!retryable) return null;
+      } else {
+        const body = (await r.json()) as AnthropicResponse;
+        const text = (body.content ?? [])
+          .filter((b) => b.type === "text")
+          .map((b) => b.text ?? "")
+          .join("")
+          .trim();
+        const match = text.match(/\{[\s\S]*\}/);
+        if (match) {
+          const parsed = JSON.parse(match[0]) as { leadSlug?: string; lede?: string };
+          if (
+            parsed.leadSlug &&
+            parsed.lede &&
+            eligible.some((p) => p.slug === parsed.leadSlug)
+          ) {
+            return { leadSlug: parsed.leadSlug, lede: parsed.lede.trim() };
+          }
+        }
+        // Malformed/empty output — retry (model may return cleaner JSON).
+        lastReason = "unparseable output";
+        console.error(
+          `[send-brief] lede attempt ${attempt}/${MAX_ATTEMPTS}: ${lastReason} (retrying)`,
+        );
+      }
+    } catch (err) {
+      lastReason = (err as Error).message;
+      console.error(
+        `[send-brief] lede attempt ${attempt}/${MAX_ATTEMPTS} threw: ${lastReason} (retrying)`,
+      );
+    }
+    // Backoff before the next attempt: 1s, 2s, 4s.
+    if (attempt < MAX_ATTEMPTS) {
+      await new Promise((res) => setTimeout(res, 1000 * 2 ** (attempt - 1)));
+    }
+  }
+  console.error(
+    `[send-brief] lede generation exhausted ${MAX_ATTEMPTS} attempts; last reason: ${lastReason}`,
+  );
+  return null;
+}
+
+// Best-effort alert when the newsletter ships without its editorial lede,
+// so a silent fallback is noticed the same morning instead of days later.
+// Uses Resend's transactional /emails endpoint (already configured) to
+// ping the ops inbox. Never throws — alerting must not break the send.
+async function alertLedeFallback(reason: string): Promise<void> {
+  const apiKey = process.env.RESEND_API_KEY;
+  const to = process.env.OPS_ALERT_EMAIL ?? "holley.jason.r@gmail.com";
+  const from = process.env.RESEND_FROM_EMAIL ?? "press@techechelon.com";
+  if (!apiKey) return;
   try {
-    const r = await fetch("https://api.anthropic.com/v1/messages", {
+    await fetch("https://api.resend.com/emails", {
       method: "POST",
       headers: {
-        "x-api-key": apiKey,
-        "anthropic-version": "2023-06-01",
-        "content-type": "application/json",
+        Authorization: `Bearer ${apiKey}`,
+        "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        model: LEDE_MODEL,
-        max_tokens: 700,
-        system: systemPrompt,
-        messages: [{ role: "user", content: userPrompt }],
+        from: `TechEchelon Ops <${from}>`,
+        to: [to],
+        subject: "⚠️ The Brief shipped WITHOUT its editorial lede today",
+        html: `<p>Today's newsletter sent using the generic salutation because the editorial lede could not be generated.</p><p><b>Reason:</b> ${reason}</p><p>The newsletter still went out with the five-story roundup. This is just the opening blurb that was missing. No action needed unless it repeats.</p>`,
       }),
     });
-    if (!r.ok) {
-      console.error(`[send-brief] lede generation failed: ${r.status}`);
-      return null;
-    }
-    const body = (await r.json()) as AnthropicResponse;
-    const text = (body.content ?? [])
-      .filter((b) => b.type === "text")
-      .map((b) => b.text ?? "")
-      .join("")
-      .trim();
-
-    // Extract JSON object even if wrapped in text/backticks.
-    const match = text.match(/\{[\s\S]*\}/);
-    if (!match) return null;
-    const parsed = JSON.parse(match[0]) as { leadSlug?: string; lede?: string };
-    if (!parsed.leadSlug || !parsed.lede) return null;
-    // Verify the slug is one we actually gave the model.
-    if (!eligible.some((p) => p.slug === parsed.leadSlug)) return null;
-    return { leadSlug: parsed.leadSlug, lede: parsed.lede.trim() };
-  } catch (err) {
-    console.error(`[send-brief] lede generation threw: ${(err as Error).message}`);
-    return null;
+  } catch {
+    // swallow — alerting is best-effort
   }
 }
 
@@ -460,6 +521,14 @@ export async function GET(req: Request): Promise<Response> {
 
   if (!apiKey || !audienceId) {
     return Response.json({ error: "server_misconfigured" }, { status: 500 });
+  }
+
+  // If the lede fell back to the generic salutation on a real send, fire a
+  // best-effort ops alert so it's caught the same morning. Skipped for
+  // ?to= test sends so previews don't trigger alerts.
+  const isTest = !!url.searchParams.get("to");
+  if (!lede && !isTest) {
+    await alertLedeFallback("lede generation returned null after retries");
   }
 
   // ?to=email routes through Resend's single-email endpoint instead of a
