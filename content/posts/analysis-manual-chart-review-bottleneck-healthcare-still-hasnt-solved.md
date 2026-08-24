@@ -12,6 +12,10 @@ coverCaption: "A clinician workstation, where the 45-minute chart problem lives.
 readTime: 7
 tags: ["clinical clarity", "healthcare data", "xcures", "prior authorization", "medical records", "healthcare ai"]
 primaryEntity: "xCures"
+interviewee: "Mika Newton"
+intervieweeTitle: "CEO, xCures"
+qaHeading: "Five questions with xCures CEO Mika Newton"
+qaIntro: "Sara Montes de Oca put five questions to Newton on how xCures actually defines clinical clarity, where its accuracy numbers come from, and what changes when the manual chart-review step goes away. This transcript has been lightly edited for length and clarity."
 qa:
   - question: "\"Clinical clarity\" is a term the industry is coalescing around, but it's still relatively new. How would you define it, and what makes it different from summarization or interoperability?"
     answer: "Clinical clarity is structured, decision-ready clinical understanding built from raw, unstructured patient records. It's the layer beyond moving data or summarizing it. What we're producing is a traceable output that a clinician, a lab director, or a revenue cycle team can act on directly, with a written clinical rationale attached to every field. Summarization gives you a paragraph. Clarity gives you a decision."

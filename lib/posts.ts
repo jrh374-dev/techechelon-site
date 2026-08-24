@@ -24,6 +24,13 @@ export interface PostFrontmatter {
   coverFit?: "cover" | "contain";
   faq?: Array<{ question: string; answer: string }>;
   qa?: Array<{ question: string; answer: string }>;
+  // Q&A section metadata (only used when qa is present). Drives the
+  // ArticleQAndA header and speaker labels so the interviewee isn't
+  // hardcoded per-article in the page component.
+  interviewee?: string;
+  intervieweeTitle?: string;
+  qaHeading?: string;
+  qaIntro?: string;
 }
 
 export interface Post extends PostFrontmatter {

@@ -106,10 +106,10 @@ export default async function ArticlePage({
       {post.qa && post.qa.length > 0 && (
         <ArticleQAndA
           post={post}
-          intervieweeName="Mika Newton"
-          intervieweeTitle="CEO, xCures"
-          heading="Five questions with xCures CEO Mika Newton"
-          intro="Sara Montes de Oca put five questions to Newton on how xCures actually defines clinical clarity, where its accuracy numbers come from, and what changes when the manual chart-review step goes away. This transcript has been lightly edited for length and clarity."
+          intervieweeName={post.interviewee}
+          intervieweeTitle={post.intervieweeTitle}
+          heading={post.qaHeading}
+          intro={post.qaIntro}
         />
       )}
       <AuthorBio post={post} />

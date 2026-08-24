@@ -85,9 +85,18 @@ export function ArticleQAndA({
                   {answerer}
                 </span>
               </div>
-              <p className="font-serif text-[16px] md:text-[16.5px] leading-[1.62] text-ink-soft m-0">
-                {exchange.answer}
-              </p>
+              {exchange.answer
+                .split(/\n\n+/)
+                .map((para, j) => (
+                  <p
+                    key={j}
+                    className={`font-serif text-[16px] md:text-[16.5px] leading-[1.62] text-ink-soft m-0${
+                      j > 0 ? " mt-3" : ""
+                    }`}
+                  >
+                    {para}
+                  </p>
+                ))}
             </div>
           ))}
         </div>
