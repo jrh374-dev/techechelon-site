@@ -6,9 +6,8 @@ category: ai
 author: "Jay Goldberg"
 authorInitials: "JG"
 publishedAt: "2026-08-24T21:01:17.640Z"
-coverImage: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/1515_Third_Street.jpg/3840px-1515_Third_Street.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-coverCredit: "via Wikipedia (OpenAI)"
-coverCreditUrl: "https://en.wikipedia.org/wiki/OpenAI"
+coverImage: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1600&q=80"
+coverCredit: "Photo by Tingey Injury Law Firm on Unsplash"
 tags: ["openai", "hugging face", "ai safety", "attorney general", "cybersecurity", "regulation"]
 primaryEntity: "OpenAI"
 readTime: 2
