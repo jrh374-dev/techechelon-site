@@ -7,10 +7,14 @@ import { DeskRow } from "@/components/DeskRow";
 import {
   getAllPosts,
   getPostsByCategory,
+  isOpinion,
 } from "@/lib/posts";
 
 export default function HomePage() {
-  const all = getAllPosts();
+  // The homepage hero and time sections are a news feed. Opinion pieces
+  // and Executive Q&As live in /category/opinion only, so they never
+  // take over the anchor slot the morning they publish.
+  const all = getAllPosts().filter((p) => !isOpinion(p));
   if (all.length === 0) {
     return (
       <>
