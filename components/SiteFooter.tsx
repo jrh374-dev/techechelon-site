@@ -18,6 +18,7 @@ const SECTIONS = {
   ],
   Channels: [
     { label: "The Brief Newsletter", href: "/subscribe" },
+    { label: "Brief Archive", href: "/brief" },
     { label: "X · @Tech_Echelon", href: "https://x.com/Tech_Echelon" },
     { label: "RSS Feed", href: "/rss.xml" },
     { label: "Events", href: "/events" },

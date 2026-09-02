@@ -1,5 +1,4 @@
 import { StaticPage } from "@/components/StaticPage";
-import { Newsletter } from "@/components/Newsletter";
 
 export const metadata = {
   title: "Subscribe — The TechEchelon Brief",
@@ -21,6 +20,10 @@ export default function SubscribePage() {
       <h2>What you&apos;ll get</h2>
       <p>
         Five short, opinionated takes on the day&apos;s news, with a clear read on what to watch next. Written for builders, investors, and policymakers who don&apos;t have time to triage twenty newsletters before market open.
+      </p>
+      <h2>Read it before you subscribe</h2>
+      <p>
+        Want to see it first? <a href="/brief">Browse the archive</a> — every past edition on the web, exactly as it was sent.
       </p>
     </StaticPage>
   );
