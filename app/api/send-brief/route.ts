@@ -327,9 +327,16 @@ async function alertLedeFallback(reason: string): Promise<void> {
   }
 }
 
-function renderHtml(articles: Post[], lede: Lede | null): string {
+function renderHtml(
+  articles: Post[],
+  lede: Lede | null,
+  readOnlineUrl?: string,
+): string {
   const date = todayET();
   const editionNo = `№${editionNumber().toString().padStart(3, "0")}`;
+  const readOnlineHtml = readOnlineUrl
+    ? `<tr><td align="center" style="padding:0 0 10px;font-family:'JetBrains Mono',ui-monospace,monospace;font-size:10px;letter-spacing:0.1em;text-transform:uppercase"><a href="${readOnlineUrl}" style="color:#6B6353;text-decoration:underline;text-underline-offset:2px">Read this edition online →</a></td></tr>`
+    : "";
 
   // Editorial lede block. If lede generation failed, fall back to the
   // generic salutation so the newsletter still ships.
@@ -381,6 +388,7 @@ function renderHtml(articles: Post[], lede: Lede | null): string {
   <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%" style="background:#F5F0E2">
     <tr><td align="center" style="padding:24px 14px 0">
       <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="600" style="max-width:600px;width:100%;background:#F5F0E2">
+        ${readOnlineHtml}
         <tr><td style="background:#15264D;color:#DCE2F0;padding:10px 18px;font-family:'JetBrains Mono',ui-monospace,monospace;font-size:10.5px;letter-spacing:0.06em">
           <span style="color:#fff;font-weight:700">${editionNo}</span> &nbsp;|&nbsp; ${escapeHtml(date)} &nbsp;|&nbsp; 06:30 AM ET
         </td></tr>
@@ -483,18 +491,22 @@ export async function GET(req: Request): Promise<Response> {
   const lede = await generateLede(corpus, recentLeads);
 
   const dateLabel = todayET();
-  const html = renderHtml(articles, lede);
-  const leadStory = corpus.find((p) => p.slug === lede?.leadSlug) ?? articles[0]!;
-  const subject = `The Brief · ${dateLabel} · ${leadStory.title.slice(0, 80)}`;
-  // Resend caps broadcast `name` at 70 chars. Use a compact ISO date +
-  // truncated slug so the identifier fits. Recent-lede lookup does a
-  // prefix match on the truncated slug so shortening doesn't break dedup.
+  // ISO date used both for the broadcast name and the web-archive URL.
+  // Computed before renderHtml so the email can carry its own
+  // "read this edition online" link (/brief/<date> resolves the sent
+  // broadcast from Resend, so the link is valid the moment we send).
   const shortDate = new Intl.DateTimeFormat("en-CA", {
     timeZone: "America/New_York",
     year: "numeric",
     month: "2-digit",
     day: "2-digit",
   }).format(new Date()); // e.g. "2026-08-05"
+  const html = renderHtml(articles, lede, `${SITE_URL}/brief/${shortDate}`);
+  const leadStory = corpus.find((p) => p.slug === lede?.leadSlug) ?? articles[0]!;
+  const subject = `The Brief · ${dateLabel} · ${leadStory.title.slice(0, 80)}`;
+  // Resend caps broadcast `name` at 70 chars. Use a compact ISO date +
+  // truncated slug so the identifier fits. Recent-lede lookup does a
+  // prefix match on the truncated slug so shortening doesn't break dedup.
   const slugForName = (lede?.leadSlug ?? leadStory.slug).slice(0, 42);
   const broadcastName = `Brief · ${shortDate} · ${slugForName}`;
 
