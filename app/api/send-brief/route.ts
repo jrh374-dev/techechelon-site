@@ -27,6 +27,12 @@ const LEDE_HOURS_LOOKBACK = 24;
 const LEDE_FALLBACK_CORPUS_SIZE = 10;
 const LEDE_EXCLUDE_LOOKBACK = 10; // last N broadcasts to check for repeat leads
 const LEDE_MODEL = "claude-sonnet-5";
+// A successful lede call takes ~10-17s. Cap each attempt, and only start
+// new attempts early in the window, so the lede step stays under ~50s and
+// the send always finishes within maxDuration. Missing the lede is
+// recoverable; missing the newsletter is not.
+const LEDE_ATTEMPT_TIMEOUT_MS = 35_000;
+const LEDE_RETRY_WINDOW_MS = 15_000;
 
 function escapeHtml(s: string): string {
   return s
@@ -159,14 +165,20 @@ function stripMarkdown(md: string): string {
 
 interface AnthropicResponse {
   content?: Array<{ type: string; text?: string }>;
+  stop_reason?: string;
+}
+
+interface LedeResult {
+  lede: Lede | null;
+  failure?: string;
 }
 
 async function generateLede(
   corpus: Post[],
   recentLeads: RecentLead[],
-): Promise<Lede | null> {
+): Promise<LedeResult> {
   const apiKey = process.env.ANTHROPIC_API_KEY;
-  if (!apiKey) return null;
+  if (!apiKey) return { lede: null, failure: "ANTHROPIC_API_KEY not set" };
 
   // Filter out any candidate whose slug prefix-matches a recent lead's slug.
   // This is a defense-in-depth belt to the topic-based filter enforced by
@@ -179,7 +191,9 @@ async function generateLede(
     }
     return true;
   });
-  if (eligible.length === 0) return null;
+  if (eligible.length === 0) {
+    return { lede: null, failure: "every candidate story was a recent lead" };
+  }
 
   const corpusForModel = eligible.map((p) => ({
     slug: p.slug,
@@ -234,7 +248,10 @@ ${JSON.stringify(recentLeadsForModel, null, 2)}`;
   // request) that won't improve on retry.
   const MAX_ATTEMPTS = 4;
   let lastReason = "unknown";
+  let attemptsMade = 0;
+  const started = Date.now();
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
+    attemptsMade = attempt;
     try {
       const r = await fetch("https://api.anthropic.com/v1/messages", {
         method: "POST",
@@ -243,9 +260,15 @@ ${JSON.stringify(recentLeadsForModel, null, 2)}`;
           "anthropic-version": "2023-06-01",
           "content-type": "application/json",
         },
+        signal: AbortSignal.timeout(LEDE_ATTEMPT_TIMEOUT_MS),
         body: JSON.stringify({
           model: LEDE_MODEL,
-          max_tokens: 700,
+          // Sonnet 5 thinks by default and thinking tokens count against
+          // max_tokens. The JSON answer is only ~300 tokens, but on a full
+          // 24h corpus plus 10 recent leads the thinking alone can pass 700,
+          // truncating the answer (stop_reason max_tokens). Keep a wide
+          // ceiling; tokens are billed as generated, not as reserved.
+          max_tokens: 4000,
           system: systemPrompt,
           messages: [{ role: "user", content: userPrompt }],
         }),
@@ -257,7 +280,7 @@ ${JSON.stringify(recentLeadsForModel, null, 2)}`;
         console.error(
           `[send-brief] lede attempt ${attempt}/${MAX_ATTEMPTS} failed: ${lastReason}${retryable ? " (retrying)" : " (permanent)"}`,
         );
-        if (!retryable) return null;
+        if (!retryable) return { lede: null, failure: lastReason };
       } else {
         const body = (await r.json()) as AnthropicResponse;
         const text = (body.content ?? [])
@@ -273,11 +296,16 @@ ${JSON.stringify(recentLeadsForModel, null, 2)}`;
             parsed.lede &&
             eligible.some((p) => p.slug === parsed.leadSlug)
           ) {
-            return { leadSlug: parsed.leadSlug, lede: parsed.lede.trim() };
+            return {
+              lede: { leadSlug: parsed.leadSlug, lede: parsed.lede.trim() },
+            };
           }
         }
         // Malformed/empty output — retry (model may return cleaner JSON).
-        lastReason = "unparseable output";
+        lastReason =
+          body.stop_reason === "max_tokens"
+            ? "response truncated at max_tokens"
+            : "unparseable output";
         console.error(
           `[send-brief] lede attempt ${attempt}/${MAX_ATTEMPTS}: ${lastReason} (retrying)`,
         );
@@ -288,15 +316,19 @@ ${JSON.stringify(recentLeadsForModel, null, 2)}`;
         `[send-brief] lede attempt ${attempt}/${MAX_ATTEMPTS} threw: ${lastReason} (retrying)`,
       );
     }
-    // Backoff before the next attempt: 1s, 2s, 4s.
     if (attempt < MAX_ATTEMPTS) {
+      if (Date.now() - started > LEDE_RETRY_WINDOW_MS) break;
+      // Backoff before the next attempt: 1s, 2s, 4s.
       await new Promise((res) => setTimeout(res, 1000 * 2 ** (attempt - 1)));
     }
   }
   console.error(
-    `[send-brief] lede generation exhausted ${MAX_ATTEMPTS} attempts; last reason: ${lastReason}`,
+    `[send-brief] lede generation gave up after ${attemptsMade} attempt(s) in ${Math.round((Date.now() - started) / 1000)}s; last reason: ${lastReason}`,
   );
-  return null;
+  return {
+    lede: null,
+    failure: `${attemptsMade} attempt(s) failed; last reason: ${lastReason}`,
+  };
 }
 
 // Best-effort alert when the newsletter ships without its editorial lede,
@@ -459,6 +491,8 @@ function unauthorized(): Response {
 }
 
 export const dynamic = "force-dynamic";
+// 60s is valid on every Vercel plan; the lede step is bounded to ~50s above.
+export const maxDuration = 60;
 
 export async function GET(req: Request): Promise<Response> {
   const authHeader = req.headers.get("authorization");
@@ -488,7 +522,7 @@ export async function GET(req: Request): Promise<Response> {
   const recentLeads = apiKey
     ? await fetchRecentLeads(apiKey, allPosts)
     : [];
-  const lede = await generateLede(corpus, recentLeads);
+  const { lede, failure: ledeFailure } = await generateLede(corpus, recentLeads);
 
   const dateLabel = todayET();
   // ISO date used both for the broadcast name and the web-archive URL.
@@ -519,7 +553,7 @@ export async function GET(req: Request): Promise<Response> {
       articles: articles.map((a) => ({ title: a.title, slug: a.slug })),
       lede: lede
         ? { leadSlug: lede.leadSlug, ledePreview: lede.lede }
-        : { leadSlug: null, ledePreview: "(fallback salutation used — lede generation returned null)" },
+        : { leadSlug: null, ledePreview: `(fallback salutation used — ${ledeFailure ?? "lede generation failed"})` },
       recentLeads: recentLeads.map((l) => ({
         date: l.date,
         title: l.title,
@@ -540,7 +574,7 @@ export async function GET(req: Request): Promise<Response> {
   // ?to= test sends so previews don't trigger alerts.
   const isTest = !!url.searchParams.get("to");
   if (!lede && !isTest) {
-    await alertLedeFallback("lede generation returned null after retries");
+    await alertLedeFallback(ledeFailure ?? "lede generation failed");
   }
 
   // ?to=email routes through Resend's single-email endpoint instead of a
