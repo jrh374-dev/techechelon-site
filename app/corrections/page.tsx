@@ -16,7 +16,7 @@ export default function CorrectionsPage() {
       </p>
       <h2>Reporting a correction</h2>
       <p>
-        Email <a href="mailto:corrections@techechelon.com">corrections@techechelon.com</a> with the article URL and the issue. Please include a source or supporting documentation where possible — this helps us evaluate the request quickly.
+        Email <a href="mailto:press@techechelon.com">press@techechelon.com</a> with the article URL and the issue. Please include a source or supporting documentation where possible — this helps us evaluate the request quickly.
       </p>
       <h2>Active corrections</h2>
       <p>
