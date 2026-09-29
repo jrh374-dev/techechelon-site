@@ -61,6 +61,13 @@ export default function CategoryPage({
           <p className="font-serif text-[15.5px] md:text-[17px] leading-relaxed text-ink-soft italic mx-auto max-w-[600px]">
             {DESCRIPTIONS[cat]}
           </p>
+          {cat === "opinion" && (
+            <p className="mt-3 font-mono text-[10.5px] tracking-[0.08em] uppercase font-semibold">
+              <Link href="/submit" className="text-navy hover:text-coral">
+                Have an argument to make? Read our op-ed guidelines →
+              </Link>
+            </p>
+          )}
           <div className="mt-5 md:mt-6 font-mono text-[10.5px] tracking-[0.08em] uppercase font-semibold text-sand">
             {allPosts.length.toLocaleString()} STORIES · PAGE {page} OF {totalPages}
           </div>
