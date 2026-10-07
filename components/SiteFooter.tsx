@@ -15,6 +15,7 @@ const SECTIONS = {
     { label: "Ethics & Standards", href: "/ethics" },
     { label: "Contact", href: "/contact" },
     { label: "Submit an Op-Ed", href: "/submit" },
+    { label: "Advertise", href: "/advertise" },
     { label: "Corrections", href: "/corrections" },
   ],
   Channels: [

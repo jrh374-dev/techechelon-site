@@ -24,7 +24,7 @@ export default function ContactPage() {
       </p>
       <h2>Partnerships, sponsorship, and events</h2>
       <p>
-        Editorial independence is non-negotiable, but we do work with carefully selected partners on sponsorship slots and events. Reach out at <a href="mailto:press@techechelon.com">press@techechelon.com</a>.
+        Editorial independence is non-negotiable, but we do work with carefully selected partners on sponsorship slots and events. See the <a href="/advertise">partnership options and rates</a>, then reach out at <a href="mailto:press@techechelon.com">press@techechelon.com</a>.
       </p>
       <h2>Press</h2>
       <p>
