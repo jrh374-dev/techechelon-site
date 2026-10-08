@@ -119,7 +119,7 @@ const STEPS: Array<[string, string]> = [
   ["We confirm the format, the dates, and the price", "in writing."],
   ["You send your copy or brief,", "plus a logo and any images, at least five business days before the run date."],
   ["You approve the final version", "before anything is published."],
-  ["It runs.", "Afterward we send you a summary of how it performed."],
+  ["It runs", "on the agreed dates."],
 ];
 
 function Eyebrow({ children, light = false }: { children: React.ReactNode; light?: boolean }) {
@@ -177,7 +177,7 @@ export default function AdvertisePage() {
               ["New reporting", `${fmt(f.monthly)} a month`, "Articles across four news desks, on average."],
               ["Executive Q&A series", `${f.qa}`, "Interviews with founders and executives."],
               ["The Brief", "6:30 AM ET", "Every weekday, with a public web archive of each edition."],
-              ["Google search exposure", "82,400", "Appearances in Google search results in September 2026. Source: Google Search Console."],
+              ["Unique visitors", "Nearly 4,000", "Per month, September 2026. Source: Similarweb, with Google Analytics connected."],
             ].map(([dt, dd, note]) => (
               <div key={dt} className="py-4 border-b border-rule-soft min-w-0">
                 <dt className="font-mono text-[10.5px] tracking-[0.12em] uppercase font-bold text-sand mb-1">{dt}</dt>

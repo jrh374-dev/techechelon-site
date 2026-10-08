@@ -15,6 +15,7 @@ import {
   getAllPostsIncludingScheduled,
   getPostBySlug,
   categoryLabel,
+  isSponsored,
 } from "@/lib/posts";
 
 // Pre-build every post's page, including future-dated ones, so a
@@ -69,9 +70,10 @@ export default async function ArticlePage({
 }) {
   const post = getPostBySlug(params.slug);
   if (!post) notFound();
-  const html = await renderMarkdown(post.content);
+  const sponsored = isSponsored(post);
+  const html = await renderMarkdown(post.content, { sponsored });
   const related = getAllPosts()
-    .filter((p) => p.slug !== post.slug && p.category === post.category)
+    .filter((p) => p.slug !== post.slug && p.category === post.category && !isSponsored(p))
     .slice(0, 3);
 
   return (
@@ -87,12 +89,18 @@ export default async function ArticlePage({
             Home
           </Link>
           <span className="mx-2 text-sand-light">/</span>
-          <Link
-            href={`/category/${post.category}`}
-            className="text-navy hover:underline"
-          >
-            {categoryLabel(post.category)}
-          </Link>
+          {sponsored ? (
+            <Link href="/partners" className="text-navy hover:underline">
+              Partner content
+            </Link>
+          ) : (
+            <Link
+              href={`/category/${post.category}`}
+              className="text-navy hover:underline"
+            >
+              {categoryLabel(post.category)}
+            </Link>
+          )}
           {post.subcategory && (
             <>
               <span className="mx-2 text-sand-light">/</span>

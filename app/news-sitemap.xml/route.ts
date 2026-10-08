@@ -1,4 +1,4 @@
-import { getAllPosts } from "@/lib/posts";
+import { getAllPosts, isSponsored } from "@/lib/posts";
 
 function siteUrl(): string {
   return (
@@ -26,7 +26,9 @@ export const dynamic = "force-dynamic";
 export async function GET() {
   const base = siteUrl();
   const cutoff = Date.now() - 48 * 3600 * 1000;
+  // Paid content never goes to Google News.
   const recent = getAllPosts().filter((p) => {
+    if (isSponsored(p)) return false;
     const t = new Date(p.publishedAt).getTime();
     return Number.isFinite(t) && t >= cutoff;
   });

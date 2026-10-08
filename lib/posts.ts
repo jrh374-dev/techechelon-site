@@ -31,6 +31,13 @@ export interface PostFrontmatter {
   intervieweeTitle?: string;
   qaHeading?: string;
   qaIntro?: string;
+  // Paid partner content. Labeled "Sponsored" everywhere it appears, kept
+  // out of news desks, the homepage feed, the news sitemap, search, and the
+  // newsletter's story pool. briefFeature (YYYY-MM-DD, ET) places the
+  // piece in that morning's Brief as a labeled partner block.
+  sponsored?: boolean;
+  sponsor?: { name: string; url?: string; logo?: string };
+  briefFeature?: string;
 }
 
 export interface Post extends PostFrontmatter {
@@ -106,10 +113,15 @@ export function isOpinion(p: Post): boolean {
   );
 }
 
+export function isSponsored(p: Post): boolean {
+  return p.sponsored === true;
+}
+
 export function getPostsByCategory(category: Category): Post[] {
   // Unlisted posts stay accessible via direct URL and search, but never
-  // appear in any category listing or homepage rail.
-  const all = getAllPosts().filter((p) => p.unlisted !== true);
+  // appear in any category listing or homepage rail. Sponsored posts live
+  // under /partners, never in a news desk.
+  const all = getAllPosts().filter((p) => p.unlisted !== true && !isSponsored(p));
   if (category === "opinion") {
     return all.filter(isOpinion);
   }

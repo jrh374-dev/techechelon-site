@@ -7,12 +7,20 @@ import remarkHtml from "remark-html";
 // it a markdown table renders as literal pipe-delimited text. remark-html
 // is configured to allow dangerous HTML through so gfm's generated
 // <table> markup survives to the DOM.
-export async function renderMarkdown(md: string): Promise<string> {
+export async function renderMarkdown(
+  md: string,
+  opts: { sponsored?: boolean } = {},
+): Promise<string> {
   const result = await remark()
     .use(remarkGfm)
     .use(remarkHtml, { sanitize: false })
     .process(md);
-  return result.toString();
+  const html = result.toString();
+  // Paid content: every outbound link is marked as sponsored so search
+  // engines don't treat it as an editorial endorsement.
+  return opts.sponsored
+    ? html.replace(/<a\b(?![^>]*\brel=)/g, '<a rel="sponsored nofollow"')
+    : html;
 }
 
 export function ArticleBody({ html }: { html: string }) {

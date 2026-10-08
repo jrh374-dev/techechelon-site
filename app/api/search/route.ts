@@ -1,5 +1,5 @@
 import type { NextRequest } from "next/server";
-import { getAllPosts, categoryLabel } from "@/lib/posts";
+import { getAllPosts, categoryLabel, isSponsored } from "@/lib/posts";
 
 // Server-side full-text search — scans title, excerpt, author, AND body
 // content. Static client-side search couldn't include bodies without
@@ -21,7 +21,7 @@ export async function GET(req: NextRequest) {
   const cat = req.nextUrl.searchParams.get("cat") ?? "all";
 
   if (q.length < 2 && cat === "all") {
-    const posts = getAllPosts().slice(0, 50);
+    const posts = getAllPosts().filter((p) => !isSponsored(p)).slice(0, 50);
     return Response.json({
       total: posts.length,
       results: posts.map((p) => ({
@@ -36,7 +36,7 @@ export async function GET(req: NextRequest) {
   }
 
   const tokens = q.split(/\s+/).filter((t) => t.length > 0);
-  const all = getAllPosts();
+  const all = getAllPosts().filter((p) => !isSponsored(p));
 
   const matched = all.filter((p) => {
     if (cat !== "all" && p.category !== cat) return false;

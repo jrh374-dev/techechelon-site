@@ -19,6 +19,10 @@ export default function EthicsPage() {
       <p>
         TechEchelon reporters and editors do not hold individual positions in companies or instruments they cover. Stock holdings, where they exist, are disclosed in writer bios. We do not accept payment, equity, or other consideration in exchange for coverage. Where a reporter has any personal or professional relationship to a subject, that relationship is disclosed in the article.
       </p>
+      <h2>Sponsored content</h2>
+      <p>
+        TechEchelon publishes paid partner content. It is labeled &ldquo;Sponsored&rdquo; wherever it appears, kept out of the news desks and the news feed, reviewed for accuracy, and collected at <a href="/partners">Partner content</a>. Sponsors have no say in news coverage. The options and rates are public at <a href="/advertise">Advertise</a>.
+      </p>
       <h2>Accuracy</h2>
       <p>
         Every TechEchelon article is checked against primary sources before publication. When we make a substantive error, we correct it promptly and label the correction transparently. See the <a href="/corrections">Corrections</a> page for active corrections.

@@ -20,7 +20,8 @@
 // Auth: Vercel Cron sends `Authorization: Bearer $CRON_SECRET`. Manual
 // runs must include the same header.
 
-import { getAllPosts, isOpinion, Post, categoryLabel } from "@/lib/posts";
+import { getAllPosts, isOpinion, isSponsored, Post, categoryLabel } from "@/lib/posts";
+import { getBriefSponsor } from "@/lib/sponsors";
 
 const SITE_URL = "https://www.techechelon.com";
 const LEDE_HOURS_LOOKBACK = 24;
@@ -70,7 +71,7 @@ function editionNumber(): number {
 
 function selectStories(n: number): Post[] {
   return getAllPosts()
-    .filter((p) => !isOpinion(p) && p.unlisted !== true)
+    .filter((p) => !isOpinion(p) && !isSponsored(p) && p.unlisted !== true)
     .slice(0, n);
 }
 
@@ -80,7 +81,7 @@ function selectStories(n: number): Post[] {
 // last 24 hours.
 function selectLedeCorpus(): Post[] {
   const all = getAllPosts().filter(
-    (p) => !isOpinion(p) && p.unlisted !== true,
+    (p) => !isOpinion(p) && !isSponsored(p) && p.unlisted !== true,
   );
   const cutoff = Date.now() - LEDE_HOURS_LOOKBACK * 3600 * 1000;
   const recent = all.filter((p) => {
@@ -359,10 +360,18 @@ async function alertLedeFallback(reason: string): Promise<void> {
   }
 }
 
+interface BriefExtras {
+  // Presenting sponsor for this send date: a labeled line above the lede.
+  sponsorHtml?: string;
+  // Partner article featured in this edition: a labeled block after the stories.
+  partnerHtml?: string;
+}
+
 function renderHtml(
   articles: Post[],
   lede: Lede | null,
   readOnlineUrl?: string,
+  extras: BriefExtras = {},
 ): string {
   const date = todayET();
   const editionNo = `№${editionNumber().toString().padStart(3, "0")}`;
@@ -439,6 +448,8 @@ function renderHtml(
           </div>
         </td></tr>
 
+        ${extras.sponsorHtml ?? ""}
+
         <tr><td style="background:#fff;padding:22px 32px 6px">
           ${ledeHtml}
         </td></tr>
@@ -448,6 +459,8 @@ function renderHtml(
             ${items}
           </table>
         </td></tr>
+
+        ${extras.partnerHtml ?? ""}
 
         <tr><td style="background:#15264D;color:#DCE2F0;padding:32px 32px;text-align:center">
           <div style="font-family:'JetBrains Mono',ui-monospace,monospace;font-size:10.5px;letter-spacing:0.18em;text-transform:uppercase;color:#E85A2C;font-weight:700;margin-bottom:14px">
@@ -535,7 +548,30 @@ export async function GET(req: Request): Promise<Response> {
     month: "2-digit",
     day: "2-digit",
   }).format(new Date()); // e.g. "2026-08-05"
-  const html = renderHtml(articles, lede, `${SITE_URL}/brief/${shortDate}`);
+  // Sponsorship slots for this send date, both optional.
+  const briefSponsor = getBriefSponsor(shortDate);
+  const sponsorHtml = briefSponsor
+    ? `<tr><td style="background:#fff;padding:18px 32px 0;text-align:center">
+          <div style="border:1px solid rgba(10,10,10,0.14);padding:12px 16px">
+            <div style="font-family:'JetBrains Mono',ui-monospace,monospace;font-size:9.5px;letter-spacing:0.16em;text-transform:uppercase;color:#6B6353;font-weight:700;margin-bottom:6px">Presented by ${escapeHtml(briefSponsor.name)}</div>
+            <div style="font-family:'Source Serif 4',Georgia,serif;font-size:14px;line-height:1.5;color:#1A1A1A">${escapeHtml(briefSponsor.message)}${briefSponsor.url ? ` <a href="${escapeHtml(briefSponsor.url)}" style="color:#15264D;font-weight:700">Learn more →</a>` : ""}</div>
+          </div>
+        </td></tr>`
+    : undefined;
+  const partner = getAllPosts().find((p) => isSponsored(p) && p.briefFeature === shortDate);
+  const partnerHtml = partner
+    ? `<tr><td style="background:#fff;padding:0 32px 32px">
+          <div style="border-top:2px solid #E85A2C;padding-top:16px">
+            <div style="font-family:'JetBrains Mono',ui-monospace,monospace;font-size:10px;letter-spacing:0.14em;text-transform:uppercase;font-weight:700;color:#E85A2C;margin-bottom:10px">Sponsored · Partner content${partner.sponsor?.name ? ` · Presented by ${escapeHtml(partner.sponsor.name)}` : ""}</div>
+            <a href="${SITE_URL}/post/${partner.slug}" style="text-decoration:none;color:#0A0A0A">
+              <h2 style="font-family:'Inter Tight',Inter,Helvetica,Arial,sans-serif;font-size:21px;font-weight:800;letter-spacing:-0.02em;line-height:1.2;color:#0A0A0A;margin:0 0 8px">${escapeHtml(partner.title)}</h2>
+            </a>
+            <p style="font-family:'Source Serif 4',Georgia,serif;font-size:14.5px;line-height:1.6;color:#1A1A1A;margin:0 0 10px">${escapeHtml(partner.excerpt)}</p>
+            <a href="${SITE_URL}/post/${partner.slug}" style="font-family:'JetBrains Mono',ui-monospace,monospace;font-size:10.5px;letter-spacing:0.06em;text-transform:uppercase;color:#15264D;font-weight:700;text-decoration:underline">Read the partner article →</a>
+          </div>
+        </td></tr>`
+    : undefined;
+  const html = renderHtml(articles, lede, `${SITE_URL}/brief/${shortDate}`, { sponsorHtml, partnerHtml });
   const leadStory = corpus.find((p) => p.slug === lede?.leadSlug) ?? articles[0]!;
   const subject = `The Brief · ${dateLabel} · ${leadStory.title.slice(0, 80)}`;
   // Resend caps broadcast `name` at 70 chars. Use a compact ISO date +

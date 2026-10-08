@@ -1,17 +1,51 @@
-import { Post, formatPostDate, formatPostTime, categoryLabel } from "@/lib/posts";
+import { Post, formatPostDate, formatPostTime, categoryLabel, isSponsored } from "@/lib/posts";
+import { getDeskSponsor } from "@/lib/sponsors";
 
 export function ArticleHeader({ post }: { post: Post }) {
+  const sponsored = isSponsored(post);
+  // Desk sponsorship is judged by the article's own date, so the line
+  // stays on articles filed during a sponsored month.
+  const deskSponsor = sponsored ? null : getDeskSponsor(post.category, post.publishedAt);
   return (
     <div className="bg-cream border-b border-rule">
       <article className="max-w-[1100px] mx-auto px-5 md:px-8 pt-7 md:pt-12 pb-8 md:pb-10">
-        <div className="flex items-center gap-3 mb-4 md:mb-5">
-          <span className="font-mono text-[10px] md:text-[10.5px] tracking-[0.1em] uppercase font-bold text-coral">
-            №01 / Anchor
-          </span>
-          <span className="text-sand-light">·</span>
-          <span className="font-mono text-[10px] md:text-[10.5px] tracking-[0.1em] uppercase font-bold text-navy">
-            {(post.subcategory ?? categoryLabel(post.category)).toUpperCase()}
-          </span>
+        <div className="flex flex-wrap items-center gap-3 mb-4 md:mb-5">
+          {sponsored ? (
+            <>
+              <span className="font-mono text-[10px] md:text-[10.5px] tracking-[0.1em] uppercase font-bold text-cream bg-coral px-2 py-0.5">
+                Sponsored
+              </span>
+              <span className="text-sand-light">·</span>
+              <span className="font-mono text-[10px] md:text-[10.5px] tracking-[0.1em] uppercase font-bold text-navy">
+                Partner content
+              </span>
+            </>
+          ) : (
+            <>
+              <span className="font-mono text-[10px] md:text-[10.5px] tracking-[0.1em] uppercase font-bold text-coral">
+                №01 / Anchor
+              </span>
+              <span className="text-sand-light">·</span>
+              <span className="font-mono text-[10px] md:text-[10.5px] tracking-[0.1em] uppercase font-bold text-navy">
+                {(post.subcategory ?? categoryLabel(post.category)).toUpperCase()}
+              </span>
+            </>
+          )}
+          {deskSponsor && (
+            <>
+              <span className="text-sand-light">·</span>
+              <span className="font-mono text-[10px] md:text-[10.5px] tracking-[0.1em] uppercase font-semibold text-sand">
+                {categoryLabel(post.category)} desk presented by{" "}
+                {deskSponsor.url ? (
+                  <a href={deskSponsor.url} rel="sponsored noopener" target="_blank" className="font-bold text-navy hover:text-coral">
+                    {deskSponsor.name}
+                  </a>
+                ) : (
+                  <span className="font-bold text-navy">{deskSponsor.name}</span>
+                )}
+              </span>
+            </>
+          )}
         </div>
         <div className="grid grid-cols-1 md:grid-cols-[1.1fr_0.9fr] gap-6 md:gap-12 items-start">
           <div className="order-2 md:order-1">
@@ -34,6 +68,19 @@ export function ArticleHeader({ post }: { post: Post }) {
                 </div>
               </div>
             </div>
+            {sponsored && (
+              <p className="mt-4 font-serif text-[13.5px] leading-snug text-sand italic max-w-[560px]">
+                Sponsored by{" "}
+                {post.sponsor?.url ? (
+                  <a href={post.sponsor.url} rel="sponsored noopener" target="_blank" className="text-navy not-italic font-semibold hover:text-coral">
+                    {post.sponsor.name}
+                  </a>
+                ) : (
+                  <span className="text-navy not-italic font-semibold">{post.sponsor?.name ?? "a partner"}</span>
+                )}
+                . Partner content is paid for by the sponsor, reviewed by TechEchelon for accuracy, and kept separate from our news coverage.
+              </p>
+            )}
           </div>
           <div className="order-1 md:order-2">
             {post.coverFit === "contain" ? (

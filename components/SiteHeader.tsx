@@ -2,7 +2,7 @@ import Link from "next/link";
 import { TechEchelonMark } from "./TechEchelonMark";
 import { StockTicker } from "./StockTicker";
 import { LiveClock } from "./LiveClock";
-import { getAllPosts, formatPostTime, isOpinion } from "@/lib/posts";
+import { getAllPosts, formatPostTime, isOpinion, isSponsored } from "@/lib/posts";
 
 const NAV = [
   { label: "Today", href: "/" },
@@ -132,7 +132,7 @@ export function SiteHeader() {
 
 function LatestBar() {
   // "Latest" is a news signal; opinion/Q&A pieces don't take it over.
-  const latest = getAllPosts().filter((p) => !isOpinion(p))[0];
+  const latest = getAllPosts().filter((p) => !isOpinion(p) && !isSponsored(p))[0];
   if (!latest) return null;
   const stamp = formatPostTime(latest.publishedAt);
   return (

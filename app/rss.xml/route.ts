@@ -1,4 +1,4 @@
-import { getAllPosts, categoryLabel } from "@/lib/posts";
+import { getAllPosts, categoryLabel, isSponsored } from "@/lib/posts";
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://techechelon.com";
 
@@ -18,7 +18,7 @@ export async function GET() {
       const url = `${SITE_URL}/post/${p.slug}`;
       const pubDate = new Date(p.publishedAt).toUTCString();
       return `    <item>
-      <title>${escapeXml(p.title)}</title>
+      <title>${escapeXml((isSponsored(p) ? "Sponsored: " : "") + p.title)}</title>
       <link>${url}</link>
       <guid>${url}</guid>
       <description>${escapeXml(p.excerpt)}</description>

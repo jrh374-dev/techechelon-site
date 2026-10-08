@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
+import { getDeskSponsor } from "@/lib/sponsors";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
 import { Newsletter } from "@/components/Newsletter";
@@ -36,6 +37,7 @@ export default function CategoryPage({
   const cat = params.slug as Category;
   if (!VALID.includes(cat)) notFound();
   const allPosts = getPostsByCategory(cat);
+  const deskSponsor = cat === "opinion" ? null : getDeskSponsor(cat);
   const page = Math.max(1, Number(searchParams.page ?? 1) || 1);
   const totalPages = Math.max(1, Math.ceil(allPosts.length / PAGE_SIZE));
   const offset = (page - 1) * PAGE_SIZE;
@@ -67,6 +69,22 @@ export default function CategoryPage({
                 Have an argument to make? Read our op-ed guidelines →
               </Link>
             </p>
+          )}
+          {deskSponsor && (
+            <div className="mt-5 inline-flex items-center gap-3 border border-rule px-4 py-2.5">
+              <span className="font-mono text-[10px] tracking-[0.14em] uppercase font-bold text-sand">Presented by</span>
+              {deskSponsor.logo && (
+                /* eslint-disable-next-line @next/next/no-img-element */
+                <img src={deskSponsor.logo} alt={deskSponsor.name} className="h-6 w-auto" />
+              )}
+              {deskSponsor.url ? (
+                <a href={deskSponsor.url} rel="sponsored noopener" target="_blank" className="font-display text-[15px] font-extrabold text-navy hover:text-coral">
+                  {deskSponsor.name}
+                </a>
+              ) : (
+                <span className="font-display text-[15px] font-extrabold text-navy">{deskSponsor.name}</span>
+              )}
+            </div>
           )}
           <div className="mt-5 md:mt-6 font-mono text-[10.5px] tracking-[0.08em] uppercase font-semibold text-sand">
             {allPosts.length.toLocaleString()} STORIES · PAGE {page} OF {totalPages}

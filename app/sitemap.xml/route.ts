@@ -29,6 +29,7 @@ const STATIC_PATHS = [
   "/subscribe",
   "/submit",
   "/advertise",
+  "/partners",
   "/events",
   "/search",
   "/terms",
