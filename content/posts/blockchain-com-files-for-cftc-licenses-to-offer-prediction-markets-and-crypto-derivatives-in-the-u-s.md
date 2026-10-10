@@ -3,6 +3,8 @@ title: "Blockchain.com Files for CFTC Licenses to Offer Prediction Markets and C
 slug: blockchain-com-files-for-cftc-licenses-to-offer-prediction-markets-and-crypto-derivatives-in-the-u-s
 excerpt: "Blockchain.com has applied for two CFTC licenses to operate as a futures exchange and derivatives broker in the U.S., seeking to offer prediction markets and crypto derivatives as it also prepares for a potential IPO targeting a $4 billion to $6 billion valuation."
 category: business
+coverImage: "https://images.unsplash.com/photo-1640340434855-6084b1f4901c?w=1600&q=80"
+coverCredit: "Photo via Unsplash"
 author: "TechEchelon Staff"
 authorInitials: "TE"
 publishedAt: "2026-10-09T13:02:11.342Z"
