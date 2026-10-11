@@ -1,3 +1,4 @@
+import { CoverFallback } from "./CoverFallback";
 import Link from "next/link";
 import { Post, categoryLabel, formatPostTime } from "@/lib/posts";
 
@@ -52,14 +53,16 @@ function TimeCard({ post, num }: { post: Post; num: number }) {
           </span>
         </div>
         <div
-          className="aspect-[16/10] mb-3"
+          className="aspect-[16/10] mb-3 relative"
           style={{
             backgroundColor: "#5c6478",
             backgroundImage: post.coverImage ? `url(${post.coverImage})` : undefined,
             backgroundSize: "cover",
             backgroundPosition: "center",
           }}
-        />
+        >
+          {!post.coverImage && <CoverFallback label={categoryLabel(post.category)} />}
+        </div>
         <h3 className="font-display text-[19px] md:text-[21px] font-extrabold tracking-[-0.022em] leading-[1.1] text-ink mb-2 md:mb-2.5 group-hover:text-navy">
           {post.title}
         </h3>

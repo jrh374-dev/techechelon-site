@@ -1,3 +1,4 @@
+import { CoverFallback } from "./CoverFallback";
 import Link from "next/link";
 import { Post, Category, categoryLabel, relativeTime } from "@/lib/posts";
 
@@ -32,14 +33,16 @@ export function DeskRow({
           <article className="group">
             <Link href={`/post/${lead.slug}`} className="block">
               <div
-                className="aspect-[16/10] mb-3 md:mb-4"
+                className="aspect-[16/10] mb-3 md:mb-4 relative"
                 style={{
                   backgroundColor: "#4A5468",
                   backgroundImage: lead.coverImage ? `url(${lead.coverImage})` : undefined,
                   backgroundSize: "cover",
                   backgroundPosition: "center",
                 }}
-              />
+              >
+                {!lead.coverImage && <CoverFallback label={categoryLabel(lead.category)} />}
+              </div>
               <div className="font-mono text-[9.5px] md:text-[10px] tracking-[0.1em] uppercase font-bold text-coral mb-2">
                 {(lead.subcategory ?? "Feature").toUpperCase()}
               </div>

@@ -1,3 +1,4 @@
+import { CoverFallback } from "./CoverFallback";
 import { Post, formatPostDate, formatPostTime, categoryLabel, isSponsored } from "@/lib/posts";
 import { getDeskSponsor } from "@/lib/sponsors";
 
@@ -103,7 +104,9 @@ export function ArticleHeader({ post }: { post: Post }) {
                   backgroundSize: "cover",
                   backgroundPosition: "center",
                 }}
-              />
+              >
+                {!post.coverImage && <CoverFallback label={categoryLabel(post.category)} />}
+              </div>
             )}
             <div className="flex flex-col md:flex-row md:justify-between md:items-baseline gap-1 mt-2 md:mt-2.5">
               <span className="font-serif text-[11.5px] text-sand italic max-w-[400px] order-2 md:order-1">

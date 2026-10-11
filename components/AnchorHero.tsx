@@ -1,3 +1,4 @@
+import { CoverFallback } from "./CoverFallback";
 import Link from "next/link";
 import { Post, categoryLabel, formatPostTime, relativeTime } from "@/lib/posts";
 
@@ -50,7 +51,9 @@ export function AnchorHero({ post }: { post: Post }) {
                 backgroundSize: "cover",
                 backgroundPosition: "center",
               }}
-            />
+            >
+              {!post.coverImage && <CoverFallback label={categoryLabel(post.category)} />}
+            </div>
             <div className="flex justify-between items-baseline mt-2 md:mt-2.5 gap-3">
               <span className="font-serif text-[11px] md:text-[11.5px] text-sand italic min-w-0 truncate">
                 {post.coverCaption ?? "Photo of the day"}

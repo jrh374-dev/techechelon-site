@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
 import { getDeskSponsor } from "@/lib/sponsors";
+import { CoverFallback } from "@/components/CoverFallback";
 import { SiteHeader } from "@/components/SiteHeader";
 import { SiteFooter } from "@/components/SiteFooter";
 import { Newsletter } from "@/components/Newsletter";
@@ -127,14 +128,16 @@ export default function CategoryPage({
                   </div>
                 ) : (
                   <div
-                    className="aspect-[16/10] order-1 md:order-2"
+                    className="aspect-[16/10] order-1 md:order-2 relative"
                     style={{
                       backgroundColor: "#4A5468",
                       backgroundImage: lead.coverImage ? `url(${lead.coverImage})` : undefined,
                       backgroundSize: "cover",
                       backgroundPosition: "center",
                     }}
-                  />
+                  >
+                    {!lead.coverImage && <CoverFallback label={categoryLabel(cat)} />}
+                  </div>
                 )}
               </div>
             </Link>
@@ -177,14 +180,16 @@ export default function CategoryPage({
                       </div>
                     ) : (
                       <div
-                        className="aspect-[16/10] mb-3"
+                        className="aspect-[16/10] mb-3 relative"
                         style={{
                           backgroundColor: "#5c6478",
                           backgroundImage: p.coverImage ? `url(${p.coverImage})` : undefined,
                           backgroundSize: "cover",
                           backgroundPosition: "center",
                         }}
-                      />
+                      >
+                        {!p.coverImage && <CoverFallback label={categoryLabel(cat)} />}
+                      </div>
                     )}
                     <h4 className="font-display text-[17px] md:text-[19px] font-extrabold tracking-[-0.02em] leading-[1.12] text-ink mb-2 group-hover:text-navy">
                       {p.title}
