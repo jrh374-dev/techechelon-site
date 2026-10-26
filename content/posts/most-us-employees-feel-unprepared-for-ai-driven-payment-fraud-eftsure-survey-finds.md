@@ -5,7 +5,7 @@ excerpt: "Fifty-nine percent of U.S. employees say they are not fully prepared t
 category: security
 author: "Jay Goldberg"
 authorInitials: "JG"
-publishedAt: "2026-10-26T19:40:00.000Z"
+publishedAt: "2026-10-26T16:16:00.000Z"
 coverImage: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=1600&q=80"
 coverCredit: "Photo via Unsplash"
 coverCaption: "Supplier bank-detail changes are a common entry point for payment fraud, and most employees surveyed said their company does not verify them by phone."
