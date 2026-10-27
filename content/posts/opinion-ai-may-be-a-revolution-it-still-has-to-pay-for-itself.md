@@ -3,10 +3,9 @@ title: "OPINION: AI May Be a Revolution. It Still Has to Pay for Itself"
 slug: opinion-ai-may-be-a-revolution-it-still-has-to-pay-for-itself
 excerpt: "October's market correction does not prove the AI bubble has burst. It does show investors starting to ask whether profits can grow as fast as the capital, debt, and electricity being poured into data centers. The dot-com era offers a warning about what happens when they cannot."
 category: opinion
-subcategory: "Op-Ed"
-author: "Eko Setiobudi"
-authorInitials: "ES"
-publishedAt: "2026-10-27T14:00:00.000Z"
+author: "Guest Contributor"
+authorInitials: "GC"
+publishedAt: "2026-10-27T13:30:00.000Z"
 coverImage: "https://images.unsplash.com/photo-1535320903710-d993d3d77d29?w=1600&q=80"
 coverCredit: "Photo via Unsplash"
 coverCaption: "The Nasdaq fell 1.88 percent and the Philadelphia Semiconductor Index dropped 4.3 percent on October 14, 2026, the sharpest day of a two-week selloff in AI-linked stocks."
@@ -53,4 +52,4 @@ AI could face a similar paradox. The technology may generate major productivity 
 
 If profits grow in line with capital expenditures, the current correction could become a healthy adjustment. However, if investment continues to rise while monetization lags behind, the market risks facing a deeper valuation correction and broader credit pressures. AI may be a technological revolution. However, a technological revolution does not exempt investors from the laws of economics: capital must generate returns commensurate with the risks and costs borne.
 
-*Dr. Eko Setiobudi, SE, ME, is an economist, a lecturer at STIES Mitra Karya Bekasi in Indonesia, and a business practitioner. His areas of interest include macroeconomics, fiscal policy, financial markets, economic development, international trade, technology, and Indonesia's role in the global economy. He writes on economic and geopolitical developments in Indonesia, ASEAN, Asia, and the global economy. The views expressed are the author's own. TechEchelon accepts op-ed submissions at [press@techechelon.com](mailto:press@techechelon.com); see our [guidelines](/submit).*
+_Dr. Eko Setiobudi, SE, ME, is an economist, a lecturer at STIES Mitra Karya Bekasi in Indonesia, and a business practitioner. His areas of interest include macroeconomics, fiscal policy, financial markets, economic development, international trade, technology, and Indonesia's role in the global economy. He writes on economic and geopolitical developments in Indonesia, ASEAN, Asia, and the global economy._

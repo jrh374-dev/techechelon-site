@@ -3,8 +3,8 @@ title: "GUEST COLUMN: Composite AI Stands to Transform Business Operations"
 slug: guest-column-composite-ai-stands-to-transform-business-operations
 excerpt: "Generative AI is also potentially transformative in business when used in combination with other tools, especially traditional AI and machine learning (ML) models."
 category: ai
-author: "Sara Montes de Oca"
-authorInitials: "SM"
+author: "Guest Contributor"
+authorInitials: "GC"
 publishedAt: "2023-12-14T23:05:39.213Z"
 coverImage: "https://static.wixstatic.com/media/e37254_fa6c2dc532d94d5badd7ae844aba07f0~mv2.jpeg"
 readTime: 3
