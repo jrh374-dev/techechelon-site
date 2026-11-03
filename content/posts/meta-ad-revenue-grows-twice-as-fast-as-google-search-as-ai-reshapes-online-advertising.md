@@ -6,9 +6,10 @@ category: ai
 author: "Jay Goldberg"
 authorInitials: "JG"
 publishedAt: "2026-11-01T13:02:17.597Z"
-coverImage: "https://images.pexels.com/photos/16757985/pexels-photo-16757985.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-coverCredit: "Photo by Zetong Li on Pexels"
-coverCreditUrl: "https://www.pexels.com/@zetong-li-880728"
+coverImage: "/images/meta-hq-menlo-park.jpg"
+coverCredit: "via Wikimedia Commons"
+coverCreditUrl: "https://commons.wikimedia.org/wiki/File:Meta_Platforms_Headquarters_Menlo_Park_California.jpg"
+coverCaption: "Meta's headquarters at 1 Hacker Way in Menlo Park, California."
 tags: ["meta platforms", "google", "advertising", "artificial intelligence", "alphabet", "earnings"]
 primaryEntity: "Meta Platforms"
 readTime: 3
