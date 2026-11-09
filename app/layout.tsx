@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { GoogleAnalytics } from "@/components/GoogleAnalytics";
 import "./globals.css";
 
 // Prefer an explicit env var (NEXT_PUBLIC_SITE_URL) so we can point it at
@@ -55,7 +56,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        {children}
+        <GoogleAnalytics />
+      </body>
     </html>
   );
 }
