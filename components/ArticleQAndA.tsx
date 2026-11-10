@@ -66,6 +66,17 @@ export function ArticleQAndA({
               key={i}
               className="py-5 border-b border-rule last:border-b-0"
             >
+              {exchange.section && (
+                // Optional topic heading that opens a group of questions.
+                // Set `section` on the first exchange of each group.
+                <h3
+                  className={`font-mono text-[11px] tracking-[0.18em] uppercase font-bold text-coral mb-5${
+                    i > 0 ? " pt-4" : ""
+                  }`}
+                >
+                  ━ {exchange.section}
+                </h3>
+              )}
               <div className="flex items-center gap-2.5 mb-2.5">
                 <span className="inline-flex items-center justify-center w-[26px] h-[26px] rounded-full bg-coral text-white font-display text-[10.5px] font-extrabold tracking-tight">
                   Q

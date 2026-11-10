@@ -23,7 +23,9 @@ export interface PostFrontmatter {
   unlisted?: boolean;
   coverFit?: "cover" | "contain";
   faq?: Array<{ question: string; answer: string }>;
-  qa?: Array<{ question: string; answer: string }>;
+  // `section` (optional) titles a group of questions; set it on the first
+  // exchange of each group and ArticleQAndA renders it as a subheading.
+  qa?: Array<{ question: string; answer: string; section?: string }>;
   // Q&A section metadata (only used when qa is present). Drives the
   // ArticleQAndA header and speaker labels so the interviewee isn't
   // hardcoded per-article in the page component.
