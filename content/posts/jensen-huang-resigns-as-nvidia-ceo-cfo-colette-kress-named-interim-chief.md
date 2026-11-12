@@ -7,9 +7,9 @@ author: "Jay Goldberg"
 authorInitials: "JG"
 publishedAt: "2026-11-12T18:05:00.000Z"
 coverImage: "/images/jensen-huang-stanford-2026.jpg"
-coverCredit: "Anderseidesvik / Wikimedia Commons, CC BY-SA 4.0"
+coverCredit: "Anderseidesvik / CC BY-SA 4.0"
 coverCreditUrl: "https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg"
-coverCaption: "Jensen Huang at Stanford University in April 2026. He co-founded Nvidia in 1993 and ran it until Thursday."
+coverCaption: "Jensen Huang at Stanford University in April 2026."
 readTime: 5
 tags: ["nvidia", "jensen huang", "colette kress", "ceo transition", "semiconductors", "national security", "export controls"]
 primaryEntity: "Nvidia"
