@@ -8,7 +8,7 @@ export function AnchorHero({ post }: { post: Post }) {
     post.authorInitials ?? post.author.split(" ").map((n) => n[0]).slice(0, 2).join("");
   return (
     <section className="border-y border-rule">
-      <div className="max-w-[1320px] mx-auto px-5 md:px-7 py-7 md:py-10 grid grid-cols-1 md:grid-cols-[1.05fr_1fr] gap-7 md:gap-14 items-start">
+      <div className="max-w-[1320px] mx-auto px-5 md:px-7 py-7 md:py-10 grid grid-cols-1 md:grid-cols-[minmax(0,1.05fr)_minmax(0,1fr)] gap-7 md:gap-14 items-start">
         <div className="order-2 md:order-1">
           <div className="flex items-center gap-2 md:gap-3 mb-4 md:mb-5">
             <span className="font-mono text-[10px] md:text-[10.5px] tracking-[0.08em] uppercase font-bold text-coral">

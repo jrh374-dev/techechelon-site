@@ -48,7 +48,7 @@ export function ArticleHeader({ post }: { post: Post }) {
             </>
           )}
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-[1.1fr_0.9fr] gap-6 md:gap-12 items-start">
+        <div className="grid grid-cols-1 md:grid-cols-[minmax(0,1.1fr)_minmax(0,0.9fr)] gap-6 md:gap-12 items-start">
           <div className="order-2 md:order-1">
             <h1 className="font-display text-[32px] md:text-[56px] font-extrabold tracking-[-0.035em] leading-[0.98] text-ink mb-4 md:mb-6">
               {post.title}
