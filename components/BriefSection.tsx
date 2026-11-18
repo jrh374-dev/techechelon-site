@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Post, categoryLabel } from "@/lib/posts";
+import { Post, categoryShortLabel } from "@/lib/posts";
 
 interface BriefItem {
   post: Post;
@@ -40,7 +40,7 @@ function BriefCard({ n, item }: { n: number; item: BriefItem }) {
         </div>
         <div>
           <div className="text-[9.5px] tracking-[0.14em] uppercase font-extrabold text-navy mb-1">
-            {categoryLabel(post.category).split(" ")[0]}
+            {categoryShortLabel(post.category)}
           </div>
           <h4 className="font-display text-[13.5px] font-extrabold tracking-tighter leading-tight text-ink">
             {post.title}

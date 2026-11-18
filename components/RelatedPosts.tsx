@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Post, relativeTime, categoryLabel } from "@/lib/posts";
+import { cssImage } from "@/lib/images";
 
 export function RelatedPosts({ posts }: { posts: Post[] }) {
   if (posts.length === 0) return null;
@@ -25,7 +26,7 @@ export function RelatedPosts({ posts }: { posts: Post[] }) {
                   className="aspect-[16/10] mb-3"
                   style={{
                     backgroundColor: "#6e7479",
-                    backgroundImage: p.coverImage ? `url(${p.coverImage})` : undefined,
+                    backgroundImage: cssImage(p.coverImage, 960),
                     backgroundSize: "cover",
                     backgroundPosition: "center",
                   }}

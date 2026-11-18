@@ -1,10 +1,13 @@
 "use client";
 
-import { useState } from "react";
+import { useId, useState } from "react";
 
 type Status = "idle" | "pending" | "success" | "error";
 
-export function Newsletter() {
+// "band" is the full-width sign-up section used across the site; "rail" is
+// the same form and copy as a compact box for a desk page's right rail.
+export function Newsletter({ variant = "band" }: { variant?: "band" | "rail" }) {
+  const inputId = useId();
   const [email, setEmail] = useState("");
   const [status, setStatus] = useState<Status>("idle");
   const [message, setMessage] = useState<string>("");
@@ -54,6 +57,64 @@ export function Newsletter() {
   }
 
   const disabled = status === "pending" || status === "success";
+  const buttonLabel =
+    status === "pending" ? "Subscribing…" : status === "success" ? "Subscribed ✓" : "Get the Brief →";
+
+  if (variant === "rail") {
+    return (
+      <section aria-labelledby={`${inputId}-title`} className="bg-navy text-cream p-5 md:p-6">
+        <div className="font-mono text-[10.5px] tracking-[0.14em] uppercase font-bold text-coral-light">
+          ● THE BRIEF · DAILY NEWSLETTER
+        </div>
+        <h2
+          id={`${inputId}-title`}
+          className="mt-2 font-display text-[24px] md:text-[26px] font-extrabold tracking-[-0.025em] leading-[1.08]"
+        >
+          Five stories every morning. Before the opening bell.
+        </h2>
+        <p className="mt-3 font-serif text-[14.5px] leading-snug italic text-cream/80">
+          Written for readers who already know the basics — markets, AI, and the policy decisions that shape both.
+        </p>
+        <form className="mt-4 flex flex-col gap-2" onSubmit={handleSubmit} noValidate>
+          <label htmlFor={inputId} className="text-[12px] font-semibold">
+            Email address
+          </label>
+          <input
+            id={inputId}
+            type="email"
+            required
+            autoComplete="email"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            disabled={disabled}
+            placeholder="your@email.com"
+            className="w-full px-3 py-3 bg-cream text-ink text-[14px] placeholder:text-sand border border-transparent focus:border-coral focus:outline-none font-sans disabled:bg-cream-deep disabled:cursor-not-allowed"
+          />
+          <button
+            type="submit"
+            disabled={disabled}
+            className="w-full bg-coral text-ink px-4 py-3 text-[13px] font-extrabold tracking-[0.06em] uppercase hover:bg-coral-light transition-colors disabled:bg-sand-light disabled:cursor-not-allowed"
+          >
+            {buttonLabel}
+          </button>
+          {message ? (
+            <p
+              className={`font-mono text-[10.5px] tracking-[0.04em] mt-1 ${
+                status === "error" ? "text-coral-light" : "text-sage-light"
+              }`}
+              role={status === "error" ? "alert" : "status"}
+            >
+              {message}
+            </p>
+          ) : (
+            <p className="font-mono text-[9.5px] tracking-[0.06em] uppercase text-cream/70 mt-1">
+              Mon — Fri · 06:30 ET · Free · Unsubscribe anytime
+            </p>
+          )}
+        </form>
+      </section>
+    );
+  }
 
   return (
     <section className="border-y border-rule bg-cream">
@@ -96,11 +157,7 @@ export function Newsletter() {
             disabled={disabled}
             className="w-full mt-3 bg-navy text-white px-5 py-3.5 text-[13px] font-extrabold tracking-[0.06em] uppercase hover:bg-coral transition-colors disabled:bg-sand disabled:hover:bg-sand disabled:cursor-not-allowed"
           >
-            {status === "pending"
-              ? "Subscribing…"
-              : status === "success"
-              ? "Subscribed ✓"
-              : "Get the Brief →"}
+            {buttonLabel}
           </button>
           {message ? (
             <p

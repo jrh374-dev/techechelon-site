@@ -196,3 +196,21 @@ export function categoryLabel(c: Category): string {
       return "Opinion";
   }
 }
+
+// Short desk name for running copy ("More AI stories", "12 Security
+// stories"). Use this instead of cutting categoryLabel() down, which turns
+// "Artificial Intelligence" into "Artificial".
+export function categoryShortLabel(c: Category): string {
+  switch (c) {
+    case "ai":
+      return "AI";
+    case "business":
+      return "Business";
+    case "politics":
+      return "Politics";
+    case "security":
+      return "Security";
+    case "opinion":
+      return "Opinion";
+  }
+}

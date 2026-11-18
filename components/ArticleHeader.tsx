@@ -1,6 +1,7 @@
 import { CoverFallback } from "./CoverFallback";
 import { Post, formatPostDate, formatPostTime, categoryLabel, isSponsored } from "@/lib/posts";
 import { getDeskSponsor } from "@/lib/sponsors";
+import { cssImage, sizedImage } from "@/lib/images";
 
 export function ArticleHeader({ post }: { post: Post }) {
   const sponsored = isSponsored(post);
@@ -89,7 +90,7 @@ export function ArticleHeader({ post }: { post: Post }) {
                 {post.coverImage && (
                   /* eslint-disable-next-line @next/next/no-img-element */
                   <img
-                    src={post.coverImage}
+                    src={sizedImage(post.coverImage, 1280)}
                     alt={post.coverCaption ?? post.title}
                     className="w-full h-full object-contain"
                   />
@@ -100,7 +101,7 @@ export function ArticleHeader({ post }: { post: Post }) {
                 className="aspect-[4/3] relative"
                 style={{
                   backgroundColor: "#3a4756",
-                  backgroundImage: post.coverImage ? `url(${post.coverImage})` : undefined,
+                  backgroundImage: cssImage(post.coverImage, 1280),
                   backgroundSize: "cover",
                   backgroundPosition: "center",
                 }}

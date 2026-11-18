@@ -1,6 +1,7 @@
 import { CoverFallback } from "./CoverFallback";
 import Link from "next/link";
 import { Post, categoryLabel, formatPostTime } from "@/lib/posts";
+import { cssImage } from "@/lib/images";
 
 interface Props {
   label: string;
@@ -56,7 +57,7 @@ function TimeCard({ post, num }: { post: Post; num: number }) {
           className="aspect-[16/10] mb-3 relative"
           style={{
             backgroundColor: "#5c6478",
-            backgroundImage: post.coverImage ? `url(${post.coverImage})` : undefined,
+            backgroundImage: cssImage(post.coverImage, 960),
             backgroundSize: "cover",
             backgroundPosition: "center",
           }}

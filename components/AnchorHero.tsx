@@ -1,6 +1,7 @@
 import { CoverFallback } from "./CoverFallback";
 import Link from "next/link";
 import { Post, categoryLabel, formatPostTime, relativeTime } from "@/lib/posts";
+import { cssImage } from "@/lib/images";
 
 export function AnchorHero({ post }: { post: Post }) {
   const cat = (post.subcategory ?? categoryLabel(post.category)).toUpperCase();
@@ -47,7 +48,7 @@ export function AnchorHero({ post }: { post: Post }) {
               className="aspect-[4/3] relative"
               style={{
                 backgroundColor: "#3a4756",
-                backgroundImage: post.coverImage ? `url(${post.coverImage})` : undefined,
+                backgroundImage: cssImage(post.coverImage, 1280),
                 backgroundSize: "cover",
                 backgroundPosition: "center",
               }}
