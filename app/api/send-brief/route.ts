@@ -22,6 +22,7 @@
 
 import { getAllPosts, isOpinion, isSponsored, Post, categoryLabel } from "@/lib/posts";
 import { getBriefSponsor } from "@/lib/sponsors";
+import { pickDistinctStories } from "@/lib/story-identity";
 
 const SITE_URL = "https://www.techechelon.com";
 const LEDE_HOURS_LOOKBACK = 24;
@@ -69,10 +70,14 @@ function editionNumber(): number {
   return Math.max(1, Math.floor((today - jan1) / 86400000) + 1);
 }
 
+// Newest stories first, never two on the same story or company in one
+// edition (see lib/story-identity.ts). Looks deeper than n so a skipped
+// repeat is replaced by the next distinct story.
 function selectStories(n: number): Post[] {
-  return getAllPosts()
+  const pool = getAllPosts()
     .filter((p) => !isOpinion(p) && !isSponsored(p) && p.unlisted !== true)
-    .slice(0, n);
+    .slice(0, n * 6);
+  return pickDistinctStories(pool, n);
 }
 
 // The lede corpus can be larger than the 5-story roundup — we want the
