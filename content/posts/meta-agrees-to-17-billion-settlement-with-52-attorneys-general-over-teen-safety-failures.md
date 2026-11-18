@@ -19,6 +19,8 @@ sourceUrls: ["https://www.cnbc.com/2026/08/28/trump-announces-deal-with-venezuel
 
 Meta Platforms has agreed to pay approximately $17 billion to settle a sweeping lawsuit brought by 52 state attorneys general who alleged the company knowingly designed its Facebook and Instagram platforms to be harmful and addictive to children — one of the largest consumer protection settlements in the history of American social media regulation.
 
+Meta has put the total at about $18 billion, which is why both figures appear in coverage of the deal. According to the company's [quarterly filing](https://www.sec.gov/Archives/edgar/data/0001326801/000162828026066773/meta-20260930.htm), roughly $12.7 billion is payable to the states in annual installments over 10 years, and about $5.3 billion more is tied to whether rival platforms such as TikTok and YouTube adopt similar teen protections.
+
 The agreement, reached Wednesday, requires Meta to implement a series of mandatory safeguards for users under 18 years old. Most of the terms must remain in place for 10 years, and Meta's payments will be distributed annually over that same period, according to a company statement.
 
 "It's the highest amount of money ever paid in a case like this," California Attorney General Rob Bonta, who co-led the multistate effort, told CNBC's David Faber on "Squawk on the Street" on Thursday.
